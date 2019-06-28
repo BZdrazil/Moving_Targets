@@ -1,0 +1,1875 @@
+target_pref_name,target_chembl_id,accession,TDL
+1-acylglycerol-3-phosphate O-acyltransferase beta,CHEMBL4772,O15120,Tchem
+11-beta-hydroxysteroid dehydrogenase 1,CHEMBL4235,P28845,Tclin
+11-beta-hydroxysteroid dehydrogenase 2,CHEMBL3746,P80365,Tchem
+14-3-3 protein sigma,CHEMBL1909482,P31947,Tbio
+15-hydroxyprostaglandin dehydrogenase [NAD+],CHEMBL1293255,P15428,Tchem
+17-beta-hydroxysteroid dehydrogenase 14,CHEMBL3712868,Q9BPX1,Tchem
+2'-deoxynucleoside 5'-phosphate N-hydrolase 1,CHEMBL3351218,O43598,Tchem
+2-acylglycerol O-acyltransferase 2,CHEMBL2439944,Q3SYC2,Tchem
+2-oxoglutarate receptor 1,CHEMBL2150840,Q96P68,Tchem
+"25-hydroxyvitamin D-1 alpha hydroxylase, mitochondrial",CHEMBL5993,O15528,Tchem
+3-beta-hydroxysteroid dehydrogenase/delta 5-->4-isomerase type I,CHEMBL1958,P14060,Tchem
+"3-beta-hydroxysteroid-delta(8),delta(7)-isomerase",CHEMBL4931,Q15125,Tchem
+"3-hydroxyanthranilate 3,4-dioxygenase",CHEMBL3108657,P46952,Tbio
+3-keto-steroid reductase,CHEMBL5999,P56937,Tchem
+3-phosphoinositide dependent protein kinase-1,CHEMBL2534,O15530,Tchem
+4-hydroxyphenylpyruvate dioxygenase,CHEMBL1861,P32754,Tclin
+40S ribosomal protein S27,CHEMBL1932893,P42677,Tchem
+"5'(3')-deoxyribonucleotidase, cytosolic type",CHEMBL3751653,Q8TCD5,Tbio
+"5'(3')-deoxyribonucleotidase, mitochondrial",CHEMBL3751654,Q9NPB1,Tchem
+5'-nucleotidase,CHEMBL5957,P21589,Tchem
+5-lipoxygenase activating protein,CHEMBL4550,P20292,Tchem
+6-O-methylguanine-DNA methyltransferase,CHEMBL2864,P16455,Tchem
+"6-phosphofructo-2-kinase/fructose-2,6-bisphosphatase 1",CHEMBL3421524,P16118,Tbio
+"6-phosphofructo-2-kinase/fructose-2,6-bisphosphatase 2",CHEMBL3421525,O60825,Tchem
+"6-phosphofructo-2-kinase/fructose-2,6-bisphosphatase 3",CHEMBL2331053,Q16875,Tchem
+"7,8-dihydro-8-oxoguanine triphosphatase",CHEMBL3708265,P36639,Tchem
+7-dehydrocholesterol reductase,CHEMBL2169735,Q9UBM7,Tchem
+A disintegrin and metalloproteinase with thrombospondin motifs 13,CHEMBL2346492,Q76LX8,Tbio
+ADAM10,CHEMBL5028,O14672,Tchem
+ADAM17,CHEMBL3706,P78536,Tchem
+ADAMTS1,CHEMBL5133,Q9UHI8,Tchem
+ADAMTS4,CHEMBL2318,O75173,Tchem
+ADAMTS5,CHEMBL2285,Q9UNA0,Tchem
+AICAR transformylase,CHEMBL2518,P31939,Tchem
+ALK tyrosine kinase receptor,CHEMBL4247,Q9UM73,Tclin
+AMP deaminase 1,CHEMBL2869,P23109,Tchem
+AMP deaminase 3,CHEMBL2912,Q01432,Tchem
+"AMP-activated protein kinase, alpha-1 subunit",CHEMBL4045,Q13131,Tchem
+"AMP-activated protein kinase, alpha-2 subunit",CHEMBL2116,P54646,Tchem
+"AMP-activated protein kinase, beta-1 subunit",CHEMBL3847,Q9Y478,Tchem
+ATP-binding cassette sub-family G member 2,CHEMBL5393,Q9UNQ0,Tchem
+ATP-citrate synthase,CHEMBL3720,P53396,Tchem
+ATP-dependent RNA helicase DDX3X,CHEMBL5553,O00571,Tchem
+ATP-sensitive inward rectifier potassium channel 1,CHEMBL1293292,P48048,Tchem
+ATPase family AAA domain-containing protein 2,CHEMBL2150837,Q6PL18,Tchem
+ATPase family AAA domain-containing protein 2B,CHEMBL2176775,Q9ULI0,Tchem
+Acetyl-CoA carboxylase 1,CHEMBL3351,Q13085,Tchem
+Acetyl-CoA carboxylase 2,CHEMBL4829,O00763,Tchem
+Acetyl-coenzyme A transporter 1,CHEMBL3638338,O00400,Tchem
+Acetylcholine receptor protein alpha chain,CHEMBL4808,P02708,Tclin
+Acetylcholinesterase,CHEMBL220,P22303,Tclin
+Acid ceramidase,CHEMBL5463,Q13510,Tchem
+Acidic mammalian chitinase,CHEMBL1293197,Q9BZP6,Tchem
+Acrosin,CHEMBL2738,P10323,Tchem
+Activin receptor type-1,CHEMBL5903,Q04771,Tchem
+Activin receptor type-1B,CHEMBL5310,P36896,Tchem
+Activin receptor type-2A,CHEMBL5616,P27037,Tchem
+Activin receptor type-2B,CHEMBL5466,Q13705,Tchem
+Acyl coenzyme A:cholesterol acyltransferase,CHEMBL2265,P23141,Tchem
+Acyl coenzyme A:cholesterol acyltransferase 1,CHEMBL2782,P35610,Tchem
+Acyl coenzyme A:cholesterol acyltransferase 2,CHEMBL4465,O75908,Tchem
+Acyl-CoA desaturase,CHEMBL5555,O00767,Tchem
+Acyl-protein thioesterase 1,CHEMBL1681631,O75608,Tchem
+Acyl-protein thioesterase 2,CHEMBL1932891,O95372,Tchem
+Adaptor-associated kinase,CHEMBL3830,Q2M2I8,Tchem
+Adenosine A1 receptor,CHEMBL226,P30542,Tclin
+Adenosine A2a receptor,CHEMBL251,P29274,Tclin
+Adenosine A2b receptor,CHEMBL255,P29275,Tclin
+Adenosine A3 receptor,CHEMBL256,P0DMS8,Tchem
+Adenosine deaminase,CHEMBL1910,P00813,Tclin
+Adenosine kinase,CHEMBL3589,P55263,Tchem
+Adenosylhomocysteinase,CHEMBL2664,P23526,Tchem
+Adenosylhomocysteinase 2,CHEMBL3751646,O43865,Tchem
+Adenylate cyclase type 10,CHEMBL5854,Q96PN6,Tchem
+Adiponectin receptor protein 1,CHEMBL3392946,Q96A54,Tbio
+Adiponectin receptor protein 2,CHEMBL3392947,Q86V24,Tbio
+Advanced glycosylation end product-specific receptor,CHEMBL2176846,Q15109,Tchem
+Alcohol dehydrogenase class III,CHEMBL4116,P11766,Tchem
+Aldehyde dehydrogenase,CHEMBL1935,P05091,Tclin
+Aldehyde dehydrogenase 1A1,CHEMBL3577,P00352,Tchem
+Aldehyde dehydrogenase dimeric NADP-preferring,CHEMBL3578,P30838,Tchem
+Aldehyde oxidase,CHEMBL3257,Q06278,Tbio
+Aldehyde reductase,CHEMBL2246,P14550,Tchem
+Aldo-keto reductase family 1 member B10,CHEMBL5983,O60218,Tchem
+Aldo-keto reductase family 1 member C1,CHEMBL5905,Q04828,Tchem
+Aldo-keto reductase family 1 member C2,CHEMBL5847,P52895,Tchem
+Aldo-keto reductase family 1 member C4,CHEMBL4999,P17516,Tbio
+Aldo-keto-reductase family 1 member C3,CHEMBL4681,P42330,Tchem
+Aldose reductase,CHEMBL1900,P15121,Tclin
+Alkaline ceramidase 2,CHEMBL2331067,Q5QJU3,Tchem
+Alkaline phosphatase placental-like,CHEMBL3402,P10696,Tchem
+"Alkaline phosphatase, tissue-nonspecific isozyme",CHEMBL5979,P05186,Tchem
+Alpha enolase,CHEMBL3298,P06733,Tchem
+"Alpha-(1,3)-fucosyltransferase 7",CHEMBL3596077,Q11130,Tchem
+"Alpha-1,3-mannosyl-glycoprotein 2-beta-N-acetylglucosaminyltransferase",CHEMBL2375207,P26572,Tchem
+"Alpha-1,6-mannosyl-glycoprotein 2-beta-N-acetylglucosaminyltransferase",CHEMBL2321630,Q10469,Tchem
+Alpha-1a adrenergic receptor,CHEMBL229,P35348,Tclin
+Alpha-1b adrenergic receptor,CHEMBL232,P35368,Tclin
+Alpha-1d adrenergic receptor,CHEMBL223,P25100,Tclin
+Alpha-2a adrenergic receptor,CHEMBL1867,P08913,Tclin
+Alpha-2b adrenergic receptor,CHEMBL1942,P18089,Tclin
+Alpha-2c adrenergic receptor,CHEMBL1916,P18825,Tclin
+Alpha-L-fucosidase I,CHEMBL4176,P04066,Tchem
+Alpha-crystallin B chain,CHEMBL3621022,P02511,Tbio
+Alpha-galactosidase A,CHEMBL2524,P06280,Tclin
+Alpha-ketoglutarate-dependent dioxygenase FTO,CHEMBL2331065,Q9C0B1,Tbio
+Alpha-ketoglutarate-dependent dioxygenase alkB homolog 3,CHEMBL3112376,Q96Q83,Tchem
+Alpha-mannosidase 2A1,CHEMBL4056,Q16706,Tbio
+Alpha-synuclein,CHEMBL6152,P37840,Tchem
+"Amiloride-sensitive cation channel 2, neuronal",CHEMBL1628477,P78348,Tchem
+Amiloride-sensitive cation channel 3,CHEMBL5368,Q9UHC3,Tchem
+"Amine oxidase, copper containing",CHEMBL3437,Q16853,Tchem
+Aminopeptidase B,CHEMBL2432,Q9H4A4,Tchem
+Aminopeptidase N,CHEMBL1907,P15144,Tchem
+Anandamide amidohydrolase,CHEMBL2243,O00519,Tchem
+Androgen Receptor,CHEMBL1871,P10275,Tclin
+Angiotensin II type 2 (AT-2) receptor,CHEMBL4607,P50052,Tchem
+Angiotensin-converting enzyme,CHEMBL1808,P12821,Tclin
+Angiotensin-converting enzyme 2,CHEMBL3736,Q9BYF1,Tchem
+Ankyrin repeat and protein kinase domain-containing protein 1,CHEMBL5547,Q8NFD2,Tbio
+Anoctamin-1,CHEMBL2046267,Q5XXA6,Tclin
+Apelin receptor,CHEMBL1628481,P35414,Tchem
+Apoptosis regulator BAX,CHEMBL5318,Q07812,Tchem
+Apoptosis regulator Bcl-2,CHEMBL4860,P10415,Tclin
+Apoptosis regulator Bcl-W,CHEMBL4677,Q92843,Tchem
+Apoptosis regulator Bcl-X,CHEMBL4625,Q07817,Tchem
+Appetite-regulating hormone,CHEMBL1921664,Q9UBU3,Tchem
+Arachidonate 12-lipoxygenase,CHEMBL3687,P18054,Tchem
+Arachidonate 15-lipoxygenase,CHEMBL2903,P16050,Tchem
+"Arachidonate 15-lipoxygenase, type II",CHEMBL2457,O15296,Tchem
+Arachidonate 5-lipoxygenase,CHEMBL215,P09917,Tclin
+Arginase-1,CHEMBL1075097,P05089,Tchem
+Aryl hydrocarbon receptor,CHEMBL3201,P35869,Tchem
+Arylacetamide deacetylase,CHEMBL3509584,P22760,Tbio
+Arylamine N-acetyltransferase 1,CHEMBL5101,P18440,Tchem
+Asparagine synthetase,CHEMBL3120,P08243,Tchem
+Autotaxin,CHEMBL3691,Q13822,Tchem
+Axin-2,CHEMBL1255167,Q9Y2T1,Tchem
+BMP-2-inducible protein kinase,CHEMBL4522,Q9NSY1,Tchem
+BR serine/threonine-protein kinase 1,CHEMBL5650,Q8TDC3,Tchem
+BR serine/threonine-protein kinase 2,CHEMBL4574,Q8IWQ3,Tchem
+Baculoviral IAP repeat-containing protein 2,CHEMBL5462,Q13490,Tchem
+Baculoviral IAP repeat-containing protein 3,CHEMBL5335,Q13489,Tchem
+Baculoviral IAP repeat-containing protein 5,CHEMBL5989,O15392,Tchem
+Baculoviral IAP repeat-containing protein 8,CHEMBL5851,Q96P09,Tchem
+Basic fibroblast growth factor,CHEMBL3107,P09038,Tchem
+Bcl-2-like protein 10,CHEMBL5988,Q9HD36,Tchem
+Bcl-2-related protein A1,CHEMBL6044,Q16548,Tchem
+Bcl2-antagonist of cell death (BAD),CHEMBL3817,Q92934,Tchem
+Beta amyloid A4 protein,CHEMBL2487,P05067,Tchem
+Beta secretase 2,CHEMBL2525,Q9Y5Z0,Tchem
+Beta-1 adrenergic receptor,CHEMBL213,P08588,Tclin
+"Beta-1,4-galactosyltransferase 1",CHEMBL4384,P15291,Tbio
+"Beta-1,4-mannosyl-glycoprotein 4-beta-N-acetylglucosaminyltransferase",CHEMBL2375206,Q09327,Tchem
+Beta-2 adrenergic receptor,CHEMBL210,P07550,Tclin
+Beta-3 adrenergic receptor,CHEMBL246,P13945,Tclin
+Beta-chymotrypsin,CHEMBL4796,P17538,Tchem
+Beta-galactosidase,CHEMBL2522,P16278,Tchem
+"Beta-galactoside alpha-2,6-sialyltransferase 1",CHEMBL3596075,P15907,Tchem
+Beta-glucocerebrosidase,CHEMBL2179,P04062,Tchem
+Beta-glucosidase,CHEMBL3761,Q9HCG7,Tchem
+Beta-glucosidase cytosolic,CHEMBL3865,Q9H227,Tbio
+Beta-glucuronidase,CHEMBL2728,P08236,Tchem
+Beta-hexosaminidase subunit alpha,CHEMBL1250415,P06865,Tchem
+Beta-hexosaminidase subunit beta,CHEMBL5877,P07686,Tchem
+Beta-secretase 1,CHEMBL4822,P56817,Tchem
+Betaine transporter,CHEMBL3715,P48065,Tchem
+Betaine--homocysteine S-methyltransferase 1,CHEMBL4328,Q93088,Tchem
+"Bifunctional methylenetetrahydrofolate dehydrogenase/cyclohydrolase, mitochondrial",CHEMBL3621036,P13995,Tchem
+Bifunctional protein NCOAT,CHEMBL5921,O60502,Tchem
+Bile acid receptor FXR,CHEMBL2047,Q96RI1,Tclin
+Bile acid transporter,CHEMBL5287,Q14973,Tchem
+Bile salt export pump,CHEMBL6020,O95342,Tchem
+Biotin--protein ligase,CHEMBL2062354,P50747,Tchem
+Bloom syndrome protein,CHEMBL1293237,P54132,Tchem
+Bombesin receptor subtype-3,CHEMBL4080,P32247,Tchem
+Bone morphogenetic protein 1,CHEMBL3898,P13497,Tchem
+Bone morphogenetic protein receptor type-1A,CHEMBL5275,P36894,Tchem
+Bone morphogenetic protein receptor type-1B,CHEMBL5476,O00238,Tchem
+Bone morphogenetic protein receptor type-2,CHEMBL5467,Q13873,Tchem
+Bradykinin B1 receptor,CHEMBL4308,P46663,Tchem
+Bradykinin B2 receptor,CHEMBL3157,P30411,Tclin
+"Branched-chain-amino-acid aminotransferase, mitochondrial",CHEMBL3616354,O15382,Tchem
+Branched-chain-amino-acid transferase,CHEMBL4679,P54687,Tchem
+Breakpoint cluster region protein,CHEMBL5146,P11274,Tclin
+Breast cancer type 1 susceptibility protein,CHEMBL5990,P38398,Tchem
+Bromodomain adjacent to zinc finger domain protein 2A,CHEMBL3108642,Q9UIF9,Tchem
+Bromodomain adjacent to zinc finger domain protein 2B,CHEMBL1741220,Q9UIF8,Tchem
+Bromodomain and PHD finger-containing protein 3,CHEMBL3108644,Q9ULD4,Tchem
+Bromodomain and WD repeat-containing protein 1,CHEMBL3351192,Q9NSI6,Tbio
+Bromodomain testis-specific protein,CHEMBL1795185,Q58F21,Tchem
+Bromodomain-containing protein 1,CHEMBL2176774,O95696,Tchem
+Bromodomain-containing protein 2,CHEMBL1293289,P25440,Tchem
+Bromodomain-containing protein 3,CHEMBL1795186,Q15059,Tchem
+Bromodomain-containing protein 4,CHEMBL1163125,O60885,Tchem
+Bromodomain-containing protein 7,CHEMBL3085622,Q9NPI1,Tchem
+Bromodomain-containing protein 8,CHEMBL3588731,Q9H0E9,Tbio
+Bromodomain-containing protein 9,CHEMBL3108640,Q9H8M2,Tchem
+Butyrylcholinesterase,CHEMBL1914,P06276,Tclin
+C-C chemokine receptor type 1,CHEMBL2413,P32246,Tchem
+C-C chemokine receptor type 2,CHEMBL4015,P41597,Tchem
+C-C chemokine receptor type 3,CHEMBL3473,P51677,Tchem
+C-C chemokine receptor type 4,CHEMBL2414,P51679,Tclin
+C-C chemokine receptor type 5,CHEMBL274,P51681,Tclin
+C-C chemokine receptor type 6,CHEMBL4423,P51684,Tchem
+C-C chemokine receptor type 8,CHEMBL4596,P51685,Tchem
+C-C chemokine receptor type 9,CHEMBL5815,P51686,Tchem
+C-C motif chemokine 2,CHEMBL1649052,P13500,Tchem
+C-X-C chemokine receptor type 3,CHEMBL4441,P49682,Tchem
+C-X-C chemokine receptor type 4,CHEMBL2107,P61073,Tclin
+C-X-C chemokine receptor type 7,CHEMBL2010631,P25106,Tchem
+C-X3-C chemokine receptor 1,CHEMBL4843,P49238,Tchem
+C-terminal-binding protein 2,CHEMBL3797016,P56545,Tchem
+C3a anaphylatoxin chemotactic receptor,CHEMBL4761,Q16581,Tchem
+C5a anaphylatoxin chemotactic receptor,CHEMBL2373,P21730,Tchem
+CCR4-NOT transcription complex subunit 7,CHEMBL3616361,Q9UIV1,Tchem
+CD209 antigen,CHEMBL1795114,Q9NNX6,Tbio
+CD22,CHEMBL3218,P20273,Tclin
+CD44 antigen,CHEMBL3232692,P16070,Tbio
+CD81 antigen,CHEMBL1075180,P60033,Tchem
+CDC45-related protein,CHEMBL3040,O75419,Tbio
+CDGSH iron-sulfur domain-containing protein 1,CHEMBL1795168,Q9NZ45,Tchem
+CDK-interacting protein 1,CHEMBL5021,P38936,Tbio
+"CMP-N-acetylneuraminate-beta-1,4-galactoside alpha-2,3-sialyltransferase",CHEMBL3596076,Q11203,Tbio
+"CMP-N-acetylneuraminate-beta-galactosamide-alpha-2,3-sialyltransferase 1",CHEMBL3596074,Q11201,Tchem
+CREB-binding protein,CHEMBL5747,Q92793,Tchem
+CaM kinase I alpha,CHEMBL2493,Q14012,Tchem
+CaM kinase I delta,CHEMBL5073,Q8IU85,Tchem
+CaM kinase I gamma,CHEMBL5258,Q96NX5,Tchem
+CaM kinase II alpha,CHEMBL4147,Q9UQM7,Tchem
+CaM kinase II beta,CHEMBL4121,Q13554,Tchem
+CaM kinase II delta,CHEMBL2801,Q13557,Tchem
+CaM kinase II gamma,CHEMBL3829,Q13555,Tchem
+CaM kinase IV,CHEMBL2494,Q16566,Tbio
+CaM-kinase kinase alpha,CHEMBL5256,Q8N5S9,Tchem
+CaM-kinase kinase beta,CHEMBL5284,Q96RR4,Tchem
+Calcitonin gene-related peptide 1,CHEMBL5293,P06881,Tchem
+Calcitonin gene-related peptide type 1 receptor,CHEMBL3798,Q16602,Tchem
+Calcitonin receptor,CHEMBL1832,P30988,Tclin
+Calcium release-activated calcium channel protein 1,CHEMBL2384891,Q96D31,Tchem
+Calcium sensing receptor,CHEMBL1878,P41180,Tclin
+Calcium-activated potassium channel subunit alpha-1,CHEMBL4304,Q12791,Tclin
+Calmodulin,CHEMBL6093,P0DP23,Tclin
+Calpain 1,CHEMBL3891,P07384,Tchem
+Calpain 2,CHEMBL2382,P17655,Tchem
+Canalicular multispecific organic anion transporter 1,CHEMBL5748,Q92887,Tchem
+Cannabinoid CB1 receptor,CHEMBL218,P21554,Tclin
+Cannabinoid CB2 receptor,CHEMBL253,P34972,Tchem
+Carbonic anhydrase I,CHEMBL261,P00915,Tclin
+Carbonic anhydrase II,CHEMBL205,P00918,Tclin
+Carbonic anhydrase III,CHEMBL2885,P07451,Tclin
+Carbonic anhydrase IV,CHEMBL3729,P22748,Tclin
+Carbonic anhydrase IX,CHEMBL3594,Q16790,Tclin
+Carbonic anhydrase VA,CHEMBL4789,P35218,Tclin
+Carbonic anhydrase VB,CHEMBL3969,Q9Y2D0,Tclin
+Carbonic anhydrase VI,CHEMBL3025,P23280,Tclin
+Carbonic anhydrase VII,CHEMBL2326,P43166,Tclin
+Carbonic anhydrase XII,CHEMBL3242,O43570,Tclin
+Carbonic anhydrase XIII,CHEMBL3912,Q8N1Q1,Tclin
+Carbonic anhydrase XIV,CHEMBL3510,Q9ULX7,Tclin
+Carbonyl reductase [NADPH] 1,CHEMBL5586,P16152,Tchem
+Carboxylesterase 2,CHEMBL3180,O00748,Tchem
+Carboxypeptidase A1,CHEMBL2088,P15085,Tchem
+Carboxypeptidase B,CHEMBL2552,P15086,Tchem
+Carboxypeptidase B2 isoform A,CHEMBL3419,Q96IY4,Tchem
+Carboxypeptidase M,CHEMBL3038,P14384,Tchem
+"Carboxypeptidase N, catalytic subunit",CHEMBL4713,P15169,Tchem
+"Carnitine O-palmitoyltransferase 1, liver isoform",CHEMBL1293194,P50416,Tchem
+"Carnitine O-palmitoyltransferase 1, muscle isoform",CHEMBL2216739,Q92523,Tchem
+Carnitine palmitoyltransferase 2,CHEMBL3238,P23786,Tchem
+Casein kinase I alpha,CHEMBL2793,P48729,Tchem
+Casein kinase I delta,CHEMBL2828,P48730,Tchem
+Casein kinase I epsilon,CHEMBL4937,P49674,Tchem
+Casein kinase I gamma 1,CHEMBL2426,Q9HCP0,Tchem
+Casein kinase I gamma 2,CHEMBL2543,P78368,Tchem
+Casein kinase I isoform alpha-like,CHEMBL5520,Q8N752,Tdark
+Casein kinase I isoform gamma-3,CHEMBL5084,Q9Y6M4,Tbio
+Casein kinase II alpha,CHEMBL3629,P68400,Tchem
+Casein kinase II alpha (prime),CHEMBL4070,P19784,Tchem
+Caspase-1,CHEMBL4801,P29466,Tchem
+Caspase-10,CHEMBL5037,Q92851,Tchem
+Caspase-14,CHEMBL5991,P31944,Tchem
+Caspase-2,CHEMBL4884,P42575,Tchem
+Caspase-3,CHEMBL2334,P42574,Tchem
+Caspase-4,CHEMBL2226,P49662,Tchem
+Caspase-5,CHEMBL3131,P51878,Tchem
+Caspase-6,CHEMBL3308,P55212,Tchem
+Caspase-7,CHEMBL3468,P55210,Tchem
+Caspase-8,CHEMBL3776,Q14790,Tchem
+Caspase-9,CHEMBL2273,P55211,Tchem
+Cat eye syndrome critical region protein 2,CHEMBL3108639,Q9BXF3,Tchem
+Catechol O-methyltransferase,CHEMBL2023,P21964,Tclin
+Catenin beta-1,CHEMBL5866,P35222,Tchem
+Cathepsin B,CHEMBL4072,P07858,Tchem
+Cathepsin D,CHEMBL2581,P07339,Tchem
+Cathepsin E,CHEMBL3092,P14091,Tchem
+Cathepsin F,CHEMBL2517,Q9UBX1,Tchem
+Cathepsin G,CHEMBL4071,P08311,Tchem
+Cathepsin H,CHEMBL2225,P09668,Tchem
+Cathepsin K,CHEMBL268,P43235,Tchem
+Cathepsin L,CHEMBL3837,P07711,Tchem
+Cathepsin L2,CHEMBL3272,O60911,Tchem
+Cathepsin S,CHEMBL2954,P25774,Tchem
+Cathepsin Z,CHEMBL4160,Q9UBR2,Tchem
+Cell cycle checkpoint protein RAD1,CHEMBL3309116,O60671,Tchem
+Cell division cycle 2-like protein kinase 6,CHEMBL6002,Q9BWU1,Tchem
+Cell division cycle 7-related protein kinase,CHEMBL5443,O00311,Tchem
+Cell division protein kinase 8,CHEMBL5719,P49336,Tchem
+Cellular tumor antigen p53,CHEMBL4096,P04637,Tchem
+Centromere-associated protein E,CHEMBL5870,Q02224,Tchem
+Ceramide glucosyltransferase,CHEMBL2063,Q16739,Tclin
+"Chaperone activity of bc1 complex-like, mitochondrial",CHEMBL5550,Q8NI60,Tbio
+Cholecystokinin A receptor,CHEMBL1901,P32238,Tclin
+Cholecystokinin B receptor,CHEMBL298,P32239,Tclin
+Cholesteryl ester transfer protein,CHEMBL3572,P11597,Tchem
+Choline kinase alpha,CHEMBL3117,P35790,Tchem
+Chondroitin sulfate N-acetylgalactosaminyltransferase 1,CHEMBL2040705,Q8TDX6,Tbio
+Chromobox protein homolog 1,CHEMBL1741193,P83916,Tbio
+Chromobox protein homolog 7,CHEMBL1764946,O95931,Tchem
+Chromobox protein homolog 8,CHEMBL3232684,Q9HC52,Tchem
+Chymase,CHEMBL4068,P23946,Tchem
+Citron Rho-interacting kinase,CHEMBL5579,O14578,Tchem
+Clathrin heavy chain 1,CHEMBL3108634,Q00610,Tbio
+Coagulation factor III,CHEMBL4081,P13726,Tchem
+Coagulation factor IX,CHEMBL2016,P00740,Tchem
+Coagulation factor V,CHEMBL3618,P12259,Tbio
+Coagulation factor VII,CHEMBL3991,P08709,Tchem
+Coagulation factor VIII,CHEMBL3143,P00451,Tbio
+Coagulation factor X,CHEMBL244,P00742,Tclin
+Coagulation factor XI,CHEMBL2820,P03951,Tchem
+Coagulation factor XII,CHEMBL2821,P00748,Tchem
+Coagulation factor XIII,CHEMBL4530,P00488,Tchem
+Collagen type IV alpha-3-binding protein,CHEMBL3399913,Q9Y5P4,Tbio
+Complement C1s,CHEMBL3913,P09871,Tchem
+Complement factor B,CHEMBL5731,P00751,Tchem
+Complement factor D,CHEMBL2176771,P00746,Tchem
+Core-binding factor subunit beta,CHEMBL1615386,Q13951,Tchem
+Corticotropin releasing factor receptor 1,CHEMBL1800,P34998,Tclin
+Cyclin T1,CHEMBL2108,O60563,Tchem
+Cyclin-dependent kinase 1,CHEMBL308,P06493,Tchem
+Cyclin-dependent kinase 13,CHEMBL1795192,Q14004,Tchem
+Cyclin-dependent kinase 2,CHEMBL301,P24941,Tchem
+Cyclin-dependent kinase 3,CHEMBL4442,Q00526,Tchem
+Cyclin-dependent kinase 4,CHEMBL331,P11802,Tclin
+Cyclin-dependent kinase 5,CHEMBL4036,Q00535,Tchem
+Cyclin-dependent kinase 6,CHEMBL2508,Q00534,Tclin
+Cyclin-dependent kinase 7,CHEMBL3055,P50613,Tchem
+Cyclin-dependent kinase 9,CHEMBL3116,P50750,Tchem
+Cyclin-dependent kinase-like 1,CHEMBL5789,Q00532,Tchem
+Cyclin-dependent kinase-like 2,CHEMBL5728,Q92772,Tchem
+Cyclin-dependent kinase-like 3,CHEMBL1163117,Q8IVW4,Tchem
+Cyclin-dependent kinase-like 5,CHEMBL1163112,O76039,Tchem
+Cyclooxygenase-1,CHEMBL221,P23219,Tclin
+Cyclooxygenase-2,CHEMBL230,P35354,Tclin
+Cyclophilin A,CHEMBL1949,P62937,Tclin
+Cyclophilin B,CHEMBL2075,P23284,Tchem
+Cystathionine beta-synthase,CHEMBL3399911,P35520,Tchem
+Cysteinyl leukotriene receptor 1,CHEMBL1798,Q9Y271,Tclin
+Cysteinyl leukotriene receptor 2,CHEMBL4330,Q9NS75,Tchem
+Cystic fibrosis transmembrane conductance regulator,CHEMBL4051,P13569,Tclin
+Cystine/glutamate transporter,CHEMBL1075149,Q9UPY5,Tchem
+Cystinyl aminopeptidase,CHEMBL2693,Q9UIQ6,Tchem
+Cytidine deaminase,CHEMBL4502,P32320,Tchem
+Cytochrome P450 11B1,CHEMBL1908,P15538,Tclin
+Cytochrome P450 11B2,CHEMBL2722,P19099,Tchem
+Cytochrome P450 17A1,CHEMBL3522,P05093,Tclin
+Cytochrome P450 19A1,CHEMBL1978,P11511,Tclin
+Cytochrome P450 1A1,CHEMBL2231,P04798,Tchem
+Cytochrome P450 1A2,CHEMBL3356,P05177,Tchem
+Cytochrome P450 1B1,CHEMBL4878,Q16678,Tchem
+Cytochrome P450 21,CHEMBL2759,P08686,Tbio
+Cytochrome P450 24A1,CHEMBL4521,Q07973,Tchem
+Cytochrome P450 26A1,CHEMBL5141,O43174,Tchem
+Cytochrome P450 26B1,CHEMBL3713687,Q9NR63,Tchem
+Cytochrome P450 2A13,CHEMBL3542436,Q16696,Tbio
+Cytochrome P450 2A6,CHEMBL5282,P11509,Tchem
+Cytochrome P450 2B6,CHEMBL4729,P20813,Tchem
+Cytochrome P450 2C19,CHEMBL3622,P33261,Tchem
+Cytochrome P450 2C8,CHEMBL3721,P10632,Tchem
+Cytochrome P450 2C9,CHEMBL3397,P11712,Tchem
+Cytochrome P450 2D6,CHEMBL289,P10635,Tclin
+Cytochrome P450 2E1,CHEMBL5281,P05181,Tchem
+Cytochrome P450 2J2,CHEMBL3491,P51589,Tchem
+Cytochrome P450 3A4,CHEMBL340,P08684,Tclin
+Cytochrome P450 3A5,CHEMBL3019,P20815,Tclin
+Cytochrome P450 3A7,CHEMBL3341582,P24462,Tclin
+Cytochrome P450 4F2,CHEMBL3379,P78329,Tchem
+Cytochrome P450 51,CHEMBL3849,Q16850,Tchem
+Cytochrome b-245 heavy chain,CHEMBL1287627,P04839,Tchem
+Cytochrome b-c1 complex subunit 7,CHEMBL1671612,P14927,Tbio
+Cytochrome c oxidase subunit 2,CHEMBL6174,P00403,Tchem
+Cytohesin-2,CHEMBL5995,Q99418,Tbio
+Cytohesin-3,CHEMBL3259466,O43739,Tbio
+Cytosolic phospholipase A2,CHEMBL3816,P47712,Tchem
+D-amino-acid oxidase,CHEMBL5485,P14920,Tchem
+D-aspartate oxidase,CHEMBL5887,Q99489,Tchem
+DNA (cytosine-5)-methyltransferase 1,CHEMBL1993,P26358,Tclin
+DNA (cytosine-5)-methyltransferase 3A,CHEMBL1992,Q9Y6K1,Tclin
+DNA (cytosine-5)-methyltransferase 3B,CHEMBL6095,Q9UBC3,Tchem
+DNA dC->dU-editing enzyme APOBEC-3G,CHEMBL1741217,Q9HC16,Tbio
+DNA damage-inducible transcript 3 protein,CHEMBL3351207,P35638,Tchem
+DNA ligase 1,CHEMBL5694,P18858,Tchem
+DNA polymerase alpha subunit,CHEMBL1828,P09884,Tclin
+DNA polymerase beta,CHEMBL2392,P06746,Tchem
+DNA polymerase delta subunit 1,CHEMBL2735,P28340,Tclin
+DNA polymerase eta,CHEMBL5542,Q9Y253,Tbio
+DNA polymerase gamma subunit 1,CHEMBL2732,P54098,Tchem
+DNA polymerase kappa,CHEMBL5365,Q9UBT6,Tbio
+DNA polymerase lambda,CHEMBL5367,Q9UGP5,Tbio
+DNA polymerase nu,CHEMBL2010628,Q7Z5Q5,Tbio
+DNA repair and recombination protein RAD54-like,CHEMBL2146297,Q92698,Tbio
+DNA repair protein RAD51 homolog 1,CHEMBL2034807,Q06609,Tchem
+DNA topoisomerase I,CHEMBL1781,P11387,Tclin
+DNA topoisomerase II alpha,CHEMBL1806,P11388,Tclin
+DNA-(apurinic or apyrimidinic site) lyase,CHEMBL5619,P27695,Tchem
+DNA-3-methyladenine glycosylase,CHEMBL3396943,P29372,Tchem
+DNA-dependent protein kinase,CHEMBL3142,P78527,Tchem
+DNA-directed DNA/RNA polymerase mu,CHEMBL1914260,Q9NP87,Tbio
+DNA-directed RNA polymerase I subunit RPA1,CHEMBL3286067,O95602,Tchem
+Death-associated protein kinase 1,CHEMBL2558,P53355,Tchem
+Death-associated protein kinase 2,CHEMBL3123,Q9UIK4,Tchem
+Death-associated protein kinase 3,CHEMBL2468,O43293,Tchem
+Dehydrogenase/reductase SDR family member 9,CHEMBL5974,Q9BPW9,Tbio
+Delta opioid receptor,CHEMBL236,P41143,Tclin
+Deoxycytidine kinase,CHEMBL2447,P27707,Tchem
+Deoxyribonuclease gamma,CHEMBL1649048,Q13609,Tbio
+Deoxyribonuclease-1,CHEMBL3351219,P24855,Tchem
+Diacylglycerol O-acyltransferase 1,CHEMBL6009,O75907,Tclin
+Diacylglycerol O-acyltransferase 2,CHEMBL5853,Q96PD7,Tchem
+Diamine oxidase,CHEMBL2118,P19801,Tchem
+Dihydrofolate reductase,CHEMBL202,P00374,Tclin
+Dihydroorotate dehydrogenase,CHEMBL1966,Q02127,Tclin
+Dipeptidyl peptidase I,CHEMBL2252,P53634,Tchem
+Dipeptidyl peptidase II,CHEMBL3976,Q9UHL4,Tchem
+Dipeptidyl peptidase IV,CHEMBL284,P27487,Tclin
+Dipeptidyl peptidase IX,CHEMBL4793,Q86TI2,Tchem
+Dipeptidyl peptidase VIII,CHEMBL4657,Q6V1X1,Tchem
+Discoidin domain-containing receptor 2,CHEMBL5122,Q16832,Tchem
+Disintegrin and metalloproteinase domain-containing protein 33,CHEMBL6121,Q9BZ11,Tchem
+Disintegrin and metalloproteinase domain-containing protein 8,CHEMBL5665,P78325,Tchem
+Disks large homolog 4,CHEMBL5666,P78352,Tchem
+Dopamine D1 receptor,CHEMBL2056,P21728,Tclin
+Dopamine D2 receptor,CHEMBL217,P14416,Tclin
+Dopamine D3 receptor,CHEMBL234,P35462,Tclin
+Dopamine D4 receptor,CHEMBL219,P21917,Tchem
+Dopamine D5 receptor,CHEMBL1850,P21918,Tchem
+Dopamine beta-hydroxylase,CHEMBL3102,P09172,Tchem
+Dopamine transporter,CHEMBL238,Q01959,Tclin
+Double-strand break repair protein MRE11A,CHEMBL3308929,P49959,Tbio
+Dual serine/threonine and tyrosine protein kinase,CHEMBL1908386,Q6XUX3,Tchem
+Dual specificity mitogen-activated protein kinase kinase 1,CHEMBL3587,Q02750,Tclin
+Dual specificity mitogen-activated protein kinase kinase 2,CHEMBL2964,P36507,Tclin
+Dual specificity mitogen-activated protein kinase kinase 3,CHEMBL2109,P46734,Tchem
+Dual specificity mitogen-activated protein kinase kinase 4,CHEMBL2897,P45985,Tchem
+Dual specificity mitogen-activated protein kinase kinase 5,CHEMBL4948,Q13163,Tchem
+Dual specificity mitogen-activated protein kinase kinase 6,CHEMBL2171,P52564,Tchem
+Dual specificity mitogen-activated protein kinase kinase 7,CHEMBL3530,O14733,Tchem
+Dual specificity phosphatase 22,CHEMBL3924,Q9NRW4,Tbio
+Dual specificity phosphatase Cdc25A,CHEMBL3775,P30304,Tchem
+Dual specificity phosphatase Cdc25B,CHEMBL4804,P30305,Tchem
+Dual specificity phosphatase Cdc25C,CHEMBL2378,P30307,Tchem
+Dual specificity protein kinase CLK2,CHEMBL4225,P49760,Tchem
+Dual specificity protein kinase CLK3,CHEMBL4226,P49761,Tchem
+Dual specificity protein kinase CLK4,CHEMBL4203,Q9HAZ1,Tchem
+Dual specificity protein kinase TTK,CHEMBL3983,P33981,Tchem
+Dual specificity protein phosphatase 1,CHEMBL6026,P28562,Tchem
+Dual specificity protein phosphatase 10,CHEMBL2396511,Q9Y6W6,Tbio
+Dual specificity protein phosphatase 15,CHEMBL2396507,Q9H1R2,Tbio
+Dual specificity protein phosphatase 2,CHEMBL2157858,Q05923,Tbio
+Dual specificity protein phosphatase 23,CHEMBL2396506,Q9BVJ7,Tbio
+Dual specificity protein phosphatase 26,CHEMBL2295562,Q9BV47,Tbio
+Dual specificity protein phosphatase 3,CHEMBL2635,P51452,Tchem
+Dual specificity protein phosphatase 6,CHEMBL1250381,Q16828,Tbio
+Dual specificity protein phosphatase CDC14A,CHEMBL1772926,Q9UNH5,Tbio
+Dual specificity testis-specific protein kinase 1,CHEMBL5604,Q15569,Tchem
+Dual specificity testis-specific protein kinase 2,CHEMBL2069163,Q96S53,Tchem
+Dual specificity tyrosine-phosphorylation-regulated kinase 1B,CHEMBL5543,Q9Y463,Tchem
+Dual specificity tyrosine-phosphorylation-regulated kinase 4,CHEMBL1075115,Q9NR20,Tchem
+Dual specificty protein kinase CLK1,CHEMBL4224,P49759,Tchem
+Dual-specificity tyrosine-phosphorylation regulated kinase 1A,CHEMBL2292,Q13627,Tchem
+Dual-specificity tyrosine-phosphorylation regulated kinase 2,CHEMBL4376,Q92630,Tchem
+Dual-specificity tyrosine-phosphorylation regulated kinase 3,CHEMBL4575,O43781,Tchem
+Dynamin-1,CHEMBL4958,Q05193,Tbio
+Dynamin-2,CHEMBL5812,P50570,Tchem
+E3 SUMO-protein ligase CBX4,CHEMBL3232685,O00257,Tchem
+E3 ubiquitin-protein ligase NEDD4,CHEMBL3621023,P46934,Tchem
+E3 ubiquitin-protein ligase TRIM33,CHEMBL2176772,Q9UPN9,Tbio
+ERO1-like protein alpha,CHEMBL1671609,Q96HE7,Tbio
+Ectonucleoside triphosphate diphosphohydrolase 1,CHEMBL5722,P49961,Tchem
+Ectonucleoside triphosphate diphosphohydrolase 2,CHEMBL5049,Q9Y5L3,Tchem
+Ectonucleotide pyrophosphatase/phosphodiesterase family member 1,CHEMBL5925,P22413,Tchem
+Ectonucleotide pyrophosphatase/phosphodiesterase family member 3,CHEMBL5580,O14638,Tbio
+Egl nine homolog 1,CHEMBL5697,Q9GZT9,Tchem
+Egl nine homolog 3,CHEMBL5705,Q9H6Z9,Tchem
+Elastase 1,CHEMBL3000,Q9UNI1,Tchem
+Elongation factor 1-alpha 1,CHEMBL1795120,P68104,Tchem
+Elongation factor 1-alpha 2,CHEMBL1795122,Q05639,Tchem
+Elongation of very long chain fatty acids protein 1,CHEMBL6001,Q9BW60,Tbio
+Elongation of very long chain fatty acids protein 3,CHEMBL5791,Q9HB03,Tchem
+Elongation of very long chain fatty acids protein 6,CHEMBL5704,Q9H5J4,Tchem
+Emopamil-binding protein-like,CHEMBL2311238,Q9BY08,Tchem
+Endo-beta-N-acetylglucosaminidase,CHEMBL5172,Q8NFI3,Tchem
+Endoplasmic reticulum aminopeptidase 1,CHEMBL5939,Q9NZ08,Tchem
+Endoplasmic reticulum aminopeptidase 2,CHEMBL5043,Q6P179,Tchem
+"Endoplasmic reticulum mannosyl-oligosaccharide 1,2-alpha-mannosidase",CHEMBL2308,Q9UKM7,Tchem
+Endoplasmin,CHEMBL1075323,P14625,Tchem
+Endothelial PAS domain-containing protein 1,CHEMBL1744522,Q99814,Tchem
+Endothelial lipase,CHEMBL5080,Q9Y5X9,Tchem
+Endothelin receptor ET-A,CHEMBL252,P25101,Tclin
+Endothelin receptor ET-B,CHEMBL1785,P24530,Tclin
+Endothelin-converting enzyme 1,CHEMBL4791,P42892,Tchem
+Enteropeptidase,CHEMBL1741195,P98073,Tchem
+Ephrin type-A receptor 1,CHEMBL5810,P21709,Tchem
+Ephrin type-A receptor 2,CHEMBL2068,P29317,Tclin
+Ephrin type-A receptor 3,CHEMBL4954,P29320,Tchem
+Ephrin type-A receptor 4,CHEMBL3988,P54764,Tchem
+Ephrin type-A receptor 5,CHEMBL3987,P54756,Tchem
+Ephrin type-A receptor 6,CHEMBL4526,Q9UF33,Tchem
+Ephrin type-A receptor 7,CHEMBL4602,Q15375,Tchem
+Ephrin type-A receptor 8,CHEMBL4134,P29322,Tchem
+Ephrin type-B receptor 1,CHEMBL5072,P54762,Tchem
+Ephrin type-B receptor 2,CHEMBL3290,P29323,Tchem
+Ephrin type-B receptor 3,CHEMBL4901,P54753,Tchem
+Ephrin type-B receptor 4,CHEMBL5147,P54760,Tchem
+Ephrin type-B receptor 6,CHEMBL5836,O15197,Tchem
+Epidermal growth factor receptor erbB1,CHEMBL203,P00533,Tclin
+Epithelial discoidin domain-containing receptor 1,CHEMBL5319,Q08345,Tchem
+Epoxide hydratase,CHEMBL2409,P34913,Tchem
+Epoxide hydrolase 1,CHEMBL1968,P07099,Tchem
+Epsin-1,CHEMBL3259465,Q9Y6I3,Tbio
+Equilibrative nucleoside transporter 1,CHEMBL1997,Q99808,Tclin
+Estradiol 17-beta-dehydrogenase 1,CHEMBL3181,P14061,Tchem
+Estradiol 17-beta-dehydrogenase 2,CHEMBL2789,P37059,Tchem
+Estradiol 17-beta-dehydrogenase 3,CHEMBL4234,P37058,Tchem
+Estrogen receptor alpha,CHEMBL206,P03372,Tclin
+Estrogen receptor beta,CHEMBL242,Q92731,Tclin
+Estrogen-related receptor alpha,CHEMBL3429,P11474,Tchem
+Estrogen-related receptor beta,CHEMBL3751,O95718,Tchem
+Estrogen-related receptor gamma,CHEMBL4245,P62508,Tchem
+Eukaryotic initiation factor 4A-I,CHEMBL2052028,P60842,Tchem
+Eukaryotic translation initation factor,CHEMBL4848,P06730,Tchem
+Eukaryotic translation initiation factor 2-alpha kinase 1,CHEMBL6029,Q9BQI3,Tchem
+Eukaryotic translation initiation factor 2-alpha kinase 3,CHEMBL6030,Q9NZJ5,Tchem
+Eukaryotic translation initiation factor 2-alpha kinase 4,CHEMBL5358,Q9P2K8,Tchem
+Excitatory amino acid transporter 1,CHEMBL3085,P43003,Tchem
+Excitatory amino acid transporter 2,CHEMBL4973,P43004,Tchem
+Excitatory amino acid transporter 3,CHEMBL2721,P43005,Tchem
+Exportin-1,CHEMBL5661,O14980,Tbio
+Ezrin,CHEMBL1932896,P15311,Tbio
+FK506 binding protein 4,CHEMBL4050,Q02790,Tchem
+FK506-binding protein 1A,CHEMBL1902,P62942,Tclin
+Farnesyl diphosphate synthase,CHEMBL1782,P14324,Tclin
+Fatty acid binding protein adipocyte,CHEMBL2083,P15090,Tchem
+Fatty acid binding protein epidermal,CHEMBL3674,Q01469,Tchem
+Fatty acid binding protein intestinal,CHEMBL4879,P12104,Tchem
+Fatty acid binding protein muscle,CHEMBL3344,P05413,Tchem
+Fatty acid desaturase 1,CHEMBL5840,O60427,Tchem
+Fatty acid synthase,CHEMBL4158,P49327,Tchem
+Fatty acid transport protein 2,CHEMBL4326,O14975,Tbio
+Fatty acid transport protein 4,CHEMBL4327,Q6P1M0,Tchem
+"Fatty acid-binding protein, liver",CHEMBL5421,P07148,Tchem
+Fibroblast activation protein alpha,CHEMBL4683,Q12884,Tchem
+Fibroblast growth factor receptor 1,CHEMBL3650,P11362,Tclin
+Fibroblast growth factor receptor 2,CHEMBL4142,P21802,Tclin
+Fibroblast growth factor receptor 3,CHEMBL2742,P22607,Tclin
+Fibroblast growth factor receptor 4,CHEMBL3973,P22455,Tclin
+Flap endonuclease 1,CHEMBL5027,P39748,Tchem
+Focal adhesion kinase 1,CHEMBL2695,Q05397,Tchem
+Folate receptor alpha,CHEMBL2121,P15328,Tchem
+Folate receptor beta,CHEMBL5064,P14207,Tchem
+Folate transporter 1,CHEMBL4833,P41440,Tchem
+Follicle stimulating hormone receptor,CHEMBL2024,P23945,Tclin
+Formyl peptide receptor 1,CHEMBL3359,P21462,Tchem
+Free fatty acid receptor 1,CHEMBL4422,O14842,Tchem
+Free fatty acid receptor 2,CHEMBL5493,O15552,Tchem
+"Fructose-1,6-bisphosphatase",CHEMBL3975,P09467,Tchem
+Fucosyltransferase 4,CHEMBL4996,P22083,Tbio
+Fucosyltransferase 5,CHEMBL3146,Q11128,Tbio
+Fucosyltransferase 6,CHEMBL4443,P51993,Tchem
+Fucosyltransferase 9,CHEMBL4985,Q9Y231,Tbio
+Furin,CHEMBL2611,P09958,Tchem
+G protein-coupled receptor 44,CHEMBL5071,Q9Y5Y4,Tchem
+G protein-coupled receptor kinase 4,CHEMBL5861,P32298,Tchem
+G protein-coupled receptor kinase 5,CHEMBL5678,P34947,Tchem
+G protein-coupled receptor kinase 7,CHEMBL1075133,Q8WTQ7,Tchem
+G-protein coupled bile acid receptor 1,CHEMBL5409,Q8TDU6,Tchem
+G-protein coupled estrogen receptor 1,CHEMBL5872,Q99527,Tchem
+G-protein coupled receptor 120,CHEMBL5339,Q5NUL3,Tchem
+G-protein coupled receptor 183,CHEMBL3259470,P32249,Tchem
+G-protein coupled receptor 35,CHEMBL1293267,Q9HC97,Tchem
+G-protein coupled receptor 39,CHEMBL3091266,O43194,Tchem
+G-protein coupled receptor 4,CHEMBL3638324,P46093,Tchem
+G-protein coupled receptor 55,CHEMBL1075322,Q9Y2T6,Tchem
+G-protein coupled receptor 81,CHEMBL1075101,Q9BXC0,Tchem
+G-protein coupled receptor 84,CHEMBL3714079,Q9NQS5,Tchem
+G-protein coupled receptor kinase 2,CHEMBL4079,P25098,Tchem
+GABA receptor alpha-1 subunit,CHEMBL1962,P14867,Tclin
+GABA receptor alpha-2 subunit,CHEMBL4956,P47869,Tclin
+GABA receptor alpha-3 subunit,CHEMBL3026,P34903,Tclin
+GABA receptor alpha-4 subunit,CHEMBL2472,P48169,Tclin
+GABA receptor alpha-5 subunit,CHEMBL5112,P31644,Tclin
+GABA receptor alpha-6 subunit,CHEMBL2579,Q16445,Tclin
+GABA receptor beta-3 subunit,CHEMBL1847,P28472,Tclin
+GABA receptor rho-1 subunit,CHEMBL3561,P24046,Tchem
+GABA receptor rho-2 subunit,CHEMBL2375,P28476,Tbio
+GABA transporter 1,CHEMBL1903,P30531,Tclin
+GABA transporter 2,CHEMBL4535,Q9NSD5,Tchem
+GABA transporter 3,CHEMBL5208,P48066,Tbio
+GABA-B receptor 1,CHEMBL2064,Q9UBS5,Tclin
+GAR transformylase,CHEMBL3972,P22102,Tclin
+GTPase KRas,CHEMBL2189121,P01116,Tchem
+Galactokinase,CHEMBL1293257,P51570,Tbio
+Galanin receptor 1,CHEMBL4894,P47211,Tchem
+Galanin receptor 2,CHEMBL3176,O43603,Tchem
+Galanin receptor 3,CHEMBL2731,O60755,Tchem
+Galectin-1,CHEMBL4915,P09382,Tchem
+Galectin-3,CHEMBL4531,P17931,Tchem
+Galectin-4,CHEMBL1671608,P56470,Tchem
+Galectin-7,CHEMBL5008,P47929,Tbio
+Galectin-8,CHEMBL5475,O00214,Tchem
+Galectin-9,CHEMBL5474,O00182,Tchem
+Gamma-amino-N-butyrate transaminase,CHEMBL2044,P80404,Tclin
+Gamma-butyrobetaine dioxygenase,CHEMBL2163175,O75936,Tchem
+Gastric inhibitory polypeptide,CHEMBL5571,P09681,Tchem
+Gastric inhibitory polypeptide receptor,CHEMBL4383,P48546,Tchem
+Gastrin releasing peptide receptor,CHEMBL4959,P30550,Tchem
+Geranylgeranyl pyrophosphate synthetase,CHEMBL4769,O95749,Tchem
+Ghrelin O-acyltransferase,CHEMBL3588729,Q96T53,Tbio
+Ghrelin receptor,CHEMBL4616,Q92847,Tclin
+Glucagon,CHEMBL5736,P01275,Tchem
+Glucagon receptor,CHEMBL1985,P47871,Tclin
+Glucagon-like peptide 1 receptor,CHEMBL1784,P43220,Tclin
+Glucocorticoid receptor,CHEMBL2034,P04150,Tclin
+Glucokinase regulatory protein,CHEMBL1075152,Q14397,Tchem
+Glucose transporter,CHEMBL2535,P11166,Tchem
+Glucose-6-phosphate 1-dehydrogenase,CHEMBL5347,P11413,Tchem
+Glucose-6-phosphate translocase,CHEMBL3217398,O43826,Tchem
+Glucose-dependent insulinotropic receptor,CHEMBL5652,Q8TDV5,Tchem
+Glutamate (NMDA) receptor subunit zeta 1,CHEMBL2015,Q05586,Tclin
+Glutamate [NMDA] receptor subunit epsilon 2,CHEMBL1904,Q13224,Tclin
+Glutamate [NMDA] receptor subunit epsilon 4,CHEMBL2591,O15399,Tclin
+Glutamate carboxypeptidase II,CHEMBL1892,Q04609,Tchem
+Glutamate receptor ionotropic kainate 1,CHEMBL1918,P39086,Tclin
+Glutamate receptor ionotropic kainate 2,CHEMBL3683,Q13002,Tclin
+Glutamate receptor ionotropic kainate 3,CHEMBL3684,Q13003,Tclin
+Glutamate receptor ionotropic kainate 5,CHEMBL2675,Q16478,Tclin
+"Glutamate receptor ionotropic, AMPA 1",CHEMBL2009,P42261,Tclin
+"Glutamate receptor ionotropic, AMPA 2",CHEMBL4016,P42262,Tclin
+"Glutamate receptor ionotropic, AMPA 3",CHEMBL3595,P42263,Tclin
+"Glutamate receptor ionotropic, AMPA 4",CHEMBL3190,P48058,Tclin
+"Glutaminase kidney isoform, mitochondrial",CHEMBL2146302,O94925,Tchem
+Glutaminyl-peptide cyclotransferase,CHEMBL4508,Q16769,Tchem
+Glutaminyl-peptide cyclotransferase-like protein,CHEMBL3638349,Q9NXS2,Tchem
+Glutathione S-transferase A1,CHEMBL3409,P08263,Tchem
+Glutathione S-transferase A2,CHEMBL2241,P09210,Tbio
+Glutathione S-transferase Mu 1,CHEMBL2081,P09488,Tbio
+Glutathione S-transferase Mu 2,CHEMBL4589,P28161,Tchem
+Glutathione S-transferase Pi,CHEMBL3902,P09211,Tchem
+Glutathione reductase,CHEMBL2755,P00390,Tclin
+Glutathione transferase omega 1,CHEMBL3174,P78417,Tchem
+Glyceraldehyde-3-phosphate dehydrogenase liver,CHEMBL2284,P04406,Tchem
+Glycine receptor subunit alpha-1,CHEMBL5845,P23415,Tclin
+Glycine receptor subunit alpha-2,CHEMBL5871,P23416,Tchem
+Glycine receptor subunit alpha-3,CHEMBL1075092,O75311,Tchem
+Glycine transporter 1,CHEMBL2337,P48067,Tchem
+Glycine transporter 2,CHEMBL3060,Q9Y345,Tchem
+Glycogen synthase kinase-3 alpha,CHEMBL2850,P49840,Tclin
+Glycogen synthase kinase-3 beta,CHEMBL262,P49841,Tclin
+Glyoxalase I,CHEMBL2424,Q04760,Tchem
+Gonadotropin-releasing hormone receptor,CHEMBL1855,P30968,Tclin
+Group IID secretory phospholipase A2,CHEMBL4281,Q9UNK4,Tchem
+Group IIE secretory phospholipase A2,CHEMBL2154,Q9NZK7,Tchem
+Group IIF secretory phospholipase A2,CHEMBL4278,Q9BZM2,Tchem
+Group X secretory phospholipase A2,CHEMBL4342,O15496,Tchem
+Growth factor receptor-bound protein 2,CHEMBL3663,P62993,Tchem
+Growth factor receptor-bound protein 7,CHEMBL1649051,Q14451,Tbio
+"Guanine nucleotide-binding protein G(i), alpha-1 subunit",CHEMBL4741,P63096,Tbio
+"Guanine nucleotide-binding protein G(k), alpha-3 subunit",CHEMBL4221,P08754,Tbio
+"Guanine nucleotide-binding protein G(o), alpha subunit 1",CHEMBL4742,P09471,Tbio
+HERG,CHEMBL240,Q12809,Tclin
+HLA-DR antigens-associated invariant chain,CHEMBL4692,P04233,Tchem
+HM74 nicotinic acid GPCR,CHEMBL4421,P49019,Tchem
+HMG-CoA reductase,CHEMBL402,P04035,Tclin
+Heat shock cognate 71 kDa protein,CHEMBL1275223,P11142,Tchem
+Heat shock factor protein 1,CHEMBL5869,Q00613,Tbio
+"Heat shock protein 75 kDa, mitochondrial",CHEMBL1075132,Q12931,Tchem
+Heat shock protein HSP 90-alpha,CHEMBL3880,P07900,Tchem
+Heat shock protein HSP 90-beta,CHEMBL4303,P08238,Tchem
+Heat shock protein beta-1,CHEMBL5976,P04792,Tchem
+Hematopoietic cell protein-tyrosine phosphatase 70Z-PEP,CHEMBL2889,Q9Y2R2,Tchem
+Hematopoietic prostaglandin D synthase,CHEMBL5879,O60760,Tchem
+Heme oxygenase 1,CHEMBL2823,P09601,Tchem
+Heparanase,CHEMBL3921,Q9Y251,Tchem
+Hepatic lipase,CHEMBL2127,P11150,Tchem
+Hepatocyte growth factor,CHEMBL5479,P14210,Tchem
+Hepatocyte growth factor activator,CHEMBL3351190,Q04756,Tchem
+Hepatocyte growth factor receptor,CHEMBL3717,P08581,Tclin
+Hepatocyte nuclear factor 4-alpha,CHEMBL5398,P41235,Tchem
+Heterogeneous nuclear ribonucleoprotein A1,CHEMBL1955709,P09651,Tchem
+Hexokinase type I,CHEMBL2688,P19367,Tchem
+Hexokinase type II,CHEMBL2640,P52789,Tchem
+Hexokinase type IV,CHEMBL3820,P35557,Tchem
+High affinity immunoglobulin gamma Fc receptor I,CHEMBL5349,P12314,Tchem
+High-affinity choline transporter,CHEMBL4507,Q9GZV3,Tchem
+Histamine H1 receptor,CHEMBL231,P35367,Tclin
+Histamine H2 receptor,CHEMBL1941,P25021,Tclin
+Histamine H3 receptor,CHEMBL264,Q9Y5N1,Tclin
+Histamine H4 receptor,CHEMBL3759,Q9H3N8,Tchem
+Histidine triad nucleotide-binding protein 1,CHEMBL5878,P49773,Tbio
+Histone H1.0,CHEMBL3707465,P07305,Tchem
+Histone acetyltransferase GCN5,CHEMBL5501,Q92830,Tbio
+Histone acetyltransferase KAT5,CHEMBL5750,Q92993,Tchem
+Histone acetyltransferase KAT8,CHEMBL1932912,Q9H7Z6,Tchem
+Histone acetyltransferase PCAF,CHEMBL5500,Q92831,Tchem
+Histone acetyltransferase p300,CHEMBL3784,Q09472,Tchem
+Histone chaperone ASF1A,CHEMBL3392950,Q9Y294,Tchem
+Histone deacetylase 1,CHEMBL325,Q13547,Tclin
+Histone deacetylase 10,CHEMBL5103,Q969S8,Tclin
+Histone deacetylase 11,CHEMBL3310,Q96DB2,Tclin
+Histone deacetylase 2,CHEMBL1937,Q92769,Tclin
+Histone deacetylase 3,CHEMBL1829,O15379,Tclin
+Histone deacetylase 4,CHEMBL3524,P56524,Tclin
+Histone deacetylase 5,CHEMBL2563,Q9UQL6,Tclin
+Histone deacetylase 6,CHEMBL1865,Q9UBN7,Tclin
+Histone deacetylase 7,CHEMBL2716,Q8WUI4,Tclin
+Histone deacetylase 8,CHEMBL3192,Q9BY41,Tclin
+Histone deacetylase 9,CHEMBL4145,Q9UKV0,Tclin
+Histone lysine demethylase PHF8,CHEMBL1938212,Q9UPP1,Tchem
+Histone-arginine methyltransferase CARM1,CHEMBL5406,Q86X55,Tchem
+Histone-lysine N-methyltransferase EZH1,CHEMBL2189116,Q92800,Tchem
+Histone-lysine N-methyltransferase EZH2,CHEMBL2189110,Q15910,Tchem
+Histone-lysine N-methyltransferase MLL,CHEMBL1293299,Q03164,Tchem
+Histone-lysine N-methyltransferase SETD2,CHEMBL3108647,Q9BYW2,Tchem
+Histone-lysine N-methyltransferase SETD7,CHEMBL5523,Q8WTS6,Tchem
+Histone-lysine N-methyltransferase SETDB1,CHEMBL2321646,Q15047,Tbio
+Histone-lysine N-methyltransferase SMYD3,CHEMBL2321643,Q9H7B4,Tchem
+Histone-lysine N-methyltransferase SUV39H1,CHEMBL1795118,O43463,Tchem
+Histone-lysine N-methyltransferase SUV39H2,CHEMBL1795177,Q9H5I1,Tbio
+Histone-lysine N-methyltransferase SUV420H2,CHEMBL2321644,Q86Y97,Tchem
+"Histone-lysine N-methyltransferase, H3 lysine-79 specific",CHEMBL1795117,Q8TEK3,Tchem
+"Histone-lysine N-methyltransferase, H3 lysine-9 specific 3",CHEMBL6032,Q96KQ7,Tchem
+"Histone-lysine N-methyltransferase, H3 lysine-9 specific 5",CHEMBL6031,Q9H9B1,Tchem
+Homeodomain-interacting protein kinase 1,CHEMBL5427,Q86Z02,Tchem
+Homeodomain-interacting protein kinase 2,CHEMBL4576,Q9H2X6,Tchem
+Homeodomain-interacting protein kinase 3,CHEMBL4577,Q9H422,Tchem
+Homeodomain-interacting protein kinase 4,CHEMBL1075167,Q8NE63,Tchem
+Hormonally up-regulated neu tumor-associated kinase,CHEMBL1795165,P57058,Tchem
+Hormone sensitive lipase,CHEMBL3590,Q05469,Tchem
+Huntingtin,CHEMBL5514,P42858,Tchem
+Hydroxyacid oxidase 2,CHEMBL2169732,Q9NYQ3,Tchem
+Hydroxycarboxylic acid receptor 2,CHEMBL3785,Q8TDS4,Tclin
+Hypoxanthine-guanine phosphoribosyltransferase,CHEMBL2360,P00492,Tchem
+Hypoxia-inducible factor 1 alpha,CHEMBL4261,Q16665,Tchem
+Hypoxia-inducible factor 1-alpha inhibitor,CHEMBL5909,Q9NWT6,Tbio
+Hypoxia-inducible factor prolyl 4-hydroxylase,CHEMBL3047,Q9NXG6,Tchem
+Hypoxia-inducible factor prolyl hydroxylase 1,CHEMBL3028,Q96KS0,Tchem
+Ileal bile acid transporter,CHEMBL2778,Q12908,Tclin
+"Indoleamine 2,3-dioxygenase",CHEMBL4685,P14902,Tchem
+Induced myeloid leukemia cell differentiation protein Mcl-1,CHEMBL4361,Q07820,Tchem
+Inhibitor of apoptosis protein 3,CHEMBL4198,P98170,Tchem
+Inhibitor of growth protein 2,CHEMBL3784904,Q9H160,Tbio
+Inhibitor of nuclear factor kappa B kinase alpha subunit,CHEMBL3476,O15111,Tchem
+Inhibitor of nuclear factor kappa B kinase beta subunit,CHEMBL1991,O14920,Tchem
+Inhibitor of nuclear factor kappa B kinase epsilon subunit,CHEMBL3529,Q14164,Tchem
+Inosine-5'-monophosphate dehydrogenase 1,CHEMBL1822,P20839,Tclin
+Inosine-5'-monophosphate dehydrogenase 2,CHEMBL2002,P12268,Tclin
+Insulin receptor,CHEMBL1981,P06213,Tclin
+Insulin receptor-related protein,CHEMBL5483,P14616,Tchem
+Insulin-degrading enzyme,CHEMBL1293287,P14735,Tchem
+Insulin-like growth factor I receptor,CHEMBL1957,P08069,Tclin
+Insulin-like growth factor II receptor,CHEMBL3240,P11717,Tchem
+Integrin alpha-1,CHEMBL3682,P56199,Tbio
+Integrin alpha-2,CHEMBL4998,P17301,Tbio
+Integrin alpha-4,CHEMBL278,P13612,Tclin
+Integrin alpha-IIb,CHEMBL212,P08514,Tclin
+Intercellular adhesion molecule-1,CHEMBL3070,P05362,Tchem
+Interferon-alpha/beta receptor alpha chain,CHEMBL1887,P17181,Tclin
+"Interferon-induced, double-stranded RNA-activated protein kinase",CHEMBL5785,P19525,Tchem
+Interleukin-1 beta,CHEMBL1909490,P01584,Tclin
+Interleukin-1 receptor-associated kinase 1,CHEMBL3357,P51617,Tchem
+Interleukin-1 receptor-associated kinase 3,CHEMBL5081,Q9Y616,Tchem
+Interleukin-1 receptor-associated kinase 4,CHEMBL3778,Q9NWZ3,Tchem
+Interleukin-2,CHEMBL5880,P60568,Tchem
+Interleukin-2 receptor alpha chain,CHEMBL1778,P01589,Tclin
+Interleukin-6 receptor subunit beta,CHEMBL3124734,P40189,Tclin
+Interleukin-8,CHEMBL2157,P10145,Tchem
+Interleukin-8 receptor A,CHEMBL4029,P25024,Tchem
+Interleukin-8 receptor B,CHEMBL2434,P25025,Tchem
+Intermediate conductance calcium-activated potassium channel protein 4,CHEMBL4305,O15554,Tchem
+Intestinal alkaline phosphatase,CHEMBL5573,P09923,Tbio
+Inward rectifier potassium channel 4,CHEMBL2146347,P48050,Tchem
+Isocitrate dehydrogenase [NADP] cytoplasmic,CHEMBL2007625,O75874,Tchem
+Isoprenylcysteine carboxyl methyltransferase,CHEMBL4699,O60725,Tchem
+Kallikrein 1,CHEMBL2319,P06870,Tchem
+Kallikrein 14,CHEMBL2641,Q9P0G3,Tchem
+Kallikrein 2,CHEMBL2442,P20151,Tchem
+Kallikrein 4,CHEMBL4446,Q9Y5K2,Tchem
+Kallikrein 5,CHEMBL4447,Q9Y337,Tchem
+Kallikrein 6,CHEMBL4448,Q92876,Tchem
+Kallikrein 7,CHEMBL2443,P49862,Tchem
+Kallikrein 8,CHEMBL4812,O60259,Tchem
+Kappa opioid receptor,CHEMBL237,P41145,Tclin
+Kelch-like ECH-associated protein 1,CHEMBL2069156,Q14145,Tclin
+Ketohexokinase,CHEMBL1275212,P50053,Tchem
+Kinesin heavy chain isoform 5A,CHEMBL5295,Q12840,Tbio
+Kinesin heavy chain isoform 5C,CHEMBL2029194,O60282,Tbio
+Kinesin-like protein 1,CHEMBL4581,P52732,Tchem
+Kinesin-like protein KIF20A,CHEMBL2021753,O95235,Tchem
+Kinesin-like protein KIF23,CHEMBL5899,Q02241,Tbio
+Kinesin-like protein KIFC1,CHEMBL3351200,Q9BW19,Tchem
+Kininogen-1,CHEMBL3638337,P01042,Tchem
+Krueppel-like factor 10,CHEMBL3407312,Q13118,Tbio
+Kynureninase,CHEMBL5100,Q16719,Tchem
+Kynurenine 3-monooxygenase,CHEMBL2145,O15229,Tchem
+Kynurenine--oxoglutarate transaminase 3,CHEMBL2046260,Q6YP21,Tbio
+Kynurenine--oxoglutarate transaminase I,CHEMBL3962,Q16773,Tchem
+"Kynurenine/alpha-aminoadipate aminotransferase, mitochondrial",CHEMBL2046259,Q8N5Z0,Tchem
+L-lactate dehydrogenase A chain,CHEMBL4835,P00338,Tchem
+L-lactate dehydrogenase B chain,CHEMBL4940,P07195,Tchem
+L-type amino acid transporter 1,CHEMBL4459,Q01650,Tbio
+LDL-associated phospholipase A2,CHEMBL3514,Q13093,Tchem
+LIM domain kinase 1,CHEMBL3836,P53667,Tchem
+LIM domain kinase 2,CHEMBL5932,P53671,Tchem
+LXR-alpha,CHEMBL2808,Q13133,Tchem
+LXR-beta,CHEMBL4093,P55055,Tchem
+Lactase-phlorizin hydrolase,CHEMBL1075131,P09848,Tbio
+Laforin,CHEMBL2311242,O95278,Tbio
+LanC-like protein 2,CHEMBL3351212,Q9NS86,Tchem
+Lanosterol synthase,CHEMBL3593,P48449,Tchem
+Legumain,CHEMBL4244,Q99538,Tchem
+Lethal(3)malignant brain tumor-like protein 1,CHEMBL1287622,Q9Y468,Tchem
+Lethal(3)malignant brain tumor-like protein 3,CHEMBL1287623,Q96JM7,Tchem
+Lethal(3)malignant brain tumor-like protein 4,CHEMBL1287624,Q8NA19,Tbio
+Leucine aminopeptidase,CHEMBL3965,P28838,Tchem
+Leucine-rich repeat serine/threonine-protein kinase 2,CHEMBL1075104,Q5S007,Tchem
+Leucyl-tRNA synthetase,CHEMBL3258,Q9P2J5,Tchem
+Leukocyte adhesion glycoprotein LFA-1 alpha,CHEMBL1803,P20701,Tclin
+Leukocyte adhesion molecule-1,CHEMBL3161,P14151,Tchem
+Leukocyte common antigen,CHEMBL3243,P08575,Tchem
+Leukocyte elastase,CHEMBL248,P08246,Tclin
+Leukocyte proteinase 3,CHEMBL3900,P24158,Tchem
+Leukocyte tyrosine kinase receptor,CHEMBL5627,P29376,Tchem
+Leukotriene A4 hydrolase,CHEMBL4618,P09960,Tchem
+Leukotriene B4 receptor 1,CHEMBL3911,Q15722,Tchem
+Lipoprotein lipase,CHEMBL2060,P06858,Tchem
+Lipoxin A4 receptor,CHEMBL4227,P25090,Tchem
+Liver glycogen phosphorylase,CHEMBL2568,P06737,Tchem
+Long-chain fatty acid transport protein 1,CHEMBL2052038,Q6PCB7,Tchem
+Low affinity immunoglobulin gamma Fc region receptor II-a,CHEMBL5841,P12318,Tbio
+Low affinity immunoglobulin gamma Fc region receptor III-B,CHEMBL5842,O75015,Tbio
+Low affinity neurotrophin receptor p75NTR,CHEMBL4762,P08138,Tclin
+Low affinity sodium-glucose cotransporter,CHEMBL1770047,Q9NY91,Tchem
+Low molecular weight phosphotyrosine protein phosphatase,CHEMBL4903,P24666,Tchem
+Low-density lipoprotein receptor-related protein 6,CHEMBL3745588,O75581,Tbio
+Luteinizing hormone/Choriogonadotropin receptor,CHEMBL1854,P22888,Tclin
+Lymphocyte antigen 96,CHEMBL2375202,Q9Y6Y9,Tchem
+Lymphocyte differentiation antigen CD38,CHEMBL4660,P28907,Tclin
+Lymphoid enhancer-binding factor 1,CHEMBL3217392,Q9UJU2,Tchem
+Lysine-specific demethylase 2A,CHEMBL1938210,Q9Y2K7,Tchem
+Lysine-specific demethylase 2B,CHEMBL3779760,Q8NHM5,Tchem
+Lysine-specific demethylase 3A,CHEMBL1938209,Q9Y4C1,Tchem
+Lysine-specific demethylase 4A,CHEMBL5896,O75164,Tchem
+Lysine-specific demethylase 4B,CHEMBL3313832,O94953,Tchem
+Lysine-specific demethylase 4C,CHEMBL6175,Q9H3R0,Tchem
+Lysine-specific demethylase 4D,CHEMBL6138,Q6B0I6,Tchem
+Lysine-specific demethylase 4D-like,CHEMBL1293226,B2RXH2,Tchem
+Lysine-specific demethylase 5A,CHEMBL2424504,P29375,Tchem
+Lysine-specific demethylase 5B,CHEMBL3774295,Q9UGL1,Tchem
+Lysine-specific demethylase 5C,CHEMBL2163176,P41229,Tchem
+Lysine-specific demethylase 6B,CHEMBL1938211,O15054,Tchem
+Lysine-specific demethylase 7,CHEMBL2163177,Q6ZMT4,Tchem
+Lysine-specific histone demethylase 1,CHEMBL6136,O60341,Tchem
+Lysine-specific histone demethylase 1B,CHEMBL1938208,Q8NB78,Tbio
+Lysophosphatidic acid receptor 4,CHEMBL5968,Q99677,Tchem
+Lysophosphatidic acid receptor 5,CHEMBL5700,Q9H1C0,Tchem
+Lysophosphatidic acid receptor 6,CHEMBL2331058,P43657,Tchem
+Lysophosphatidic acid receptor Edg-2,CHEMBL3819,Q92633,Tchem
+Lysophosphatidic acid receptor Edg-4,CHEMBL3724,Q9HBW0,Tchem
+Lysophosphatidic acid receptor Edg-7,CHEMBL3250,Q9UBY5,Tchem
+Lysosomal Pro-X carboxypeptidase,CHEMBL2335,P42785,Tchem
+Lysosomal acid lipase/cholesteryl ester hydrolase,CHEMBL4184,P38571,Tchem
+Lysosomal alpha-glucosidase,CHEMBL2608,P10253,Tclin
+Lysosomal alpha-mannosidase,CHEMBL4059,O00754,Tchem
+Lysosomal protective protein,CHEMBL6115,P10619,Tchem
+Lysyl-tRNA synthetase,CHEMBL5575,Q15046,Tchem
+MAP kinase ERK1,CHEMBL3385,P27361,Tchem
+MAP kinase ERK2,CHEMBL4040,P28482,Tchem
+MAP kinase p38 alpha,CHEMBL260,Q16539,Tchem
+MAP kinase p38 beta,CHEMBL3961,Q15759,Tchem
+MAP kinase p38 delta,CHEMBL2939,O15264,Tchem
+MAP kinase p38 gamma,CHEMBL4674,P53778,Tchem
+MAP kinase signal-integrating kinase 2,CHEMBL4204,Q9HBH9,Tchem
+MAP kinase-activated protein kinase 2,CHEMBL2208,P49137,Tchem
+MAP kinase-activated protein kinase 3,CHEMBL4670,Q16644,Tchem
+MAP kinase-activated protein kinase 5,CHEMBL3094,Q8IW41,Tchem
+MAP kinase-interacting serine/threonine-protein kinase MNK1,CHEMBL4718,Q9BUB5,Tchem
+MAP/microtubule affinity-regulating kinase 2,CHEMBL3831,Q7KZI7,Tchem
+MAP/microtubule affinity-regulating kinase 4,CHEMBL5754,Q96L34,Tchem
+MBT domain-containing protein 1,CHEMBL1287625,Q05BQ5,Tdark
+Macrophage colony stimulating factor  receptor,CHEMBL1844,P07333,Tclin
+Macrophage migration inhibitory factor,CHEMBL2085,P14174,Tchem
+Macrophage-expressed gene 1 protein,CHEMBL3414409,Q2M385,Tchem
+Macrophage-stimulating protein receptor,CHEMBL2689,Q04912,Tchem
+Malate dehydrogenase cytoplasmic,CHEMBL3560,P40925,Tbio
+"Malate dehydrogenase, mitochondrial",CHEMBL5917,P40926,Tchem
+Malonyl-CoA decarboxylase,CHEMBL4698,O95822,Tchem
+Maltase-glucoamylase,CHEMBL2074,O43451,Tclin
+Mannose-6-phosphate isomerase,CHEMBL2758,P34949,Tchem
+Mas-related G-protein coupled receptor member X1,CHEMBL5850,Q96LB2,Tchem
+Mas-related G-protein coupled receptor member X2,CHEMBL5849,Q96LB1,Tchem
+Maternal embryonic leucine zipper kinase,CHEMBL4578,Q14680,Tchem
+Matriptase,CHEMBL3018,Q9Y5Y6,Tchem
+Matrix metalloproteinase 10,CHEMBL4270,P09238,Tchem
+Matrix metalloproteinase 11,CHEMBL2867,P24347,Tchem
+Matrix metalloproteinase 12,CHEMBL4393,P39900,Tchem
+Matrix metalloproteinase 13,CHEMBL280,P45452,Tchem
+Matrix metalloproteinase 14,CHEMBL3869,P50281,Tchem
+Matrix metalloproteinase 15,CHEMBL2963,P51511,Tchem
+Matrix metalloproteinase 16,CHEMBL2200,P51512,Tchem
+Matrix metalloproteinase 17,CHEMBL2937,Q9ULZ9,Tchem
+Matrix metalloproteinase 26,CHEMBL4707,Q9NRE1,Tchem
+Matrix metalloproteinase 3,CHEMBL283,P08254,Tchem
+Matrix metalloproteinase 7,CHEMBL4073,P09237,Tchem
+Matrix metalloproteinase 8,CHEMBL4588,P22894,Tchem
+Matrix metalloproteinase 9,CHEMBL321,P14780,Tchem
+Matrix metalloproteinase-1,CHEMBL332,P03956,Tchem
+Matrix metalloproteinase-2,CHEMBL333,P08253,Tchem
+Matrix metalloproteinase-20,CHEMBL1938226,O60882,Tbio
+Matrix metalloproteinase-24,CHEMBL5050,Q9Y5R2,Tbio
+Matrix metalloproteinase-25,CHEMBL1795103,Q9NPA2,Tchem
+Max-like protein X,CHEMBL2062357,Q9UH92,Tchem
+Melanin-concentrating hormone receptor 1,CHEMBL344,Q99705,Tchem
+Melanin-concentrating hormone receptor 2,CHEMBL5038,Q969V1,Tchem
+Melanocortin receptor 1,CHEMBL3795,Q01726,Tclin
+Melanocortin receptor 3,CHEMBL4644,P41968,Tchem
+Melanocortin receptor 4,CHEMBL259,P32245,Tchem
+Melanocortin receptor 5,CHEMBL4608,P33032,Tchem
+Melatonin receptor 1A,CHEMBL1945,P48039,Tclin
+Melatonin receptor 1B,CHEMBL1946,P49286,Tclin
+Membrane-bound transcription factor site-1 protease,CHEMBL5916,Q14703,Tchem
+Menin,CHEMBL1615381,O00255,Tchem
+Metabotropic glutamate receptor 1,CHEMBL3772,Q13255,Tchem
+Metabotropic glutamate receptor 2,CHEMBL5137,Q14416,Tchem
+Metabotropic glutamate receptor 3,CHEMBL2888,Q14832,Tchem
+Metabotropic glutamate receptor 4,CHEMBL2736,Q14833,Tchem
+Metabotropic glutamate receptor 5,CHEMBL3227,P41594,Tchem
+Metabotropic glutamate receptor 6,CHEMBL4573,O15303,Tchem
+Metabotropic glutamate receptor 7,CHEMBL3777,Q14831,Tchem
+Metabotropic glutamate receptor 8,CHEMBL3228,O00222,Tchem
+Metastin receptor,CHEMBL5413,Q969F8,Tchem
+Methionine aminopeptidase 1,CHEMBL2474,P53582,Tchem
+Methionine aminopeptidase 2,CHEMBL3922,P50579,Tchem
+Methionine synthase,CHEMBL2150844,Q99707,Tbio
+Methionyl-tRNA synthetase,CHEMBL2870,P56192,Tchem
+Methyl-CpG-binding domain protein 2,CHEMBL3707462,Q9UBB5,Tchem
+Microsomal triglyceride transfer protein large subunit,CHEMBL2569,P55157,Tclin
+Microtubule-associated protein 2,CHEMBL2390810,P11137,Tchem
+Microtubule-associated protein tau,CHEMBL1293224,P10636,Tchem
+Microtubule-associated serine/threonine-protein kinase 1,CHEMBL1163128,Q9Y2H9,Tchem
+Microtubule-associated serine/threonine-protein kinase 3,CHEMBL2417352,O60307,Tchem
+Mineralocorticoid receptor,CHEMBL1994,P08235,Tclin
+Misshapen-like kinase 1,CHEMBL5518,Q8N4C8,Tchem
+Mitogen-activated protein kinase 15,CHEMBL5198,Q8TD08,Tchem
+Mitogen-activated protein kinase 4,CHEMBL5759,P31152,Tbio
+Mitogen-activated protein kinase 6,CHEMBL5121,Q16659,Tbio
+Mitogen-activated protein kinase 7,CHEMBL5332,Q13164,Tchem
+Mitogen-activated protein kinase kinase kinase 1,CHEMBL3956,Q13233,Tchem
+Mitogen-activated protein kinase kinase kinase 10,CHEMBL2873,Q02779,Tchem
+Mitogen-activated protein kinase kinase kinase 11,CHEMBL2708,Q16584,Tchem
+Mitogen-activated protein kinase kinase kinase 12,CHEMBL1908389,Q12852,Tchem
+Mitogen-activated protein kinase kinase kinase 13,CHEMBL1163124,O43283,Tchem
+Mitogen-activated protein kinase kinase kinase 14,CHEMBL5888,Q99558,Tchem
+Mitogen-activated protein kinase kinase kinase 15,CHEMBL1163127,Q6ZN16,Tchem
+Mitogen-activated protein kinase kinase kinase 2,CHEMBL5914,Q9Y2U5,Tchem
+Mitogen-activated protein kinase kinase kinase 3,CHEMBL5970,Q99759,Tchem
+Mitogen-activated protein kinase kinase kinase 4,CHEMBL4853,Q9Y6R4,Tbio
+Mitogen-activated protein kinase kinase kinase 5,CHEMBL5285,Q99683,Tchem
+Mitogen-activated protein kinase kinase kinase 6,CHEMBL1163123,O95382,Tchem
+Mitogen-activated protein kinase kinase kinase 7,CHEMBL5776,O43318,Tchem
+Mitogen-activated protein kinase kinase kinase 8,CHEMBL4899,P41279,Tchem
+Mitogen-activated protein kinase kinase kinase 9,CHEMBL2872,P80192,Tchem
+Mitogen-activated protein kinase kinase kinase kinase 1,CHEMBL5749,Q92918,Tchem
+Mitogen-activated protein kinase kinase kinase kinase 2,CHEMBL5330,Q12851,Tchem
+Mitogen-activated protein kinase kinase kinase kinase 3,CHEMBL5432,Q8IVH8,Tchem
+Mitogen-activated protein kinase kinase kinase kinase 4,CHEMBL6166,O95819,Tchem
+Mitogen-activated protein kinase kinase kinase kinase 5,CHEMBL4852,Q9Y4K4,Tchem
+Mitotic checkpoint serine/threonine-protein kinase BUB1,CHEMBL1772932,O43683,Tchem
+Mixed lineage kinase 7,CHEMBL3886,Q9NYL2,Tchem
+Monoacylglycerol lipase ABHD12,CHEMBL5516,Q8N2K0,Tchem
+Monoacylglycerol lipase ABHD6,CHEMBL2189127,Q9BV23,Tchem
+Monoamine oxidase A,CHEMBL1951,P21397,Tclin
+Monoamine oxidase B,CHEMBL2039,P27338,Tclin
+Monocarboxylate transporter 1,CHEMBL4360,P53985,Tchem
+Monocarboxylate transporter 4,CHEMBL2073663,O15427,Tchem
+Monoglyceride lipase,CHEMBL4191,Q99685,Tchem
+Motilin receptor,CHEMBL2203,O43193,Tchem
+Mu opioid receptor,CHEMBL233,P35372,Tclin
+Mucosa-associated lymphoid tissue lymphoma translocation protein 1,CHEMBL3632452,Q9UDY8,Tchem
+Multidrug and toxin extrusion protein 1,CHEMBL1743126,Q96FL8,Tchem
+Multidrug and toxin extrusion protein 2,CHEMBL1743127,Q86VL8,Tchem
+Multidrug resistance-associated protein 1,CHEMBL3004,P33527,Tchem
+Multidrug resistance-associated protein 4,CHEMBL1743128,O15439,Tchem
+Multidrug resistance-associated protein 5,CHEMBL2046258,O15440,Tchem
+Muscarinic acetylcholine receptor M1,CHEMBL216,P11229,Tclin
+Muscarinic acetylcholine receptor M2,CHEMBL211,P08172,Tclin
+Muscarinic acetylcholine receptor M3,CHEMBL245,P20309,Tclin
+Muscarinic acetylcholine receptor M4,CHEMBL1821,P08173,Tclin
+Muscarinic acetylcholine receptor M5,CHEMBL2035,P08912,Tclin
+Muscle glycogen phosphorylase,CHEMBL3526,P11217,Tchem
+Muscle glycogen synthase,CHEMBL4000,P13807,Tchem
+"Muscle, skeletal receptor tyrosine protein kinase",CHEMBL5684,O15146,Tchem
+Myc proto-oncogene protein,CHEMBL1250348,P01106,Tbio
+Myelin transcription factor 1,CHEMBL2331044,Q01538,Tchem
+Myelin-associated glycoprotein,CHEMBL5807,P20916,Tchem
+Myeloperoxidase,CHEMBL2439,P05164,Tchem
+Myoglobin,CHEMBL2406892,P02144,Tbio
+Myosin IIIA,CHEMBL5546,Q8NEV4,Tbio
+Myosin light chain kinase,CHEMBL4627,Q32MK0,Tchem
+Myosin light chain kinase family member 4,CHEMBL5426,Q86YV6,Tchem
+"Myosin light chain kinase, smooth muscle",CHEMBL2428,Q15746,Tchem
+Myosin-IIIB,CHEMBL5654,Q8WXR4,Tbio
+Myotonin-protein kinase,CHEMBL5320,Q09013,Tchem
+"N(G),N(G)-dimethylarginine dimethylaminohydrolase 1",CHEMBL6036,O94760,Tchem
+N-acylneuraminate-9-phosphatase,CHEMBL2401602,Q8TBE9,Tbio
+N-acylsphingosine-amidohydrolase,CHEMBL4349,Q02083,Tchem
+N-arachidonyl glycine receptor,CHEMBL2384898,Q14330,Tchem
+N-lysine methyltransferase SETD8,CHEMBL1795176,Q9NQR1,Tchem
+N-lysine methyltransferase SMYD2,CHEMBL2169716,Q9NRG4,Tchem
+"NACHT, LRR and PYD domains-containing protein 3",CHEMBL1741208,Q96P20,Tchem
+NAD kinase,CHEMBL6177,O95544,Tbio
+NAD-dependent deacetylase sirtuin 1,CHEMBL4506,Q96EB6,Tchem
+NAD-dependent deacetylase sirtuin 2,CHEMBL4462,Q8IXJ6,Tchem
+NAD-dependent deacetylase sirtuin 3,CHEMBL4461,Q9NTG7,Tchem
+NAD-dependent protein deacetylase sirtuin-6,CHEMBL2163182,Q8N6T7,Tchem
+"NAD-dependent protein deacylase sirtuin-5, mitochondrial",CHEMBL2163183,Q9NXA8,Tchem
+NADP-dependent malic enzyme,CHEMBL3495,P48163,Tchem
+NADPH oxidase 1,CHEMBL1287628,Q9Y5S8,Tchem
+NADPH oxidase 4,CHEMBL1250375,Q9NPH5,Tchem
+NADPH oxidase 5,CHEMBL1926497,Q96PH1,Tchem
+NEDD8-activating enzyme E1 regulatory subunit,CHEMBL2016431,Q13564,Tchem
+NF-kappa-B essential modulator,CHEMBL4967,Q9Y6K9,Tbio
+NF-kappaB inhibitor alpha,CHEMBL2898,P25963,Tchem
+NT-3 growth factor receptor,CHEMBL5608,Q16288,Tchem
+NUAK family SNF1-like kinase 1,CHEMBL5784,O60285,Tchem
+NUAK family SNF1-like kinase 2,CHEMBL5698,Q9H093,Tchem
+Natural resistance-associated macrophage protein 2,CHEMBL1932895,P49281,Tchem
+Nck adaptor protein 1,CHEMBL4846,P16333,Tbio
+Neprilysin,CHEMBL1944,P08473,Tclin
+Nerve growth factor receptor Trk-A,CHEMBL2815,P04629,Tclin
+Neurogenic locus notch homolog protein 1,CHEMBL2146346,P46531,Tchem
+Neurogenic locus notch homolog protein 2,CHEMBL3407320,Q04721,Tchem
+Neurogenic locus notch homolog protein 3,CHEMBL3407319,Q9UM47,Tchem
+Neurogenic locus notch homolog protein 4,CHEMBL3407321,Q99466,Tchem
+Neurokinin 1 receptor,CHEMBL249,P25103,Tclin
+Neurokinin 2 receptor,CHEMBL2327,P21452,Tchem
+Neurokinin 3 receptor,CHEMBL4429,P29371,Tchem
+Neuromedin B receptor,CHEMBL3636,P28336,Tchem
+Neuromedin-U receptor 2,CHEMBL1075144,Q9GZQ4,Tchem
+Neuronal acetylcholine receptor protein alpha-4 subunit,CHEMBL1882,P43681,Tclin
+Neuronal acetylcholine receptor protein alpha-7 subunit,CHEMBL2492,P36544,Tchem
+Neuronal acetylcholine receptor subunit alpha-3,CHEMBL3068,P32297,Tclin
+Neuropeptide FF receptor 1,CHEMBL5951,Q9GZQ6,Tchem
+Neuropeptide FF receptor 2,CHEMBL5952,Q9Y5X5,Tchem
+Neuropeptide S receptor,CHEMBL5162,Q6W5P4,Tchem
+Neuropeptide Y receptor type 1,CHEMBL4777,P25929,Tchem
+Neuropeptide Y receptor type 2,CHEMBL4018,P49146,Tchem
+Neuropeptide Y receptor type 4,CHEMBL4877,P50391,Tchem
+Neuropeptide Y receptor type 5,CHEMBL4561,Q15761,Tchem
+Neuropeptides B/W receptor type 1,CHEMBL1293293,P48145,Tchem
+Neuropilin-1,CHEMBL5174,O14786,Tchem
+Neurotensin receptor 1,CHEMBL4123,P30989,Tchem
+Neurotensin receptor 2,CHEMBL2514,O95665,Tchem
+Neurotensin receptor 3,CHEMBL3091,Q99523,Tchem
+Neurotrophic tyrosine kinase receptor type 2,CHEMBL4898,Q16620,Tchem
+Neutral amino acid transporter B(0),CHEMBL3562162,Q15758,Tchem
+Neutral ceramidase,CHEMBL2021754,Q9NR71,Tbio
+Neutral cholesterol ester hydrolase 1,CHEMBL5048,Q6PIU2,Tchem
+Nicotinamide N-methyltransferase,CHEMBL2346486,P40261,Tchem
+Nicotinamide phosphoribosyltransferase,CHEMBL1744525,P43490,Tchem
+Niemann-Pick C1 protein,CHEMBL1293277,O15118,Tbio
+Niemann-Pick C1-like protein 1,CHEMBL2027,Q9UHC9,Tclin
+Nischarin,CHEMBL3923,Q9Y2I1,Tclin
+"Nitric oxide synthase, inducible",CHEMBL4481,P35228,Tchem
+"Nitric-oxide synthase, brain",CHEMBL3568,P29475,Tchem
+"Nitric-oxide synthase, endothelial",CHEMBL4803,P29474,Tchem
+Nociceptin receptor,CHEMBL2014,P41146,Tchem
+Non-receptor tyrosine-protein kinase TNK1,CHEMBL5334,Q13470,Tchem
+Non-secretory ribonuclease,CHEMBL5120,P10153,Tchem
+Non-specific lipid-transfer protein,CHEMBL5950,P22307,Tchem
+Norepinephrine transporter,CHEMBL222,P23975,Tclin
+Nuclear factor NF-kappa-B p105 subunit,CHEMBL3251,P19838,Tchem
+Nuclear factor NF-kappa-B p65 subunit,CHEMBL5533,Q04206,Tchem
+Nuclear factor erythroid 2-related factor 2,CHEMBL1075094,Q16236,Tchem
+Nuclear receptor ROR-alpha,CHEMBL5868,P35398,Tchem
+Nuclear receptor ROR-beta,CHEMBL3091268,Q92753,Tchem
+Nuclear receptor ROR-gamma,CHEMBL1741186,P51449,Tchem
+Nuclear receptor subfamily 0 group B member 2,CHEMBL5603,Q15466,Tchem
+Nuclear receptor subfamily 1 group D member 1,CHEMBL1961783,P20393,Tchem
+Nuclear receptor subfamily 1 group D member 2,CHEMBL1961784,Q14995,Tchem
+Nuclear receptor subfamily 1 group I member 3,CHEMBL5503,Q14994,Tchem
+Nuclear receptor subfamily 2 group C member 2,CHEMBL5716,P49116,Tchem
+Nuclear receptor subfamily 4 group A member 2,CHEMBL5002,P43354,Tchem
+Nucleophosmin,CHEMBL5178,P06748,Tbio
+Nucleosome-remodeling factor subunit BPTF,CHEMBL3085621,Q12830,Tchem
+Nucleotide-binding oligomerization domain-containing protein 1,CHEMBL1293222,Q9Y239,Tchem
+Nucleotide-binding oligomerization domain-containing protein 2,CHEMBL1293266,Q9HC29,Tclin
+Oligopeptide transporter small intestine isoform,CHEMBL4605,P46059,Tchem
+Opioid growth factor receptor-like protein 1,CHEMBL3638334,Q5TC84,Tchem
+Orexin receptor 1,CHEMBL5113,O43613,Tclin
+Orexin receptor 2,CHEMBL4792,O43614,Tclin
+"Ornithine aminotransferase, mitochondrial",CHEMBL5954,P04181,Tchem
+Ornithine decarboxylase,CHEMBL1869,P11926,Tclin
+Orphan nuclear receptor LRH-1,CHEMBL3544,O00482,Tchem
+Oxoeicosanoid receptor 1,CHEMBL1628461,Q8TDS5,Tchem
+Oxytocin receptor,CHEMBL2049,P30559,Tclin
+P-glycoprotein 1,CHEMBL4302,P08183,Tchem
+P-selectin,CHEMBL5378,P16109,Tchem
+P-selectin glycoprotein ligand 1,CHEMBL4183,Q14242,Tbio
+P2X purinoceptor 1,CHEMBL2094,P51575,Tchem
+P2X purinoceptor 2,CHEMBL2531,Q9UBL9,Tchem
+P2X purinoceptor 3,CHEMBL2998,P56373,Tchem
+P2X purinoceptor 4,CHEMBL2104,Q99571,Tchem
+P2X purinoceptor 7,CHEMBL4805,Q99572,Tchem
+PAS domain-containing serine/threonine-protein kinase,CHEMBL6054,Q96RG2,Tbio
+PDZ-binding kinase,CHEMBL4896,Q96KB5,Tchem
+PH domain leucine-rich repeat-containing protein phosphatase 1,CHEMBL3414405,O60346,Tchem
+PI3-kinase p110-alpha subunit,CHEMBL4005,P42336,Tclin
+PI3-kinase p110-beta subunit,CHEMBL3145,P42338,Tchem
+PI3-kinase p110-delta subunit,CHEMBL3130,O00329,Tclin
+PI3-kinase p110-gamma subunit,CHEMBL3267,P48736,Tchem
+PI4-kinase alpha subunit,CHEMBL3667,P42356,Tchem
+PI4-kinase beta subunit,CHEMBL3268,Q9UBF8,Tchem
+PI4-kinase type II,CHEMBL2251,Q9BTU6,Tbio
+PITSLRE serine/threonine-protein kinase CDC2L1,CHEMBL5808,P21127,Tchem
+PITSLRE serine/threonine-protein kinase CDC2L2,CHEMBL5416,Q9UQ88,Tchem
+"POU domain, class 2, transcription factor 1",CHEMBL3509601,P14859,Tbio
+"POU domain, class 2, transcription factor 2",CHEMBL3509582,P09086,Tbio
+Palmitoleoyl-protein carboxylesterase NOTUM,CHEMBL3714531,Q6P988,Tchem
+Pancreatic alpha-amylase,CHEMBL2045,P04746,Tclin
+Pancreatic lipase,CHEMBL1812,P16233,Tclin
+Pantothenate kinase 1,CHEMBL3407326,Q8TE04,Tbio
+"Pantothenate kinase 2, mitochondrial",CHEMBL3407327,Q9BZ23,Tbio
+Pantothenate kinase 3,CHEMBL3407328,Q9H999,Tchem
+Parathyroid hormone receptor,CHEMBL1793,Q03431,Tclin
+Patatin-like phospholipase domain-containing protein 2,CHEMBL3822353,Q96AD5,Tchem
+Pepsin A,CHEMBL3295,P0DJD9,Tclin
+Pepsinogen C,CHEMBL2136,P20142,Tchem
+Peptide N-myristoyltransferase 1,CHEMBL2593,P30419,Tchem
+Peptide N-myristoyltransferase 2,CHEMBL2849,O60551,Tchem
+Peptide deformylase mitochondrial,CHEMBL4647,Q9HBH1,Tchem
+Peptidyl-glycine alpha-amidating monooxygenase,CHEMBL2544,P19021,Tchem
+Peptidyl-prolyl cis-trans isomerase D,CHEMBL1697657,Q08752,Tchem
+Peptidyl-prolyl cis-trans isomerase FKBP5,CHEMBL2052031,Q13451,Tchem
+Peptidyl-prolyl cis-trans isomerase NIMA-interacting 1,CHEMBL2288,Q13526,Tchem
+Peptidyl-prolyl cis-trans isomerase NIMA-interacting 2,CHEMBL4923,Q9Y237,Tbio
+Peregrin,CHEMBL3132741,P55201,Tchem
+Perforin-1,CHEMBL5480,P14222,Tchem
+Period circadian protein homolog 2,CHEMBL3751648,O15055,Tchem
+Peripheral plasma membrane protein CASK,CHEMBL1908381,O14936,Tchem
+Peroxisome proliferator-activated receptor alpha,CHEMBL239,Q07869,Tclin
+Peroxisome proliferator-activated receptor delta,CHEMBL3979,Q03181,Tchem
+Peroxisome proliferator-activated receptor gamma,CHEMBL235,P37231,Tclin
+Phenylalanine-4-hydroxylase,CHEMBL3076,P00439,Tclin
+Phenylethanolamine N-methyltransferase,CHEMBL4617,P11086,Tchem
+Phosphatidylcholine:ceramide cholinephosphotransferase 1,CHEMBL3611965,Q86VZ5,Tchem
+Phosphatidylcholine:ceramide cholinephosphotransferase 2,CHEMBL3112379,Q8NHU3,Tchem
+"Phosphatidylinositol 3,4,5-trisphosphate 5-phosphatase 2",CHEMBL2331064,O15357,Tchem
+Phosphatidylinositol 3-kinase catalytic subunit type 3,CHEMBL1075165,Q8NEB9,Tchem
+Phosphatidylinositol-4-phosphate 3-kinase C2 domain-containing beta polypeptide,CHEMBL5554,O00750,Tchem
+Phosphatidylinositol-4-phosphate 3-kinase C2 domain-containing subunit alpha,CHEMBL1075102,O00443,Tchem
+Phosphatidylinositol-4-phosphate 3-kinase C2 domain-containing subunit gamma,CHEMBL1163120,O75747,Tchem
+Phosphatidylinositol-4-phosphate 5-kinase type-1 alpha,CHEMBL5969,Q99755,Tbio
+Phosphatidylinositol-4-phosphate 5-kinase type-1 gamma,CHEMBL1908383,O60331,Tchem
+Phosphatidylinositol-5-phosphate 4-kinase type-2 beta,CHEMBL5667,P78356,Tchem
+Phosphatidylinositol-5-phosphate 4-kinase type-2 gamma,CHEMBL1770034,Q8TBX8,Tchem
+Phosphodiesterase 10A,CHEMBL4409,Q9Y233,Tclin
+Phosphodiesterase 11A,CHEMBL2717,Q9HCR9,Tchem
+Phosphodiesterase 1A,CHEMBL3421,P54750,Tclin
+Phosphodiesterase 1B,CHEMBL4425,Q01064,Tclin
+Phosphodiesterase 1C,CHEMBL4619,Q14123,Tclin
+Phosphodiesterase 2A,CHEMBL2652,O00408,Tclin
+Phosphodiesterase 3A,CHEMBL241,Q14432,Tclin
+Phosphodiesterase 3B,CHEMBL290,Q13370,Tclin
+Phosphodiesterase 4A,CHEMBL254,P27815,Tclin
+Phosphodiesterase 4B,CHEMBL275,Q07343,Tclin
+Phosphodiesterase 4C,CHEMBL291,Q08493,Tclin
+Phosphodiesterase 4D,CHEMBL288,Q08499,Tclin
+Phosphodiesterase 5A,CHEMBL1827,O76074,Tclin
+Phosphodiesterase 6A,CHEMBL3878,P16499,Tclin
+Phosphodiesterase 6C,CHEMBL3977,P51160,Tclin
+Phosphodiesterase 6D,CHEMBL3860,O43924,Tclin
+Phosphodiesterase 7A,CHEMBL3012,Q13946,Tclin
+Phosphodiesterase 7B,CHEMBL4716,Q9NP56,Tclin
+Phosphodiesterase 8A,CHEMBL4640,O60658,Tclin
+Phosphodiesterase 8B,CHEMBL4408,O95263,Tclin
+Phosphodiesterase 9A,CHEMBL3535,O76083,Tchem
+Phosphoenolpyruvate carboxykinase cytosolic,CHEMBL2911,P35558,Tbio
+Phosphoethanolamine/phosphocholine phosphatase,CHEMBL6113,Q8TCT1,Tchem
+Phosphoglycerate mutase 1,CHEMBL3334418,P18669,Tbio
+Phospholipase A2 group 1B,CHEMBL4426,P04054,Tchem
+Phospholipase A2 group IIA,CHEMBL3474,P14555,Tchem
+Phospholipase A2 group IIC,CHEMBL2097,Q5R387,Tchem
+Phospholipase A2 group V,CHEMBL4323,P39877,Tchem
+Phospholipase C-gamma-1,CHEMBL3964,P19174,Tchem
+Phospholipase D1,CHEMBL2536,Q13393,Tchem
+Phospholipase D2,CHEMBL2734,O14939,Tchem
+Phosphomannomutase 2,CHEMBL1741162,O15305,Tchem
+Phosphorylase kinase gamma subunit 1,CHEMBL4004,Q16816,Tchem
+Phosphorylase kinase gamma subunit 2,CHEMBL2349,P15735,Tchem
+Photoreceptor-specific nuclear receptor,CHEMBL4374,Q9Y5X4,Tbio
+Placenta growth factor,CHEMBL1697671,P49763,Tclin
+Plasma kallikrein,CHEMBL2000,P03952,Tclin
+Plasma retinol-binding protein,CHEMBL3100,P02753,Tchem
+Plasminogen,CHEMBL1801,P00747,Tclin
+Plasminogen activator inhibitor-1,CHEMBL3475,P05121,Tchem
+Platelet activating factor receptor,CHEMBL250,P25105,Tchem
+Platelet-activating factor acetylhydrolase IB beta subunit,CHEMBL4463,P68402,Tchem
+Platelet-derived growth factor receptor alpha,CHEMBL2007,P16234,Tclin
+Platelet-derived growth factor receptor beta,CHEMBL1913,P09619,Tclin
+Platelet-derived growth factor subunit A,CHEMBL3137294,P04085,Tchem
+Platelet-derived growth factor subunit B,CHEMBL3108633,P01127,Tchem
+Pleckstrin homology domain-containing family A member 1,CHEMBL3763005,Q9HB21,Tbio
+Poly [ADP-ribose] polymerase 10,CHEMBL2429708,Q53GL7,Tchem
+Poly [ADP-ribose] polymerase 14,CHEMBL2176777,Q460N5,Tbio
+Poly [ADP-ribose] polymerase 15,CHEMBL2176778,Q460N3,Tbio
+Poly [ADP-ribose] polymerase 2,CHEMBL5366,Q9UGN5,Tclin
+Poly [ADP-ribose] polymerase 3,CHEMBL5083,Q9Y6F1,Tclin
+Poly [ADP-ribose] polymerase 4,CHEMBL6142,Q9UKK3,Tchem
+Poly [ADP-ribose] polymerase 6,CHEMBL2380187,Q2NL67,Tchem
+Poly [ADP-ribose] polymerase-1,CHEMBL3105,P09874,Tclin
+Poly(A)-specific ribonuclease PARN,CHEMBL3616362,O95453,Tbio
+Polycomb protein EED,CHEMBL2189117,O75530,Tchem
+Porphobilinogen synthase,CHEMBL3126,P13716,Tbio
+Potassium channel subfamily K member 10,CHEMBL2331041,P57789,Tclin
+Potassium channel subfamily K member 2,CHEMBL2321615,O95069,Tclin
+Potassium channel subfamily K member 3,CHEMBL2321613,O14649,Tclin
+Potassium channel subfamily K member 4,CHEMBL3714486,Q9NYG8,Tbio
+Potassium channel subfamily K member 9,CHEMBL2321614,Q9NPC2,Tclin
+"Potassium channel, inwardly rectifying, subfamily J, member 11",CHEMBL1886,Q14654,Tclin
+Potassium voltage-gated channel subfamily B member 1,CHEMBL2363000,Q14721,Tclin
+Potassium voltage-gated channel subfamily B member 2,CHEMBL2321618,Q92953,Tclin
+Potassium/sodium hyperpolarization-activated cyclic nucleotide-gated channel 1,CHEMBL1795171,O60741,Tclin
+Potassium/sodium hyperpolarization-activated cyclic nucleotide-gated channel 2,CHEMBL1795172,Q9UL51,Tclin
+Potassium/sodium hyperpolarization-activated cyclic nucleotide-gated channel 3,CHEMBL1795173,Q9P1Z3,Tclin
+Potassium/sodium hyperpolarization-activated cyclic nucleotide-gated channel 4,CHEMBL1250417,Q9Y3Q4,Tclin
+Pregnane X receptor,CHEMBL3401,O75469,Tchem
+Prenyl protein specific protease,CHEMBL3411,Q9Y256,Tchem
+Presenilin 1,CHEMBL2473,P49768,Tchem
+Presenilin 2,CHEMBL3708,P49810,Tchem
+"Presequence protease, mitochondrial",CHEMBL3124731,Q5JRX3,Tchem
+Probable DNA dC->dU-editing enzyme APOBEC-3A,CHEMBL1741179,P31941,Tbio
+Probable G-protein coupled receptor 139,CHEMBL3632455,Q6DWJ6,Tchem
+Probable G-protein coupled receptor 142,CHEMBL2069161,Q7Z601,Tchem
+Probable G-protein coupled receptor 174,CHEMBL3562167,Q9BXC1,Tchem
+Probable G-protein coupled receptor 34,CHEMBL3562165,Q9UPC5,Tchem
+Probable G-protein coupled receptor 52,CHEMBL3297639,Q9Y2T5,Tchem
+Probable G-protein coupled receptor 88,CHEMBL3399910,Q9GZN0,Tchem
+Probable JmjC domain-containing histone demethylation protein 2C,CHEMBL3792271,Q15652,Tbio
+Probable global transcription activator SNF2L2,CHEMBL2362979,P51531,Tchem
+Probable protein-cysteine N-palmitoyltransferase porcupine,CHEMBL1255163,Q9H237,Tchem
+Probable ubiquitin carboxyl-terminal hydrolase FAF-X,CHEMBL2406899,Q93008,Tbio
+Progesterone receptor,CHEMBL208,P06401,Tclin
+Programmed cell death 1 ligand 1,CHEMBL3580522,Q9NZQ7,Tclin
+Programmed cell death protein 4,CHEMBL1781868,Q53EL6,Tchem
+Prohormone convertase 1,CHEMBL3182,P29120,Tchem
+Prohormone convertase 2,CHEMBL2433,P16519,Tchem
+Prokineticin receptor 1,CHEMBL5649,Q8TCW9,Tchem
+Proliferating cell nuclear antigen,CHEMBL2346488,P12004,Tchem
+Proline-rich AKT1 substrate 1,CHEMBL1255161,Q96B36,Tchem
+Prolyl 4-hydroxylase subunit alpha-1,CHEMBL1250350,P13674,Tchem
+Prolyl endopeptidase,CHEMBL3202,P48147,Tchem
+Prostaglandin E synthase,CHEMBL5658,O14684,Tchem
+Prostaglandin E synthase 2,CHEMBL4411,Q9H7Z7,Tchem
+Prostanoid DP receptor,CHEMBL4427,Q13258,Tclin
+Prostanoid EP1 receptor,CHEMBL1811,P34995,Tclin
+Prostanoid EP2 receptor,CHEMBL1881,P43116,Tclin
+Prostanoid EP3 receptor,CHEMBL3710,P43115,Tclin
+Prostanoid EP4 receptor,CHEMBL1836,P35408,Tclin
+Prostanoid FP receptor,CHEMBL1987,P43088,Tclin
+Prostanoid IP receptor,CHEMBL1995,P43119,Tclin
+Prostasin,CHEMBL5610,Q16651,Tchem
+Prostate specific antigen,CHEMBL2099,P07288,Tchem
+Prostatic acid phosphatase,CHEMBL2633,P15309,Tchem
+Proteasome Macropain subunit,CHEMBL3492,P49721,Tclin
+Proteasome Macropain subunit MB1,CHEMBL4662,P28074,Tclin
+Proteasome component C5,CHEMBL4208,P20618,Tclin
+Proteasome subunit beta type-10,CHEMBL3317334,P40306,Tchem
+Proteasome subunit beta type-8,CHEMBL5620,P28062,Tclin
+Proteasome subunit beta type-9,CHEMBL1944495,P28065,Tchem
+Protection of telomeres protein 1,CHEMBL5908,Q9NUX5,Tbio
+Protein Mdm4,CHEMBL1255126,O15151,Tchem
+Protein Wnt-3a,CHEMBL1255137,P56704,Tchem
+Protein arginine N-methyltransferase 3,CHEMBL5891,O60678,Tchem
+Protein arginine N-methyltransferase 5,CHEMBL1795116,O14744,Tchem
+Protein arginine N-methyltransferase 6,CHEMBL1275221,Q96LA8,Tchem
+Protein arginine N-methyltransferase 7,CHEMBL3562175,Q9NVM4,Tchem
+Protein arginine N-methyltransferase 8,CHEMBL3108648,Q9NR22,Tchem
+Protein cereblon,CHEMBL3763008,Q96SW2,Tclin
+Protein delta homolog 1,CHEMBL5671,P80370,Tchem
+Protein kinase C alpha,CHEMBL299,P17252,Tchem
+Protein kinase C beta,CHEMBL3045,P05771,Tchem
+Protein kinase C delta,CHEMBL2996,Q05655,Tclin
+Protein kinase C epsilon,CHEMBL3582,Q02156,Tchem
+Protein kinase C eta,CHEMBL3616,P24723,Tchem
+Protein kinase C gamma,CHEMBL2938,P05129,Tchem
+Protein kinase C iota,CHEMBL2598,P41743,Tchem
+Protein kinase C mu,CHEMBL3863,Q15139,Tchem
+Protein kinase C nu,CHEMBL2595,O94806,Tchem
+Protein kinase C theta,CHEMBL3920,Q04759,Tchem
+Protein kinase C zeta,CHEMBL3438,Q05513,Tchem
+Protein kinase N1,CHEMBL3384,Q16512,Tchem
+Protein kinase N2,CHEMBL3032,Q16513,Tchem
+Protein max,CHEMBL1250363,P61244,Tbio
+Protein phosphatase 1D,CHEMBL1938224,O15297,Tchem
+Protein phosphatase 1G,CHEMBL3351199,O15355,Tbio
+Protein phosphatase 2C alpha,CHEMBL2437,P35813,Tchem
+Protein phosphatase methylesterase 1,CHEMBL1293320,Q9Y570,Tchem
+Protein polybromo-1,CHEMBL1795184,Q86U86,Tchem
+Protein prune homolog,CHEMBL2079850,Q86TP1,Tchem
+Protein tyrosine kinase 2 beta,CHEMBL5469,Q14289,Tchem
+Protein tyrosine phosphatase type IVA 1,CHEMBL1075169,Q93096,Tchem
+Protein tyrosine phosphatase type IVA 2,CHEMBL1075105,Q12974,Tchem
+Protein-arginine N-methyltransferase 1,CHEMBL5524,Q99873,Tchem
+Protein-arginine deiminase type-1,CHEMBL1909486,Q9ULC6,Tchem
+Protein-arginine deiminase type-2,CHEMBL1909487,Q9Y2J8,Tchem
+Protein-arginine deiminase type-3,CHEMBL1909488,Q9ULW8,Tchem
+Protein-arginine deiminase type-4,CHEMBL6111,Q9UM07,Tchem
+Protein-glutamine gamma-glutamyltransferase,CHEMBL2730,P21980,Tchem
+Protein-glutamine gamma-glutamyltransferase 6,CHEMBL2079852,O95932,Tchem
+Protein-glutamine gamma-glutamyltransferase K,CHEMBL2810,P22735,Tchem
+Protein-glutamine glutamyltransferase E,CHEMBL3363,Q08188,Tchem
+Protein-tyrosine phosphatase 1B,CHEMBL335,P18031,Tchem
+Protein-tyrosine phosphatase 1C,CHEMBL3166,P29350,Tchem
+Protein-tyrosine phosphatase 1E,CHEMBL2976,Q12923,Tchem
+Protein-tyrosine phosphatase 2C,CHEMBL3864,Q06124,Tchem
+Protein-tyrosine phosphatase 4A3,CHEMBL4162,O75365,Tchem
+Protein-tyrosine phosphatase G1,CHEMBL3236,Q05209,Tchem
+Protein-tyrosine phosphatase LC-PTP,CHEMBL2219,P35236,Tchem
+Proteinase activated receptor 4,CHEMBL4691,Q96RI0,Tchem
+Proteinase-activated receptor 1,CHEMBL3974,P25116,Tclin
+Proteinase-activated receptor 2,CHEMBL5963,P55085,Tchem
+Proto-oncogene c-JUN,CHEMBL4977,P05412,Tchem
+Proto-oncogene protein Wnt-3,CHEMBL6079,P56703,Tchem
+Proto-oncogene tyrosine-protein kinase MER,CHEMBL5331,Q12866,Tchem
+Proto-oncogene tyrosine-protein kinase ROS,CHEMBL5568,P08922,Tchem
+Proto-oncogene vav,CHEMBL3259472,P15498,Tchem
+Proton-coupled folate transporter,CHEMBL1795188,Q96NT5,Tchem
+Protoporphyrinogen oxidase,CHEMBL1926488,P50336,Tchem
+Purine nucleoside phosphorylase,CHEMBL4338,P00491,Tclin
+Purinergic receptor P2Y1,CHEMBL4315,P47900,Tchem
+Purinergic receptor P2Y11,CHEMBL4867,Q96G91,Tchem
+Purinergic receptor P2Y12,CHEMBL2001,Q9H244,Tclin
+Purinergic receptor P2Y14,CHEMBL4518,Q15391,Tchem
+Purinergic receptor P2Y2,CHEMBL4398,P41231,Tclin
+Puromycin-sensitive aminopeptidase,CHEMBL2264,P55786,Tchem
+Putative N-acetylglucosamine-6-phosphate deacetylase,CHEMBL3217376,Q9Y303,Tchem
+Putative P2Y purinoceptor 10,CHEMBL3562166,O00398,Tchem
+Putative uncharacterized serine/threonine-protein kinase SgK110,CHEMBL5116,P0C264,Tchem
+Pyrimidinergic receptor P2Y4,CHEMBL2123,P51582,Tchem
+Pyrimidinergic receptor P2Y6,CHEMBL4714,Q15077,Tchem
+Pyroglutamylated RFamide peptide receptor,CHEMBL5852,Q96P65,Tchem
+Pyruvate dehydrogenase kinase isoform 1,CHEMBL4766,Q15118,Tchem
+Pyruvate dehydrogenase kinase isoform 2,CHEMBL3861,Q15119,Tchem
+Pyruvate dehydrogenase kinase isoform 3,CHEMBL3893,Q15120,Tchem
+Pyruvate dehydrogenase kinase isoform 4,CHEMBL4141,Q16654,Tchem
+Pyruvate kinase isozymes M1/M2,CHEMBL1075189,P14618,Tchem
+Pyruvate kinase isozymes R/L,CHEMBL1075126,P30613,Tbio
+Quinone reductase 1),CHEMBL3623,P15559,Tchem
+Quinone reductase 2,CHEMBL3959,P16083,Tchem
+RAS guanyl releasing protein 3,CHEMBL3638,Q8IV61,Tchem
+RAS guanyl-releasing protein 1,CHEMBL5953,O95267,Tchem
+RNA polymerase II subunit A C-terminal domain phosphatase SSU72,CHEMBL3317331,Q9NP77,Tbio
+RNase L,CHEMBL3575,Q05823,Tchem
+Rap guanine nucleotide exchange factor 3,CHEMBL2029197,O95398,Tchem
+Rap guanine nucleotide exchange factor 4,CHEMBL2029198,Q8WZA2,Tchem
+Ras-related C3 botulinum toxin substrate 1,CHEMBL6094,P63000,Tbio
+Receptor protein-tyrosine kinase erbB-2,CHEMBL1824,P04626,Tclin
+Receptor protein-tyrosine kinase erbB-4,CHEMBL3009,Q15303,Tclin
+Receptor tyrosine-protein kinase erbB-3,CHEMBL5838,P21860,Tchem
+Receptor-interacting serine/threonine-protein kinase 1,CHEMBL5464,Q13546,Tchem
+Receptor-interacting serine/threonine-protein kinase 3,CHEMBL1795199,Q9Y572,Tchem
+Receptor-interacting serine/threonine-protein kinase 4,CHEMBL6083,P57078,Tchem
+Receptor-type tyrosine-protein phosphatase F (LAR),CHEMBL3521,P10586,Tchem
+Receptor-type tyrosine-protein phosphatase R,CHEMBL3425390,Q15256,Tbio
+Receptor-type tyrosine-protein phosphatase S,CHEMBL2396508,Q13332,Tchem
+Receptor-type tyrosine-protein phosphatase alpha,CHEMBL3918,P18433,Tchem
+Receptor-type tyrosine-protein phosphatase beta,CHEMBL2706,P23467,Tchem
+Receptor-type tyrosine-protein phosphatase eta,CHEMBL3692,Q12913,Tbio
+Receptor-type tyrosine-protein phosphatase gamma,CHEMBL4905,P23470,Tchem
+Receptor-type tyrosine-protein phosphatase mu,CHEMBL4661,P28827,Tchem
+Regulator of G-protein signaling 16,CHEMBL3707469,O15492,Tbio
+Regulator of G-protein signaling 19,CHEMBL3707468,P49795,Tchem
+Regulator of G-protein signaling 8,CHEMBL2034803,P57771,Tchem
+Renin,CHEMBL286,P00797,Tclin
+Replication protein A 70 kDa DNA-binding subunit,CHEMBL1764940,P27694,Tchem
+Retinoblastoma-associated protein,CHEMBL5288,P06400,Tchem
+Retinoic acid receptor alpha,CHEMBL2055,P10276,Tclin
+Retinoic acid receptor beta,CHEMBL2008,P10826,Tclin
+Retinoic acid receptor gamma,CHEMBL2003,P13631,Tclin
+Retinoid X receptor alpha,CHEMBL2061,P19793,Tclin
+Retinoid X receptor beta,CHEMBL1870,P28702,Tclin
+Retinoid X receptor gamma,CHEMBL2004,P48443,Tclin
+Rho GDP-dissociation inhibitor 1,CHEMBL3638327,P52565,Tchem
+Rho-associated protein kinase 1,CHEMBL3231,Q13464,Tclin
+Rho-associated protein kinase 2,CHEMBL2973,O75116,Tclin
+Rhodopsin kinase,CHEMBL5607,Q15835,Tchem
+Ribonuclease H1,CHEMBL5893,O60930,Tchem
+Ribonucleoside-diphosphate reductase M1 chain,CHEMBL1830,P23921,Tclin
+Ribosomal protein S6 kinase 1,CHEMBL4501,P23443,Tchem
+Ribosomal protein S6 kinase alpha 1,CHEMBL2553,Q15418,Tchem
+Ribosomal protein S6 kinase alpha 2,CHEMBL3906,Q15349,Tchem
+Ribosomal protein S6 kinase alpha 3,CHEMBL2345,P51812,Tchem
+Ribosomal protein S6 kinase alpha 4,CHEMBL3125,O75676,Tchem
+Ribosomal protein S6 kinase alpha 5,CHEMBL4237,O75582,Tchem
+Ribosomal protein S6 kinase alpha 6,CHEMBL4924,Q9UK32,Tchem
+RuvB-like 1,CHEMBL3259467,Q9Y265,Tbio
+S-100 protein beta chain,CHEMBL4300,P04271,Tchem
+S-adenosylmethionine decarboxylase 1,CHEMBL4181,P17707,Tchem
+S-methyl-5-thioadenosine phosphorylase,CHEMBL4941,Q13126,Tchem
+S-methylmethionine--homocysteine S-methyltransferase BHMT2,CHEMBL2163167,Q9H2M3,Tchem
+SH2 domain-containing protein 1A,CHEMBL2321636,O60880,Tbio
+SNF-related serine/threonine-protein kinase,CHEMBL1908384,Q9NRH2,Tbio
+SPRY domain-containing SOCS box protein 2,CHEMBL3325308,Q99619,Tbio
+SPS1/STE20-related protein kinase YSK4,CHEMBL6191,Q56UN5,Tchem
+STE20/SPS1-related proline-alanine-rich protein kinase,CHEMBL1163108,Q9UEW8,Tbio
+SUMO-activating enzyme subunit 1,CHEMBL1615388,Q9UBE0,Tbio
+SUMO-conjugating enzyme UBC9,CHEMBL1741191,P63279,Tbio
+Salivary alpha-amylase,CHEMBL2478,P04745,Tchem
+Scavenger receptor class B member 1,CHEMBL1914272,Q8WTV0,Tchem
+Secreted frizzled-related protein 1,CHEMBL5517,Q8N474,Tchem
+Segment polarity protein dishevelled homolog DVL-1,CHEMBL6027,O14640,Tchem
+Segment polarity protein dishevelled homolog DVL-3,CHEMBL6028,Q92997,Tbio
+Selectin E,CHEMBL3890,P16581,Tchem
+Sentrin-specific protease 1,CHEMBL1909484,Q9P0U3,Tchem
+Sentrin-specific protease 2,CHEMBL2176776,Q9HC62,Tbio
+"Serine hydroxymethyltransferase, cytosolic",CHEMBL1772927,P34896,Tbio
+Serine palmitoyltransferase 1,CHEMBL1250343,O15269,Tchem
+Serine palmitoyltransferase 2,CHEMBL1250344,O15270,Tchem
+Serine protease hepsin,CHEMBL2079849,P05981,Tchem
+Serine racemase,CHEMBL4460,Q9GZT4,Tbio
+Serine-protein kinase ATM,CHEMBL3797,Q13315,Tchem
+Serine-protein kinase ATR,CHEMBL5024,Q13535,Tchem
+Serine/threonine protein kinase NLK,CHEMBL5364,Q9UBE8,Tchem
+Serine/threonine-protein kinase 10,CHEMBL3981,O94804,Tchem
+Serine/threonine-protein kinase 11,CHEMBL5606,Q15831,Tchem
+Serine/threonine-protein kinase 16,CHEMBL3938,O75716,Tchem
+Serine/threonine-protein kinase 17A,CHEMBL4525,Q9UEE5,Tchem
+Serine/threonine-protein kinase 17B,CHEMBL3980,O94768,Tchem
+Serine/threonine-protein kinase 2,CHEMBL4202,Q9H2G2,Tchem
+Serine/threonine-protein kinase 24,CHEMBL5082,Q9Y6E0,Tchem
+Serine/threonine-protein kinase 25,CHEMBL5552,O00506,Tchem
+Serine/threonine-protein kinase 32A,CHEMBL6150,Q8WU08,Tchem
+Serine/threonine-protein kinase 32B,CHEMBL5912,Q9NY57,Tchem
+Serine/threonine-protein kinase 32C,CHEMBL5405,Q86UX6,Tbio
+Serine/threonine-protein kinase 33,CHEMBL6005,Q9BYT3,Tchem
+Serine/threonine-protein kinase 35,CHEMBL5651,Q8TDR2,Tchem
+Serine/threonine-protein kinase 36,CHEMBL4312,Q9NRP7,Tbio
+Serine/threonine-protein kinase 38,CHEMBL1075155,Q15208,Tbio
+Serine/threonine-protein kinase 38-like,CHEMBL4851,Q9Y2H1,Tchem
+Serine/threonine-protein kinase A-Raf,CHEMBL1169596,P10398,Tchem
+Serine/threonine-protein kinase AKT,CHEMBL4282,P31749,Tchem
+Serine/threonine-protein kinase AKT2,CHEMBL2431,P31751,Tchem
+Serine/threonine-protein kinase AKT3,CHEMBL4816,Q9Y243,Tchem
+Serine/threonine-protein kinase Aurora-A,CHEMBL4722,O14965,Tchem
+Serine/threonine-protein kinase Aurora-B,CHEMBL2185,Q96GD4,Tchem
+Serine/threonine-protein kinase Aurora-C,CHEMBL3935,Q9UQB9,Tchem
+Serine/threonine-protein kinase B-raf,CHEMBL5145,P15056,Tclin
+Serine/threonine-protein kinase Chk1,CHEMBL4630,O14757,Tchem
+Serine/threonine-protein kinase Chk2,CHEMBL2527,O96017,Tchem
+Serine/threonine-protein kinase D2,CHEMBL4900,Q9BZL6,Tchem
+Serine/threonine-protein kinase DCLK1,CHEMBL5683,O15075,Tchem
+Serine/threonine-protein kinase DCLK2,CHEMBL5519,Q8N568,Tchem
+Serine/threonine-protein kinase DCLK3,CHEMBL6123,Q9C098,Tchem
+Serine/threonine-protein kinase EEF2K,CHEMBL5026,O00418,Tchem
+Serine/threonine-protein kinase GAK,CHEMBL4355,O14976,Tchem
+Serine/threonine-protein kinase ICK,CHEMBL1163126,Q9UPZ9,Tchem
+Serine/threonine-protein kinase ILK-1,CHEMBL5247,Q13418,Tchem
+Serine/threonine-protein kinase LATS1,CHEMBL6167,O95835,Tbio
+Serine/threonine-protein kinase LATS2,CHEMBL5907,Q9NRM7,Tchem
+Serine/threonine-protein kinase MAK,CHEMBL1163106,P20794,Tchem
+Serine/threonine-protein kinase MARK1,CHEMBL5940,Q9P0L2,Tchem
+Serine/threonine-protein kinase MRCK beta,CHEMBL5052,Q9Y5S2,Tbio
+Serine/threonine-protein kinase MRCK gamma,CHEMBL5615,Q6DT37,Tbio
+Serine/threonine-protein kinase MRCK-A,CHEMBL4516,Q5VT25,Tchem
+Serine/threonine-protein kinase MST1,CHEMBL4598,Q13043,Tchem
+Serine/threonine-protein kinase MST2,CHEMBL4708,Q13188,Tchem
+Serine/threonine-protein kinase MST4,CHEMBL5941,Q9P289,Tchem
+Serine/threonine-protein kinase NEK2,CHEMBL3835,P51955,Tchem
+Serine/threonine-protein kinase NEK6,CHEMBL4309,Q9HC98,Tchem
+Serine/threonine-protein kinase NEK7,CHEMBL4849,Q8TDX7,Tchem
+Serine/threonine-protein kinase NEK9,CHEMBL5257,Q8TD19,Tchem
+Serine/threonine-protein kinase NIM1,CHEMBL3542,Q8IY84,Tchem
+Serine/threonine-protein kinase Nek1,CHEMBL5855,Q96PY6,Tchem
+Serine/threonine-protein kinase Nek11,CHEMBL5638,Q8NG66,Tchem
+Serine/threonine-protein kinase Nek3,CHEMBL5679,P51956,Tchem
+Serine/threonine-protein kinase Nek4,CHEMBL5819,P51957,Tbio
+Serine/threonine-protein kinase Nek5,CHEMBL5044,Q6P3R8,Tchem
+Serine/threonine-protein kinase OSR1,CHEMBL1163104,O95747,Tbio
+Serine/threonine-protein kinase PAK 1,CHEMBL4600,Q13153,Tchem
+Serine/threonine-protein kinase PAK 2,CHEMBL4487,Q13177,Tchem
+Serine/threonine-protein kinase PAK 3,CHEMBL2999,O75914,Tchem
+Serine/threonine-protein kinase PAK 4,CHEMBL4482,O96013,Tchem
+Serine/threonine-protein kinase PAK6,CHEMBL4311,Q9NQU5,Tchem
+Serine/threonine-protein kinase PAK7,CHEMBL4524,Q9P286,Tchem
+Serine/threonine-protein kinase PCTAIRE-1,CHEMBL4597,Q00536,Tchem
+Serine/threonine-protein kinase PCTAIRE-2,CHEMBL5790,Q00537,Tchem
+Serine/threonine-protein kinase PCTAIRE-3,CHEMBL5316,Q07002,Tchem
+Serine/threonine-protein kinase PFTAIRE-1,CHEMBL6162,O94921,Tchem
+Serine/threonine-protein kinase PFTAIRE-2,CHEMBL5856,Q96Q40,Tchem
+Serine/threonine-protein kinase PIM1,CHEMBL2147,P11309,Tchem
+Serine/threonine-protein kinase PIM2,CHEMBL4523,Q9P1W9,Tchem
+Serine/threonine-protein kinase PIM3,CHEMBL5407,Q86V86,Tchem
+Serine/threonine-protein kinase PLK1,CHEMBL3024,P53350,Tchem
+Serine/threonine-protein kinase PLK2,CHEMBL5938,Q9NYY3,Tchem
+Serine/threonine-protein kinase PLK3,CHEMBL4897,Q9H4B4,Tchem
+Serine/threonine-protein kinase PLK4,CHEMBL3788,O00444,Tchem
+Serine/threonine-protein kinase PRKX,CHEMBL5818,P51817,Tchem
+Serine/threonine-protein kinase PRP4 homolog,CHEMBL1908382,Q13523,Tchem
+Serine/threonine-protein kinase RAF,CHEMBL1906,P04049,Tclin
+Serine/threonine-protein kinase RIO1,CHEMBL5975,Q9BRS2,Tchem
+Serine/threonine-protein kinase RIO2,CHEMBL6000,Q9BVS4,Tbio
+Serine/threonine-protein kinase RIO3,CHEMBL5659,O14730,Tchem
+Serine/threonine-protein kinase RIPK2,CHEMBL5014,O43353,Tchem
+Serine/threonine-protein kinase SBK1,CHEMBL1163129,Q52WX2,Tchem
+Serine/threonine-protein kinase SIK1,CHEMBL6082,P57059,Tchem
+Serine/threonine-protein kinase SIK2,CHEMBL5699,Q9H0K1,Tchem
+Serine/threonine-protein kinase SIK3,CHEMBL6149,Q9Y2K2,Tchem
+Serine/threonine-protein kinase SMG1,CHEMBL1795195,Q96Q15,Tchem
+Serine/threonine-protein kinase SRPK1,CHEMBL4375,Q96SB4,Tchem
+Serine/threonine-protein kinase SRPK2,CHEMBL5668,P78362,Tchem
+Serine/threonine-protein kinase SRPK3,CHEMBL5415,Q9UPE1,Tchem
+Serine/threonine-protein kinase Sgk1,CHEMBL2343,O00141,Tchem
+Serine/threonine-protein kinase Sgk2,CHEMBL5794,Q9HBY8,Tchem
+Serine/threonine-protein kinase Sgk3,CHEMBL6186,Q96BR1,Tchem
+Serine/threonine-protein kinase TAO1,CHEMBL5261,Q7L7X3,Tchem
+Serine/threonine-protein kinase TAO2,CHEMBL1075195,Q9UL54,Tchem
+Serine/threonine-protein kinase TAO3,CHEMBL5701,Q9H2K8,Tchem
+Serine/threonine-protein kinase TBK1,CHEMBL5408,Q9UHD2,Tchem
+Serine/threonine-protein kinase TNNI3K,CHEMBL5260,Q59H18,Tchem
+Serine/threonine-protein kinase ULK1,CHEMBL6006,O75385,Tchem
+Serine/threonine-protein kinase ULK2,CHEMBL5435,Q8IYT8,Tchem
+Serine/threonine-protein kinase ULK3,CHEMBL5047,Q6PHR2,Tchem
+Serine/threonine-protein kinase VRK2,CHEMBL1649059,Q86Y07,Tbio
+Serine/threonine-protein kinase WEE1,CHEMBL5491,P30291,Tchem
+Serine/threonine-protein kinase WNK3,CHEMBL6055,Q9BYP7,Tchem
+Serine/threonine-protein kinase c-TAK1,CHEMBL5600,P27448,Tchem
+Serine/threonine-protein kinase haspin,CHEMBL1075163,Q8TF76,Tchem
+Serine/threonine-protein kinase mTOR,CHEMBL2842,P42345,Tclin
+Serine/threonine-protein kinase receptor R3,CHEMBL5311,P37023,Tchem
+Serine/threonine-protein kinase tousled-like 1,CHEMBL5388,Q9UKI8,Tchem
+Serine/threonine-protein kinase tousled-like 2,CHEMBL5404,Q86UE8,Tchem
+Serine/threonine-protein kinase/endoribonuclease IRE1,CHEMBL1163101,O75460,Tchem
+Serotonin 1a (5-HT1a) receptor,CHEMBL214,P08908,Tclin
+Serotonin 1b (5-HT1b) receptor,CHEMBL1898,P28222,Tclin
+Serotonin 1d (5-HT1d) receptor,CHEMBL1983,P28221,Tclin
+Serotonin 1e (5-HT1e) receptor,CHEMBL2182,P28566,Tchem
+Serotonin 1f (5-HT1f) receptor,CHEMBL1805,P30939,Tchem
+Serotonin 2a (5-HT2a) receptor,CHEMBL224,P28223,Tclin
+Serotonin 2b (5-HT2b) receptor,CHEMBL1833,P41595,Tclin
+Serotonin 2c (5-HT2c) receptor,CHEMBL225,P28335,Tclin
+Serotonin 3a (5-HT3a) receptor,CHEMBL1899,P46098,Tclin
+Serotonin 4 (5-HT4) receptor,CHEMBL1875,Q13639,Tclin
+Serotonin 5a (5-HT5a) receptor,CHEMBL3426,P47898,Tchem
+Serotonin 6 (5-HT6) receptor,CHEMBL3371,P50406,Tchem
+Serotonin 7 (5-HT7) receptor,CHEMBL3155,P34969,Tclin
+Serotonin transporter,CHEMBL228,P31645,Tclin
+Serum albumin,CHEMBL3253,P02768,Tchem
+Serum paraoxonase/arylesterase 1,CHEMBL3167,P27169,Tbio
+Short transient receptor potential channel 3,CHEMBL2417348,Q13507,Tchem
+Short transient receptor potential channel 6,CHEMBL2417347,Q9Y210,Tchem
+Sialidase 1,CHEMBL2726,Q99519,Tbio
+Sialidase 2,CHEMBL3200,Q9Y3R4,Tbio
+Sialidase 3,CHEMBL3046,Q9UQ49,Tbio
+Sialidase 4,CHEMBL4174,Q8WWR8,Tchem
+Sigma opioid receptor,CHEMBL287,Q99720,Tclin
+Signal transducer and activator of transcription 1-alpha/beta,CHEMBL6101,P42224,Tchem
+Signal transducer and activator of transcription 3,CHEMBL4026,P40763,Tchem
+Signal transducer and activator of transcription 5A,CHEMBL5403,P42229,Tchem
+Signal transducer and activator of transcription 5B,CHEMBL5817,P51692,Tchem
+Signal transducer and activator of transcription 6,CHEMBL5401,P42226,Tchem
+Small conductance calcium-activated potassium channel protein 1,CHEMBL2369,Q92952,Tchem
+Small conductance calcium-activated potassium channel protein 2,CHEMBL4469,Q9H2S1,Tchem
+Small conductance calcium-activated potassium channel protein 3,CHEMBL3381,Q9UGI6,Tchem
+Small ubiquitin-related modifier 1,CHEMBL2146296,P63165,Tbio
+Smoothened homolog,CHEMBL5971,Q99835,Tclin
+Sn1-specific diacylglycerol lipase alpha,CHEMBL5545,Q9Y4D2,Tchem
+Sn1-specific diacylglycerol lipase beta,CHEMBL5521,Q8NCG7,Tchem
+Sodium channel protein type I alpha subunit,CHEMBL1845,P35498,Tclin
+Sodium channel protein type II alpha subunit,CHEMBL4187,Q99250,Tclin
+Sodium channel protein type III alpha subunit,CHEMBL5163,Q9NY46,Tclin
+Sodium channel protein type IV alpha subunit,CHEMBL2072,P35499,Tclin
+Sodium channel protein type IX alpha subunit,CHEMBL4296,Q15858,Tclin
+Sodium channel protein type V alpha subunit,CHEMBL1980,Q14524,Tclin
+Sodium channel protein type VIII alpha subunit,CHEMBL5202,Q9UQD0,Tclin
+Sodium channel protein type X alpha subunit,CHEMBL5451,Q9Y5Y9,Tclin
+Sodium-dependent neutral amino acid transporter B(0)AT2,CHEMBL3351189,Q9H2J7,Tchem
+Sodium-dependent proline transporter,CHEMBL3317335,Q99884,Tchem
+Sodium/glucose cotransporter 1,CHEMBL4979,P13866,Tchem
+Sodium/glucose cotransporter 2,CHEMBL3884,P31639,Tclin
+Sodium/hydrogen exchanger 1,CHEMBL2781,P19634,Tchem
+Sodium/hydrogen exchanger 2,CHEMBL3133,Q9UBY0,Tbio
+Sodium/nucleoside cotransporter 1,CHEMBL5551,O00337,Tbio
+Sodium/nucleoside cotransporter 2,CHEMBL5780,O43868,Tchem
+Sodium/potassium-transporting ATPase alpha-1 chain,CHEMBL1807,P05023,Tclin
+"Sodium/potassium/calcium exchanger 6, mitochondrial",CHEMBL3763001,Q6J4K2,Tbio
+Solute carrier family 12 member 5,CHEMBL1615384,Q9H2X9,Tchem
+Solute carrier family 13 member 2,CHEMBL3712851,Q13183,Tbio
+Solute carrier family 13 member 3,CHEMBL3712947,Q8WWT9,Tbio
+Solute carrier family 13 member 5,CHEMBL3769293,Q86YT5,Tchem
+Solute carrier family 15 member 2,CHEMBL1743125,Q16348,Tchem
+"Solute carrier family 2, facilitated glucose transporter member 2",CHEMBL5873,P11168,Tchem
+"Solute carrier family 2, facilitated glucose transporter member 3",CHEMBL5215,P11169,Tchem
+Solute carrier family 22 member 1,CHEMBL5685,O15245,Tchem
+Solute carrier family 22 member 11,CHEMBL2073677,Q9NSA0,Tclin
+Solute carrier family 22 member 12,CHEMBL6120,Q96S37,Tclin
+Solute carrier family 22 member 16,CHEMBL2073722,Q86VW1,Tbio
+Solute carrier family 22 member 2,CHEMBL1743122,O15244,Tchem
+Solute carrier family 22 member 3,CHEMBL2073673,O75751,Tchem
+Solute carrier family 22 member 6,CHEMBL1641347,Q4U2R8,Tclin
+Solute carrier family 22 member 8,CHEMBL1641348,Q8TCC7,Tclin
+Solute carrier family 28 member 3,CHEMBL5707,Q9HAS3,Tchem
+Solute carrier organic anion transporter family member 1A2,CHEMBL1743123,P46721,Tchem
+Solute carrier organic anion transporter family member 1B1,CHEMBL1697668,Q9Y6L6,Tchem
+Solute carrier organic anion transporter family member 1B3,CHEMBL1743121,Q9NPD5,Tchem
+Solute carrier organic anion transporter family member 2A1,CHEMBL2073703,Q92959,Tchem
+Solute carrier organic anion transporter family member 2B1,CHEMBL1743124,O94956,Tchem
+Solute carrier organic anion transporter family member 4C1,CHEMBL2073690,Q6ZQN7,Tbio
+Somatostatin receptor 1,CHEMBL1917,P30872,Tclin
+Somatostatin receptor 2,CHEMBL1804,P30874,Tclin
+Somatostatin receptor 3,CHEMBL2028,P32745,Tclin
+Somatostatin receptor 4,CHEMBL1853,P31391,Tclin
+Somatostatin receptor 5,CHEMBL1792,P35346,Tclin
+Sonic hedgehog protein,CHEMBL5602,Q15465,Tchem
+Spermidine/spermine N(1)-acetyltransferase 1,CHEMBL4286,P21673,Tbio
+Sphingolipid delta(4)-desaturase DES1,CHEMBL2021749,O15121,Tchem
+Sphingosine 1-phosphate receptor Edg-1,CHEMBL4333,P21453,Tclin
+Sphingosine 1-phosphate receptor Edg-3,CHEMBL3892,Q99500,Tclin
+Sphingosine 1-phosphate receptor Edg-5,CHEMBL2955,O95136,Tchem
+Sphingosine 1-phosphate receptor Edg-6,CHEMBL3230,O95977,Tclin
+Sphingosine 1-phosphate receptor Edg-8,CHEMBL2274,Q9H228,Tclin
+Sphingosine kinase 1,CHEMBL4394,Q9NYA1,Tchem
+Sphingosine kinase 2,CHEMBL3023,Q9NRA0,Tchem
+Sphingosine-1-phosphate lyase 1,CHEMBL3286061,O95470,Tchem
+Splicing factor 3B subunit 3,CHEMBL1250378,Q15393,Tchem
+Squalene synthetase,CHEMBL3338,P37268,Tchem
+Stearoyl-CoA desaturase 5,CHEMBL1275210,Q86SK9,Tchem
+Stem cell growth factor receptor,CHEMBL1936,P10721,Tclin
+Steroid 5-alpha-reductase 1,CHEMBL1787,P18405,Tclin
+Steroid 5-alpha-reductase 2,CHEMBL1856,P31213,Tclin
+Steroidogenic factor 1,CHEMBL4666,Q13285,Tchem
+Sterol regulatory element-binding protein 2,CHEMBL1795166,Q12772,Tchem
+Steryl-sulfatase,CHEMBL3559,P08842,Tchem
+Subtilisin/kexin type 5,CHEMBL2826,Q92824,Tchem
+Subtilisin/kexin type 6,CHEMBL2951,P29122,Tchem
+Subtilisin/kexin type 7,CHEMBL2232,Q16549,Tchem
+Succinate receptor 1,CHEMBL2150838,Q9BXA5,Tchem
+Succinate semialdehyde dehydrogenase,CHEMBL1911,P51649,Tclin
+Sucrase-isomaltase,CHEMBL2748,P14410,Tchem
+Sulfonylurea receptor 1,CHEMBL2071,Q09428,Tclin
+Sulfonylurea receptor 2,CHEMBL1971,O60706,Tclin
+Sulfotransferase 1A1,CHEMBL1743291,P50225,Tbio
+Superoxide dismutase,CHEMBL2354,P00441,Tbio
+T-cell protein-tyrosine phosphatase,CHEMBL3807,P17706,Tchem
+T-cell surface antigen CD4,CHEMBL2754,P01730,Tchem
+TGF-beta receptor type I,CHEMBL4439,P36897,Tchem
+TGF-beta receptor type II,CHEMBL4267,P37173,Tchem
+TNF receptor-associated factor 6,CHEMBL3588728,Q9Y4K3,Tbio
+TNF-alpha,CHEMBL1825,P01375,Tclin
+TRAF2- and NCK-interacting kinase,CHEMBL4527,Q9UKE5,Tchem
+Tachykinin-3,CHEMBL3707470,Q9UHF0,Tchem
+Tankyrase-1,CHEMBL6164,O95271,Tchem
+Tankyrase-2,CHEMBL6154,Q9H2K2,Tchem
+Taste receptor type 2 member 31,CHEMBL2034804,P59538,Tchem
+Telomerase reverse transcriptase,CHEMBL2916,O14746,Tchem
+Terminal deoxynucleotidyltransferase,CHEMBL4810,P04053,Tchem
+Testis-specific androgen-binding protein,CHEMBL3305,P04278,Tchem
+Testis-specific serine/threonine-protein kinase 1,CHEMBL6003,Q9BXA7,Tchem
+Testis-specific serine/threonine-protein kinase 2,CHEMBL6014,Q96PF2,Tchem
+Testis-specific serine/threonine-protein kinase 3,CHEMBL3414416,Q96PN8,Tbio
+Thiopurine S-methyltransferase,CHEMBL2500,P51580,Tchem
+Thioredoxin,CHEMBL2010624,P10599,Tchem
+"Thioredoxin, mitochondrial",CHEMBL2189153,Q99757,Tbio
+Threonyl-tRNA synthetase,CHEMBL3391,P26639,Tchem
+Thrombin,CHEMBL204,P00734,Tclin
+Thrombopoietin receptor,CHEMBL1864,P40238,Tclin
+Thromboxane A2 receptor,CHEMBL2069,P21731,Tclin
+Thromboxane-A synthase,CHEMBL1835,P24557,Tchem
+"Thymidine kinase, cytosolic",CHEMBL2883,P04183,Tchem
+"Thymidine kinase, mitochondrial",CHEMBL4580,O00142,Tchem
+Thymidine phosphorylase,CHEMBL3106,P19971,Tclin
+Thymidylate kinase,CHEMBL4388,P23919,Tbio
+Thymidylate synthase,CHEMBL1952,P04818,Tclin
+Thyroid hormone receptor alpha,CHEMBL1860,P10827,Tclin
+Thyroid hormone receptor beta-1,CHEMBL1947,P10828,Tclin
+Thyroid peroxidase,CHEMBL1839,P07202,Tclin
+Thyroid stimulating hormone receptor,CHEMBL1963,P16473,Tclin
+Tissue-type plasminogen activator,CHEMBL1873,P00750,Tclin
+Toll-like receptor 2,CHEMBL4163,O60603,Tchem
+Toll-like receptor 4,CHEMBL5255,O00206,Tchem
+Toll-like receptor 7,CHEMBL5936,Q9NYK1,Tclin
+Toll-like receptor 8,CHEMBL5805,Q9NR97,Tchem
+Toll-like receptor 9,CHEMBL5804,Q9NR96,Tclin
+Trace amine-associated receptor 1,CHEMBL5857,Q96RJ0,Tclin
+Trace amine-associated receptor 5,CHEMBL3714046,O14804,Tchem
+Transcription activator BRG1,CHEMBL3085620,P51532,Tchem
+Transcription factor ETV6,CHEMBL2401606,P41212,Tbio
+Transcription factor HES-1,CHEMBL3734643,Q14469,Tbio
+Transcription initiation factor IIA alpha and bTranscription initiation factor IIA alpha and beta chains,CHEMBL4832,P52655,Tchem
+Transcription initiation factor TFIID subunit 1,CHEMBL3217390,P21675,Tchem
+Transcription initiation factor TFIID subunit 1-like,CHEMBL3108641,Q8IZX4,Tchem
+Transcription intermediary factor 1-alpha,CHEMBL3108638,O15164,Tchem
+Transcriptional regulator ERG,CHEMBL1293191,P11308,Tchem
+Transforming protein RhoA,CHEMBL6052,P61586,Tbio
+Transforming protein p21/H-Ras-1,CHEMBL2167,P01112,Tchem
+Transient receptor potential cation channel subfamily A member 1,CHEMBL6007,O75762,Tclin
+Transient receptor potential cation channel subfamily M member 2,CHEMBL1250402,O94759,Tchem
+Transient receptor potential cation channel subfamily M member 6,CHEMBL1628470,Q9BX84,Tchem
+Transient receptor potential cation channel subfamily M member 8,CHEMBL1075319,Q7Z2W7,Tclin
+Transient receptor potential cation channel subfamily V member 3,CHEMBL5522,Q8NET8,Tchem
+Transient receptor potential cation channel subfamily V member 4,CHEMBL3119,Q9HBA0,Tchem
+Transitional endoplasmic reticulum ATPase,CHEMBL1075145,P55072,Tchem
+Transketolase,CHEMBL4983,P29401,Tchem
+Translocator protein,CHEMBL5742,P30536,Tchem
+Transmembrane domain-containing protein TMIGD3,CHEMBL3712907,P0DMS9,Tchem
+Transmembrane protease serine 11D,CHEMBL1795138,O60235,Tchem
+Transmembrane protease serine 4,CHEMBL2331048,Q9NRS4,Tbio
+Transmembrane protease serine 6,CHEMBL1795139,Q8IU80,Tchem
+Transthyretin,CHEMBL3194,P02766,Tclin
+Tripeptidyl-peptidase 2,CHEMBL6156,P29144,Tchem
+Trypsin I,CHEMBL209,P07477,Tclin
+Trypsin III,CHEMBL4551,P35030,Tchem
+Tryptase beta-1,CHEMBL2617,Q15661,Tclin
+Tryptase gamma,CHEMBL4955,Q9NRR2,Tchem
+"Tryptophan 2,3-dioxygenase",CHEMBL2140,P48775,Tchem
+Tryptophan 5-hydroxylase 1,CHEMBL5689,P17752,Tclin
+Tryptophan 5-hydroxylase 2,CHEMBL5433,Q8IWU9,Tchem
+Tubulin beta-3 chain,CHEMBL2597,Q13509,Tclin
+Tumor necrosis factor receptor R1,CHEMBL3378,P19438,Tchem
+Tumor suppressor p53-binding protein 1,CHEMBL2424509,Q12888,Tbio
+Type-1 angiotensin II receptor,CHEMBL227,P30556,Tclin
+Tyrosinase,CHEMBL1973,P14679,Tclin
+Tyrosine kinase non-receptor protein 2,CHEMBL4599,Q07912,Tchem
+Tyrosine- and threonine-specific cdc2-inhibitory kinase,CHEMBL3984,Q99640,Tchem
+Tyrosine-protein kinase ABL,CHEMBL1862,P00519,Tclin
+Tyrosine-protein kinase ABL2,CHEMBL4014,P42684,Tchem
+Tyrosine-protein kinase BLK,CHEMBL2250,P51451,Tchem
+Tyrosine-protein kinase BMX,CHEMBL3834,P51813,Tchem
+Tyrosine-protein kinase BRK,CHEMBL4601,Q13882,Tchem
+Tyrosine-protein kinase BTK,CHEMBL5251,Q06187,Tclin
+Tyrosine-protein kinase CSK,CHEMBL2634,P41240,Tchem
+Tyrosine-protein kinase CTK,CHEMBL4175,P42679,Tbio
+Tyrosine-protein kinase FER,CHEMBL3982,P16591,Tchem
+Tyrosine-protein kinase FES,CHEMBL5455,P07332,Tchem
+Tyrosine-protein kinase FGR,CHEMBL4454,P09769,Tchem
+Tyrosine-protein kinase FRK,CHEMBL4223,P42685,Tchem
+Tyrosine-protein kinase FYN,CHEMBL1841,P06241,Tclin
+Tyrosine-protein kinase HCK,CHEMBL3234,P08631,Tclin
+Tyrosine-protein kinase ITK/TSK,CHEMBL2959,Q08881,Tclin
+Tyrosine-protein kinase JAK1,CHEMBL2835,P23458,Tclin
+Tyrosine-protein kinase JAK2,CHEMBL2971,O60674,Tclin
+Tyrosine-protein kinase JAK3,CHEMBL2148,P52333,Tclin
+Tyrosine-protein kinase LCK,CHEMBL258,P06239,Tclin
+Tyrosine-protein kinase Lyn,CHEMBL3905,P07948,Tclin
+Tyrosine-protein kinase SRC,CHEMBL267,P12931,Tclin
+Tyrosine-protein kinase SYK,CHEMBL2599,P43405,Tchem
+Tyrosine-protein kinase Srms,CHEMBL5703,Q9H3Y6,Tchem
+Tyrosine-protein kinase TEC,CHEMBL4246,P42680,Tchem
+Tyrosine-protein kinase TIE-2,CHEMBL4128,Q02763,Tclin
+Tyrosine-protein kinase TXK,CHEMBL4367,P42681,Tchem
+Tyrosine-protein kinase TYK2,CHEMBL3553,P29597,Tclin
+Tyrosine-protein kinase YES,CHEMBL2073,P07947,Tclin
+Tyrosine-protein kinase ZAP-70,CHEMBL2803,P43403,Tchem
+Tyrosine-protein kinase receptor FLT3,CHEMBL1974,P36888,Tclin
+Tyrosine-protein kinase receptor RET,CHEMBL2041,P07949,Tclin
+Tyrosine-protein kinase receptor TYRO3,CHEMBL5314,Q06418,Tchem
+Tyrosine-protein kinase receptor Tie-1,CHEMBL5274,P35590,Tchem
+Tyrosine-protein kinase receptor UFO,CHEMBL4895,P30530,Tchem
+Tyrosine-protein phosphatase non-receptor type 14,CHEMBL3317332,Q15678,Tbio
+Tyrosine-protein phosphatase non-receptor type 18,CHEMBL3351197,Q99952,Tbio
+Tyrosine-protein phosphatase non-receptor type 3,CHEMBL2396509,P26045,Tbio
+Tyrosine-protein phosphatase non-receptor type 5,CHEMBL2007628,P54829,Tchem
+Tyrosine-protein phosphatase non-receptor type 9,CHEMBL6117,P43378,Tchem
+Tyrosyl-DNA phosphodiesterase 1,CHEMBL1075138,Q9NUW8,Tchem
+Tyrosyl-DNA phosphodiesterase 2,CHEMBL2169736,O95551,Tchem
+UDP-N-acetylglucosamine--peptide N-acetylglucosaminyltransferase 110 kDa subunit,CHEMBL5955,O15294,Tchem
+UDP-glucose 4-epimerase,CHEMBL5843,Q14376,Tchem
+UDP-glucuronosyltransferase 1-1,CHEMBL1287617,P22309,Tchem
+UDP-glucuronosyltransferase 1-10,CHEMBL1743320,Q9HAW8,Tbio
+UDP-glucuronosyltransferase 1-3,CHEMBL3542435,P35503,Tbio
+UDP-glucuronosyltransferase 1-6,CHEMBL1743316,P19224,Tbio
+UDP-glucuronosyltransferase 1-7,CHEMBL1743317,Q9HAW7,Tbio
+UDP-glucuronosyltransferase 1-8,CHEMBL1743318,Q9HAW9,Tbio
+UDP-glucuronosyltransferase 1-9,CHEMBL1743319,O60656,Tbio
+UDP-glucuronosyltransferase 1A4,CHEMBL3619,P22310,Tbio
+UDP-glucuronosyltransferase 2B17,CHEMBL4978,O75795,Tbio
+UDP-glucuronosyltransferase 2B7,CHEMBL4370,P16662,Tchem
+Ubiquitin carboxyl-terminal hydrolase 1,CHEMBL1795087,O94782,Tchem
+Ubiquitin carboxyl-terminal hydrolase 10,CHEMBL3407323,Q14694,Tchem
+Ubiquitin carboxyl-terminal hydrolase 13,CHEMBL3407324,Q92995,Tchem
+Ubiquitin carboxyl-terminal hydrolase 14,CHEMBL1293295,P54578,Tchem
+Ubiquitin carboxyl-terminal hydrolase 2,CHEMBL1293227,O75604,Tbio
+Ubiquitin carboxyl-terminal hydrolase 21,CHEMBL2157852,Q9UK80,Tbio
+Ubiquitin carboxyl-terminal hydrolase 4,CHEMBL2406900,Q13107,Tbio
+Ubiquitin carboxyl-terminal hydrolase 5,CHEMBL6158,P45974,Tchem
+Ubiquitin carboxyl-terminal hydrolase 7,CHEMBL2157850,Q93009,Tchem
+Ubiquitin carboxyl-terminal hydrolase isozyme L1,CHEMBL6159,P09936,Tchem
+Ubiquitin carboxyl-terminal hydrolase isozyme L3,CHEMBL6195,P15374,Tchem
+Ubiquitin carboxyl-terminal hydrolase isozyme L5,CHEMBL3407316,Q9Y5K5,Tbio
+Ubiquitin-like domain-containing CTD phosphatase 1,CHEMBL3317333,Q8WVY7,Tchem
+Ubiquitin-like modifier-activating enzyme 6,CHEMBL2321622,A0AVT1,Tchem
+Ubiquitin-like modifier-activating enzyme 7,CHEMBL2321623,P41226,Tbio
+Ubiquitin-like modifier-activating enzyme ATG7,CHEMBL2321621,O95352,Tbio
+Ubl carboxyl-terminal hydrolase 18,CHEMBL3407317,Q9UMW8,Tbio
+Uncharacterized aarF domain-containing protein kinase 4,CHEMBL5753,Q96D53,Tchem
+Uracil nucleotide/cysteinyl leukotriene receptor,CHEMBL1075162,Q13304,Tchem
+Uracil-DNA glycosylase,CHEMBL3277,P13051,Tbio
+Urea transporter 1,CHEMBL2390814,Q13336,Tchem
+Uridine 5'-monophosphate synthase,CHEMBL5216,P11172,Tclin
+Uridine phosphorylase 1,CHEMBL4811,Q16831,Tchem
+Urokinase plasminogen activator surface receptor,CHEMBL4883,Q03405,Tchem
+Urokinase-type plasminogen activator,CHEMBL3286,P00749,Tchem
+Urotensin II receptor,CHEMBL3764,Q9UKP6,Tchem
+"V-type proton ATPase subunit B, brain isoform",CHEMBL5641,P21281,Tchem
+Vanilloid receptor,CHEMBL4794,Q8NER1,Tclin
+Vascular endothelial growth factor A,CHEMBL1783,P15692,Tclin
+Vascular endothelial growth factor receptor 1,CHEMBL1868,P17948,Tclin
+Vascular endothelial growth factor receptor 2,CHEMBL279,P35968,Tclin
+Vascular endothelial growth factor receptor 3,CHEMBL1955,P35916,Tclin
+Vasoactive intestinal polypeptide receptor 1,CHEMBL5144,P32241,Tchem
+Vasoactive intestinal polypeptide receptor 2,CHEMBL4532,P41587,Tchem
+Vasopressin V1a receptor,CHEMBL1889,P37288,Tclin
+Vasopressin V1b receptor,CHEMBL1921,P47901,Tclin
+Vasopressin V2 receptor,CHEMBL1790,P30518,Tclin
+Vesicular acetylcholine transporter,CHEMBL4767,Q16572,Tchem
+Vitamin D receptor,CHEMBL1977,P11473,Tclin
+Vitamin D-binding protein,CHEMBL2259,P02774,Tchem
+Vitamin K-dependent protein C,CHEMBL4444,P04070,Tchem
+Vitronectin receptor alpha,CHEMBL3660,P06756,Tchem
+Voltage-dependent anion-selective channel protein 2,CHEMBL6190,P45880,Tchem
+Voltage-gated L-type calcium channel alpha-1C subunit,CHEMBL1940,Q13936,Tclin
+Voltage-gated L-type calcium channel alpha-1D subunit,CHEMBL4138,Q01668,Tclin
+Voltage-gated N-type calcium channel alpha-1B subunit,CHEMBL4478,Q00975,Tclin
+Voltage-gated T-type calcium channel alpha-1G subunit,CHEMBL4641,O43497,Tclin
+Voltage-gated T-type calcium channel alpha-1H subunit,CHEMBL1859,O95180,Tclin
+Voltage-gated T-type calcium channel alpha-1I subunit,CHEMBL5558,Q9P0X4,Tclin
+Voltage-gated calcium channel alpha2/delta subunit 1,CHEMBL1919,P54289,Tclin
+Voltage-gated potassium channel beta subunit Mink,CHEMBL4872,P15382,Tbio
+Voltage-gated potassium channel subunit Kv1.3,CHEMBL4633,P22001,Tclin
+Voltage-gated potassium channel subunit Kv1.5,CHEMBL4306,P22460,Tclin
+Voltage-gated potassium channel subunit Kv4.3,CHEMBL1964,Q9UK17,Tclin
+Voltage-gated potassium channel subunit Kv7.1,CHEMBL1866,P51787,Tclin
+Voltage-gated potassium channel subunit Kv7.2,CHEMBL2476,O43526,Tclin
+Voltage-gated potassium channel subunit Kv7.3,CHEMBL2684,O43525,Tclin
+Voltage-gated potassium channel subunit Kv7.4,CHEMBL3576,P56696,Tclin
+Voltage-gated potassium channel subunit Kv7.5,CHEMBL2925,Q9NR82,Tclin
+Von Hippel-Lindau disease tumor suppressor,CHEMBL3108660,P40337,Tchem
+WD repeat-containing protein 5,CHEMBL1075317,P61964,Tchem
+Wee1-like protein kinase 2,CHEMBL5095,P0C1S8,Tbio
+Werner syndrome ATP-dependent helicase,CHEMBL2146312,Q14191,Tbio
+X-box-binding protein 1,CHEMBL1741176,P17861,Tchem
+Xanthine dehydrogenase,CHEMBL1929,P47989,Tclin
+Zinc finger protein GLI1,CHEMBL5461,P08151,Tchem
+Zinc finger protein GLI2,CHEMBL5119,P10070,Tchem
+c-Jun N-terminal kinase 1,CHEMBL2276,P45983,Tchem
+c-Jun N-terminal kinase 2,CHEMBL4179,P45984,Tchem
+c-Jun N-terminal kinase 3,CHEMBL2637,P53779,Tchem
+cAMP-dependent protein kinase alpha-catalytic subunit,CHEMBL4101,P17612,Tchem
+cAMP-dependent protein kinase beta-1 catalytic subunit,CHEMBL2918,P22694,Tchem
+cGMP-dependent protein kinase 1 beta,CHEMBL4273,Q13976,Tchem
+cGMP-dependent protein kinase 2,CHEMBL2896,Q13237,Tchem
+dCTP pyrophosphatase 1,CHEMBL3769292,Q9H773,Tchem
+dUTP pyrophosphatase,CHEMBL5203,P33316,Tchem
+myosin light chain kinase 2,CHEMBL2777,Q9H1R3,Tchem
+p53-binding protein Mdm-2,CHEMBL5023,Q00987,Tchem
