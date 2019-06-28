@@ -1,0 +1,131 @@
+---
+title: "R Notebook"
+output: html_notebook
+---
+
+This is an [R Markdown](http://rmarkdown.rstudio.com) Notebook. When you execute code within the notebook, the results appear beneath the code. 
+
+Try executing this chunk by clicking the *Run* button within the chunk or by placing your cursor inside it and pressing *Ctrl+Shift+Enter*. 
+
+```{r}
+
+
+
+library(tidyverse)
+library(ggplus)
+library(reshape2)
+
+
+
+path = '/users/barbara/Dropbox/TimeTrendAnalyses/TimeTrends_Chembl/data_from_knime'
+
+knitr::opts_knit$set(root.dir = path)
+setwd(path)
+
+
+
+
+```
+
+Add a new chunk by clicking the *Insert Chunk* button on the toolbar or by pressing *Ctrl+Alt+I*.
+
+When you save the notebook, an HTML file containing the code and output will be saved alongside it (click the *Preview* button or press *Ctrl+Shift+K* to preview the HTML file).
+```{r}
+
+
+TDL_ion_channels <- read_csv(file = "/Users/Barbara/Dropbox/TimeTrendAnalyses/TimeTrends_Chembl/data_from_knime/Ion_channels_TDLperyear.csv") %>% select(-"No_targets", -"Sum(No_targets)") 
+names(TDL_ion_channels)[1:3] <- c("Year", "TDL", "Percent_Targets")
+
+g <- ggplot(data = TDL_ion_channels, aes(x = Year, y = Percent_Targets, fill = TDL, color = TDL)) +
+  geom_bar(stat = "identity") + 
+  scale_fill_manual(values=c("darkseagreen", "slategray2", "slateblue1", "black")) +
+  scale_colour_manual(values=c("white", "white", "white", "black")) +
+  theme_bw() +
+  theme(legend.position="none", text = element_text(size=20))
+h <- g + ggtitle("Ion channels: TDL evolution")
+
+#ggsave(file = "C:/Users/Barbara/Dropbox/TimeTrendAnalyses/TimeTrends_Chembl/Results/Target_popularity/TDL_evolution_ion_channels.tiff", dpi = 300, device = "tiff")
+
+
+
+TDL_transporter <- read_csv(file = "/Users/Barbara/Dropbox/TimeTrendAnalyses/TimeTrends_Chembl/data_from_knime/Transporter_TDLperyear.csv") %>% select(-"No_targets", -"Sum(No_targets)") 
+names(TDL_transporter)[1:3] <- c("Year", "TDL", "Percent_Targets")
+
+g <- ggplot(data = TDL_transporter, aes(x = Year, y = Percent_Targets, fill = TDL, color = TDL)) +
+  geom_bar(stat = "identity") + 
+  scale_fill_manual(values=c("darkseagreen", "slategray2", "slateblue1")) +
+  scale_colour_manual(values=c("white", "white", "white")) +
+  theme_bw() +
+  theme(legend.position="none", text = element_text(size=20))
+h <- g + ggtitle("Transporter: TDL evolution")
+
+#ggsave(file = "C:/Users/Barbara/Dropbox/TimeTrendAnalyses/TimeTrends_Chembl/Results/Target_popularity/TDL_evolution_transporter.tiff", dpi = 300, device = "tiff")
+
+
+TDL_GPCR <- read_csv(file = "/Users/Barbara/Dropbox/TimeTrendAnalyses/TimeTrends_Chembl/data_from_knime/GPCR_TDLperyear.csv") %>% select(-"No_targets", -"Sum(No_targets)") 
+names(TDL_GPCR)[1:3] <- c("Year", "TDL", "Percent_Targets")
+
+g <- ggplot(data = TDL_GPCR, aes(x = Year, y = Percent_Targets, fill = TDL, color = TDL)) +
+  geom_bar(stat = "identity") + 
+  scale_fill_manual(values=c("slategray2", "slateblue1")) +
+  scale_colour_manual(values=c("white", "white")) +
+  theme_bw() +
+  theme(legend.position="none", text = element_text(size=20))
+
+h <- g + ggtitle("GPCRs: TDL evolution")
+
+#ggsave(file = "C:/Users/Barbara/Dropbox/TimeTrendAnalyses/TimeTrends_Chembl/Results/Target_popularity/TDL_evolution_GPCR.tiff", dpi = 300, device = "tiff")
+
+
+
+TDL_kinase <- read_csv(file = "/Users/Barbara/Dropbox/TimeTrendAnalyses/TimeTrends_Chembl/data_from_knime/Kinase_TDLperyear.csv") %>% select(-"No_targets", -"Sum(No_targets)") 
+names(TDL_kinase)[1:3] <- c("Year", "TDL", "Percent_Targets")
+
+g <- ggplot(data = TDL_kinase, aes(x = Year, y = Percent_Targets, fill = TDL, color = TDL)) +
+  geom_bar(stat = "identity") + 
+  scale_fill_manual(values=c("darkseagreen", "slategray2", "slateblue1", "black")) +
+  scale_colour_manual(values=c("white", "white", "white", "black")) +
+  theme_bw() +
+  theme(legend.position="none", text = element_text(size=20))
+
+h <- g + ggtitle("Kinases: TDL evolution")
+
+
+#ggsave(file = "C:/Users/Barbara/Dropbox/TimeTrendAnalyses/TimeTrends_Chembl/Results/Target_popularity/TDL_evolution_Kinase.tiff", dpi = 300, device = "tiff")
+
+
+TDL_protease <- read_csv(file = "/Users/Barbara/Dropbox/TimeTrendAnalyses/TimeTrends_Chembl/data_from_knime/Protease_TDLperyear.csv") %>% select(-"No_targets", -"Sum(No_targets)") 
+names(TDL_protease)[1:3] <- c("Year", "TDL", "Percent_Targets")
+
+g <- ggplot(data = TDL_protease, aes(x = Year, y = Percent_Targets, fill = TDL, color = TDL)) +
+  geom_bar(stat = "identity") + 
+  scale_fill_manual(values=c("darkseagreen", "slategray2", "slateblue1")) +
+  scale_colour_manual(values=c("white", "white", "white")) +
+  theme_bw() +
+  theme(legend.position="none", text = element_text(size=20))
+
+h <- g + ggtitle("Proteases: TDL evolution")
+
+#ggsave(file = "C:/Users/Barbara/Dropbox/TimeTrendAnalyses/TimeTrends_Chembl/Results/Target_popularity/TDL_evolution_Protease.tiff", dpi = 300, device = "tiff")
+
+
+
+TDL_NR <- read_csv(file = "/Users/Barbara/Dropbox/TimeTrendAnalyses/TimeTrends_Chembl/data_from_knime/NR_TDLperyear.csv") %>% select(-"No_targets", -"Sum(No_targets)") 
+names(TDL_NR)[1:3] <- c("Year", "TDL", "Percent_Targets")
+
+
+g <- ggplot(data = TDL_NR, aes(x = Year, y = Percent_Targets, fill = TDL, color = TDL)) +
+  geom_bar(stat = "identity") + 
+  scale_fill_manual(values=c("darkseagreen", "slategray2", "slateblue1")) +
+  scale_colour_manual(values=c("white", "white", "white")) +
+  theme_bw() +
+  theme(legend.position="none", text = element_text(size=20))
+
+h <- g + ggtitle("NR: TDL evolution")
+
+#ggsave(file = "C:/Users/Barbara/Dropbox/TimeTrendAnalyses/TimeTrends_Chembl/Results/Target_popularity/TDL_evolution_NR.tiff", dpi = 300, device = "tiff")
+
+
+
+```
+

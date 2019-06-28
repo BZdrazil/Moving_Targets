@@ -1,0 +1,63 @@
+---
+title: "R Notebook"
+output: html_notebook
+---
+
+This is an [R Markdown](http://rmarkdown.rstudio.com) Notebook. When you execute code within the notebook, the results appear beneath the code. 
+
+Try executing this chunk by clicking the *Run* button within the chunk or by placing your cursor inside it and pressing *Ctrl+Shift+Enter*. 
+
+```{r}
+
+
+
+library(tidyverse)
+#install.packages("devtools")
+#devtools::install_github("guiastrennec/ggplus")
+library(ggplus)
+library(reshape2)
+#install.packages("randomcoloR")
+library(randomcoloR)
+#palette <- distinctColorPalette(30)
+#install.packages("RColorBrewer")
+library(ggplot2)
+
+
+path = '/Users/barbara/Dropbox/TimeTrendAnalyses/TimeTrends_Chembl/data_from_knime'
+
+knitr::opts_knit$set(root.dir = path)
+setwd(path)
+
+
+
+
+```
+
+Add a new chunk by clicking the *Insert Chunk* button on the toolbar or by pressing *Ctrl+Alt+I*.
+
+When you save the notebook, an HTML file containing the code and output will be saved alongside it (click the *Preview* button or press *Ctrl+Shift+K* to preview the HTML file).
+```{r}
+
+
+GO_targets <- readr::read_csv(file = "/Users/barbara/Dropbox/TimeTrendAnalyses/TimeTrends_Chembl/data_from_knime/Proteases_GO_BP_immune_system_process_bioactivity_trends_proteins.csv")
+
+colourCount = length(unique(GO_targets$Protein_Class))
+getPalette = colorRampPalette(RColorBrewer::brewer.pal(9, "Set1"))
+
+g <- ggplot(data = GO_targets, aes(x = Year, y = Percentage_Bioactivities, fill = Protein_Class)) +
+  geom_bar(colour = "black", stat = "identity") + 
+  scale_fill_manual(values = getPalette(colourCount)) +
+  theme_bw() +
+  #ylim(0, 50) +
+  theme(legend.position="right",legend.text=element_text(size=8), legend.key.size=unit(8,"point") ) +
+  guides(fill=guide_legend(nrow=31))
+
+g + ggtitle("Protease: Immune System Process (GO_biological process)")
+
+ggsave(file = "/Users/barbara/Dropbox/TimeTrendAnalyses/TimeTrends_Chembl/Results/GO_trends/GO_targets/steep_Proteases/Proteases_BP_immune_system_process.tiff", dpi = 300, device = "tiff")
+
+
+
+
+```
+

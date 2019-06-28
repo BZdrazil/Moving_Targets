@@ -1,0 +1,221 @@
+---
+title: "R Notebook"
+output: html_notebook
+---
+
+This is an [R Markdown](http://rmarkdown.rstudio.com) Notebook. When you execute code within the notebook, the results appear beneath the code. 
+
+Try executing this chunk by clicking the *Run* button within the chunk or by placing your cursor inside it and pressing *Ctrl+Shift+Enter*. 
+
+```{r}
+install.packages("wesanderson")
+install.packages(reshape2)
+
+library(wesanderson)
+library(tidyverse)
+library(ggplus)
+library(reshape2)
+
+
+path = "/Users/Barbara/Dropbox/TimeTrendAnalyses/TimeTrends_Chembl/data_from_knime"
+
+knitr::opts_knit$set(root.dir = path)
+setwd(path)
+
+###percentages_cmpds_####
+###########################
+
+Target_family <- read_csv(file =  "/Users/barbara/Dropbox/TimeTrendAnalyses/TimeTrends_Chembl/data_from_knime/Target_family_evolution_percentage.csv")[ ,c(1, 4, 2, 5, 6, 7, 3 )]
+names(Target_family) <- c("Year", "GPCRs", "Ion channels", "Kinases", "NRs", "Proteases", "Transporter")
+
+
+melted_Target_family <- melt(Target_family, id.vars = "Year")
+names(melted_Target_family)[1:3] <- c("Year", "Target_family", "Percent_Compounds")
+
+
+g <- ggplot(data = melted_Target_family, aes(x = Year, y = Percent_Compounds, fill = Target_family)) +
+  geom_bar(stat = "identity") + 
+  scale_fill_brewer(palette="Accent") +
+  theme_bw() +
+  theme(legend.position="left", text = element_text(size=20))
+
+#str(melted_Target_family)
+
+
+
+  ggsave(file = "C:/Users/Barbara/Dropbox/TimeTrendAnalyses/TimeTrends_Chembl/Results/Target_popularity/Target_families_compound_percentages.tiff", dpi = 300, device = "tiff")
+
+
+###percentages_PMIDs####
+########################
+
+Target_family <- read_csv(file = "/Users/Barbara/Dropbox/TimeTrendAnalyses/TimeTrends_Chembl/data_from_knime/Target_family_evolution_percentage.csv")[ ,c(1, 10, 8, 11, 12, 13, 9)]
+names(Target_family) <- c("Year", "GPCRs", "Ion channels", "Kinases", "NRs", "Proteases", "Transporter")
+
+
+melted_Target_family <- melt(Target_family, id.vars = "Year")
+names(melted_Target_family)[1:3] <- c("Year", "Target_family", "Percent_PMIDs")
+
+
+g <- ggplot(data = melted_Target_family, aes(x = Year, y = Percent_PMIDs, fill = Target_family)) +
+  geom_bar(stat = "identity") +
+  scale_fill_brewer(palette="Accent") +
+  theme_bw() +
+  theme(legend.position="none", text = element_text(size=20))
+
+#str(melted_Target_family)
+
+
+
+  ggsave(file = "C:/Users/Barbara/Dropbox/TimeTrendAnalyses/TimeTrends_Chembl/Results/Target_popularity/Target_families_PMID_percentages.tiff", dpi = 300, device = "tiff")
+  
+
+###percentages_Targets####
+##########################
+
+Target_family <- read_csv(file = "/Users/Barbara/Dropbox/TimeTrendAnalyses/TimeTrends_Chembl/data_from_knime/Target_family_evolution_percentage.csv")[ ,c(1, 16, 14, 17, 18, 19, 15)] 
+names(Target_family) <- c("Year", "GPCRs", "Ion channels", "Kinases", "NRs", "Proteases", "Transporter")
+
+
+melted_Target_family <- melt(Target_family, id.vars = "Year")
+names(melted_Target_family)[1:3] <- c("Year", "Target_family", "Percent_Targets")
+
+
+g <- ggplot(data = melted_Target_family, aes(x = Year, y = Percent_Targets, fill = Target_family)) +
+  geom_bar(stat = "identity") + 
+  scale_fill_brewer(palette="Accent") +
+  theme_bw() +
+  theme(legend.position="none", text = element_text(size=20))
+
+#str(melted_Target_family)
+
+
+
+  ggsave(file = "C:/Users/Barbara/Dropbox/TimeTrendAnalyses/TimeTrends_Chembl/Results/Target_popularity/Target_families_Target_percentages.tiff", dpi = 300, device = "tiff")
+  
+  
+###percentages_Drug_Efficacy_Target_Annotations####
+###################################################
+
+Target_family <- read_csv(file = "/Users/Barbara/Dropbox/TimeTrendAnalyses/TimeTrends_Chembl/data_from_knime/Target_family_evolution_percentage.csv")[ ,c(1, 22, 20, 23, 24, 25, 21)] 
+names(Target_family) <- c("Year", "GPCRs", "Ion channels", "Kinases", "NRs", "Proteases", "Transporter")
+
+
+melted_Target_family <- melt(Target_family, id.vars = "Year")
+names(melted_Target_family)[1:3] <- c("Year", "Target_family", "Percent_Drug_Annotations")
+
+
+g <- ggplot(data = melted_Target_family, aes(x = Year, y = Percent_Drug_Annotations, fill = Target_family)) +
+  geom_bar(stat = "identity") + 
+  scale_fill_brewer(palette="Accent") +
+  theme_bw() +
+  theme(legend.position="none", text = element_text(size=20))
+
+#str(melted_Target_family)
+
+
+
+  ggsave(file = "C:/Users/Barbara/Dropbox/TimeTrendAnalyses/TimeTrends_Chembl/Results/Target_popularity/Target_families_Percentage_Drug_Efficacy_Target_Annotations_percentages.tiff", dpi = 300, device = "tiff")
+
+
+###Numbers_cmpds_##########
+###########################
+
+Target_family <- read_csv(file = "/Users/Barbara/Dropbox/TimeTrendAnalyses/TimeTrends_Chembl/data_from_knime/Target_family_evolution.csv")[ ,c(1, 10, 2,14,18,22, 6 )] %>% filter(Year == c(1995:2015))
+names(Target_family) <- c("Year", "GPCRs", "Ion channels", "Kinases", "NRs", "Proteases", "Transporter")
+
+
+melted_Target_family <- melt(Target_family, id.vars = "Year")
+names(melted_Target_family)[1:3] <- c("Year", "Target_family", "No_Compounds")
+
+
+g <- ggplot(data = melted_Target_family, aes(x = Year, y = No_Compounds, color = Target_family)) +
+  geom_line(size = 1.5) + 
+  scale_color_brewer(palette="Accent") +
+  theme_bw() +
+  theme(legend.position="none", text = element_text(size=20))
+
+#str(melted_Target_family)
+
+
+
+  ggsave(file = "C:/Users/Barbara/Dropbox/TimeTrendAnalyses/TimeTrends_Chembl/Results/Target_popularity/Target_families_compound_numbers.tiff", dpi = 300, device = "tiff")
+
+  
+###Numbers_PMIDs####
+###############
+
+Target_family <- read_csv(file = "/Users/Barbara/Dropbox/TimeTrendAnalyses/TimeTrends_Chembl/data_from_knime/Target_family_evolution.csv")[ ,c(1, 11, 3,15,19,23, 7)] %>% filter(Year == c(1995:2015))
+names(Target_family) <- c("Year", "GPCRs", "Ion channels", "Kinases", "NRs", "Proteases", "Transporter")
+
+
+melted_Target_family <- melt(Target_family, id.vars = "Year")
+names(melted_Target_family)[1:3] <- c("Year", "Target_family", "No_PMIDs")
+
+
+g <- ggplot(data = melted_Target_family, aes(x = Year, y = No_PMIDs, color = Target_family)) +
+  geom_line(size = 1.5) + 
+  scale_color_brewer(palette="Accent") +
+  theme_bw() +
+  theme(legend.position="none", text = element_text(size=20))
+
+#str(melted_Target_family)
+
+
+
+  ggsave(file = "C:/Users/Barbara/Dropbox/TimeTrendAnalyses/TimeTrends_Chembl/Results/Target_popularity/Target_families_PMID_numbers.tiff", dpi = 300, device = "tiff")
+  
+
+###Numbers_Targets####
+###############
+
+Target_family <- read_csv(file = "/Users/Barbara/Dropbox/TimeTrendAnalyses/TimeTrends_Chembl/data_from_knime/Target_family_evolution.csv")[ ,c(1, 12, 4,16,20,24, 8)] %>% filter(Year == c(1995:2015))
+names(Target_family) <- c("Year", "GPCRs", "Ion channels", "Kinases", "NRs", "Proteases", "Transporter")
+
+
+melted_Target_family <- melt(Target_family, id.vars = "Year")
+names(melted_Target_family)[1:3] <- c("Year", "Target_family", "No_Targets")
+
+
+g <- ggplot(data = melted_Target_family, aes(x = Year, y = No_Targets, color = Target_family)) +
+  geom_line(size = 1.5) + 
+  scale_color_brewer(palette="Accent") +
+  theme_bw() +
+  theme(legend.position="none", text = element_text(size=20))
+
+#str(melted_Target_family)
+
+
+
+  ggsave(file = "C:/Users/Barbara/Dropbox/TimeTrendAnalyses/TimeTrends_Chembl/Results/Target_popularity/Target_families_Target_numbers.tiff", dpi = 300, device = "tiff")
+  
+  
+###Numbers_drug_efficcay_target_annotations####
+#############################################
+
+Target_family <- read_csv(file = "/Users/Barbara/Dropbox/TimeTrendAnalyses/TimeTrends_Chembl/data_from_knime/Target_family_evolution.csv")[ ,c(1, 13, 5,17,21,25, 9)] %>% filter(Year == c(1995:2015))
+names(Target_family) <- c("Year", "GPCRs", "Ion channels", "Kinases", "NRs", "Proteases", "Transporter")
+
+
+melted_Target_family <- melt(Target_family, id.vars = "Year")
+names(melted_Target_family)[1:3] <- c("Year", "Target_family", "No_Drug_Annotations")
+
+
+g <- ggplot(data = melted_Target_family, aes(x = Year, y = No_Drug_Annotations, color = Target_family)) +
+  geom_line(size = 1.5) + 
+  scale_color_brewer(palette="Accent") +
+  theme_bw() +
+  theme(legend.position="none", text = element_text(size=20))
+
+#str(melted_Target_family)
+
+
+
+  ggsave(file = "C:/Users/Barbara/Dropbox/TimeTrendAnalyses/TimeTrends_Chembl/Results/Target_popularity/Target_families_Drug_Target_annotation_numbers.tiff", dpi = 300, device = "tiff")
+  
+  
+```
+
+Add a new chunk by clicking the *Insert Chunk* button on the toolbar or by pressing *Ctrl+Alt+I*.
+
+When you save the notebook, an HTML file containing the code and output will be saved alongside it (click the *Preview* button or press *Ctrl+Shift+K* to preview the HTML file).
