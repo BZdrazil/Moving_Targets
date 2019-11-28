@@ -1,5 +1,4 @@
 library(tidyverse)
-library(ggplus)
 library(reshape2)
 
 make_figures_tdl <- function(infile, img_file, title) {

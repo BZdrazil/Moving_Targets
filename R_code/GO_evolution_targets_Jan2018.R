@@ -10,7 +10,7 @@ close(zz)
 colourCount = length(unique(GO_targets$Protein_Class))
 getPalette = colorRampPalette(RColorBrewer::brewer.pal(9, "Set1"))
 
-GO_Targets %>% 
+GO_targets %>% 
   ggplot(aes(x = Year, y = Percentage_Bioactivities, 
              fill = Protein_Class)) +
   geom_bar(colour = "black", stat = "identity") + 
