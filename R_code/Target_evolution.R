@@ -4,7 +4,7 @@ library(dplyr)
 library(reshape2)
 library(stringr)
 
-process_parameter <- function(infile, suffix, metric, img_file) {
+make_figure <- function(infile, suffix, metric, img_file) {
   
   zz <- gzfile(sprintf("data/%s", infile),'rt')  
   Target_family <- read.csv(zz, header=TRUE, as.is=TRUE) %>% 
@@ -38,28 +38,28 @@ process_parameter <- function(infile, suffix, metric, img_file) {
   ggsave(file = img_file, dpi = 300, device = "tiff", width=7, height=4)
 }
 
-process_parameter("Target_family_evolution_percentage.csv.gz",
+make_figure("Target_family_evolution_percentage.csv.gz",
                   "_cmp_no_percentage", "Percent_Compounds",
                   "figs/Target_families_compound_percentages.tiff")
-process_parameter("Target_family_evolution_percentage.csv.gz",
+make_figure("Target_family_evolution_percentage.csv.gz",
                   "_PMID_no_percentage", "Percent_PMIDs", 
                   "figs/Target_families_PMID_percentages.tiff")
-process_parameter("Target_family_evolution_percentage.csv.gz",
+make_figure("Target_family_evolution_percentage.csv.gz",
                   "_target_no_percentage", "Percent_Targets",
                   "figs/Target_families_Target_percentages.tiff")
-process_parameter("Target_family_evolution_percentage.csv.gz",
+make_figure("Target_family_evolution_percentage.csv.gz",
                   "_disease_efficacy_percentage", "Percent_Drug_Annotations",
                   "figs/Target_families_Percentage_Drug_Efficacy_Target_Annotations_percentages.tiff")
 
-process_parameter("Target_family_evolution.csv.gz",
+make_figure("Target_family_evolution.csv.gz",
                   "_cmp_no", "Num_Compounds",
                   "figs/Target_families_compound_numbers.tiff")
-process_parameter("Target_family_evolution.csv.gz",
+make_figure("Target_family_evolution.csv.gz",
                   "_pmid_no", "Num_PMIDs",
                   "figs/Target_families_PMID_numbers.tiff")
-process_parameter("Target_family_evolution.csv.gz",
+make_figure("Target_family_evolution.csv.gz",
                   "_target_no", "Num_Targets",
                   "figs/Target_families_Target_numbers.tiff")
-process_parameter("Target_family_evolution.csv.gz",
+make_figure("Target_family_evolution.csv.gz",
                   "_disease_efficacy", "Num_Drug_Annotations",
                   "figs/Target_families_Drug_Target_Annotation_numbers.tiff")
