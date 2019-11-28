@@ -1,0 +1,371 @@
+"protein_class_pref_name","protein_class_short_name","go_pref_name","Percentage_Bioactivities","No_Drug_Efficacy_Target_Annotations","Target_Connectivity"
+"AGC protein kinase AKT family","Akt","aging",0.018868933244859002,0,3
+"AGC protein kinase AKT family","Akt","anatomical structure development",0.018868933244859002,0,8
+"AGC protein kinase AKT family","Akt","biosynthetic process",0.018868933244859002,0,8
+"AGC protein kinase AKT family","Akt","carbohydrate metabolic process",0.018868933244859002,0,2
+"AGC protein kinase AKT family","Akt","catabolic process",0.018868933244859002,0,3
+"AGC protein kinase AKT family","Akt","cell death",0.018868933244859002,0,11
+"AGC protein kinase AKT family","Akt","cell differentiation",0.018868933244859002,0,14
+"AGC protein kinase AKT family","Akt","cell proliferation",0.018868933244859002,0,9
+"AGC protein kinase AKT family","Akt","cell-cell signaling",0.018868933244859002,0,4
+"AGC protein kinase AKT family","Akt","cellular nitrogen compound metabolic process",0.018868933244859002,0,8
+"AGC protein kinase AKT family","Akt","cellular protein modification process",0.018868933244859002,0,22
+"AGC protein kinase AKT family","Akt","circulatory system process",0.018868933244859002,0,3
+"AGC protein kinase AKT family","Akt","embryo development",0.018868933244859002,0,5
+"AGC protein kinase AKT family","Akt","female pregnancy",0.018868933244859002,0,1
+"AGC protein kinase AKT family","Akt","generation of precursor metabolites and energy",0.018868933244859002,0,1
+"AGC protein kinase AKT family","Akt","homeostatic process",0.018868933244859002,0,6
+"AGC protein kinase AKT family","Akt","immune system process",0.018868933244859002,0,14
+"AGC protein kinase AKT family","Akt","metabolic process",0.018868933244859002,0,3
+"AGC protein kinase AKT family","Akt","mitochondrion organization",0.018868933244859002,0,1
+"AGC protein kinase AKT family","Akt","multicellular organismal development",0.018868933244859002,0,16
+"AGC protein kinase AKT family","Akt","negative regulation of endopeptidase activity",0.018868933244859002,0,4
+"AGC protein kinase AKT family","Akt","nucleocytoplasmic transport",0.018868933244859002,0,1
+"AGC protein kinase AKT family","Akt","phosphorylation",0.018868933244859002,0,22
+"AGC protein kinase AKT family","Akt","plasma membrane organization",0.018868933244859002,0,2
+"AGC protein kinase AKT family","Akt","positive regulation of apoptotic process",0.018868933244859002,0,4
+"AGC protein kinase AKT family","Akt","positive regulation of catalytic activity",0.018868933244859002,0,13
+"AGC protein kinase AKT family","Akt","protein targeting",0.018868933244859002,0,1
+"AGC protein kinase AKT family","Akt","regulation of catalytic activity",0.018868933244859002,0,7
+"AGC protein kinase AKT family","Akt","regulation of protein localization",0.018868933244859002,0,6
+"AGC protein kinase AKT family","Akt","reproduction",0.018868933244859002,0,6
+"AGC protein kinase AKT family","Akt","response to stress",0.018868933244859002,0,18
+"AGC protein kinase AKT family","Akt","signal transduction",0.018868933244859002,0,21
+"AGC protein kinase AKT family","Akt","small molecule metabolic process",0.018868933244859002,0,2
+"AGC protein kinase AKT family","Akt","translation",0.018868933244859002,0,1
+"AGC protein kinase AKT family","Akt","transmembrane transport",0.018868933244859002,0,2
+"AGC protein kinase AKT family","Akt","transport",0.018868933244859002,0,2
+"AGC protein kinase PDK1 subfamily","Pdk1","biosynthetic process",3.1448222074765E-4,0,8
+"AGC protein kinase PDK1 subfamily","Pdk1","cell adhesion",3.1448222074765E-4,0,8
+"AGC protein kinase PDK1 subfamily","Pdk1","cell death",3.1448222074765E-4,0,11
+"AGC protein kinase PDK1 subfamily","Pdk1","cell differentiation",3.1448222074765E-4,0,14
+"AGC protein kinase PDK1 subfamily","Pdk1","cell junction organization",3.1448222074765E-4,0,3
+"AGC protein kinase PDK1 subfamily","Pdk1","cell motility",3.1448222074765E-4,0,8
+"AGC protein kinase PDK1 subfamily","Pdk1","cellular component assembly",3.1448222074765E-4,0,5
+"AGC protein kinase PDK1 subfamily","Pdk1","cellular nitrogen compound metabolic process",3.1448222074765E-4,0,8
+"AGC protein kinase PDK1 subfamily","Pdk1","cellular protein modification process",3.1448222074765E-4,0,22
+"AGC protein kinase PDK1 subfamily","Pdk1","cytoskeleton organization",3.1448222074765E-4,0,10
+"AGC protein kinase PDK1 subfamily","Pdk1","immune system process",3.1448222074765E-4,0,14
+"AGC protein kinase PDK1 subfamily","Pdk1","multicellular organismal development",3.1448222074765E-4,0,16
+"AGC protein kinase PDK1 subfamily","Pdk1","phosphorylation",3.1448222074765E-4,0,22
+"AGC protein kinase PDK1 subfamily","Pdk1","positive regulation of catalytic activity",3.1448222074765E-4,0,13
+"AGC protein kinase PDK1 subfamily","Pdk1","regulation of catalytic activity",3.1448222074765E-4,0,7
+"AGC protein kinase PDK1 subfamily","Pdk1","regulation of protein localization",3.1448222074765E-4,0,6
+"AGC protein kinase PDK1 subfamily","Pdk1","response to stress",3.1448222074765E-4,0,18
+"AGC protein kinase PDK1 subfamily","Pdk1","signal transduction",3.1448222074765E-4,0,21
+"CAMK protein kinase AMPK subfamily","Ampk","autophagy",0.0012579288829906,0,2
+"CAMK protein kinase AMPK subfamily","Ampk","biosynthetic process",0.0012579288829906,0,8
+"CAMK protein kinase AMPK subfamily","Ampk","carbohydrate metabolic process",0.0012579288829906,0,2
+"CAMK protein kinase AMPK subfamily","Ampk","cell cycle",0.0012579288829906,0,9
+"CAMK protein kinase AMPK subfamily","Ampk","cellular nitrogen compound metabolic process",0.0012579288829906,0,8
+"CAMK protein kinase AMPK subfamily","Ampk","cellular protein modification process",0.0012579288829906,0,22
+"CAMK protein kinase AMPK subfamily","Ampk","chromosome organization",0.0012579288829906,0,3
+"CAMK protein kinase AMPK subfamily","Ampk","homeostatic process",0.0012579288829906,0,6
+"CAMK protein kinase AMPK subfamily","Ampk","lipid metabolic process",0.0012579288829906,0,4
+"CAMK protein kinase AMPK subfamily","Ampk","phosphorylation",0.0012579288829906,0,22
+"CAMK protein kinase AMPK subfamily","Ampk","positive regulation of catalytic activity",0.0012579288829906,0,13
+"CAMK protein kinase AMPK subfamily","Ampk","protein complex assembly",0.0012579288829906,0,8
+"CAMK protein kinase AMPK subfamily","Ampk","response to stress",0.0012579288829906,0,18
+"CAMK protein kinase AMPK subfamily","Ampk","signal transduction",0.0012579288829906,0,21
+"CAMK protein kinase AMPK subfamily","Ampk","small molecule metabolic process",0.0012579288829906,0,2
+"CAMK protein kinase CHK1 subfamily","Chk1","DNA metabolic process",0.0031448222074765006,0,4
+"CAMK protein kinase CHK1 subfamily","Chk1","aging",0.0031448222074765006,0,3
+"CAMK protein kinase CHK1 subfamily","Chk1","biosynthetic process",0.0031448222074765006,0,8
+"CAMK protein kinase CHK1 subfamily","Chk1","cell cycle",0.0031448222074765006,0,9
+"CAMK protein kinase CHK1 subfamily","Chk1","cellular protein modification process",0.0031448222074765006,0,22
+"CAMK protein kinase CHK1 subfamily","Chk1","chromosome organization",0.0031448222074765006,0,3
+"CAMK protein kinase CHK1 subfamily","Chk1","phosphorylation",0.0031448222074765006,0,22
+"CAMK protein kinase CHK1 subfamily","Chk1","response to stress",0.0031448222074765006,0,18
+"CAMK protein kinase PIM family","Pim","cell cycle",0.0037737866489718002,0,9
+"CAMK protein kinase PIM family","Pim","cell death",0.0037737866489718002,0,11
+"CAMK protein kinase PIM family","Pim","cell proliferation",0.0037737866489718002,0,9
+"CAMK protein kinase PIM family","Pim","cellular protein modification process",0.0037737866489718002,0,22
+"CAMK protein kinase PIM family","Pim","metabolic process",0.0037737866489718002,0,3
+"CAMK protein kinase PIM family","Pim","multicellular organismal development",0.0037737866489718002,0,16
+"CAMK protein kinase PIM family","Pim","phosphorylation",0.0037737866489718002,0,22
+"CAMK protein kinase PIM family","Pim","positive regulation of catalytic activity",0.0037737866489718002,0,13
+"CAMK protein kinase PIM family","Pim","signal transduction",0.0037737866489718002,0,21
+"CAMK protein kinase RAD53 family","Rad53","DNA metabolic process",0.015095146595887201,0,4
+"CAMK protein kinase RAD53 family","Rad53","aging",0.015095146595887201,0,3
+"CAMK protein kinase RAD53 family","Rad53","biosynthetic process",0.015095146595887201,0,8
+"CAMK protein kinase RAD53 family","Rad53","catabolic process",0.015095146595887201,0,3
+"CAMK protein kinase RAD53 family","Rad53","cell cycle",0.015095146595887201,0,9
+"CAMK protein kinase RAD53 family","Rad53","cell death",0.015095146595887201,0,11
+"CAMK protein kinase RAD53 family","Rad53","cell division",0.015095146595887201,0,4
+"CAMK protein kinase RAD53 family","Rad53","cellular nitrogen compound metabolic process",0.015095146595887201,0,8
+"CAMK protein kinase RAD53 family","Rad53","cellular protein modification process",0.015095146595887201,0,22
+"CAMK protein kinase RAD53 family","Rad53","cellular response to drug",0.015095146595887201,0,1
+"CAMK protein kinase RAD53 family","Rad53","cytoskeleton organization",0.015095146595887201,0,10
+"CAMK protein kinase RAD53 family","Rad53","microtubule-based process",0.015095146595887201,0,3
+"CAMK protein kinase RAD53 family","Rad53","mitotic nuclear division",0.015095146595887201,0,3
+"CAMK protein kinase RAD53 family","Rad53","phosphorylation",0.015095146595887201,0,22
+"CAMK protein kinase RAD53 family","Rad53","positive regulation of apoptotic process",0.015095146595887201,0,4
+"CAMK protein kinase RAD53 family","Rad53","protein complex assembly",0.015095146595887201,0,8
+"CAMK protein kinase RAD53 family","Rad53","protein stabilization",0.015095146595887201,0,1
+"CAMK protein kinase RAD53 family","Rad53","response to stress",0.015095146595887201,0,18
+"CAMK protein kinase RAD53 family","Rad53","signal transduction",0.015095146595887201,0,21
+"CAMK protein kinase RSKb subfamily","Rskb","cell cycle",0.0015724111037382503,0,9
+"CAMK protein kinase RSKb subfamily","Rskb","cell death",0.0015724111037382503,0,11
+"CAMK protein kinase RSKb subfamily","Rskb","cellular protein modification process",0.0015724111037382503,0,22
+"CAMK protein kinase RSKb subfamily","Rskb","immune system process",0.0015724111037382503,0,14
+"CAMK protein kinase RSKb subfamily","Rskb","multicellular organismal development",0.0015724111037382503,0,16
+"CAMK protein kinase RSKb subfamily","Rskb","negative regulation of endopeptidase activity",0.0015724111037382503,0,4
+"CAMK protein kinase RSKb subfamily","Rskb","phosphorylation",0.0015724111037382503,0,22
+"CAMK protein kinase RSKb subfamily","Rskb","response to stress",0.0015724111037382503,0,18
+"CAMK protein kinase RSKb subfamily","Rskb","signal transduction",0.0015724111037382503,0,21
+"CK1 protein kinase CK1 family","Ck1","DNA metabolic process",9.434466622429501E-4,0,4
+"CK1 protein kinase CK1 family","Ck1","anatomical structure formation involved in morphogenesis",9.434466622429501E-4,0,5
+"CK1 protein kinase CK1 family","Ck1","cell adhesion",9.434466622429501E-4,0,8
+"CK1 protein kinase CK1 family","Ck1","cell cycle",9.434466622429501E-4,0,9
+"CK1 protein kinase CK1 family","Ck1","cell morphogenesis",9.434466622429501E-4,0,9
+"CK1 protein kinase CK1 family","Ck1","cellular component assembly",9.434466622429501E-4,0,5
+"CK1 protein kinase CK1 family","Ck1","cellular nitrogen compound metabolic process",9.434466622429501E-4,0,8
+"CK1 protein kinase CK1 family","Ck1","cellular protein modification process",9.434466622429501E-4,0,22
+"CK1 protein kinase CK1 family","Ck1","cytoskeleton organization",9.434466622429501E-4,0,10
+"CK1 protein kinase CK1 family","Ck1","membrane organization",9.434466622429501E-4,0,2
+"CK1 protein kinase CK1 family","Ck1","microtubule-based process",9.434466622429501E-4,0,3
+"CK1 protein kinase CK1 family","Ck1","phosphorylation",9.434466622429501E-4,0,22
+"CK1 protein kinase CK1 family","Ck1","protein complex assembly",9.434466622429501E-4,0,8
+"CK1 protein kinase CK1 family","Ck1","response to stress",9.434466622429501E-4,0,18
+"CK1 protein kinase CK1 family","Ck1","ribosome biogenesis",9.434466622429501E-4,0,1
+"CK1 protein kinase CK1 family","Ck1","signal transduction",9.434466622429501E-4,0,21
+"CK1 protein kinase CK1 family","Ck1","vesicle-mediated transport",9.434466622429501E-4,0,5
+"Other protein kinase AUR family","Aur","catabolic process",0.0056606799734577,0,3
+"Other protein kinase AUR family","Aur","cell cycle",0.0056606799734577,0,9
+"Other protein kinase AUR family","Aur","cell differentiation",0.0056606799734577,0,14
+"Other protein kinase AUR family","Aur","cell division",0.0056606799734577,0,4
+"Other protein kinase AUR family","Aur","cell morphogenesis",0.0056606799734577,0,9
+"Other protein kinase AUR family","Aur","cellular protein modification process",0.0056606799734577,0,22
+"Other protein kinase AUR family","Aur","chromosome organization",0.0056606799734577,0,3
+"Other protein kinase AUR family","Aur","cytoskeleton organization",0.0056606799734577,0,10
+"Other protein kinase AUR family","Aur","growth",0.0056606799734577,0,3
+"Other protein kinase AUR family","Aur","microtubule-based process",0.0056606799734577,0,3
+"Other protein kinase AUR family","Aur","mitotic nuclear division",0.0056606799734577,0,3
+"Other protein kinase AUR family","Aur","multicellular organismal development",0.0056606799734577,0,16
+"Other protein kinase AUR family","Aur","phosphorylation",0.0056606799734577,0,22
+"Other protein kinase AUR family","Aur","protein complex assembly",0.0056606799734577,0,8
+"Other protein kinase AUR family","Aur","proteolysis",0.0056606799734577,0,1
+"Other protein kinase AUR family","Aur","reproduction",0.0056606799734577,0,6
+"Other protein kinase AUR family","Aur","response to stress",0.0056606799734577,0,18
+"Other protein kinase AUR family","Aur","signal transduction",0.0056606799734577,0,21
+"Other protein kinase group","Other","cell differentiation",0.023271684335326105,0,14
+"Other protein kinase group","Other","cellular protein modification process",0.023271684335326105,0,22
+"Other protein kinase group","Other","cytoskeleton organization",0.023271684335326105,0,10
+"Other protein kinase group","Other","immune system process",0.023271684335326105,0,14
+"Other protein kinase group","Other","multicellular organismal development",0.023271684335326105,0,16
+"Other protein kinase group","Other","phosphorylation",0.023271684335326105,0,22
+"Other protein kinase group","Other","plasma membrane organization",0.023271684335326105,0,2
+"Other protein kinase group","Other","regulation of catalytic activity",0.023271684335326105,0,7
+"Other protein kinase group","Other","response to stress",0.023271684335326105,0,18
+"Other protein kinase group","Other","response to toxic substance",0.023271684335326105,0,1
+"Other protein kinase group","Other","signal transduction",0.023271684335326105,0,21
+"STE protein kinase PAKA subfamily","Paka","cell death",6.289644414953E-4,0,11
+"STE protein kinase PAKA subfamily","Paka","cell differentiation",6.289644414953E-4,0,14
+"STE protein kinase PAKA subfamily","Paka","cell morphogenesis",6.289644414953E-4,0,9
+"STE protein kinase PAKA subfamily","Paka","cellular protein modification process",6.289644414953E-4,0,22
+"STE protein kinase PAKA subfamily","Paka","cytoskeleton organization",6.289644414953E-4,0,10
+"STE protein kinase PAKA subfamily","Paka","immune system process",6.289644414953E-4,0,14
+"STE protein kinase PAKA subfamily","Paka","metabolic process",6.289644414953E-4,0,3
+"STE protein kinase PAKA subfamily","Paka","multicellular organismal development",6.289644414953E-4,0,16
+"STE protein kinase PAKA subfamily","Paka","phosphorylation",6.289644414953E-4,0,22
+"STE protein kinase PAKA subfamily","Paka","positive regulation of catalytic activity",6.289644414953E-4,0,13
+"STE protein kinase PAKA subfamily","Paka","response to stress",6.289644414953E-4,0,18
+"STE protein kinase PAKA subfamily","Paka","signal transduction",6.289644414953E-4,0,21
+"STE protein kinase PAKA subfamily","Paka","vesicle-mediated transport",6.289644414953E-4,0,5
+"TKL protein kinase RAF family","Raf","anatomical structure development",0.00345930442822415,0,8
+"TKL protein kinase RAF family","Raf","cell death",0.00345930442822415,0,11
+"TKL protein kinase RAF family","Raf","cell differentiation",0.00345930442822415,0,14
+"TKL protein kinase RAF family","Raf","cell proliferation",0.00345930442822415,0,9
+"TKL protein kinase RAF family","Raf","cell-cell signaling",0.00345930442822415,0,4
+"TKL protein kinase RAF family","Raf","cellular protein modification process",0.00345930442822415,0,22
+"TKL protein kinase RAF family","Raf","cytoskeleton organization",0.00345930442822415,0,10
+"TKL protein kinase RAF family","Raf","homeostatic process",0.00345930442822415,0,6
+"TKL protein kinase RAF family","Raf","immune system process",0.00345930442822415,0,14
+"TKL protein kinase RAF family","Raf","multicellular organismal development",0.00345930442822415,0,16
+"TKL protein kinase RAF family","Raf","negative regulation of endopeptidase activity",0.00345930442822415,0,4
+"TKL protein kinase RAF family","Raf","phosphorylation",0.00345930442822415,0,22
+"TKL protein kinase RAF family","Raf","positive regulation of catalytic activity",0.00345930442822415,0,13
+"TKL protein kinase RAF family","Raf","protein complex assembly",0.00345930442822415,0,8
+"TKL protein kinase RAF family","Raf","response to stress",0.00345930442822415,0,18
+"TKL protein kinase RAF family","Raf","signal transduction",0.00345930442822415,0,21
+"TKL protein kinase RAF family","Raf","transmembrane transport",0.00345930442822415,0,2
+"TKL protein kinase RAF family","Raf","transport",0.00345930442822415,0,2
+"Tyrosine protein kinase Abl family","Abl","DNA metabolic process",0.0047172333112147505,1,4
+"Tyrosine protein kinase Abl family","Abl","autophagy",0.0047172333112147505,1,2
+"Tyrosine protein kinase Abl family","Abl","cell adhesion",0.0047172333112147505,1,8
+"Tyrosine protein kinase Abl family","Abl","cell cycle",0.0047172333112147505,1,9
+"Tyrosine protein kinase Abl family","Abl","cell death",0.0047172333112147505,1,11
+"Tyrosine protein kinase Abl family","Abl","cell differentiation",0.0047172333112147505,1,14
+"Tyrosine protein kinase Abl family","Abl","cell morphogenesis",0.0047172333112147505,1,9
+"Tyrosine protein kinase Abl family","Abl","cell proliferation",0.0047172333112147505,1,9
+"Tyrosine protein kinase Abl family","Abl","cellular component assembly",0.0047172333112147505,1,5
+"Tyrosine protein kinase Abl family","Abl","cellular protein modification process",0.0047172333112147505,1,22
+"Tyrosine protein kinase Abl family","Abl","cytoskeleton organization",0.0047172333112147505,1,10
+"Tyrosine protein kinase Abl family","Abl","growth",0.0047172333112147505,1,3
+"Tyrosine protein kinase Abl family","Abl","homeostatic process",0.0047172333112147505,1,6
+"Tyrosine protein kinase Abl family","Abl","immune system process",0.0047172333112147505,1,14
+"Tyrosine protein kinase Abl family","Abl","mitotic nuclear division",0.0047172333112147505,1,3
+"Tyrosine protein kinase Abl family","Abl","multicellular organismal development",0.0047172333112147505,1,16
+"Tyrosine protein kinase Abl family","Abl","neurological system process",0.0047172333112147505,1,4
+"Tyrosine protein kinase Abl family","Abl","phosphorylation",0.0047172333112147505,1,22
+"Tyrosine protein kinase Abl family","Abl","positive regulation of apoptotic process",0.0047172333112147505,1,4
+"Tyrosine protein kinase Abl family","Abl","positive regulation of catalytic activity",0.0047172333112147505,1,13
+"Tyrosine protein kinase Abl family","Abl","regulation of catalytic activity",0.0047172333112147505,1,7
+"Tyrosine protein kinase Abl family","Abl","regulation of protein localization",0.0047172333112147505,1,6
+"Tyrosine protein kinase Abl family","Abl","response to stress",0.0047172333112147505,1,18
+"Tyrosine protein kinase Abl family","Abl","signal transduction",0.0047172333112147505,1,21
+"Tyrosine protein kinase Abl family","Abl","vesicle-mediated transport",0.0047172333112147505,1,5
+"Tyrosine protein kinase EGFR family","Egfr","anatomical structure development",0.19026174355232828,4,8
+"Tyrosine protein kinase EGFR family","Egfr","biosynthetic process",0.19026174355232828,4,8
+"Tyrosine protein kinase EGFR family","Egfr","cell adhesion",0.19026174355232828,4,8
+"Tyrosine protein kinase EGFR family","Egfr","cell differentiation",0.19026174355232828,4,14
+"Tyrosine protein kinase EGFR family","Egfr","cell morphogenesis",0.19026174355232828,4,9
+"Tyrosine protein kinase EGFR family","Egfr","cell motility",0.19026174355232828,4,8
+"Tyrosine protein kinase EGFR family","Egfr","cell proliferation",0.19026174355232828,4,9
+"Tyrosine protein kinase EGFR family","Egfr","cellular nitrogen compound metabolic process",0.19026174355232828,4,8
+"Tyrosine protein kinase EGFR family","Egfr","cellular protein modification process",0.19026174355232828,4,22
+"Tyrosine protein kinase EGFR family","Egfr","embryo development",0.19026174355232828,4,5
+"Tyrosine protein kinase EGFR family","Egfr","lipid metabolic process",0.19026174355232828,4,4
+"Tyrosine protein kinase EGFR family","Egfr","locomotion",0.19026174355232828,4,3
+"Tyrosine protein kinase EGFR family","Egfr","membrane organization",0.19026174355232828,4,2
+"Tyrosine protein kinase EGFR family","Egfr","multicellular organismal development",0.19026174355232828,4,16
+"Tyrosine protein kinase EGFR family","Egfr","neurological system process",0.19026174355232828,4,4
+"Tyrosine protein kinase EGFR family","Egfr","phosphorylation",0.19026174355232828,4,22
+"Tyrosine protein kinase EGFR family","Egfr","positive regulation of catalytic activity",0.19026174355232828,4,13
+"Tyrosine protein kinase EGFR family","Egfr","regulation of catalytic activity",0.19026174355232828,4,7
+"Tyrosine protein kinase EGFR family","Egfr","regulation of protein localization",0.19026174355232828,4,6
+"Tyrosine protein kinase EGFR family","Egfr","reproduction",0.19026174355232828,4,6
+"Tyrosine protein kinase EGFR family","Egfr","response to stress",0.19026174355232828,4,18
+"Tyrosine protein kinase EGFR family","Egfr","signal transduction",0.19026174355232828,4,21
+"Tyrosine protein kinase Eph family","Eph","anatomical structure formation involved in morphogenesis",0.0018868933244859001,0,5
+"Tyrosine protein kinase Eph family","Eph","cell adhesion",0.0018868933244859001,0,8
+"Tyrosine protein kinase Eph family","Eph","cell motility",0.0018868933244859001,0,8
+"Tyrosine protein kinase Eph family","Eph","cellular protein modification process",0.0018868933244859001,0,22
+"Tyrosine protein kinase Eph family","Eph","multicellular organismal development",0.0018868933244859001,0,16
+"Tyrosine protein kinase Eph family","Eph","phosphorylation",0.0018868933244859001,0,22
+"Tyrosine protein kinase Eph family","Eph","signal transduction",0.0018868933244859001,0,21
+"Tyrosine protein kinase FGFR family","Fgfr","anatomical structure development",0.029875810971026755,0,8
+"Tyrosine protein kinase FGFR family","Fgfr","anatomical structure formation involved in morphogenesis",0.029875810971026755,0,5
+"Tyrosine protein kinase FGFR family","Fgfr","biosynthetic process",0.029875810971026755,0,8
+"Tyrosine protein kinase FGFR family","Fgfr","cell death",0.029875810971026755,0,11
+"Tyrosine protein kinase FGFR family","Fgfr","cell differentiation",0.029875810971026755,0,14
+"Tyrosine protein kinase FGFR family","Fgfr","cell division",0.029875810971026755,0,4
+"Tyrosine protein kinase FGFR family","Fgfr","cell morphogenesis",0.029875810971026755,0,9
+"Tyrosine protein kinase FGFR family","Fgfr","cell motility",0.029875810971026755,0,8
+"Tyrosine protein kinase FGFR family","Fgfr","cell proliferation",0.029875810971026755,0,9
+"Tyrosine protein kinase FGFR family","Fgfr","cell-cell signaling",0.029875810971026755,0,4
+"Tyrosine protein kinase FGFR family","Fgfr","cellular nitrogen compound metabolic process",0.029875810971026755,0,8
+"Tyrosine protein kinase FGFR family","Fgfr","cellular protein modification process",0.029875810971026755,0,22
+"Tyrosine protein kinase FGFR family","Fgfr","developmental maturation",0.029875810971026755,0,2
+"Tyrosine protein kinase FGFR family","Fgfr","embryo development",0.029875810971026755,0,5
+"Tyrosine protein kinase FGFR family","Fgfr","growth",0.029875810971026755,0,3
+"Tyrosine protein kinase FGFR family","Fgfr","immune system process",0.029875810971026755,0,14
+"Tyrosine protein kinase FGFR family","Fgfr","lipid metabolic process",0.029875810971026755,0,4
+"Tyrosine protein kinase FGFR family","Fgfr","multicellular organismal development",0.029875810971026755,0,16
+"Tyrosine protein kinase FGFR family","Fgfr","neurological system process",0.029875810971026755,0,4
+"Tyrosine protein kinase FGFR family","Fgfr","phosphorylation",0.029875810971026755,0,22
+"Tyrosine protein kinase FGFR family","Fgfr","positive regulation of catalytic activity",0.029875810971026755,0,13
+"Tyrosine protein kinase FGFR family","Fgfr","reproduction",0.029875810971026755,0,6
+"Tyrosine protein kinase FGFR family","Fgfr","signal transduction",0.029875810971026755,0,21
+"Tyrosine protein kinase InsR family","InsR","cellular protein modification process",0.0015724111037382503,0,22
+"Tyrosine protein kinase InsR family","InsR","immune system process",0.0015724111037382503,0,14
+"Tyrosine protein kinase InsR family","InsR","phosphorylation",0.0015724111037382503,0,22
+"Tyrosine protein kinase InsR family","InsR","protein complex assembly",0.0015724111037382503,0,8
+"Tyrosine protein kinase InsR family","InsR","regulation of catalytic activity",0.0015724111037382503,0,7
+"Tyrosine protein kinase InsR family","InsR","signal transduction",0.0015724111037382503,0,21
+"Tyrosine protein kinase PDGFR family","Pdgfr","anatomical structure development",0.025158577659812005,4,8
+"Tyrosine protein kinase PDGFR family","Pdgfr","cell adhesion",0.025158577659812005,4,8
+"Tyrosine protein kinase PDGFR family","Pdgfr","cell death",0.025158577659812005,4,11
+"Tyrosine protein kinase PDGFR family","Pdgfr","cell differentiation",0.025158577659812005,4,14
+"Tyrosine protein kinase PDGFR family","Pdgfr","cell division",0.025158577659812005,4,4
+"Tyrosine protein kinase PDGFR family","Pdgfr","cell junction organization",0.025158577659812005,4,3
+"Tyrosine protein kinase PDGFR family","Pdgfr","cell morphogenesis",0.025158577659812005,4,9
+"Tyrosine protein kinase PDGFR family","Pdgfr","cell motility",0.025158577659812005,4,8
+"Tyrosine protein kinase PDGFR family","Pdgfr","cell proliferation",0.025158577659812005,4,9
+"Tyrosine protein kinase PDGFR family","Pdgfr","cellular component assembly",0.025158577659812005,4,5
+"Tyrosine protein kinase PDGFR family","Pdgfr","cellular protein modification process",0.025158577659812005,4,22
+"Tyrosine protein kinase PDGFR family","Pdgfr","cytoskeleton organization",0.025158577659812005,4,10
+"Tyrosine protein kinase PDGFR family","Pdgfr","embryo development",0.025158577659812005,4,5
+"Tyrosine protein kinase PDGFR family","Pdgfr","homeostatic process",0.025158577659812005,4,6
+"Tyrosine protein kinase PDGFR family","Pdgfr","immune system process",0.025158577659812005,4,14
+"Tyrosine protein kinase PDGFR family","Pdgfr","lipid metabolic process",0.025158577659812005,4,4
+"Tyrosine protein kinase PDGFR family","Pdgfr","locomotion",0.025158577659812005,4,3
+"Tyrosine protein kinase PDGFR family","Pdgfr","multicellular organismal development",0.025158577659812005,4,16
+"Tyrosine protein kinase PDGFR family","Pdgfr","neurological system process",0.025158577659812005,4,4
+"Tyrosine protein kinase PDGFR family","Pdgfr","phosphorylation",0.025158577659812005,4,22
+"Tyrosine protein kinase PDGFR family","Pdgfr","pigmentation",0.025158577659812005,4,1
+"Tyrosine protein kinase PDGFR family","Pdgfr","positive regulation of catalytic activity",0.025158577659812005,4,13
+"Tyrosine protein kinase PDGFR family","Pdgfr","regulation of protein localization",0.025158577659812005,4,6
+"Tyrosine protein kinase PDGFR family","Pdgfr","reproduction",0.025158577659812005,4,6
+"Tyrosine protein kinase PDGFR family","Pdgfr","response to stress",0.025158577659812005,4,18
+"Tyrosine protein kinase PDGFR family","Pdgfr","signal transduction",0.025158577659812005,4,21
+"Tyrosine protein kinase PDGFR family","Pdgfr","vesicle-mediated transport",0.025158577659812005,4,5
+"Tyrosine protein kinase Src family","Src","anatomical structure development",0.0710729818889689,2,8
+"Tyrosine protein kinase Src family","Src","cell adhesion",0.0710729818889689,2,8
+"Tyrosine protein kinase Src family","Src","cell cycle",0.0710729818889689,2,9
+"Tyrosine protein kinase Src family","Src","cell differentiation",0.0710729818889689,2,14
+"Tyrosine protein kinase Src family","Src","cell junction organization",0.0710729818889689,2,3
+"Tyrosine protein kinase Src family","Src","cell morphogenesis",0.0710729818889689,2,9
+"Tyrosine protein kinase Src family","Src","cell motility",0.0710729818889689,2,8
+"Tyrosine protein kinase Src family","Src","cell proliferation",0.0710729818889689,2,9
+"Tyrosine protein kinase Src family","Src","cellular component assembly",0.0710729818889689,2,5
+"Tyrosine protein kinase Src family","Src","cellular protein modification process",0.0710729818889689,2,22
+"Tyrosine protein kinase Src family","Src","circulatory system process",0.0710729818889689,2,3
+"Tyrosine protein kinase Src family","Src","cytoskeleton organization",0.0710729818889689,2,10
+"Tyrosine protein kinase Src family","Src","homeostatic process",0.0710729818889689,2,6
+"Tyrosine protein kinase Src family","Src","immune system process",0.0710729818889689,2,14
+"Tyrosine protein kinase Src family","Src","multicellular organismal development",0.0710729818889689,2,16
+"Tyrosine protein kinase Src family","Src","negative regulation of endopeptidase activity",0.0710729818889689,2,4
+"Tyrosine protein kinase Src family","Src","phosphorylation",0.0710729818889689,2,22
+"Tyrosine protein kinase Src family","Src","positive regulation of apoptotic process",0.0710729818889689,2,4
+"Tyrosine protein kinase Src family","Src","positive regulation of catalytic activity",0.0710729818889689,2,13
+"Tyrosine protein kinase Src family","Src","protein complex assembly",0.0710729818889689,2,8
+"Tyrosine protein kinase Src family","Src","regulation of catalytic activity",0.0710729818889689,2,7
+"Tyrosine protein kinase Src family","Src","regulation of protein localization",0.0710729818889689,2,6
+"Tyrosine protein kinase Src family","Src","reproduction",0.0710729818889689,2,6
+"Tyrosine protein kinase Src family","Src","response to stress",0.0710729818889689,2,18
+"Tyrosine protein kinase Src family","Src","signal transduction",0.0710729818889689,2,21
+"Tyrosine protein kinase Src family","Src","symbiosis, encompassing mutualism through parasitism",0.0710729818889689,2,2
+"Tyrosine protein kinase Src family","Src","vesicle-mediated transport",0.0710729818889689,2,5
+"Tyrosine protein kinase Tec family","Tec","anatomical structure development",9.434466622429501E-4,0,8
+"Tyrosine protein kinase Tec family","Tec","biosynthetic process",9.434466622429501E-4,0,8
+"Tyrosine protein kinase Tec family","Tec","cell death",9.434466622429501E-4,0,11
+"Tyrosine protein kinase Tec family","Tec","cell differentiation",9.434466622429501E-4,0,14
+"Tyrosine protein kinase Tec family","Tec","cellular nitrogen compound metabolic process",9.434466622429501E-4,0,8
+"Tyrosine protein kinase Tec family","Tec","cellular protein modification process",9.434466622429501E-4,0,22
+"Tyrosine protein kinase Tec family","Tec","developmental maturation",9.434466622429501E-4,0,2
+"Tyrosine protein kinase Tec family","Tec","immune system process",9.434466622429501E-4,0,14
+"Tyrosine protein kinase Tec family","Tec","phosphorylation",9.434466622429501E-4,0,22
+"Tyrosine protein kinase Tec family","Tec","response to stress",9.434466622429501E-4,0,18
+"Tyrosine protein kinase Tec family","Tec","signal transduction",9.434466622429501E-4,0,21
+"Tyrosine protein kinase Tie family","Tie","anatomical structure formation involved in morphogenesis",0.028617882088036152,1,5
+"Tyrosine protein kinase Tie family","Tie","cell adhesion",0.028617882088036152,1,8
+"Tyrosine protein kinase Tie family","Tie","cell differentiation",0.028617882088036152,1,14
+"Tyrosine protein kinase Tie family","Tie","cell morphogenesis",0.028617882088036152,1,9
+"Tyrosine protein kinase Tie family","Tie","cell motility",0.028617882088036152,1,8
+"Tyrosine protein kinase Tie family","Tie","cell proliferation",0.028617882088036152,1,9
+"Tyrosine protein kinase Tie family","Tie","cell-cell signaling",0.028617882088036152,1,4
+"Tyrosine protein kinase Tie family","Tie","cellular protein modification process",0.028617882088036152,1,22
+"Tyrosine protein kinase Tie family","Tie","circulatory system process",0.028617882088036152,1,3
+"Tyrosine protein kinase Tie family","Tie","immune system process",0.028617882088036152,1,14
+"Tyrosine protein kinase Tie family","Tie","multicellular organismal development",0.028617882088036152,1,16
+"Tyrosine protein kinase Tie family","Tie","phosphorylation",0.028617882088036152,1,22
+"Tyrosine protein kinase Tie family","Tie","positive regulation of catalytic activity",0.028617882088036152,1,13
+"Tyrosine protein kinase Tie family","Tie","protein complex assembly",0.028617882088036152,1,8
+"Tyrosine protein kinase Tie family","Tie","response to stress",0.028617882088036152,1,18
+"Tyrosine protein kinase Tie family","Tie","signal transduction",0.028617882088036152,1,21
+"Tyrosine protein kinase VEGFR family","Vegfr","anatomical structure development",0.1647886836717686,0,8
+"Tyrosine protein kinase VEGFR family","Vegfr","anatomical structure formation involved in morphogenesis",0.1647886836717686,0,5
+"Tyrosine protein kinase VEGFR family","Vegfr","cell differentiation",0.1647886836717686,0,14
+"Tyrosine protein kinase VEGFR family","Vegfr","cell motility",0.1647886836717686,0,8
+"Tyrosine protein kinase VEGFR family","Vegfr","cellular protein modification process",0.1647886836717686,0,22
+"Tyrosine protein kinase VEGFR family","Vegfr","embryo development",0.1647886836717686,0,5
+"Tyrosine protein kinase VEGFR family","Vegfr","extracellular matrix organization",0.1647886836717686,0,1
+"Tyrosine protein kinase VEGFR family","Vegfr","immune system process",0.1647886836717686,0,14
+"Tyrosine protein kinase VEGFR family","Vegfr","locomotion",0.1647886836717686,0,3
+"Tyrosine protein kinase VEGFR family","Vegfr","multicellular organismal development",0.1647886836717686,0,16
+"Tyrosine protein kinase VEGFR family","Vegfr","phosphorylation",0.1647886836717686,0,22
+"Tyrosine protein kinase VEGFR family","Vegfr","positive regulation of catalytic activity",0.1647886836717686,0,13
+"Tyrosine protein kinase VEGFR family","Vegfr","response to stress",0.1647886836717686,0,18
+"Tyrosine protein kinase VEGFR family","Vegfr","signal transduction",0.1647886836717686,0,21
+"Tyrosine protein kinase VEGFR family","Vegfr","symbiosis, encompassing mutualism through parasitism",0.1647886836717686,0,2

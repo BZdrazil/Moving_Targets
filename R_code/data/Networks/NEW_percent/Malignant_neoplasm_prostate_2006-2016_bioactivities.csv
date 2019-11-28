@@ -1,0 +1,24 @@
+"Protein Class Name","Protein Class Short Name","Percentage of Measurements","Number of Measurements"
+"Tyrosine protein kinase JakB family","Jakb",1.2692502429375154,4036
+"Tyrosine protein kinase EGFR family","Egfr",1.1138960258881765,3542
+"Tyrosine protein kinase Met family","Met",0.7899793385180969,2512
+"AGC protein kinase AKT family","Akt",0.5097756798319407,1621
+"TKL protein kinase RAF family","Raf",0.5082032687282025,1616
+"Other protein kinase AUR family","Aur",0.44247648459194366,1407
+"CMGC protein kinase GSK family","Gsk",0.32454565181157485,1032
+"Atypical protein kinase PIKK family","Pikk",0.12988115716877946,413
+"TKL protein kinase IRAK family","Irak",0.08805502180934201,280
+"TKL protein kinase TAK1 subfamily","Tak1",0.03962475981420391,126
+"Tyrosine protein kinase DDR family","Ddr",0.03899579537270861,124
+"AGC protein kinase PKC iota subfamily","Iota",0.03364959761999855,107
+"Other protein kinase PKR","Pkr",0.031448222074765005,100
+"CMGC protein kinase ERK subfamily","Erk",0.0295613287502791,94
+"CAMK protein kinase RAD53 family","Rad53",0.028617882088036152,91
+"TKL protein kinase STKR Type 2 subfamily","Type2",0.022957202114578454,73
+"Tyrosine protein kinase FGFR family","Fgfr",0.0132082532714013,42
+"TKL protein kinase STKR Type 1 subfamily","Type1",0.011006877726167751,35
+"Other protein kinase Meta subfamily","Meta",0.010692395505420102,34
+"Tyrosine protein kinase Eph family","Eph",0.010692395505420102,34
+"STE protein kinase PAKB subfamily","Pakb",0.006289644414953001,20
+"AGC protein kinase PKA family","Pka",0.0047172333112147505,15
+"STE protein kinase STE11 family","Ste11",0.0037737866489718002,12

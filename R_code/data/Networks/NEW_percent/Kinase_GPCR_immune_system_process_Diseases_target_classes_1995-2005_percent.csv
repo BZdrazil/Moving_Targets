@@ -1,0 +1,1729 @@
+"protein_class_pref_name","protein_class_short_name","diseaseName","Percentage_Bioactivities","No_Drug_Efficacy_Target_Annotations","Target_class_Connectivity"
+"AGC protein kinase AKT family","Akt","Ache",0.10470936765757484,0,4
+"AGC protein kinase AKT family","Akt","Acute Promyelocytic Leukemia",0.10470936765757484,0,2
+"AGC protein kinase AKT family","Akt","Adenocarcinoma of large intestine",0.10470936765757484,0,11
+"AGC protein kinase AKT family","Akt","Adenocarcinoma of lung (disorder)",0.10470936765757484,0,8
+"AGC protein kinase AKT family","Akt","Adenocarcinoma of prostate",0.10470936765757484,0,1
+"AGC protein kinase AKT family","Akt","Adenomatous Polyposis Coli",0.10470936765757484,0,1
+"AGC protein kinase AKT family","Akt","Amphetamine Abuse",0.10470936765757484,0,2
+"AGC protein kinase AKT family","Akt","Amphetamine Addiction",0.10470936765757484,0,2
+"AGC protein kinase AKT family","Akt","Amphetamine-Related Disorders",0.10470936765757484,0,2
+"AGC protein kinase AKT family","Akt","Angioblastic Meningioma",0.10470936765757484,0,1
+"AGC protein kinase AKT family","Akt","Angiomatous Meningioma",0.10470936765757484,0,1
+"AGC protein kinase AKT family","Akt","Aortic valve calcification",0.10470936765757484,0,1
+"AGC protein kinase AKT family","Akt","Aura",0.10470936765757484,0,2
+"AGC protein kinase AKT family","Akt","Awakening Epilepsy",0.10470936765757484,0,2
+"AGC protein kinase AKT family","Akt","Benign Meningioma",0.10470936765757484,0,1
+"AGC protein kinase AKT family","Akt","Bipolar Disorder",0.10470936765757484,0,9
+"AGC protein kinase AKT family","Akt","Breast Cancer, Familial",0.10470936765757484,0,1
+"AGC protein kinase AKT family","Akt","Breast Cancer, Familial Male",0.10470936765757484,0,1
+"AGC protein kinase AKT family","Akt","Breast Carcinoma",0.10470936765757484,0,14
+"AGC protein kinase AKT family","Akt","Breast adenocarcinoma",0.10470936765757484,0,3
+"AGC protein kinase AKT family","Akt","COWDEN SYNDROME 6",0.10470936765757484,0,1
+"AGC protein kinase AKT family","Akt","COWDEN-LIKE SYNDROME (disorder)",0.10470936765757484,0,1
+"AGC protein kinase AKT family","Akt","Cannabis Abuse",0.10470936765757484,0,2
+"AGC protein kinase AKT family","Akt","Cannabis Dependence",0.10470936765757484,0,2
+"AGC protein kinase AKT family","Akt","Cannabis-Related Disorder",0.10470936765757484,0,2
+"AGC protein kinase AKT family","Akt","Cardiac Hypertrophy",0.10470936765757484,0,3
+"AGC protein kinase AKT family","Akt","Cardiomegaly",0.10470936765757484,0,3
+"AGC protein kinase AKT family","Akt","Cardiomyopathies",0.10470936765757484,0,6
+"AGC protein kinase AKT family","Akt","Cardiomyopathies, Primary",0.10470936765757484,0,6
+"AGC protein kinase AKT family","Akt","Cerebral Convexity Meningioma",0.10470936765757484,0,1
+"AGC protein kinase AKT family","Akt","Cirrhosis",0.10470936765757484,0,1
+"AGC protein kinase AKT family","Akt","Clear Cell Meningioma",0.10470936765757484,0,1
+"AGC protein kinase AKT family","Akt","Colorectal Cancer",0.10470936765757484,0,8
+"AGC protein kinase AKT family","Akt","Colorectal Carcinoma",0.10470936765757484,0,6
+"AGC protein kinase AKT family","Akt","Colorectal Neoplasms",0.10470936765757484,0,6
+"AGC protein kinase AKT family","Akt","Condition, Preneoplastic",0.10470936765757484,0,3
+"AGC protein kinase AKT family","Akt","Cutaneous Melanoma",0.10470936765757484,0,5
+"AGC protein kinase AKT family","Akt","Depressive disorder",0.10470936765757484,0,6
+"AGC protein kinase AKT family","Akt","Endometrial adenocarcinoma",0.10470936765757484,0,2
+"AGC protein kinase AKT family","Akt","Epilepsy",0.10470936765757484,0,2
+"AGC protein kinase AKT family","Akt","Epilepsy, Cryptogenic",0.10470936765757484,0,2
+"AGC protein kinase AKT family","Akt","Epileptic encephalopathy",0.10470936765757484,0,4
+"AGC protein kinase AKT family","Akt","Familial Intestinal Polyposis",0.10470936765757484,0,1
+"AGC protein kinase AKT family","Akt","Fibrosis",0.10470936765757484,0,1
+"AGC protein kinase AKT family","Akt","Fibrous Meningioma",0.10470936765757484,0,1
+"AGC protein kinase AKT family","Akt","Hamartoma Syndrome, Multiple",0.10470936765757484,0,2
+"AGC protein kinase AKT family","Akt","Hashish Abuse",0.10470936765757484,0,2
+"AGC protein kinase AKT family","Akt","Hemangioblastic Meningioma",0.10470936765757484,0,1
+"AGC protein kinase AKT family","Akt","Hemangiopericytic Meningioma",0.10470936765757484,0,1
+"AGC protein kinase AKT family","Akt","Histiocytoma, Benign Fibrous",0.10470936765757484,0,1
+"AGC protein kinase AKT family","Akt","Hyperplasia",0.10470936765757484,0,1
+"AGC protein kinase AKT family","Akt","Inflammation",0.10470936765757484,0,6
+"AGC protein kinase AKT family","Akt","Intellectual Disability",0.10470936765757484,0,19
+"AGC protein kinase AKT family","Akt","Intracranial Meningioma",0.10470936765757484,0,1
+"AGC protein kinase AKT family","Akt","Intraorbital Meningioma",0.10470936765757484,0,1
+"AGC protein kinase AKT family","Akt","Intraventricular Meningioma",0.10470936765757484,0,1
+"AGC protein kinase AKT family","Akt","Lung Neoplasms",0.10470936765757484,0,8
+"AGC protein kinase AKT family","Akt","Macrocephaly mesodermal hamartoma spectrum",0.10470936765757484,0,1
+"AGC protein kinase AKT family","Akt","Malignant Meningioma",0.10470936765757484,0,1
+"AGC protein kinase AKT family","Akt","Malignant Neoplasms",0.10470936765757484,0,6
+"AGC protein kinase AKT family","Akt","Malignant neoplasm of breast",0.10470936765757484,0,17
+"AGC protein kinase AKT family","Akt","Malignant neoplasm of lung",0.10470936765757484,0,8
+"AGC protein kinase AKT family","Akt","Malignant neoplasm of ovary",0.10470936765757484,0,3
+"AGC protein kinase AKT family","Akt","Malignant neoplasm of prostate",0.10470936765757484,0,5
+"AGC protein kinase AKT family","Akt","Malignant neoplasm of skin",0.10470936765757484,0,5
+"AGC protein kinase AKT family","Akt","Mammary Neoplasms",0.10470936765757484,0,14
+"AGC protein kinase AKT family","Akt","Mammary Neoplasms, Human",0.10470936765757484,0,13
+"AGC protein kinase AKT family","Akt","Marijuana Abuse",0.10470936765757484,0,4
+"AGC protein kinase AKT family","Akt","Meningioma",0.10470936765757484,0,1
+"AGC protein kinase AKT family","Akt","Meningiomas, Multiple",0.10470936765757484,0,1
+"AGC protein kinase AKT family","Akt","Meningothelial meningioma",0.10470936765757484,0,1
+"AGC protein kinase AKT family","Akt","Mental Depression",0.10470936765757484,0,6
+"AGC protein kinase AKT family","Akt","Microcystic meningioma",0.10470936765757484,0,1
+"AGC protein kinase AKT family","Akt","Mood Disorders",0.10470936765757484,0,2
+"AGC protein kinase AKT family","Akt","Muscular Atrophy",0.10470936765757484,0,1
+"AGC protein kinase AKT family","Akt","Myocardial Diseases, Secondary",0.10470936765757484,0,6
+"AGC protein kinase AKT family","Akt","Neoplasm of uncertain or unknown behavior of breast",0.10470936765757484,0,3
+"AGC protein kinase AKT family","Akt","Neoplasm of uncertain or unknown behavior of ovary",0.10470936765757484,0,2
+"AGC protein kinase AKT family","Akt","Neurogenic Muscular Atrophy",0.10470936765757484,0,1
+"AGC protein kinase AKT family","Akt","Non-Small Cell Lung Carcinoma",0.10470936765757484,0,6
+"AGC protein kinase AKT family","Akt","Obesity",0.10470936765757484,0,1
+"AGC protein kinase AKT family","Akt","Olfactory Groove Meningioma",0.10470936765757484,0,1
+"AGC protein kinase AKT family","Akt","Osteosarcoma",0.10470936765757484,0,1
+"AGC protein kinase AKT family","Akt","Ovarian Carcinoma",0.10470936765757484,0,2
+"AGC protein kinase AKT family","Akt","Pain",0.10470936765757484,0,4
+"AGC protein kinase AKT family","Akt","Pain, Burning",0.10470936765757484,0,4
+"AGC protein kinase AKT family","Akt","Pain, Crushing",0.10470936765757484,0,4
+"AGC protein kinase AKT family","Akt","Pain, Migratory",0.10470936765757484,0,4
+"AGC protein kinase AKT family","Akt","Pain, Splitting",0.10470936765757484,0,4
+"AGC protein kinase AKT family","Akt","Papillary Meningioma",0.10470936765757484,0,1
+"AGC protein kinase AKT family","Akt","Parasagittal Meningioma",0.10470936765757484,0,1
+"AGC protein kinase AKT family","Akt","Polyposis, Adenomatous Intestinal",0.10470936765757484,0,1
+"AGC protein kinase AKT family","Akt","Posterior Fossa Meningioma",0.10470936765757484,0,1
+"AGC protein kinase AKT family","Akt","Precancerous Conditions",0.10470936765757484,0,3
+"AGC protein kinase AKT family","Akt","Prostatic Neoplasms",0.10470936765757484,0,5
+"AGC protein kinase AKT family","Akt","Proteus Syndrome",0.10470936765757484,0,1
+"AGC protein kinase AKT family","Akt","Proteus-Like Syndrome (disorder)",0.10470936765757484,0,1
+"AGC protein kinase AKT family","Akt","Psammomatous Meningioma",0.10470936765757484,0,1
+"AGC protein kinase AKT family","Akt","Psychoses, Drug",0.10470936765757484,0,3
+"AGC protein kinase AKT family","Akt","Psychoses, Substance-Induced",0.10470936765757484,0,3
+"AGC protein kinase AKT family","Akt","Radiating pain",0.10470936765757484,0,4
+"AGC protein kinase AKT family","Akt","Schizophrenia",0.10470936765757484,0,12
+"AGC protein kinase AKT family","Akt","Secretory meningioma",0.10470936765757484,0,1
+"AGC protein kinase AKT family","Akt","Skin Neoplasms",0.10470936765757484,0,5
+"AGC protein kinase AKT family","Akt","Small cell carcinoma of lung",0.10470936765757484,0,3
+"AGC protein kinase AKT family","Akt","Sphenoid Wing Meningioma",0.10470936765757484,0,1
+"AGC protein kinase AKT family","Akt","Spinal Meningioma",0.10470936765757484,0,1
+"AGC protein kinase AKT family","Akt","Squamous cell carcinoma",0.10470936765757484,0,4
+"AGC protein kinase AKT family","Akt","Squamous cell carcinoma of the head and neck",0.10470936765757484,0,1
+"AGC protein kinase AKT family","Akt","Suffering, Physical",0.10470936765757484,0,4
+"AGC protein kinase AKT family","Akt","T-Cell Lymphoma",0.10470936765757484,0,1
+"AGC protein kinase AKT family","Akt","Transitional Meningioma",0.10470936765757484,0,1
+"AGC protein kinase AKT family","Akt","Xanthomatous Meningioma",0.10470936765757484,0,1
+"AGC protein kinase AKT family","Akt","melanoma",0.10470936765757484,0,9
+"AGC protein kinase AKT family","Akt","ovarian neoplasm",0.10470936765757484,0,3
+"AGC protein kinase PDK1 subfamily","Pdk1","Breast Carcinoma",0.0025538870160384105,0,14
+"AGC protein kinase PDK1 subfamily","Pdk1","Breast adenocarcinoma",0.0025538870160384105,0,3
+"AGC protein kinase PDK1 subfamily","Pdk1","Congestive heart failure",0.0025538870160384105,0,2
+"AGC protein kinase PDK1 subfamily","Pdk1","Diffuse Large B-Cell Lymphoma",0.0025538870160384105,0,2
+"AGC protein kinase PDK1 subfamily","Pdk1","Heart Decompensation",0.0025538870160384105,0,2
+"AGC protein kinase PDK1 subfamily","Pdk1","Heart Failure, Right-Sided",0.0025538870160384105,0,2
+"AGC protein kinase PDK1 subfamily","Pdk1","Heart failure",0.0025538870160384105,0,2
+"AGC protein kinase PDK1 subfamily","Pdk1","Left-Sided Heart Failure",0.0025538870160384105,0,2
+"AGC protein kinase PDK1 subfamily","Pdk1","Malignant neoplasm of breast",0.0025538870160384105,0,17
+"AGC protein kinase PDK1 subfamily","Pdk1","Mammary Neoplasms",0.0025538870160384105,0,14
+"AGC protein kinase PDK1 subfamily","Pdk1","Mammary Neoplasms, Human",0.0025538870160384105,0,13
+"AGC protein kinase PDK1 subfamily","Pdk1","Myocardial Failure",0.0025538870160384105,0,2
+"AGC protein kinase PDK1 subfamily","Pdk1","Neoplasm of uncertain or unknown behavior of breast",0.0025538870160384105,0,3
+"AGC protein kinase PKC alpha subfamily","Alpha","Adenocarcinoma of large intestine",0.3677597303095311,2,11
+"AGC protein kinase PKC alpha subfamily","Alpha","Adult T-Cell Lymphoma/Leukemia",0.3677597303095311,2,3
+"AGC protein kinase PKC alpha subfamily","Alpha","Autistic Disorder",0.3677597303095311,2,1
+"AGC protein kinase PKC alpha subfamily","Alpha","Cardiac Hypertrophy",0.3677597303095311,2,3
+"AGC protein kinase PKC alpha subfamily","Alpha","Cardiomegaly",0.3677597303095311,2,3
+"AGC protein kinase PKC alpha subfamily","Alpha","Colorectal Cancer",0.3677597303095311,2,8
+"AGC protein kinase PKC alpha subfamily","Alpha","Colorectal Carcinoma",0.3677597303095311,2,6
+"AGC protein kinase PKC alpha subfamily","Alpha","Colorectal Neoplasms",0.3677597303095311,2,6
+"AGC protein kinase PKC alpha subfamily","Alpha","Diabetes Mellitus, Non-Insulin-Dependent",0.3677597303095311,2,2
+"AGC protein kinase PKC alpha subfamily","Alpha","Familial M√©ni√®re disease",0.3677597303095311,2,2
+"AGC protein kinase PKC alpha subfamily","Alpha","Glioblastoma Multiforme",0.3677597303095311,2,4
+"AGC protein kinase PKC alpha subfamily","Alpha","Hereditary Diffuse Gastric Cancer",0.3677597303095311,2,4
+"AGC protein kinase PKC alpha subfamily","Alpha","Hyperglycemia",0.3677597303095311,2,1
+"AGC protein kinase PKC alpha subfamily","Alpha","Hyperglycemia, Postprandial",0.3677597303095311,2,1
+"AGC protein kinase PKC alpha subfamily","Alpha","Liver Cirrhosis, Experimental",0.3677597303095311,2,11
+"AGC protein kinase PKC alpha subfamily","Alpha","Major Depressive Disorder",0.3677597303095311,2,6
+"AGC protein kinase PKC alpha subfamily","Alpha","Malignant neoplasm of stomach",0.3677597303095311,2,4
+"AGC protein kinase PKC alpha subfamily","Alpha","Stomach Neoplasms",0.3677597303095311,2,4
+"AGC protein kinase PKC alpha subfamily","Alpha","Unipolar Depression",0.3677597303095311,2,7
+"AGC protein kinase PKC delta subfamily","Delta","AUTOIMMUNE LYMPHOPROLIFERATIVE SYNDROME, TYPE III",0.25283481458780266,0,1
+"AGC protein kinase PKC delta subfamily","Delta","Absence Seizures",0.25283481458780266,0,2
+"AGC protein kinase PKC delta subfamily","Delta","Adenocarcinoma of large intestine",0.25283481458780266,0,11
+"AGC protein kinase PKC delta subfamily","Delta","Alloxan Diabetes",0.25283481458780266,0,4
+"AGC protein kinase PKC delta subfamily","Delta","Atonic Absence Seizures",0.25283481458780266,0,2
+"AGC protein kinase PKC delta subfamily","Delta","Autoimmune Lymphoproliferative Syndrome",0.25283481458780266,0,1
+"AGC protein kinase PKC delta subfamily","Delta","Autosomal Dominant Juvenile Parkinson Disease",0.25283481458780266,0,1
+"AGC protein kinase PKC delta subfamily","Delta","Autosomal Dominant Parkinsonism",0.25283481458780266,0,1
+"AGC protein kinase PKC delta subfamily","Delta","Autosomal Recessive Parkinsonism",0.25283481458780266,0,1
+"AGC protein kinase PKC delta subfamily","Delta","Brittle diabetes",0.25283481458780266,0,1
+"AGC protein kinase PKC delta subfamily","Delta","Common Variable Immunodeficiency",0.25283481458780266,0,1
+"AGC protein kinase PKC delta subfamily","Delta","Complex partial seizures",0.25283481458780266,0,2
+"AGC protein kinase PKC delta subfamily","Delta","Convulsions",0.25283481458780266,0,2
+"AGC protein kinase PKC delta subfamily","Delta","Convulsive Seizures",0.25283481458780266,0,2
+"AGC protein kinase PKC delta subfamily","Delta","Diabetes Mellitus, Experimental",0.25283481458780266,0,4
+"AGC protein kinase PKC delta subfamily","Delta","Diabetes Mellitus, Insulin-Dependent",0.25283481458780266,0,1
+"AGC protein kinase PKC delta subfamily","Delta","Diabetes Mellitus, Ketosis-Prone",0.25283481458780266,0,1
+"AGC protein kinase PKC delta subfamily","Delta","Diabetes, Autoimmune",0.25283481458780266,0,1
+"AGC protein kinase PKC delta subfamily","Delta","Encephalopathy, Toxic",0.25283481458780266,0,1
+"AGC protein kinase PKC delta subfamily","Delta","Epileptic Seizures",0.25283481458780266,0,2
+"AGC protein kinase PKC delta subfamily","Delta","Epileptic drop attack",0.25283481458780266,0,2
+"AGC protein kinase PKC delta subfamily","Delta","Familial Juvenile Parkinsonism",0.25283481458780266,0,1
+"AGC protein kinase PKC delta subfamily","Delta","Generalized Absence Seizures",0.25283481458780266,0,2
+"AGC protein kinase PKC delta subfamily","Delta","Generalized seizures",0.25283481458780266,0,2
+"AGC protein kinase PKC delta subfamily","Delta","Granulomatous Slack Skin",0.25283481458780266,0,1
+"AGC protein kinase PKC delta subfamily","Delta","Gustatory seizure",0.25283481458780266,0,2
+"AGC protein kinase PKC delta subfamily","Delta","Hypertensive disease",0.25283481458780266,0,4
+"AGC protein kinase PKC delta subfamily","Delta","Intestinal Cancer",0.25283481458780266,0,1
+"AGC protein kinase PKC delta subfamily","Delta","Intestinal Neoplasms",0.25283481458780266,0,1
+"AGC protein kinase PKC delta subfamily","Delta","Jacksonian Seizure",0.25283481458780266,0,2
+"AGC protein kinase PKC delta subfamily","Delta","Liver Cirrhosis, Experimental",0.25283481458780266,0,11
+"AGC protein kinase PKC delta subfamily","Delta","Lymphoma, T-Cell, Cutaneous",0.25283481458780266,0,1
+"AGC protein kinase PKC delta subfamily","Delta","Myoclonic Seizures",0.25283481458780266,0,2
+"AGC protein kinase PKC delta subfamily","Delta","Neurotoxicity Syndromes",0.25283481458780266,0,1
+"AGC protein kinase PKC delta subfamily","Delta","Non-epileptic convulsion",0.25283481458780266,0,2
+"AGC protein kinase PKC delta subfamily","Delta","Nonepileptic Seizures",0.25283481458780266,0,2
+"AGC protein kinase PKC delta subfamily","Delta","Olfactory seizure",0.25283481458780266,0,2
+"AGC protein kinase PKC delta subfamily","Delta","PARKINSON DISEASE 2, AUTOSOMAL RECESSIVE JUVENILE",0.25283481458780266,0,1
+"AGC protein kinase PKC delta subfamily","Delta","Parkinsonian Disorders",0.25283481458780266,0,1
+"AGC protein kinase PKC delta subfamily","Delta","Parkinsonism, Experimental",0.25283481458780266,0,1
+"AGC protein kinase PKC delta subfamily","Delta","Parkinsonism, Juvenile",0.25283481458780266,0,1
+"AGC protein kinase PKC delta subfamily","Delta","Ramsay Hunt Paralysis Syndrome",0.25283481458780266,0,1
+"AGC protein kinase PKC delta subfamily","Delta","Retinal Detachment",0.25283481458780266,0,1
+"AGC protein kinase PKC delta subfamily","Delta","Retinal Pigment Epithelial Detachment",0.25283481458780266,0,1
+"AGC protein kinase PKC delta subfamily","Delta","Rheumatoid Arthritis",0.25283481458780266,0,7
+"AGC protein kinase PKC delta subfamily","Delta","SYSTEMIC LUPUS ERYTHEMATOSUS 16",0.25283481458780266,0,1
+"AGC protein kinase PKC delta subfamily","Delta","Seizures",0.25283481458780266,0,2
+"AGC protein kinase PKC delta subfamily","Delta","Seizures, Auditory",0.25283481458780266,0,2
+"AGC protein kinase PKC delta subfamily","Delta","Seizures, Clonic",0.25283481458780266,0,2
+"AGC protein kinase PKC delta subfamily","Delta","Seizures, Focal",0.25283481458780266,0,2
+"AGC protein kinase PKC delta subfamily","Delta","Seizures, Sensory",0.25283481458780266,0,2
+"AGC protein kinase PKC delta subfamily","Delta","Seizures, Somatosensory",0.25283481458780266,0,2
+"AGC protein kinase PKC delta subfamily","Delta","Single Seizure",0.25283481458780266,0,2
+"AGC protein kinase PKC delta subfamily","Delta","Streptozotocin Diabetes",0.25283481458780266,0,4
+"AGC protein kinase PKC delta subfamily","Delta","Tonic - clonic seizures",0.25283481458780266,0,2
+"AGC protein kinase PKC delta subfamily","Delta","Tonic Seizures",0.25283481458780266,0,2
+"AGC protein kinase PKC delta subfamily","Delta","Toxic Encephalitis",0.25283481458780266,0,1
+"AGC protein kinase PKC delta subfamily","Delta","Vertiginous seizure",0.25283481458780266,0,2
+"AGC protein kinase PKC delta subfamily","Delta","Visual seizure",0.25283481458780266,0,2
+"AGC protein kinase PKC eta subfamily","Eta","Allodynia",0.20686484829911125,0,8
+"AGC protein kinase PKC eta subfamily","Eta","Alloxan Diabetes",0.20686484829911125,0,4
+"AGC protein kinase PKC eta subfamily","Eta","Cardiomyopathies",0.20686484829911125,0,6
+"AGC protein kinase PKC eta subfamily","Eta","Cardiomyopathies, Primary",0.20686484829911125,0,6
+"AGC protein kinase PKC eta subfamily","Eta","Colorectal Cancer",0.20686484829911125,0,8
+"AGC protein kinase PKC eta subfamily","Eta","Colorectal Carcinoma",0.20686484829911125,0,6
+"AGC protein kinase PKC eta subfamily","Eta","Colorectal Neoplasms",0.20686484829911125,0,6
+"AGC protein kinase PKC eta subfamily","Eta","Coronary Stenosis",0.20686484829911125,0,2
+"AGC protein kinase PKC eta subfamily","Eta","Diabetes Mellitus, Experimental",0.20686484829911125,0,4
+"AGC protein kinase PKC eta subfamily","Eta","Diabetic Nephropathy",0.20686484829911125,0,3
+"AGC protein kinase PKC eta subfamily","Eta","Drug Dependence",0.20686484829911125,0,2
+"AGC protein kinase PKC eta subfamily","Eta","Drug Use Disorders",0.20686484829911125,0,2
+"AGC protein kinase PKC eta subfamily","Eta","Drug abuse",0.20686484829911125,0,2
+"AGC protein kinase PKC eta subfamily","Eta","Drug habituation",0.20686484829911125,0,2
+"AGC protein kinase PKC eta subfamily","Eta","Hyperalgesia",0.20686484829911125,0,8
+"AGC protein kinase PKC eta subfamily","Eta","Hyperalgesia, Primary",0.20686484829911125,0,8
+"AGC protein kinase PKC eta subfamily","Eta","Hyperalgesia, Secondary",0.20686484829911125,0,8
+"AGC protein kinase PKC eta subfamily","Eta","Hyperalgesia, Thermal",0.20686484829911125,0,8
+"AGC protein kinase PKC eta subfamily","Eta","Liver neoplasms",0.20686484829911125,0,6
+"AGC protein kinase PKC eta subfamily","Eta","Malignant neoplasm of liver",0.20686484829911125,0,6
+"AGC protein kinase PKC eta subfamily","Eta","Mechanical Allodynia",0.20686484829911125,0,8
+"AGC protein kinase PKC eta subfamily","Eta","Myocardial Diseases, Secondary",0.20686484829911125,0,6
+"AGC protein kinase PKC eta subfamily","Eta","Myocardial Infarction",0.20686484829911125,0,1
+"AGC protein kinase PKC eta subfamily","Eta","Myocardial Ischemia",0.20686484829911125,0,6
+"AGC protein kinase PKC eta subfamily","Eta","Nodular glomerulosclerosis",0.20686484829911125,0,3
+"AGC protein kinase PKC eta subfamily","Eta","Organic Mental Disorders, Substance-Induced",0.20686484829911125,0,2
+"AGC protein kinase PKC eta subfamily","Eta","Peripheral Neuropathy",0.20686484829911125,0,2
+"AGC protein kinase PKC eta subfamily","Eta","Prescription Drug Abuse",0.20686484829911125,0,2
+"AGC protein kinase PKC eta subfamily","Eta","Streptozotocin Diabetes",0.20686484829911125,0,4
+"AGC protein kinase PKC eta subfamily","Eta","Substance Dependence",0.20686484829911125,0,2
+"AGC protein kinase PKC eta subfamily","Eta","Substance Use Disorders",0.20686484829911125,0,2
+"AGC protein kinase PKC eta subfamily","Eta","Substance abuse problem",0.20686484829911125,0,2
+"AGC protein kinase PKC eta subfamily","Eta","Substance-Related Disorders",0.20686484829911125,0,2
+"AGC protein kinase PKC eta subfamily","Eta","Tactile Allodynia",0.20686484829911125,0,8
+"AGC protein kinase ROCK subfamily","Rock","Prenatal Injuries",0.005107774032076821,0,2
+"Anaphylatoxin receptor","Anaphylatoxin","Endotoxic shock",0.028092757176422515,0,1
+"Anaphylatoxin receptor","Anaphylatoxin","Liver Cirrhosis, Experimental",0.028092757176422515,0,11
+"Anaphylatoxin receptor","Anaphylatoxin","Septic Shock",0.028092757176422515,0,1
+"Anaphylatoxin receptor","Anaphylatoxin","Toxic Shock Syndrome",0.028092757176422515,0,1
+"Atypical protein kinase PIKK family","Pikk","Adenocarcinoma of large intestine",0.3881908264378384,0,11
+"Atypical protein kinase PIKK family","Pikk","Adenocarcinoma of lung (disorder)",0.3881908264378384,0,8
+"Atypical protein kinase PIKK family","Pikk","Adenoid Cystic Carcinoma",0.3881908264378384,0,1
+"Atypical protein kinase PIKK family","Pikk","Chemical and Drug Induced Liver Injury",0.3881908264378384,0,6
+"Atypical protein kinase PIKK family","Pikk","Chemically-Induced Liver Toxicity",0.3881908264378384,0,6
+"Atypical protein kinase PIKK family","Pikk","Drug-Induced Acute Liver Injury",0.3881908264378384,0,6
+"Atypical protein kinase PIKK family","Pikk","Drug-Induced Liver Disease",0.3881908264378384,0,6
+"Atypical protein kinase PIKK family","Pikk","Fulminant Hepatic Failure with Cerebral Edema",0.3881908264378384,0,2
+"Atypical protein kinase PIKK family","Pikk","Hepatic Coma",0.3881908264378384,0,2
+"Atypical protein kinase PIKK family","Pikk","Hepatic Encephalopathy",0.3881908264378384,0,2
+"Atypical protein kinase PIKK family","Pikk","Hepatic Stupor",0.3881908264378384,0,2
+"Atypical protein kinase PIKK family","Pikk","Hepatitis, Drug-Induced",0.3881908264378384,0,6
+"Atypical protein kinase PIKK family","Pikk","Hepatitis, Toxic",0.3881908264378384,0,6
+"Atypical protein kinase PIKK family","Pikk","IMMUNODEFICIENCY 26 WITH OR WITHOUT NEUROLOGIC ABNORMALITIES",0.3881908264378384,0,1
+"Atypical protein kinase PIKK family","Pikk","Lung diseases",0.3881908264378384,0,3
+"Atypical protein kinase PIKK family","Pikk","Malignant neoplasm of prostate",0.3881908264378384,0,5
+"Atypical protein kinase PIKK family","Pikk","Massive Hepatic Necrosis",0.3881908264378384,0,1
+"Atypical protein kinase PIKK family","Pikk","Metastatic melanoma",0.3881908264378384,0,4
+"Atypical protein kinase PIKK family","Pikk","Poisoning",0.3881908264378384,0,1
+"Atypical protein kinase PIKK family","Pikk","Prostatic Neoplasms",0.3881908264378384,0,5
+"Atypical protein kinase PIKK family","Pikk","Squamous cell carcinoma",0.3881908264378384,0,4
+"Atypical protein kinase PIKK family","Pikk","Squamous cell carcinoma of lung",0.3881908264378384,0,6
+"Bradykinin receptor","Bradykinin receptor","Ache",0.035754418224537746,0,4
+"Bradykinin receptor","Bradykinin receptor","Active Hyperemia",0.035754418224537746,0,1
+"Bradykinin receptor","Bradykinin receptor","Acute Kidney Insufficiency",0.035754418224537746,0,2
+"Bradykinin receptor","Bradykinin receptor","Acute kidney injury",0.035754418224537746,0,2
+"Bradykinin receptor","Bradykinin receptor","Allodynia",0.035754418224537746,0,8
+"Bradykinin receptor","Bradykinin receptor","Bipolar Disorder",0.035754418224537746,0,9
+"Bradykinin receptor","Bradykinin receptor","Cardiomyopathies",0.035754418224537746,0,6
+"Bradykinin receptor","Bradykinin receptor","Cardiomyopathies, Primary",0.035754418224537746,0,6
+"Bradykinin receptor","Bradykinin receptor","Epilepsy, Benign Psychomotor, Childhood",0.035754418224537746,0,3
+"Bradykinin receptor","Bradykinin receptor","Epilepsy, Lateral Temporal",0.035754418224537746,0,3
+"Bradykinin receptor","Bradykinin receptor","Epilepsy, Temporal Lobe",0.035754418224537746,0,3
+"Bradykinin receptor","Bradykinin receptor","Extravasation of Contrast Media",0.035754418224537746,0,1
+"Bradykinin receptor","Bradykinin receptor","Extravasation of Diagnostic and Therapeutic Materials",0.035754418224537746,0,1
+"Bradykinin receptor","Bradykinin receptor","Hemorrhage",0.035754418224537746,0,1
+"Bradykinin receptor","Bradykinin receptor","Hyperalgesia",0.035754418224537746,0,8
+"Bradykinin receptor","Bradykinin receptor","Hyperalgesia, Primary",0.035754418224537746,0,8
+"Bradykinin receptor","Bradykinin receptor","Hyperalgesia, Secondary",0.035754418224537746,0,8
+"Bradykinin receptor","Bradykinin receptor","Hyperalgesia, Thermal",0.035754418224537746,0,8
+"Bradykinin receptor","Bradykinin receptor","Hyperemia",0.035754418224537746,0,1
+"Bradykinin receptor","Bradykinin receptor","Hypertensive disease",0.035754418224537746,0,4
+"Bradykinin receptor","Bradykinin receptor","Hypotension",0.035754418224537746,0,2
+"Bradykinin receptor","Bradykinin receptor","Inflammation",0.035754418224537746,0,6
+"Bradykinin receptor","Bradykinin receptor","Kidney Failure, Acute",0.035754418224537746,0,2
+"Bradykinin receptor","Bradykinin receptor","Major Depressive Disorder",0.035754418224537746,0,6
+"Bradykinin receptor","Bradykinin receptor","Mechanical Allodynia",0.035754418224537746,0,8
+"Bradykinin receptor","Bradykinin receptor","Myocardial Diseases, Secondary",0.035754418224537746,0,6
+"Bradykinin receptor","Bradykinin receptor","Pain",0.035754418224537746,0,4
+"Bradykinin receptor","Bradykinin receptor","Pain, Burning",0.035754418224537746,0,4
+"Bradykinin receptor","Bradykinin receptor","Pain, Crushing",0.035754418224537746,0,4
+"Bradykinin receptor","Bradykinin receptor","Pain, Migratory",0.035754418224537746,0,4
+"Bradykinin receptor","Bradykinin receptor","Pain, Splitting",0.035754418224537746,0,4
+"Bradykinin receptor","Bradykinin receptor","Radiating pain",0.035754418224537746,0,4
+"Bradykinin receptor","Bradykinin receptor","Reactive Hyperemia",0.035754418224537746,0,1
+"Bradykinin receptor","Bradykinin receptor","Rheumatoid Arthritis",0.035754418224537746,0,7
+"Bradykinin receptor","Bradykinin receptor","Suffering, Physical",0.035754418224537746,0,4
+"Bradykinin receptor","Bradykinin receptor","Tactile Allodynia",0.035754418224537746,0,8
+"Bradykinin receptor","Bradykinin receptor","Thrombosis",0.035754418224537746,0,2
+"Bradykinin receptor","Bradykinin receptor","Thrombus",0.035754418224537746,0,2
+"Bradykinin receptor","Bradykinin receptor","Uncinate Epilepsy",0.035754418224537746,0,3
+"Bradykinin receptor","Bradykinin receptor","Unipolar Depression",0.035754418224537746,0,7
+"Bradykinin receptor","Bradykinin receptor","Vascular System Injuries",0.035754418224537746,0,1
+"Bradykinin receptor","Bradykinin receptor","Venous Engorgement",0.035754418224537746,0,1
+"CAMK protein kinase CAMK2 family","Camk2","Adenocarcinoma of large intestine",0.028092757176422515,0,11
+"CAMK protein kinase CAMK2 family","Camk2","Alcoholic Intoxication, Chronic",0.028092757176422515,0,4
+"CAMK protein kinase CAMK2 family","Camk2","Allodynia",0.028092757176422515,0,8
+"CAMK protein kinase CAMK2 family","Camk2","Bipolar Disorder",0.028092757176422515,0,9
+"CAMK protein kinase CAMK2 family","Camk2","Cannabis Abuse",0.028092757176422515,0,2
+"CAMK protein kinase CAMK2 family","Camk2","Cannabis Dependence",0.028092757176422515,0,2
+"CAMK protein kinase CAMK2 family","Camk2","Cannabis-Related Disorder",0.028092757176422515,0,2
+"CAMK protein kinase CAMK2 family","Camk2","Cocaine Abuse",0.028092757176422515,0,5
+"CAMK protein kinase CAMK2 family","Camk2","Cocaine Dependence",0.028092757176422515,0,5
+"CAMK protein kinase CAMK2 family","Camk2","Cocaine-Related Disorders",0.028092757176422515,0,5
+"CAMK protein kinase CAMK2 family","Camk2","Depressive disorder",0.028092757176422515,0,6
+"CAMK protein kinase CAMK2 family","Camk2","Hashish Abuse",0.028092757176422515,0,2
+"CAMK protein kinase CAMK2 family","Camk2","Hepatic Form of Wilson Disease",0.028092757176422515,0,1
+"CAMK protein kinase CAMK2 family","Camk2","Hepatolenticular Degeneration",0.028092757176422515,0,1
+"CAMK protein kinase CAMK2 family","Camk2","Hepatomegaly",0.028092757176422515,0,2
+"CAMK protein kinase CAMK2 family","Camk2","Hyperalgesia",0.028092757176422515,0,8
+"CAMK protein kinase CAMK2 family","Camk2","Hyperalgesia, Primary",0.028092757176422515,0,8
+"CAMK protein kinase CAMK2 family","Camk2","Hyperalgesia, Secondary",0.028092757176422515,0,8
+"CAMK protein kinase CAMK2 family","Camk2","Hyperalgesia, Thermal",0.028092757176422515,0,8
+"CAMK protein kinase CAMK2 family","Camk2","Intellectual Disability",0.028092757176422515,0,19
+"CAMK protein kinase CAMK2 family","Camk2","Liver Cirrhosis, Experimental",0.028092757176422515,0,11
+"CAMK protein kinase CAMK2 family","Camk2","Major Depressive Disorder",0.028092757176422515,0,6
+"CAMK protein kinase CAMK2 family","Camk2","Marijuana Abuse",0.028092757176422515,0,4
+"CAMK protein kinase CAMK2 family","Camk2","Mechanical Allodynia",0.028092757176422515,0,8
+"CAMK protein kinase CAMK2 family","Camk2","Mental Depression",0.028092757176422515,0,6
+"CAMK protein kinase CAMK2 family","Camk2","Myocardial Ischemia",0.028092757176422515,0,6
+"CAMK protein kinase CAMK2 family","Camk2","Phencyclidine Abuse",0.028092757176422515,0,1
+"CAMK protein kinase CAMK2 family","Camk2","Phencyclidine-Related Disorders",0.028092757176422515,0,1
+"CAMK protein kinase CAMK2 family","Camk2","Polycystic Ovary Syndrome",0.028092757176422515,0,2
+"CAMK protein kinase CAMK2 family","Camk2","Psychoses, Drug",0.028092757176422515,0,3
+"CAMK protein kinase CAMK2 family","Camk2","Psychoses, Substance-Induced",0.028092757176422515,0,3
+"CAMK protein kinase CAMK2 family","Camk2","Schizophrenia",0.028092757176422515,0,12
+"CAMK protein kinase CAMK2 family","Camk2","Sclerocystic Ovaries",0.028092757176422515,0,2
+"CAMK protein kinase CAMK2 family","Camk2","Tactile Allodynia",0.028092757176422515,0,8
+"CAMK protein kinase CAMK2 family","Camk2","Unipolar Depression",0.028092757176422515,0,7
+"CAMK protein kinase DAPK family","Dapk","Adenocarcinoma of large intestine",0.022984983144345692,0,11
+"CAMK protein kinase DAPK family","Dapk","Hepatomegaly",0.022984983144345692,0,2
+"CAMK protein kinase DAPK family","Dapk","Ovarian Mucinous Adenocarcinoma",0.022984983144345692,0,3
+"CAMK protein kinase MSKb subfamily","Mskb","Cocaine Abuse",0.14301767289815098,0,5
+"CAMK protein kinase MSKb subfamily","Mskb","Cocaine Dependence",0.14301767289815098,0,5
+"CAMK protein kinase MSKb subfamily","Mskb","Cocaine-Related Disorders",0.14301767289815098,0,5
+"CAMK protein kinase RSKb subfamily","Rskb","Bone Diseases, Developmental",0.012769435080192054,0,3
+"CAMK protein kinase RSKb subfamily","Rskb","Coffin-Lowry syndrome",0.012769435080192054,0,1
+"CAMK protein kinase RSKb subfamily","Rskb","Developmental Psychomotor Disorders",0.012769435080192054,0,1
+"CAMK protein kinase RSKb subfamily","Rskb","Gastric Adenocarcinoma",0.012769435080192054,0,6
+"CAMK protein kinase RSKb subfamily","Rskb","Glioblastoma Multiforme",0.012769435080192054,0,4
+"CAMK protein kinase RSKb subfamily","Rskb","Hydrocephalus",0.012769435080192054,0,2
+"CAMK protein kinase RSKb subfamily","Rskb","Intellectual Disability",0.012769435080192054,0,19
+"CAMK protein kinase RSKb subfamily","Rskb","Liver carcinoma",0.012769435080192054,0,4
+"CAMK protein kinase RSKb subfamily","Rskb","Malignant neoplasm of breast",0.012769435080192054,0,17
+"CAMK protein kinase RSKb subfamily","Rskb","Mental Retardation, X-Linked 1",0.012769435080192054,0,2
+"CAMK protein kinase RSKb subfamily","Rskb","Mental Retardation, X-Linked 19",0.012769435080192054,0,1
+"CAMK protein kinase RSKb subfamily","Rskb","Neoplasm Invasiveness",0.012769435080192054,0,6
+"CAMK protein kinase RSKb subfamily","Rskb","Neoplasm Metastasis",0.012769435080192054,0,7
+"CAMK protein kinase RSKb subfamily","Rskb","Osteogenesis Imperfecta",0.012769435080192054,0,5
+"CAMK protein kinase RSKb subfamily","Rskb","Psychomotor Disorders",0.012769435080192054,0,1
+"CAMK protein kinase RSKb subfamily","Rskb","Psychomotor Impairment",0.012769435080192054,0,1
+"CC chemokine receptor","CC chemokine receptor","Acute Kidney Insufficiency",0.8734293594851363,0,2
+"CC chemokine receptor","CC chemokine receptor","Acute kidney injury",0.8734293594851363,0,2
+"CC chemokine receptor","CC chemokine receptor","Adult T-Cell Lymphoma/Leukemia",0.8734293594851363,0,3
+"CC chemokine receptor","CC chemokine receptor","Allergic Reaction",0.8734293594851363,0,2
+"CC chemokine receptor","CC chemokine receptor","Behcet Syndrome",0.8734293594851363,0,1
+"CC chemokine receptor","CC chemokine receptor","Brain Ischemia",0.8734293594851363,0,3
+"CC chemokine receptor","CC chemokine receptor","Celiac Disease",0.8734293594851363,0,1
+"CC chemokine receptor","CC chemokine receptor","Cerebral Ischemia",0.8734293594851363,0,3
+"CC chemokine receptor","CC chemokine receptor","Chemical and Drug Induced Liver Injury",0.8734293594851363,0,6
+"CC chemokine receptor","CC chemokine receptor","Chemically-Induced Liver Toxicity",0.8734293594851363,0,6
+"CC chemokine receptor","CC chemokine receptor","Complex Partial Status Epilepticus",0.8734293594851363,0,2
+"CC chemokine receptor","CC chemokine receptor","Contact Dermatitis",0.8734293594851363,0,2
+"CC chemokine receptor","CC chemokine receptor","Contact hypersensitivity",0.8734293594851363,0,2
+"CC chemokine receptor","CC chemokine receptor","DIABETES MELLITUS, INSULIN-DEPENDENT, 22 (disorder)",0.8734293594851363,0,1
+"CC chemokine receptor","CC chemokine receptor","Dermatitis, Allergic Contact",0.8734293594851363,0,1
+"CC chemokine receptor","CC chemokine receptor","Dermatitis, Atopic",0.8734293594851363,0,2
+"CC chemokine receptor","CC chemokine receptor","Drug-Induced Acute Liver Injury",0.8734293594851363,0,6
+"CC chemokine receptor","CC chemokine receptor","Drug-Induced Liver Disease",0.8734293594851363,0,6
+"CC chemokine receptor","CC chemokine receptor","Eczema, Infantile",0.8734293594851363,0,2
+"CC chemokine receptor","CC chemokine receptor","Encephalitis, West Nile Fever",0.8734293594851363,0,1
+"CC chemokine receptor","CC chemokine receptor","Experimental Lung Inflammation",0.8734293594851363,0,2
+"CC chemokine receptor","CC chemokine receptor","Familial M√©ni√®re disease",0.8734293594851363,0,2
+"CC chemokine receptor","CC chemokine receptor","Glioma",0.8734293594851363,0,3
+"CC chemokine receptor","CC chemokine receptor","Grand Mal Status Epilepticus",0.8734293594851363,0,2
+"CC chemokine receptor","CC chemokine receptor","Hamman-Rich syndrome",0.8734293594851363,0,1
+"CC chemokine receptor","CC chemokine receptor","Hepatitis C",0.8734293594851363,0,2
+"CC chemokine receptor","CC chemokine receptor","Hepatitis, Drug-Induced",0.8734293594851363,0,6
+"CC chemokine receptor","CC chemokine receptor","Hepatitis, Toxic",0.8734293594851363,0,6
+"CC chemokine receptor","CC chemokine receptor","Hypersensitivity",0.8734293594851363,0,2
+"CC chemokine receptor","CC chemokine receptor","Kidney Failure, Acute",0.8734293594851363,0,2
+"CC chemokine receptor","CC chemokine receptor","Liver Dysfunction",0.8734293594851363,0,2
+"CC chemokine receptor","CC chemokine receptor","Liver carcinoma",0.8734293594851363,0,4
+"CC chemokine receptor","CC chemokine receptor","Liver diseases",0.8734293594851363,0,2
+"CC chemokine receptor","CC chemokine receptor","Liver neoplasms",0.8734293594851363,0,6
+"CC chemokine receptor","CC chemokine receptor","Lobar Pneumonia",0.8734293594851363,0,2
+"CC chemokine receptor","CC chemokine receptor","Malignant Glioma",0.8734293594851363,0,3
+"CC chemokine receptor","CC chemokine receptor","Malignant neoplasm of liver",0.8734293594851363,0,6
+"CC chemokine receptor","CC chemokine receptor","Nephritis",0.8734293594851363,0,1
+"CC chemokine receptor","CC chemokine receptor","Non-Convulsive Status Epilepticus",0.8734293594851363,0,2
+"CC chemokine receptor","CC chemokine receptor","Petit mal status",0.8734293594851363,0,2
+"CC chemokine receptor","CC chemokine receptor","Pneumonia",0.8734293594851363,0,2
+"CC chemokine receptor","CC chemokine receptor","Pneumonitis",0.8734293594851363,0,2
+"CC chemokine receptor","CC chemokine receptor","Pulmonary Fibrosis",0.8734293594851363,0,1
+"CC chemokine receptor","CC chemokine receptor","Schizophrenia",0.8734293594851363,0,12
+"CC chemokine receptor","CC chemokine receptor","Sezary Syndrome",0.8734293594851363,0,2
+"CC chemokine receptor","CC chemokine receptor","Simple Partial Status Epilepticus",0.8734293594851363,0,2
+"CC chemokine receptor","CC chemokine receptor","Status Epilepticus",0.8734293594851363,0,2
+"CC chemokine receptor","CC chemokine receptor","Status Epilepticus, Subclinical",0.8734293594851363,0,2
+"CC chemokine receptor","CC chemokine receptor","West Nile Fever",0.8734293594851363,0,1
+"CC chemokine receptor","CC chemokine receptor","West Nile Fever Meningitis",0.8734293594851363,0,1
+"CC chemokine receptor","CC chemokine receptor","West Nile Fever Meningoencephalitis",0.8734293594851363,0,1
+"CC chemokine receptor","CC chemokine receptor","West Nile Fever Myelitis",0.8734293594851363,0,1
+"CC chemokine receptor","CC chemokine receptor","mixed gliomas",0.8734293594851363,0,3
+"CMGC protein kinase ERK subfamily","Erk","Allodynia",0.035754418224537746,0,8
+"CMGC protein kinase ERK subfamily","Erk","Anhedonia",0.035754418224537746,0,2
+"CMGC protein kinase ERK subfamily","Erk","Astrocytosis",0.035754418224537746,0,1
+"CMGC protein kinase ERK subfamily","Erk","Atrophic",0.035754418224537746,0,1
+"CMGC protein kinase ERK subfamily","Erk","Bipolar Disorder",0.035754418224537746,0,9
+"CMGC protein kinase ERK subfamily","Erk","Brain Ischemia",0.035754418224537746,0,3
+"CMGC protein kinase ERK subfamily","Erk","CEROID LIPOFUSCINOSIS, NEURONAL, 6",0.035754418224537746,0,1
+"CMGC protein kinase ERK subfamily","Erk","Cancer of Head",0.035754418224537746,0,1
+"CMGC protein kinase ERK subfamily","Erk","Cancer of Neck",0.035754418224537746,0,1
+"CMGC protein kinase ERK subfamily","Erk","Cardiomyopathies",0.035754418224537746,0,6
+"CMGC protein kinase ERK subfamily","Erk","Cardiomyopathies, Primary",0.035754418224537746,0,6
+"CMGC protein kinase ERK subfamily","Erk","Cerebral Ischemia",0.035754418224537746,0,3
+"CMGC protein kinase ERK subfamily","Erk","Cholestasis, Extrahepatic",0.035754418224537746,0,1
+"CMGC protein kinase ERK subfamily","Erk","Chromosome 22q11.2 Deletion Syndrome, Distal",0.035754418224537746,0,1
+"CMGC protein kinase ERK subfamily","Erk","Cocaine Abuse",0.035754418224537746,0,5
+"CMGC protein kinase ERK subfamily","Erk","Cocaine Dependence",0.035754418224537746,0,5
+"CMGC protein kinase ERK subfamily","Erk","Cocaine-Related Disorders",0.035754418224537746,0,5
+"CMGC protein kinase ERK subfamily","Erk","Depressive disorder",0.035754418224537746,0,6
+"CMGC protein kinase ERK subfamily","Erk","Drug Withdrawal Symptoms",0.035754418224537746,0,3
+"CMGC protein kinase ERK subfamily","Erk","Experimental Hepatoma",0.035754418224537746,0,4
+"CMGC protein kinase ERK subfamily","Erk","Female infertility",0.035754418224537746,0,1
+"CMGC protein kinase ERK subfamily","Erk","Female sterility",0.035754418224537746,0,1
+"CMGC protein kinase ERK subfamily","Erk","Gliosis",0.035754418224537746,0,1
+"CMGC protein kinase ERK subfamily","Erk","Head Neoplasms",0.035754418224537746,0,1
+"CMGC protein kinase ERK subfamily","Erk","Head and Neck Neoplasms",0.035754418224537746,0,2
+"CMGC protein kinase ERK subfamily","Erk","Hepatoma, Morris",0.035754418224537746,0,4
+"CMGC protein kinase ERK subfamily","Erk","Hepatoma, Novikoff",0.035754418224537746,0,4
+"CMGC protein kinase ERK subfamily","Erk","Hereditary Diffuse Gastric Cancer",0.035754418224537746,0,4
+"CMGC protein kinase ERK subfamily","Erk","Hyperalgesia",0.035754418224537746,0,8
+"CMGC protein kinase ERK subfamily","Erk","Hyperalgesia, Primary",0.035754418224537746,0,8
+"CMGC protein kinase ERK subfamily","Erk","Hyperalgesia, Secondary",0.035754418224537746,0,8
+"CMGC protein kinase ERK subfamily","Erk","Hyperalgesia, Thermal",0.035754418224537746,0,8
+"CMGC protein kinase ERK subfamily","Erk","Hypertrophy",0.035754418224537746,0,1
+"CMGC protein kinase ERK subfamily","Erk","Juvenile arthritis",0.035754418224537746,0,3
+"CMGC protein kinase ERK subfamily","Erk","Juvenile psoriatic arthritis",0.035754418224537746,0,3
+"CMGC protein kinase ERK subfamily","Erk","Juvenile-Onset Still Disease",0.035754418224537746,0,3
+"CMGC protein kinase ERK subfamily","Erk","Kidney Neoplasm",0.035754418224537746,0,2
+"CMGC protein kinase ERK subfamily","Erk","Liver Neoplasms, Experimental",0.035754418224537746,0,4
+"CMGC protein kinase ERK subfamily","Erk","Lung Neoplasms",0.035754418224537746,0,8
+"CMGC protein kinase ERK subfamily","Erk","Malignant Head and Neck Neoplasm",0.035754418224537746,0,2
+"CMGC protein kinase ERK subfamily","Erk","Malignant neoplasm of kidney",0.035754418224537746,0,2
+"CMGC protein kinase ERK subfamily","Erk","Malignant neoplasm of lung",0.035754418224537746,0,8
+"CMGC protein kinase ERK subfamily","Erk","Malignant neoplasm of ovary",0.035754418224537746,0,3
+"CMGC protein kinase ERK subfamily","Erk","Malignant neoplasm of prostate",0.035754418224537746,0,5
+"CMGC protein kinase ERK subfamily","Erk","Malignant neoplasm of stomach",0.035754418224537746,0,4
+"CMGC protein kinase ERK subfamily","Erk","Mechanical Allodynia",0.035754418224537746,0,8
+"CMGC protein kinase ERK subfamily","Erk","Mental Depression",0.035754418224537746,0,6
+"CMGC protein kinase ERK subfamily","Erk","Myocardial Diseases, Secondary",0.035754418224537746,0,6
+"CMGC protein kinase ERK subfamily","Erk","Neck Neoplasms",0.035754418224537746,0,1
+"CMGC protein kinase ERK subfamily","Erk","Neoplasm Invasiveness",0.035754418224537746,0,6
+"CMGC protein kinase ERK subfamily","Erk","Neoplasm Metastasis",0.035754418224537746,0,7
+"CMGC protein kinase ERK subfamily","Erk","Nerve Degeneration",0.035754418224537746,0,1
+"CMGC protein kinase ERK subfamily","Erk","Prostatic Neoplasms",0.035754418224537746,0,5
+"CMGC protein kinase ERK subfamily","Erk","Pyemia",0.035754418224537746,0,2
+"CMGC protein kinase ERK subfamily","Erk","Radiation Injuries, Experimental",0.035754418224537746,0,1
+"CMGC protein kinase ERK subfamily","Erk","Schizophrenia",0.035754418224537746,0,12
+"CMGC protein kinase ERK subfamily","Erk","Secondary Trigeminal Neuralgia",0.035754418224537746,0,1
+"CMGC protein kinase ERK subfamily","Erk","Sepsis",0.035754418224537746,0,2
+"CMGC protein kinase ERK subfamily","Erk","Septicemia",0.035754418224537746,0,2
+"CMGC protein kinase ERK subfamily","Erk","Severe Sepsis",0.035754418224537746,0,2
+"CMGC protein kinase ERK subfamily","Erk","Sezary Syndrome",0.035754418224537746,0,2
+"CMGC protein kinase ERK subfamily","Erk","Squamous cell carcinoma",0.035754418224537746,0,4
+"CMGC protein kinase ERK subfamily","Erk","Sterility, Postpartum",0.035754418224537746,0,1
+"CMGC protein kinase ERK subfamily","Erk","Stomach Neoplasms",0.035754418224537746,0,4
+"CMGC protein kinase ERK subfamily","Erk","Streptococcal pneumonia",0.035754418224537746,0,1
+"CMGC protein kinase ERK subfamily","Erk","Subfertility, Female",0.035754418224537746,0,1
+"CMGC protein kinase ERK subfamily","Erk","Substance Withdrawal Syndrome",0.035754418224537746,0,3
+"CMGC protein kinase ERK subfamily","Erk","Tactile Allodynia",0.035754418224537746,0,8
+"CMGC protein kinase ERK subfamily","Erk","Trigeminal Neuralgia",0.035754418224537746,0,1
+"CMGC protein kinase ERK subfamily","Erk","Trigeminal Neuralgia, Idiopathic",0.035754418224537746,0,1
+"CMGC protein kinase ERK subfamily","Erk","Upper Aerodigestive Tract Neoplasms",0.035754418224537746,0,1
+"CMGC protein kinase ERK subfamily","Erk","Withdrawal Symptoms",0.035754418224537746,0,3
+"CMGC protein kinase ERK subfamily","Erk","ovarian neoplasm",0.035754418224537746,0,3
+"CMGC protein kinase group","Cmgc","Acute Cerebrovascular Accidents",0.015323322096230461,1,2
+"CMGC protein kinase group","Cmgc","Acute Myeloid Leukemia (AML-M2)",0.015323322096230461,1,4
+"CMGC protein kinase group","Cmgc","Acute Myeloid Leukemia, M1",0.015323322096230461,1,4
+"CMGC protein kinase group","Cmgc","Adult Medulloblastoma",0.015323322096230461,1,1
+"CMGC protein kinase group","Cmgc","Anemia",0.015323322096230461,1,1
+"CMGC protein kinase group","Cmgc","Autosomal Recessive Primary Microcephaly",0.015323322096230461,1,1
+"CMGC protein kinase group","Cmgc","Autosome Abnormalities",0.015323322096230461,1,1
+"CMGC protein kinase group","Cmgc","Brain Stem Neoplasms",0.015323322096230461,1,1
+"CMGC protein kinase group","Cmgc","Brain Stem Neoplasms, Primary",0.015323322096230461,1,1
+"CMGC protein kinase group","Cmgc","Cerebrovascular accident",0.015323322096230461,1,2
+"CMGC protein kinase group","Cmgc","Childhood Acute Lymphoblastic Leukemia",0.015323322096230461,1,4
+"CMGC protein kinase group","Cmgc","Childhood Medulloblastoma",0.015323322096230461,1,1
+"CMGC protein kinase group","Cmgc","Chloracne",0.015323322096230461,1,2
+"CMGC protein kinase group","Cmgc","Chromosome Aberrations",0.015323322096230461,1,1
+"CMGC protein kinase group","Cmgc","Desmoplastic Medulloblastoma",0.015323322096230461,1,1
+"CMGC protein kinase group","Cmgc","Giant Cell Glioblastoma",0.015323322096230461,1,2
+"CMGC protein kinase group","Cmgc","Glioblastoma",0.015323322096230461,1,2
+"CMGC protein kinase group","Cmgc","Glioblastoma Multiforme",0.015323322096230461,1,4
+"CMGC protein kinase group","Cmgc","Leukemia, Lymphocytic, Acute, L2",0.015323322096230461,1,4
+"CMGC protein kinase group","Cmgc","Leukemia, Myelocytic, Acute",0.015323322096230461,1,4
+"CMGC protein kinase group","Cmgc","Lymphoma",0.015323322096230461,1,3
+"CMGC protein kinase group","Cmgc","MICROCEPHALY 12, PRIMARY, AUTOSOMAL RECESSIVE",0.015323322096230461,1,1
+"CMGC protein kinase group","Cmgc","Malignant Neoplasms",0.015323322096230461,1,6
+"CMGC protein kinase group","Cmgc","Malignant mesothelioma",0.015323322096230461,1,3
+"CMGC protein kinase group","Cmgc","Mammary Neoplasms, Experimental",0.015323322096230461,1,3
+"CMGC protein kinase group","Cmgc","Medullary Neoplasms",0.015323322096230461,1,1
+"CMGC protein kinase group","Cmgc","Medulloblastoma",0.015323322096230461,1,1
+"CMGC protein kinase group","Cmgc","Medullomyoblastoma",0.015323322096230461,1,1
+"CMGC protein kinase group","Cmgc","Melanotic medulloblastoma",0.015323322096230461,1,1
+"CMGC protein kinase group","Cmgc","Mesencephalic Neoplasms",0.015323322096230461,1,1
+"CMGC protein kinase group","Cmgc","Metastatic melanoma",0.015323322096230461,1,4
+"CMGC protein kinase group","Cmgc","Microcephaly",0.015323322096230461,1,1
+"CMGC protein kinase group","Cmgc","Pontine Tumors",0.015323322096230461,1,1
+"CMGC protein kinase group","Cmgc","Precursor Cell Lymphoblastic Leukemia Lymphoma",0.015323322096230461,1,5
+"CMGC protein kinase group","Cmgc","Primary microcephaly",0.015323322096230461,1,2
+"CMGC protein kinase group","Cmgc","Rheumatoid Arthritis",0.015323322096230461,1,7
+"CMGC protein kinase group","Cmgc","liposarcoma",0.015323322096230461,1,1
+"CMGC protein kinase p38 subfamily","p38","Adenocarcinoma of lung (disorder)",0.5822862396567575,3,8
+"CMGC protein kinase p38 subfamily","p38","Cardiomyopathies",0.5822862396567575,3,6
+"CMGC protein kinase p38 subfamily","p38","Cardiomyopathies, Primary",0.5822862396567575,3,6
+"CMGC protein kinase p38 subfamily","p38","Cholestasis",0.5822862396567575,3,1
+"CMGC protein kinase p38 subfamily","p38","Depressive Symptoms",0.5822862396567575,3,1
+"CMGC protein kinase p38 subfamily","p38","Drug-induced depressive state",0.5822862396567575,3,1
+"CMGC protein kinase p38 subfamily","p38","Dysphoric mood",0.5822862396567575,3,2
+"CMGC protein kinase p38 subfamily","p38","Gastric Adenocarcinoma",0.5822862396567575,3,6
+"CMGC protein kinase p38 subfamily","p38","Liver neoplasms",0.5822862396567575,3,6
+"CMGC protein kinase p38 subfamily","p38","Lung Neoplasms",0.5822862396567575,3,8
+"CMGC protein kinase p38 subfamily","p38","Malignant neoplasm of liver",0.5822862396567575,3,6
+"CMGC protein kinase p38 subfamily","p38","Malignant neoplasm of lung",0.5822862396567575,3,8
+"CMGC protein kinase p38 subfamily","p38","Marijuana Abuse",0.5822862396567575,3,4
+"CMGC protein kinase p38 subfamily","p38","Myeloid Leukemia, Chronic",0.5822862396567575,3,3
+"CMGC protein kinase p38 subfamily","p38","Myocardial Diseases, Secondary",0.5822862396567575,3,6
+"CMGC protein kinase p38 subfamily","p38","Myocardial Ischemia",0.5822862396567575,3,6
+"CMGC protein kinase p38 subfamily","p38","Schizophrenia",0.5822862396567575,3,12
+"CXC chemokine receptor","CXC chemokine receptor","Acute Cerebrovascular Accidents",0.16089488201041985,0,2
+"CXC chemokine receptor","CXC chemokine receptor","Allergic Reaction",0.16089488201041985,0,2
+"CXC chemokine receptor","CXC chemokine receptor","Alopecia Areata",0.16089488201041985,0,1
+"CXC chemokine receptor","CXC chemokine receptor","Autoimmune Diseases",0.16089488201041985,0,1
+"CXC chemokine receptor","CXC chemokine receptor","Breast Carcinoma",0.16089488201041985,0,14
+"CXC chemokine receptor","CXC chemokine receptor","Bright Disease",0.16089488201041985,0,1
+"CXC chemokine receptor","CXC chemokine receptor","Cerebrovascular accident",0.16089488201041985,0,2
+"CXC chemokine receptor","CXC chemokine receptor","Congenital anemia",0.16089488201041985,0,4
+"CXC chemokine receptor","CXC chemokine receptor","Contact Dermatitis",0.16089488201041985,0,2
+"CXC chemokine receptor","CXC chemokine receptor","Contact hypersensitivity",0.16089488201041985,0,2
+"CXC chemokine receptor","CXC chemokine receptor","Cytopenia",0.16089488201041985,0,4
+"CXC chemokine receptor","CXC chemokine receptor","Dermatitis, Atopic",0.16089488201041985,0,2
+"CXC chemokine receptor","CXC chemokine receptor","Eczema, Infantile",0.16089488201041985,0,2
+"CXC chemokine receptor","CXC chemokine receptor","Embolic Infarction, Middle Cerebral Artery",0.16089488201041985,0,1
+"CXC chemokine receptor","CXC chemokine receptor","Experimental Lung Inflammation",0.16089488201041985,0,2
+"CXC chemokine receptor","CXC chemokine receptor","Glomerulonephritis",0.16089488201041985,0,1
+"CXC chemokine receptor","CXC chemokine receptor","HIV Coinfection",0.16089488201041985,0,2
+"CXC chemokine receptor","CXC chemokine receptor","HIV Infections",0.16089488201041985,0,2
+"CXC chemokine receptor","CXC chemokine receptor","Hypersensitivity",0.16089488201041985,0,2
+"CXC chemokine receptor","CXC chemokine receptor","Hypertensive disease",0.16089488201041985,0,4
+"CXC chemokine receptor","CXC chemokine receptor","Infarction, Middle Cerebral Artery",0.16089488201041985,0,1
+"CXC chemokine receptor","CXC chemokine receptor","Inflammation",0.16089488201041985,0,6
+"CXC chemokine receptor","CXC chemokine receptor","Ischemia",0.16089488201041985,0,1
+"CXC chemokine receptor","CXC chemokine receptor","Juvenile arthritis",0.16089488201041985,0,3
+"CXC chemokine receptor","CXC chemokine receptor","Juvenile psoriatic arthritis",0.16089488201041985,0,3
+"CXC chemokine receptor","CXC chemokine receptor","Juvenile-Onset Still Disease",0.16089488201041985,0,3
+"CXC chemokine receptor","CXC chemokine receptor","Left Middle Cerebral Artery Infarction",0.16089488201041985,0,1
+"CXC chemokine receptor","CXC chemokine receptor","Lobar Pneumonia",0.16089488201041985,0,2
+"CXC chemokine receptor","CXC chemokine receptor","Malignant neoplasm of breast",0.16089488201041985,0,17
+"CXC chemokine receptor","CXC chemokine receptor","Mammary Neoplasms",0.16089488201041985,0,14
+"CXC chemokine receptor","CXC chemokine receptor","Mammary Neoplasms, Human",0.16089488201041985,0,13
+"CXC chemokine receptor","CXC chemokine receptor","Mastitis",0.16089488201041985,0,1
+"CXC chemokine receptor","CXC chemokine receptor","Middle Cerebral Artery Embolus",0.16089488201041985,0,1
+"CXC chemokine receptor","CXC chemokine receptor","Middle Cerebral Artery Occlusion",0.16089488201041985,0,1
+"CXC chemokine receptor","CXC chemokine receptor","Middle Cerebral Artery Syndrome",0.16089488201041985,0,1
+"CXC chemokine receptor","CXC chemokine receptor","Middle Cerebral Artery Thrombosis",0.16089488201041985,0,1
+"CXC chemokine receptor","CXC chemokine receptor","Neoplasm Invasiveness",0.16089488201041985,0,6
+"CXC chemokine receptor","CXC chemokine receptor","Neoplasm Metastasis",0.16089488201041985,0,7
+"CXC chemokine receptor","CXC chemokine receptor","Neoplastic Cell Transformation",0.16089488201041985,0,3
+"CXC chemokine receptor","CXC chemokine receptor","Nerve Pain",0.16089488201041985,0,3
+"CXC chemokine receptor","CXC chemokine receptor","Neuralgia",0.16089488201041985,0,3
+"CXC chemokine receptor","CXC chemokine receptor","Neuralgia, Atypical",0.16089488201041985,0,3
+"CXC chemokine receptor","CXC chemokine receptor","Neuralgia, Iliohypogastric Nerve",0.16089488201041985,0,3
+"CXC chemokine receptor","CXC chemokine receptor","Neuralgia, Ilioinguinal",0.16089488201041985,0,3
+"CXC chemokine receptor","CXC chemokine receptor","Neuralgia, Perineal",0.16089488201041985,0,3
+"CXC chemokine receptor","CXC chemokine receptor","Neuralgia, Stump",0.16089488201041985,0,3
+"CXC chemokine receptor","CXC chemokine receptor","Neuralgia, Supraorbital",0.16089488201041985,0,3
+"CXC chemokine receptor","CXC chemokine receptor","Neuralgia, Vidian",0.16089488201041985,0,3
+"CXC chemokine receptor","CXC chemokine receptor","Paroxysmal Nerve Pain",0.16089488201041985,0,3
+"CXC chemokine receptor","CXC chemokine receptor","Pleural Diseases",0.16089488201041985,0,1
+"CXC chemokine receptor","CXC chemokine receptor","Pneumonia",0.16089488201041985,0,2
+"CXC chemokine receptor","CXC chemokine receptor","Pneumonitis",0.16089488201041985,0,2
+"CXC chemokine receptor","CXC chemokine receptor","Pulmonary Arterial Remodeling",0.16089488201041985,0,1
+"CXC chemokine receptor","CXC chemokine receptor","Pyemia",0.16089488201041985,0,2
+"CXC chemokine receptor","CXC chemokine receptor","Rheumatoid Arthritis",0.16089488201041985,0,7
+"CXC chemokine receptor","CXC chemokine receptor","Right Middle Cerebral Artery Infarction",0.16089488201041985,0,1
+"CXC chemokine receptor","CXC chemokine receptor","Sepsis",0.16089488201041985,0,2
+"CXC chemokine receptor","CXC chemokine receptor","Septicemia",0.16089488201041985,0,2
+"CXC chemokine receptor","CXC chemokine receptor","Severe Sepsis",0.16089488201041985,0,2
+"CXC chemokine receptor","CXC chemokine receptor","Thrombotic Infarction, Middle Cerebral Artery",0.16089488201041985,0,1
+"CXC chemokine receptor","CXC chemokine receptor","Ulcerative Colitis",0.16089488201041985,0,3
+"CXC chemokine receptor","CXC chemokine receptor","Vascular Remodeling",0.16089488201041985,0,1
+"CXC chemokine receptor","CXC chemokine receptor","WHIM syndrome",0.16089488201041985,0,1
+"Cannabinoid receptor","Cannabinoid receptor","Acute Myeloid Leukemia (AML-M2)",0.3932986004699152,0,4
+"Cannabinoid receptor","Cannabinoid receptor","Acute Myeloid Leukemia, M1",0.3932986004699152,0,4
+"Cannabinoid receptor","Cannabinoid receptor","Alcohol abuse",0.3932986004699152,0,3
+"Cannabinoid receptor","Cannabinoid receptor","Alcoholic Intoxication, Chronic",0.3932986004699152,0,4
+"Cannabinoid receptor","Cannabinoid receptor","Allodynia",0.3932986004699152,0,8
+"Cannabinoid receptor","Cannabinoid receptor","Atherogenesis",0.3932986004699152,0,2
+"Cannabinoid receptor","Cannabinoid receptor","Atherosclerosis",0.3932986004699152,0,2
+"Cannabinoid receptor","Cannabinoid receptor","Atherosclerotic Parkinsonism",0.3932986004699152,0,1
+"Cannabinoid receptor","Cannabinoid receptor","Bipolar Disorder",0.3932986004699152,0,9
+"Cannabinoid receptor","Cannabinoid receptor","Breast Carcinoma",0.3932986004699152,0,14
+"Cannabinoid receptor","Cannabinoid receptor","Cannabis use",0.3932986004699152,0,1
+"Cannabinoid receptor","Cannabinoid receptor","Depression, Neurotic",0.3932986004699152,0,1
+"Cannabinoid receptor","Cannabinoid receptor","Depressive Syndrome",0.3932986004699152,0,1
+"Cannabinoid receptor","Cannabinoid receptor","Depressive disorder",0.3932986004699152,0,6
+"Cannabinoid receptor","Cannabinoid receptor","Endogenous depression",0.3932986004699152,0,1
+"Cannabinoid receptor","Cannabinoid receptor","Fibrosis, Liver",0.3932986004699152,0,4
+"Cannabinoid receptor","Cannabinoid receptor","Hyperalgesia",0.3932986004699152,0,8
+"Cannabinoid receptor","Cannabinoid receptor","Hyperalgesia, Primary",0.3932986004699152,0,8
+"Cannabinoid receptor","Cannabinoid receptor","Hyperalgesia, Secondary",0.3932986004699152,0,8
+"Cannabinoid receptor","Cannabinoid receptor","Hyperalgesia, Thermal",0.3932986004699152,0,8
+"Cannabinoid receptor","Cannabinoid receptor","Immune System Diseases",0.3932986004699152,0,1
+"Cannabinoid receptor","Cannabinoid receptor","Leukemia, Myelocytic, Acute",0.3932986004699152,0,4
+"Cannabinoid receptor","Cannabinoid receptor","Liver Cirrhosis",0.3932986004699152,0,4
+"Cannabinoid receptor","Cannabinoid receptor","Malignant neoplasm of breast",0.3932986004699152,0,17
+"Cannabinoid receptor","Cannabinoid receptor","Malignant neoplasm of pancreas",0.3932986004699152,0,2
+"Cannabinoid receptor","Cannabinoid receptor","Mammary Neoplasms",0.3932986004699152,0,14
+"Cannabinoid receptor","Cannabinoid receptor","Mammary Neoplasms, Human",0.3932986004699152,0,13
+"Cannabinoid receptor","Cannabinoid receptor","Marijuana Abuse",0.3932986004699152,0,4
+"Cannabinoid receptor","Cannabinoid receptor","Mechanical Allodynia",0.3932986004699152,0,8
+"Cannabinoid receptor","Cannabinoid receptor","Melancholia",0.3932986004699152,0,1
+"Cannabinoid receptor","Cannabinoid receptor","Mental Depression",0.3932986004699152,0,6
+"Cannabinoid receptor","Cannabinoid receptor","Pancreatic Neoplasm",0.3932986004699152,0,2
+"Cannabinoid receptor","Cannabinoid receptor","Pancreatitis",0.3932986004699152,0,1
+"Cannabinoid receptor","Cannabinoid receptor","Parkinson Disease, Secondary Vascular",0.3932986004699152,0,1
+"Cannabinoid receptor","Cannabinoid receptor","Schizophrenia",0.3932986004699152,0,12
+"Cannabinoid receptor","Cannabinoid receptor","Secondary Parkinson Disease",0.3932986004699152,0,1
+"Cannabinoid receptor","Cannabinoid receptor","Tactile Allodynia",0.3932986004699152,0,8
+"Cannabinoid receptor","Cannabinoid receptor","Unipolar Depression",0.3932986004699152,0,7
+"EDG receptor","EDG receptor","Alloxan Diabetes",0.43416079272652974,0,4
+"EDG receptor","EDG receptor","Anaplastic carcinoma",0.43416079272652974,0,2
+"EDG receptor","EDG receptor","Animal Mammary Neoplasms",0.43416079272652974,0,1
+"EDG receptor","EDG receptor","Bipolar Disorder",0.43416079272652974,0,9
+"EDG receptor","EDG receptor","Carcinoma",0.43416079272652974,0,2
+"EDG receptor","EDG receptor","Carcinoma, Spindle-Cell",0.43416079272652974,0,2
+"EDG receptor","EDG receptor","Carcinomatosis",0.43416079272652974,0,2
+"EDG receptor","EDG receptor","Diabetes Mellitus, Experimental",0.43416079272652974,0,4
+"EDG receptor","EDG receptor","Liver Cirrhosis, Experimental",0.43416079272652974,0,11
+"EDG receptor","EDG receptor","Mammary Carcinoma, Animal",0.43416079272652974,0,1
+"EDG receptor","EDG receptor","Mammary Neoplasms, Experimental",0.43416079272652974,0,3
+"EDG receptor","EDG receptor","Streptozotocin Diabetes",0.43416079272652974,0,4
+"EDG receptor","EDG receptor","Undifferentiated carcinoma",0.43416079272652974,0,2
+"Endothelin receptor","Endothelin receptor","ABCD syndrome",0.15323322096230463,0,1
+"Endothelin receptor","Endothelin receptor","Aganglionosis, Colonic",0.15323322096230463,0,1
+"Endothelin receptor","Endothelin receptor","Aganglionosis, Rectosigmoid Colon",0.15323322096230463,0,1
+"Endothelin receptor","Endothelin receptor","Breast Carcinoma",0.15323322096230463,0,14
+"Endothelin receptor","Endothelin receptor","Congenital Intestinal Aganglionosis",0.15323322096230463,0,1
+"Endothelin receptor","Endothelin receptor","Congestive heart failure",0.15323322096230463,0,2
+"Endothelin receptor","Endothelin receptor","Diabetes Mellitus, Non-Insulin-Dependent",0.15323322096230463,0,2
+"Endothelin receptor","Endothelin receptor","Diaphragmatic Hernia",0.15323322096230463,0,1
+"Endothelin receptor","Endothelin receptor","HIRSCHSPRUNG DISEASE, SUSCEPTIBILITY TO, 2",0.15323322096230463,0,1
+"Endothelin receptor","Endothelin receptor","Heart Decompensation",0.15323322096230463,0,2
+"Endothelin receptor","Endothelin receptor","Heart Failure, Right-Sided",0.15323322096230463,0,2
+"Endothelin receptor","Endothelin receptor","Heart failure",0.15323322096230463,0,2
+"Endothelin receptor","Endothelin receptor","Hirschsprung Disease",0.15323322096230463,0,1
+"Endothelin receptor","Endothelin receptor","Intellectual Disability",0.15323322096230463,0,19
+"Endothelin receptor","Endothelin receptor","Left-Sided Heart Failure",0.15323322096230463,0,2
+"Endothelin receptor","Endothelin receptor","Malignant neoplasm of breast",0.15323322096230463,0,17
+"Endothelin receptor","Endothelin receptor","Mammary Neoplasms",0.15323322096230463,0,14
+"Endothelin receptor","Endothelin receptor","Mammary Neoplasms, Human",0.15323322096230463,0,13
+"Endothelin receptor","Endothelin receptor","Myocardial Failure",0.15323322096230463,0,2
+"Endothelin receptor","Endothelin receptor","Neoplasm Invasiveness",0.15323322096230463,0,6
+"Endothelin receptor","Endothelin receptor","Nephrosis",0.15323322096230463,0,1
+"Endothelin receptor","Endothelin receptor","Perinatal Subarachnoid Hemorrhage",0.15323322096230463,0,1
+"Endothelin receptor","Endothelin receptor","Pulmonary Hypertension",0.15323322096230463,0,1
+"Endothelin receptor","Endothelin receptor","Subarachnoid Hemorrhage",0.15323322096230463,0,1
+"Endothelin receptor","Endothelin receptor","Subarachnoid Hemorrhage, Aneurysmal",0.15323322096230463,0,1
+"Endothelin receptor","Endothelin receptor","Subarachnoid Hemorrhage, Intracranial",0.15323322096230463,0,1
+"Endothelin receptor","Endothelin receptor","Subarachnoid Hemorrhage, Spontaneous",0.15323322096230463,0,1
+"Endothelin receptor","Endothelin receptor","WAARDENBURG SYNDROME, TYPE 4A",0.15323322096230463,0,1
+"Endothelin receptor","Endothelin receptor","Waardenburg Syndrome",0.15323322096230463,0,1
+"Endothelin receptor","Endothelin receptor","Waardenburg Syndrome Type 2",0.15323322096230463,0,1
+"Histamine receptor","Histamine receptor","Ache",0.36520584329349265,2,4
+"Histamine receptor","Histamine receptor","Allergic rhinitis (disorder)",0.36520584329349265,2,1
+"Histamine receptor","Histamine receptor","Atherogenesis",0.36520584329349265,2,2
+"Histamine receptor","Histamine receptor","Atherosclerosis",0.36520584329349265,2,2
+"Histamine receptor","Histamine receptor","Carcinoma, Transitional Cell",0.36520584329349265,2,1
+"Histamine receptor","Histamine receptor","Chemical and Drug Induced Liver Injury",0.36520584329349265,2,6
+"Histamine receptor","Histamine receptor","Chemically-Induced Liver Toxicity",0.36520584329349265,2,6
+"Histamine receptor","Histamine receptor","Colorectal Cancer",0.36520584329349265,2,8
+"Histamine receptor","Histamine receptor","Coronary Stenosis",0.36520584329349265,2,2
+"Histamine receptor","Histamine receptor","Drug Withdrawal Symptoms",0.36520584329349265,2,3
+"Histamine receptor","Histamine receptor","Drug-Induced Acute Liver Injury",0.36520584329349265,2,6
+"Histamine receptor","Histamine receptor","Drug-Induced Liver Disease",0.36520584329349265,2,6
+"Histamine receptor","Histamine receptor","Hepatitis, Drug-Induced",0.36520584329349265,2,6
+"Histamine receptor","Histamine receptor","Hepatitis, Toxic",0.36520584329349265,2,6
+"Histamine receptor","Histamine receptor","Hypotension",0.36520584329349265,2,2
+"Histamine receptor","Histamine receptor","Neoplasm Metastasis",0.36520584329349265,2,7
+"Histamine receptor","Histamine receptor","Neoplasms, Experimental",0.36520584329349265,2,2
+"Histamine receptor","Histamine receptor","Pain",0.36520584329349265,2,4
+"Histamine receptor","Histamine receptor","Pain, Burning",0.36520584329349265,2,4
+"Histamine receptor","Histamine receptor","Pain, Crushing",0.36520584329349265,2,4
+"Histamine receptor","Histamine receptor","Pain, Migratory",0.36520584329349265,2,4
+"Histamine receptor","Histamine receptor","Pain, Splitting",0.36520584329349265,2,4
+"Histamine receptor","Histamine receptor","Pruritus",0.36520584329349265,2,2
+"Histamine receptor","Histamine receptor","Radiating pain",0.36520584329349265,2,4
+"Histamine receptor","Histamine receptor","Respiratory Hypersensitivity",0.36520584329349265,2,1
+"Histamine receptor","Histamine receptor","Rhinitis",0.36520584329349265,2,1
+"Histamine receptor","Histamine receptor","Schizophrenia",0.36520584329349265,2,12
+"Histamine receptor","Histamine receptor","Substance Withdrawal Syndrome",0.36520584329349265,2,3
+"Histamine receptor","Histamine receptor","Suffering, Physical",0.36520584329349265,2,4
+"Histamine receptor","Histamine receptor","Withdrawal Symptoms",0.36520584329349265,2,3
+"Leukotriene receptor","Leukotriene receptor","Inflammation",0.035754418224537746,0,6
+"Leukotriene receptor","Leukotriene receptor","Liver Dysfunction",0.035754418224537746,0,2
+"Leukotriene receptor","Leukotriene receptor","Liver diseases",0.035754418224537746,0,2
+"Leukotriene receptor","Leukotriene receptor","anaphylaxis",0.035754418224537746,0,1
+"Opioid receptor","Opioid receptor","AIDS Dementia Complex",1.6293799162325058,2,1
+"Opioid receptor","Opioid receptor","Absence Seizures",1.6293799162325058,2,2
+"Opioid receptor","Opioid receptor","Ache",1.6293799162325058,2,4
+"Opioid receptor","Opioid receptor","Alcohol Use Disorder",1.6293799162325058,2,1
+"Opioid receptor","Opioid receptor","Alcohol abuse",1.6293799162325058,2,3
+"Opioid receptor","Opioid receptor","Alcoholic Intoxication",1.6293799162325058,2,2
+"Opioid receptor","Opioid receptor","Alcoholic Intoxication, Chronic",1.6293799162325058,2,4
+"Opioid receptor","Opioid receptor","Allodynia",1.6293799162325058,2,8
+"Opioid receptor","Opioid receptor","Amphetamine Abuse",1.6293799162325058,2,2
+"Opioid receptor","Opioid receptor","Amphetamine Addiction",1.6293799162325058,2,2
+"Opioid receptor","Opioid receptor","Amphetamine-Related Disorders",1.6293799162325058,2,2
+"Opioid receptor","Opioid receptor","Anhedonia",1.6293799162325058,2,2
+"Opioid receptor","Opioid receptor","Asterixis",1.6293799162325058,2,1
+"Opioid receptor","Opioid receptor","Atonic Absence Seizures",1.6293799162325058,2,2
+"Opioid receptor","Opioid receptor","Aura",1.6293799162325058,2,2
+"Opioid receptor","Opioid receptor","Awakening Epilepsy",1.6293799162325058,2,2
+"Opioid receptor","Opioid receptor","Ballismus",1.6293799162325058,2,1
+"Opioid receptor","Opioid receptor","Cardiac Arrhythmia",1.6293799162325058,2,1
+"Opioid receptor","Opioid receptor","Cocaine Abuse",1.6293799162325058,2,5
+"Opioid receptor","Opioid receptor","Cocaine Dependence",1.6293799162325058,2,5
+"Opioid receptor","Opioid receptor","Cocaine-Related Disorders",1.6293799162325058,2,5
+"Opioid receptor","Opioid receptor","Colonic Inertia",1.6293799162325058,2,1
+"Opioid receptor","Opioid receptor","Complex partial seizures",1.6293799162325058,2,2
+"Opioid receptor","Opioid receptor","Constipation",1.6293799162325058,2,1
+"Opioid receptor","Opioid receptor","Convulsions",1.6293799162325058,2,2
+"Opioid receptor","Opioid receptor","Convulsive Seizures",1.6293799162325058,2,2
+"Opioid receptor","Opioid receptor","Depression, Postpartum",1.6293799162325058,2,1
+"Opioid receptor","Opioid receptor","Depressive disorder",1.6293799162325058,2,6
+"Opioid receptor","Opioid receptor","Drug Dependence",1.6293799162325058,2,2
+"Opioid receptor","Opioid receptor","Drug Use Disorders",1.6293799162325058,2,2
+"Opioid receptor","Opioid receptor","Drug Withdrawal Symptoms",1.6293799162325058,2,3
+"Opioid receptor","Opioid receptor","Drug abuse",1.6293799162325058,2,2
+"Opioid receptor","Opioid receptor","Drug habituation",1.6293799162325058,2,2
+"Opioid receptor","Opioid receptor","Dyschezia",1.6293799162325058,2,1
+"Opioid receptor","Opioid receptor","Dyskinetic syndrome",1.6293799162325058,2,1
+"Opioid receptor","Opioid receptor","Dysphoric mood",1.6293799162325058,2,2
+"Opioid receptor","Opioid receptor","Epilepsy",1.6293799162325058,2,2
+"Opioid receptor","Opioid receptor","Epilepsy, Cryptogenic",1.6293799162325058,2,2
+"Opioid receptor","Opioid receptor","Epileptic Seizures",1.6293799162325058,2,2
+"Opioid receptor","Opioid receptor","Epileptic drop attack",1.6293799162325058,2,2
+"Opioid receptor","Opioid receptor","Etat Marbre",1.6293799162325058,2,1
+"Opioid receptor","Opioid receptor","Fulminant Hepatic Failure with Cerebral Edema",1.6293799162325058,2,2
+"Opioid receptor","Opioid receptor","Generalized Absence Seizures",1.6293799162325058,2,2
+"Opioid receptor","Opioid receptor","Generalized seizures",1.6293799162325058,2,2
+"Opioid receptor","Opioid receptor","Gustatory seizure",1.6293799162325058,2,2
+"Opioid receptor","Opioid receptor","HIV Encephalopathy",1.6293799162325058,2,1
+"Opioid receptor","Opioid receptor","HIV-1-Associated Cognitive Motor Complex",1.6293799162325058,2,1
+"Opioid receptor","Opioid receptor","Hemiballismus",1.6293799162325058,2,1
+"Opioid receptor","Opioid receptor","Hepatic Coma",1.6293799162325058,2,2
+"Opioid receptor","Opioid receptor","Hepatic Encephalopathy",1.6293799162325058,2,2
+"Opioid receptor","Opioid receptor","Hepatic Stupor",1.6293799162325058,2,2
+"Opioid receptor","Opioid receptor","Hepatitis C",1.6293799162325058,2,2
+"Opioid receptor","Opioid receptor","Heroin Dependence",1.6293799162325058,2,1
+"Opioid receptor","Opioid receptor","Heroin Smoking",1.6293799162325058,2,1
+"Opioid receptor","Opioid receptor","Hyperalgesia",1.6293799162325058,2,8
+"Opioid receptor","Opioid receptor","Hyperalgesia, Primary",1.6293799162325058,2,8
+"Opioid receptor","Opioid receptor","Hyperalgesia, Secondary",1.6293799162325058,2,8
+"Opioid receptor","Opioid receptor","Hyperalgesia, Thermal",1.6293799162325058,2,8
+"Opioid receptor","Opioid receptor","Hypotension, Orthostatic",1.6293799162325058,2,1
+"Opioid receptor","Opioid receptor","Involuntary Movements",1.6293799162325058,2,1
+"Opioid receptor","Opioid receptor","Jacksonian Seizure",1.6293799162325058,2,2
+"Opioid receptor","Opioid receptor","Lingual-Facial-Buccal Dyskinesia",1.6293799162325058,2,1
+"Opioid receptor","Opioid receptor","Mechanical Allodynia",1.6293799162325058,2,8
+"Opioid receptor","Opioid receptor","Mental Depression",1.6293799162325058,2,6
+"Opioid receptor","Opioid receptor","Mood Disorders",1.6293799162325058,2,2
+"Opioid receptor","Opioid receptor","Morphine Abuse",1.6293799162325058,2,1
+"Opioid receptor","Opioid receptor","Morphine Dependence",1.6293799162325058,2,1
+"Opioid receptor","Opioid receptor","Movement Disorders",1.6293799162325058,2,1
+"Opioid receptor","Opioid receptor","Myoclonic Seizures",1.6293799162325058,2,2
+"Opioid receptor","Opioid receptor","Nausea",1.6293799162325058,2,1
+"Opioid receptor","Opioid receptor","Nerve Pain",1.6293799162325058,2,3
+"Opioid receptor","Opioid receptor","Neuralgia",1.6293799162325058,2,3
+"Opioid receptor","Opioid receptor","Neuralgia, Atypical",1.6293799162325058,2,3
+"Opioid receptor","Opioid receptor","Neuralgia, Iliohypogastric Nerve",1.6293799162325058,2,3
+"Opioid receptor","Opioid receptor","Neuralgia, Ilioinguinal",1.6293799162325058,2,3
+"Opioid receptor","Opioid receptor","Neuralgia, Perineal",1.6293799162325058,2,3
+"Opioid receptor","Opioid receptor","Neuralgia, Stump",1.6293799162325058,2,3
+"Opioid receptor","Opioid receptor","Neuralgia, Supraorbital",1.6293799162325058,2,3
+"Opioid receptor","Opioid receptor","Neuralgia, Vidian",1.6293799162325058,2,3
+"Opioid receptor","Opioid receptor","Non-epileptic convulsion",1.6293799162325058,2,2
+"Opioid receptor","Opioid receptor","Nonepileptic Seizures",1.6293799162325058,2,2
+"Opioid receptor","Opioid receptor","Nonorganic psychosis",1.6293799162325058,2,2
+"Opioid receptor","Opioid receptor","Olfactory seizure",1.6293799162325058,2,2
+"Opioid receptor","Opioid receptor","Oral Dyskinesia",1.6293799162325058,2,1
+"Opioid receptor","Opioid receptor","Organic Mental Disorders, Substance-Induced",1.6293799162325058,2,2
+"Opioid receptor","Opioid receptor","Pain",1.6293799162325058,2,4
+"Opioid receptor","Opioid receptor","Pain, Burning",1.6293799162325058,2,4
+"Opioid receptor","Opioid receptor","Pain, Crushing",1.6293799162325058,2,4
+"Opioid receptor","Opioid receptor","Pain, Migratory",1.6293799162325058,2,4
+"Opioid receptor","Opioid receptor","Pain, Splitting",1.6293799162325058,2,4
+"Opioid receptor","Opioid receptor","Paroxysmal Nerve Pain",1.6293799162325058,2,3
+"Opioid receptor","Opioid receptor","Prescription Drug Abuse",1.6293799162325058,2,2
+"Opioid receptor","Opioid receptor","Pruritus",1.6293799162325058,2,2
+"Opioid receptor","Opioid receptor","Psychoses, Drug",1.6293799162325058,2,3
+"Opioid receptor","Opioid receptor","Psychoses, Substance-Induced",1.6293799162325058,2,3
+"Opioid receptor","Opioid receptor","Psychotic Disorders",1.6293799162325058,2,3
+"Opioid receptor","Opioid receptor","Radiating pain",1.6293799162325058,2,4
+"Opioid receptor","Opioid receptor","Respiratory Depression",1.6293799162325058,2,2
+"Opioid receptor","Opioid receptor","Respiratory Failure",1.6293799162325058,2,2
+"Opioid receptor","Opioid receptor","Respiratory Insufficiency",1.6293799162325058,2,2
+"Opioid receptor","Opioid receptor","SCHIZOPHRENIA 12",1.6293799162325058,2,1
+"Opioid receptor","Opioid receptor","Schizophrenia",1.6293799162325058,2,12
+"Opioid receptor","Opioid receptor","Seizures",1.6293799162325058,2,2
+"Opioid receptor","Opioid receptor","Seizures, Auditory",1.6293799162325058,2,2
+"Opioid receptor","Opioid receptor","Seizures, Clonic",1.6293799162325058,2,2
+"Opioid receptor","Opioid receptor","Seizures, Focal",1.6293799162325058,2,2
+"Opioid receptor","Opioid receptor","Seizures, Sensory",1.6293799162325058,2,2
+"Opioid receptor","Opioid receptor","Seizures, Somatosensory",1.6293799162325058,2,2
+"Opioid receptor","Opioid receptor","Single Seizure",1.6293799162325058,2,2
+"Opioid receptor","Opioid receptor","Substance Dependence",1.6293799162325058,2,2
+"Opioid receptor","Opioid receptor","Substance Use Disorders",1.6293799162325058,2,2
+"Opioid receptor","Opioid receptor","Substance Withdrawal Syndrome",1.6293799162325058,2,3
+"Opioid receptor","Opioid receptor","Substance abuse problem",1.6293799162325058,2,2
+"Opioid receptor","Opioid receptor","Substance-Related Disorders",1.6293799162325058,2,2
+"Opioid receptor","Opioid receptor","Suffering, Physical",1.6293799162325058,2,4
+"Opioid receptor","Opioid receptor","Tactile Allodynia",1.6293799162325058,2,8
+"Opioid receptor","Opioid receptor","Tonic - clonic seizures",1.6293799162325058,2,2
+"Opioid receptor","Opioid receptor","Tonic Seizures",1.6293799162325058,2,2
+"Opioid receptor","Opioid receptor","Vertiginous seizure",1.6293799162325058,2,2
+"Opioid receptor","Opioid receptor","Viral Encephalitis",1.6293799162325058,2,1
+"Opioid receptor","Opioid receptor","Visual seizure",1.6293799162325058,2,2
+"Opioid receptor","Opioid receptor","Withdrawal Symptoms",1.6293799162325058,2,3
+"Other protein kinase group","Other","Bone Diseases, Developmental",0.2477270405557258,0,3
+"Other protein kinase group","Other","COCOON SYNDROME",0.2477270405557258,0,1
+"Other protein kinase group","Other","Cleft Palate",0.2477270405557258,0,2
+"Other protein kinase group","Other","Cleft palate, isolated",0.2477270405557258,0,2
+"Other protein kinase group","Other","Direct Hyperbilirubinemia, Neonatal",0.2477270405557258,0,1
+"Other protein kinase group","Other","Embryopathies",0.2477270405557258,0,1
+"Other protein kinase group","Other","Fetal Diseases",0.2477270405557258,0,1
+"Other protein kinase group","Other","Hyperbilirubinemia, Neonatal",0.2477270405557258,0,1
+"Other protein kinase group","Other","Hypertensive disease",0.2477270405557258,0,4
+"Other protein kinase group","Other","IMMUNODEFICIENCY 15",0.2477270405557258,0,1
+"Other protein kinase group","Other","Indirect Hyperbilirubinemia, Neonatal",0.2477270405557258,0,1
+"Other protein kinase group","Other","Intellectual Disability",0.2477270405557258,0,19
+"Other protein kinase group","Other","Limb Deformities, Congenital",0.2477270405557258,0,2
+"Other protein kinase group","Other","Lymphoma, Non-Hodgkin",0.2477270405557258,0,1
+"Other protein kinase group","Other","Malignant neoplasm of breast",0.2477270405557258,0,17
+"Other protein kinase group","Other","Multiple congenital anomalies",0.2477270405557258,0,2
+"Other protein kinase group","Other","Skin Abnormalities",0.2477270405557258,0,2
+"PAF receptor","PAF","Liver Cirrhosis, Experimental",0.061293288384921846,0,11
+"PAF receptor","PAF","Polycystic Ovary Syndrome",0.061293288384921846,0,2
+"PAF receptor","PAF","Sclerocystic Ovaries",0.061293288384921846,0,2
+"Prostanoid receptor","Prostanoid receptor","Ankylosing spondylitis",0.2221881703953417,0,1
+"Prostanoid receptor","Prostanoid receptor","Arthritis, Adjuvant-Induced",0.2221881703953417,0,1
+"Prostanoid receptor","Prostanoid receptor","Arthritis, Collagen-Induced",0.2221881703953417,0,1
+"Prostanoid receptor","Prostanoid receptor","Arthritis, Experimental",0.2221881703953417,0,1
+"Prostanoid receptor","Prostanoid receptor","Asthma",0.2221881703953417,0,1
+"Prostanoid receptor","Prostanoid receptor","Asthma, Aspirin-Induced",0.2221881703953417,0,1
+"Prostanoid receptor","Prostanoid receptor","Chloracne",0.2221881703953417,0,2
+"Prostanoid receptor","Prostanoid receptor","Corpus Luteum Cyst",0.2221881703953417,0,1
+"Prostanoid receptor","Prostanoid receptor","Endometrioma",0.2221881703953417,0,1
+"Prostanoid receptor","Prostanoid receptor","Endometriosis",0.2221881703953417,0,1
+"Prostanoid receptor","Prostanoid receptor","Inflammation",0.2221881703953417,0,6
+"Prostanoid receptor","Prostanoid receptor","Lymphoma",0.2221881703953417,0,3
+"Prostanoid receptor","Prostanoid receptor","Ovarian Cysts",0.2221881703953417,0,1
+"Prostanoid receptor","Prostanoid receptor","Physiological Sexual Disorders",0.2221881703953417,0,1
+"Protein kinase regulatory subunit","Reg","ATYPICAL MYCOBACTERIOSIS, FAMILIAL, X-LINKED 1 (disorder)",0.0025538870160384105,0,1
+"Protein kinase regulatory subunit","Reg","Bloch Sulzberger syndrome",0.0025538870160384105,0,1
+"Protein kinase regulatory subunit","Reg","Ectodermal Dysplasia, Anhidrotic, with Immunodeficiency, Osteopetrosis, and Lymphedema",0.0025538870160384105,0,1
+"Protein kinase regulatory subunit","Reg","Ectodermal dysplasia, hypohidrotic, with immune deficiency",0.0025538870160384105,0,1
+"Protein kinase regulatory subunit","Reg","Epileptic encephalopathy",0.0025538870160384105,0,4
+"Protein kinase regulatory subunit","Reg","HYPER-IgM IMMUNODEFICIENCY, X-LINKED, WITH ECTODERMAL DYSPLASIA, HYPOHIDROTIC",0.0025538870160384105,0,1
+"Protein kinase regulatory subunit","Reg","INVASIVE PNEUMOCOCCAL DISEASE, RECURRENT ISOLATED, 2 (disorder)",0.0025538870160384105,0,1
+"Protein kinase regulatory subunit","Reg","Immunodeficiency without anhidrotic ectodermal dysplasia",0.0025538870160384105,0,1
+"Protein kinase regulatory subunit","Reg","Incontinentia Pigmenti Achromians",0.0025538870160384105,0,1
+"Protein kinase regulatory subunit","Reg","Incontinentia pigmenti, familial male-lethal type",0.0025538870160384105,0,1
+"Protein kinase regulatory subunit","Reg","Intellectual Disability",0.0025538870160384105,0,19
+"Protein kinase regulatory subunit","Reg","Lung Neoplasms",0.0025538870160384105,0,8
+"Protein kinase regulatory subunit","Reg","Lymphatic Diseases",0.0025538870160384105,0,1
+"Protein kinase regulatory subunit","Reg","Malignant neoplasm of lung",0.0025538870160384105,0,8
+"Protein kinase regulatory subunit","Reg","Non-alcoholic Fatty Liver Disease",0.0025538870160384105,0,2
+"Protein kinase regulatory subunit","Reg","Nonalcoholic Steatohepatitis",0.0025538870160384105,0,2
+"STE protein kinase MST subfamily","Mst","T-CELL IMMUNODEFICIENCY, RECURRENT INFECTIONS, AND AUTOIMMUNITY WITH OR WITHOUT CARDIAC MALFORMATIONS",0.012769435080192054,0,1
+"STE protein kinase PAKA subfamily","Paka","Adenocarcinoma of large intestine",0.007661661048115231,0,11
+"STE protein kinase PAKA subfamily","Paka","Breast Carcinoma",0.007661661048115231,0,14
+"STE protein kinase PAKA subfamily","Paka","Chromophobe Renal Cell Carcinoma",0.007661661048115231,0,2
+"STE protein kinase PAKA subfamily","Paka","Collecting Duct Carcinoma of the Kidney",0.007661661048115231,0,2
+"STE protein kinase PAKA subfamily","Paka","Conventional (Clear Cell) Renal Cell Carcinoma",0.007661661048115231,0,3
+"STE protein kinase PAKA subfamily","Paka","Cutaneous Melanoma",0.007661661048115231,0,5
+"STE protein kinase PAKA subfamily","Paka","Intellectual Disability",0.007661661048115231,0,19
+"STE protein kinase PAKA subfamily","Paka","Malignant neoplasm of breast",0.007661661048115231,0,17
+"STE protein kinase PAKA subfamily","Paka","Mammary Neoplasms",0.007661661048115231,0,14
+"STE protein kinase PAKA subfamily","Paka","Mammary Neoplasms, Human",0.007661661048115231,0,13
+"STE protein kinase PAKA subfamily","Paka","Mental Retardation, X-Linked 1",0.007661661048115231,0,2
+"STE protein kinase PAKA subfamily","Paka","Mental Retardation, X-Linked 30",0.007661661048115231,0,1
+"STE protein kinase PAKA subfamily","Paka","Mental Retardation, X-Linked 47",0.007661661048115231,0,1
+"STE protein kinase PAKA subfamily","Paka","Papillary Renal Cell Carcinoma",0.007661661048115231,0,2
+"STE protein kinase PAKA subfamily","Paka","Proteinuria",0.007661661048115231,0,1
+"STE protein kinase PAKA subfamily","Paka","Renal Cell Carcinoma",0.007661661048115231,0,2
+"STE protein kinase PAKA subfamily","Paka","Sarcomatoid Renal Cell Carcinoma",0.007661661048115231,0,2
+"STE protein kinase PAKA subfamily","Paka","melanoma",0.007661661048115231,0,9
+"STE protein kinase STE11 family","Ste11","Alloxan Diabetes",0.045969966288691384,0,4
+"STE protein kinase STE11 family","Ste11","Cardiomyopathies",0.045969966288691384,0,6
+"STE protein kinase STE11 family","Ste11","Cardiomyopathies, Primary",0.045969966288691384,0,6
+"STE protein kinase STE11 family","Ste11","Chemical and Drug Induced Liver Injury",0.045969966288691384,0,6
+"STE protein kinase STE11 family","Ste11","Chemically-Induced Liver Toxicity",0.045969966288691384,0,6
+"STE protein kinase STE11 family","Ste11","Diabetes Mellitus",0.045969966288691384,0,1
+"STE protein kinase STE11 family","Ste11","Diabetes Mellitus, Experimental",0.045969966288691384,0,4
+"STE protein kinase STE11 family","Ste11","Drug-Induced Acute Liver Injury",0.045969966288691384,0,6
+"STE protein kinase STE11 family","Ste11","Drug-Induced Liver Disease",0.045969966288691384,0,6
+"STE protein kinase STE11 family","Ste11","Hepatitis, Drug-Induced",0.045969966288691384,0,6
+"STE protein kinase STE11 family","Ste11","Hepatitis, Toxic",0.045969966288691384,0,6
+"STE protein kinase STE11 family","Ste11","Liver Cirrhosis, Experimental",0.045969966288691384,0,11
+"STE protein kinase STE11 family","Ste11","Lung Neoplasms",0.045969966288691384,0,8
+"STE protein kinase STE11 family","Ste11","Malignant neoplasm of lung",0.045969966288691384,0,8
+"STE protein kinase STE11 family","Ste11","Myocardial Diseases, Secondary",0.045969966288691384,0,6
+"STE protein kinase STE11 family","Ste11","Myocardial Ischemia",0.045969966288691384,0,6
+"STE protein kinase STE11 family","Ste11","Parkinson Disease",0.045969966288691384,0,3
+"STE protein kinase STE11 family","Ste11","Streptozotocin Diabetes",0.045969966288691384,0,4
+"STE protein kinase STE11 family","Ste11","melanoma",0.045969966288691384,0,9
+"STE protein kinase STE7 family","Ste7","Adenocarcinoma of large intestine",0.05873940136888344,0,11
+"STE protein kinase STE7 family","Ste7","Adenocarcinoma of lung (disorder)",0.05873940136888344,0,8
+"STE protein kinase STE7 family","Ste7","Brain Ischemia",0.05873940136888344,0,3
+"STE protein kinase STE7 family","Ste7","CARDIOFACIOCUTANEOUS SYNDROME 3",0.05873940136888344,0,1
+"STE protein kinase STE7 family","Ste7","Cardio-facio-cutaneous syndrome",0.05873940136888344,0,1
+"STE protein kinase STE7 family","Ste7","Cerebral Ischemia",0.05873940136888344,0,3
+"STE protein kinase STE7 family","Ste7","Charcot-Marie-Tooth Disease",0.05873940136888344,0,3
+"STE protein kinase STE7 family","Ste7","Costello syndrome (disorder)",0.05873940136888344,0,1
+"STE protein kinase STE7 family","Ste7","Cutaneous Melanoma",0.05873940136888344,0,5
+"STE protein kinase STE7 family","Ste7","Depressive Disorder, Treatment-Resistant",0.05873940136888344,0,1
+"STE protein kinase STE7 family","Ste7","Epileptic encephalopathy",0.05873940136888344,0,4
+"STE protein kinase STE7 family","Ste7","Female Pseudo-Turner Syndrome",0.05873940136888344,0,3
+"STE protein kinase STE7 family","Ste7","Hairy Cell Leukemia",0.05873940136888344,0,1
+"STE protein kinase STE7 family","Ste7","Hydrops Fetalis",0.05873940136888344,0,2
+"STE protein kinase STE7 family","Ste7","Hypertrophic Cardiomyopathy",0.05873940136888344,0,2
+"STE protein kinase STE7 family","Ste7","Intellectual Disability",0.05873940136888344,0,19
+"STE protein kinase STE7 family","Ste7","MYOPATHY, CONGENITAL, WITH EXCESS OF MUSCLE SPINDLES",0.05873940136888344,0,1
+"STE protein kinase STE7 family","Ste7","Major Depressive Disorder",0.05873940136888344,0,6
+"STE protein kinase STE7 family","Ste7","Malignant Neoplasms",0.05873940136888344,0,6
+"STE protein kinase STE7 family","Ste7","Malignant neoplasm of ovary",0.05873940136888344,0,3
+"STE protein kinase STE7 family","Ste7","Neoplasm of uncertain or unknown behavior of ovary",0.05873940136888344,0,2
+"STE protein kinase STE7 family","Ste7","Neurofibromatosis 1",0.05873940136888344,0,2
+"STE protein kinase STE7 family","Ste7","Non-Small Cell Lung Carcinoma",0.05873940136888344,0,6
+"STE protein kinase STE7 family","Ste7","Noonan Syndrome",0.05873940136888344,0,3
+"STE protein kinase STE7 family","Ste7","Ovarian Carcinoma",0.05873940136888344,0,2
+"STE protein kinase STE7 family","Ste7","Turner Syndrome, Male",0.05873940136888344,0,3
+"STE protein kinase STE7 family","Ste7","Unipolar Depression",0.05873940136888344,0,7
+"STE protein kinase STE7 family","Ste7","melanoma",0.05873940136888344,0,9
+"STE protein kinase STE7 family","Ste7","ovarian neoplasm",0.05873940136888344,0,3
+"TKL protein kinase LIMK subfamily","Limk","Intellectual Disability",0.005107774032076821,0,19
+"TKL protein kinase LIMK subfamily","Limk","Williams Syndrome",0.005107774032076821,0,1
+"TKL protein kinase RAF family","Raf","Adenocarcinoma of lung (disorder)",0.028092757176422515,0,8
+"TKL protein kinase RAF family","Raf","Allodynia",0.028092757176422515,0,8
+"TKL protein kinase RAF family","Raf","Breast Carcinoma",0.028092757176422515,0,14
+"TKL protein kinase RAF family","Raf","CARDIOMYOPATHY, DILATED, 1NN",0.028092757176422515,0,1
+"TKL protein kinase RAF family","Raf","Cardiomyopathy, Dilated",0.028092757176422515,0,1
+"TKL protein kinase RAF family","Raf","Cardiomyopathy, Familial Idiopathic",0.028092757176422515,0,1
+"TKL protein kinase RAF family","Raf","Charcot-Marie-Tooth Disease",0.028092757176422515,0,3
+"TKL protein kinase RAF family","Raf","Cutaneous Melanoma",0.028092757176422515,0,5
+"TKL protein kinase RAF family","Raf","Familial dilated cardiomyopathy",0.028092757176422515,0,1
+"TKL protein kinase RAF family","Raf","Female Pseudo-Turner Syndrome",0.028092757176422515,0,3
+"TKL protein kinase RAF family","Raf","Glioma",0.028092757176422515,0,3
+"TKL protein kinase RAF family","Raf","Hydrops Fetalis",0.028092757176422515,0,2
+"TKL protein kinase RAF family","Raf","Hyperalgesia",0.028092757176422515,0,8
+"TKL protein kinase RAF family","Raf","Hyperalgesia, Primary",0.028092757176422515,0,8
+"TKL protein kinase RAF family","Raf","Hyperalgesia, Secondary",0.028092757176422515,0,8
+"TKL protein kinase RAF family","Raf","Hyperalgesia, Thermal",0.028092757176422515,0,8
+"TKL protein kinase RAF family","Raf","Hypertrophic Cardiomyopathy",0.028092757176422515,0,2
+"TKL protein kinase RAF family","Raf","Intellectual Disability",0.028092757176422515,0,19
+"TKL protein kinase RAF family","Raf","Kidney Neoplasm",0.028092757176422515,0,2
+"TKL protein kinase RAF family","Raf","LEOPARD SYNDROME 2",0.028092757176422515,0,1
+"TKL protein kinase RAF family","Raf","LEOPARD Syndrome",0.028092757176422515,0,2
+"TKL protein kinase RAF family","Raf","Liver neoplasms",0.028092757176422515,0,6
+"TKL protein kinase RAF family","Raf","Lung Neoplasms",0.028092757176422515,0,8
+"TKL protein kinase RAF family","Raf","Malignant Glioma",0.028092757176422515,0,3
+"TKL protein kinase RAF family","Raf","Malignant mesothelioma",0.028092757176422515,0,3
+"TKL protein kinase RAF family","Raf","Malignant neoplasm of breast",0.028092757176422515,0,17
+"TKL protein kinase RAF family","Raf","Malignant neoplasm of kidney",0.028092757176422515,0,2
+"TKL protein kinase RAF family","Raf","Malignant neoplasm of liver",0.028092757176422515,0,6
+"TKL protein kinase RAF family","Raf","Malignant neoplasm of lung",0.028092757176422515,0,8
+"TKL protein kinase RAF family","Raf","Mammary Neoplasms",0.028092757176422515,0,14
+"TKL protein kinase RAF family","Raf","Mammary Neoplasms, Human",0.028092757176422515,0,13
+"TKL protein kinase RAF family","Raf","Mechanical Allodynia",0.028092757176422515,0,8
+"TKL protein kinase RAF family","Raf","Neurofibromatosis 1",0.028092757176422515,0,2
+"TKL protein kinase RAF family","Raf","Non-Small Cell Lung Carcinoma",0.028092757176422515,0,6
+"TKL protein kinase RAF family","Raf","Noonan Syndrome",0.028092757176422515,0,3
+"TKL protein kinase RAF family","Raf","Noonan Syndrome 5",0.028092757176422515,0,1
+"TKL protein kinase RAF family","Raf","Osteogenesis Imperfecta",0.028092757176422515,0,5
+"TKL protein kinase RAF family","Raf","Ovarian Serous Adenocarcinoma",0.028092757176422515,0,5
+"TKL protein kinase RAF family","Raf","Pilocytic Astrocytoma",0.028092757176422515,0,1
+"TKL protein kinase RAF family","Raf","Tactile Allodynia",0.028092757176422515,0,8
+"TKL protein kinase RAF family","Raf","Turner Syndrome, Male",0.028092757176422515,0,3
+"TKL protein kinase RAF family","Raf","melanoma",0.028092757176422515,0,9
+"TKL protein kinase RAF family","Raf","mixed gliomas",0.028092757176422515,0,3
+"TKL protein kinase RIPK family","Ripk","Ulcerative Colitis",0.022984983144345692,0,3
+"TKL protein kinase STKR Type 1 subfamily","Type1","Abortion, Tubal",0.045969966288691384,0,2
+"TKL protein kinase STKR Type 1 subfamily","Type1","Aneurysm, Dissecting",0.045969966288691384,0,2
+"TKL protein kinase STKR Type 1 subfamily","Type1","Aortic Aneurysm, Thoracic",0.045969966288691384,0,2
+"TKL protein kinase STKR Type 1 subfamily","Type1","Arthrogryposis",0.045969966288691384,0,3
+"TKL protein kinase STKR Type 1 subfamily","Type1","Cerebrovascular Disorders",0.045969966288691384,0,3
+"TKL protein kinase STKR Type 1 subfamily","Type1","Chemical and Drug Induced Liver Injury",0.045969966288691384,0,6
+"TKL protein kinase STKR Type 1 subfamily","Type1","Chemically-Induced Liver Toxicity",0.045969966288691384,0,6
+"TKL protein kinase STKR Type 1 subfamily","Type1","Colorectal Cancer",0.045969966288691384,0,8
+"TKL protein kinase STKR Type 1 subfamily","Type1","Colorectal Carcinoma",0.045969966288691384,0,6
+"TKL protein kinase STKR Type 1 subfamily","Type1","Colorectal Neoplasms",0.045969966288691384,0,6
+"TKL protein kinase STKR Type 1 subfamily","Type1","Congenital aneurysm of ascending aorta",0.045969966288691384,0,2
+"TKL protein kinase STKR Type 1 subfamily","Type1","Craniosynostosis",0.045969966288691384,0,3
+"TKL protein kinase STKR Type 1 subfamily","Type1","Dissection of aorta",0.045969966288691384,0,2
+"TKL protein kinase STKR Type 1 subfamily","Type1","Dissection, Blood Vessel",0.045969966288691384,0,2
+"TKL protein kinase STKR Type 1 subfamily","Type1","Drug-Induced Acute Liver Injury",0.045969966288691384,0,6
+"TKL protein kinase STKR Type 1 subfamily","Type1","Drug-Induced Liver Disease",0.045969966288691384,0,6
+"TKL protein kinase STKR Type 1 subfamily","Type1","Ehlers-Danlos Syndrome",0.045969966288691384,0,2
+"TKL protein kinase STKR Type 1 subfamily","Type1","Fibrosis, Liver",0.045969966288691384,0,4
+"TKL protein kinase STKR Type 1 subfamily","Type1","Furlong syndrome",0.045969966288691384,0,1
+"TKL protein kinase STKR Type 1 subfamily","Type1","Hepatitis, Drug-Induced",0.045969966288691384,0,6
+"TKL protein kinase STKR Type 1 subfamily","Type1","Hepatitis, Toxic",0.045969966288691384,0,6
+"TKL protein kinase STKR Type 1 subfamily","Type1","Intellectual Disability",0.045969966288691384,0,19
+"TKL protein kinase STKR Type 1 subfamily","Type1","LOEYS-DIETZ SYNDROME, TYPE 2A (disorder)",0.045969966288691384,0,1
+"TKL protein kinase STKR Type 1 subfamily","Type1","Liver Cirrhosis",0.045969966288691384,0,4
+"TKL protein kinase STKR Type 1 subfamily","Type1","Loeys-Dietz Aortic Aneurysm Syndrome",0.045969966288691384,0,2
+"TKL protein kinase STKR Type 1 subfamily","Type1","Loeys-Dietz Syndrome",0.045969966288691384,0,2
+"TKL protein kinase STKR Type 1 subfamily","Type1","MULTIPLE SELF-HEALING SQUAMOUS EPITHELIOMA, SUSCEPTIBILITY TO",0.045969966288691384,0,1
+"TKL protein kinase STKR Type 1 subfamily","Type1","Malignant neoplasm of skin",0.045969966288691384,0,5
+"TKL protein kinase STKR Type 1 subfamily","Type1","Marfan Syndrome",0.045969966288691384,0,2
+"TKL protein kinase STKR Type 1 subfamily","Type1","Multiple self-healing squamous epithelioma",0.045969966288691384,0,1
+"TKL protein kinase STKR Type 1 subfamily","Type1","Skin Neoplasms",0.045969966288691384,0,5
+"TKL protein kinase STKR Type 1 subfamily","Type1","Spontaneous abortion",0.045969966288691384,0,2
+"TKL protein kinase STKR Type 1 subfamily","Type1","Uremia",0.045969966288691384,0,2
+"TKL protein kinase STKR Type 2 subfamily","Type2","AERODIGESTIVE TRACT CANCER, SUSCEPTIBILITY TO",0.007661661048115231,0,1
+"TKL protein kinase STKR Type 2 subfamily","Type2","Abdominal Migraine",0.007661661048115231,0,1
+"TKL protein kinase STKR Type 2 subfamily","Type2","Acute Confusional Migraine",0.007661661048115231,0,1
+"TKL protein kinase STKR Type 2 subfamily","Type2","Anaplastic carcinoma",0.007661661048115231,0,2
+"TKL protein kinase STKR Type 2 subfamily","Type2","Aneurysm, Dissecting",0.007661661048115231,0,2
+"TKL protein kinase STKR Type 2 subfamily","Type2","Aortic Aneurysm",0.007661661048115231,0,1
+"TKL protein kinase STKR Type 2 subfamily","Type2","Aortic Aneurysm, Thoracic",0.007661661048115231,0,2
+"TKL protein kinase STKR Type 2 subfamily","Type2","Aortic Aneurysm, Thoracoabdominal",0.007661661048115231,0,1
+"TKL protein kinase STKR Type 2 subfamily","Type2","Aortic aneurysm, familial thoracic 3",0.007661661048115231,0,1
+"TKL protein kinase STKR Type 2 subfamily","Type2","Arthrogryposis",0.007661661048115231,0,3
+"TKL protein kinase STKR Type 2 subfamily","Type2","Benign neoplasm of brain, unspecified",0.007661661048115231,0,1
+"TKL protein kinase STKR Type 2 subfamily","Type2","Benign neoplasm of esophagus",0.007661661048115231,0,1
+"TKL protein kinase STKR Type 2 subfamily","Type2","Bone Diseases",0.007661661048115231,0,1
+"TKL protein kinase STKR Type 2 subfamily","Type2","Bone neoplasms",0.007661661048115231,0,1
+"TKL protein kinase STKR Type 2 subfamily","Type2","Brain Neoplasms",0.007661661048115231,0,1
+"TKL protein kinase STKR Type 2 subfamily","Type2","Brain Tumor, Primary",0.007661661048115231,0,1
+"TKL protein kinase STKR Type 2 subfamily","Type2","COLORECTAL CANCER, HEREDITARY NONPOLYPOSIS, TYPE 6",0.007661661048115231,0,1
+"TKL protein kinase STKR Type 2 subfamily","Type2","Carcinoma",0.007661661048115231,0,2
+"TKL protein kinase STKR Type 2 subfamily","Type2","Carcinoma in situ of esophagus",0.007661661048115231,0,1
+"TKL protein kinase STKR Type 2 subfamily","Type2","Carcinoma, Spindle-Cell",0.007661661048115231,0,2
+"TKL protein kinase STKR Type 2 subfamily","Type2","Carcinomatosis",0.007661661048115231,0,2
+"TKL protein kinase STKR Type 2 subfamily","Type2","Cerebrovascular Disorders",0.007661661048115231,0,3
+"TKL protein kinase STKR Type 2 subfamily","Type2","Cervical Migraine Syndrome",0.007661661048115231,0,1
+"TKL protein kinase STKR Type 2 subfamily","Type2","Colon Carcinoma",0.007661661048115231,0,2
+"TKL protein kinase STKR Type 2 subfamily","Type2","Colonic Neoplasms",0.007661661048115231,0,2
+"TKL protein kinase STKR Type 2 subfamily","Type2","Colorectal Cancer",0.007661661048115231,0,8
+"TKL protein kinase STKR Type 2 subfamily","Type2","Congenital aneurysm of ascending aorta",0.007661661048115231,0,2
+"TKL protein kinase STKR Type 2 subfamily","Type2","Craniofacial Abnormalities",0.007661661048115231,0,2
+"TKL protein kinase STKR Type 2 subfamily","Type2","Craniosynostosis",0.007661661048115231,0,3
+"TKL protein kinase STKR Type 2 subfamily","Type2","Diabetic Nephropathy",0.007661661048115231,0,3
+"TKL protein kinase STKR Type 2 subfamily","Type2","Dissection of aorta",0.007661661048115231,0,2
+"TKL protein kinase STKR Type 2 subfamily","Type2","Dissection, Blood Vessel",0.007661661048115231,0,2
+"TKL protein kinase STKR Type 2 subfamily","Type2","ESCC, SUSCEPTIBILITY TO",0.007661661048115231,0,1
+"TKL protein kinase STKR Type 2 subfamily","Type2","Ehlers-Danlos Syndrome",0.007661661048115231,0,2
+"TKL protein kinase STKR Type 2 subfamily","Type2","Esophageal Neoplasms",0.007661661048115231,0,3
+"TKL protein kinase STKR Type 2 subfamily","Type2","Esophageal carcinoma",0.007661661048115231,0,1
+"TKL protein kinase STKR Type 2 subfamily","Type2","Eye Abnormalities",0.007661661048115231,0,1
+"TKL protein kinase STKR Type 2 subfamily","Type2","Fatigue",0.007661661048115231,0,1
+"TKL protein kinase STKR Type 2 subfamily","Type2","Fracture",0.007661661048115231,0,1
+"TKL protein kinase STKR Type 2 subfamily","Type2","Fracture, spiral",0.007661661048115231,0,1
+"TKL protein kinase STKR Type 2 subfamily","Type2","GASTRIC CARDIA ADENOCARCINOMA, SUSCEPTIBILITY TO",0.007661661048115231,0,1
+"TKL protein kinase STKR Type 2 subfamily","Type2","Gastric Adenocarcinoma",0.007661661048115231,0,6
+"TKL protein kinase STKR Type 2 subfamily","Type2","Gastrointestinal Stromal Sarcoma",0.007661661048115231,0,2
+"TKL protein kinase STKR Type 2 subfamily","Type2","Gastrointestinal Stromal Tumors",0.007661661048115231,0,2
+"TKL protein kinase STKR Type 2 subfamily","Type2","Hemicrania migraine",0.007661661048115231,0,1
+"TKL protein kinase STKR Type 2 subfamily","Type2","Hereditary Nonpolyposis Colorectal Cancer",0.007661661048115231,0,1
+"TKL protein kinase STKR Type 2 subfamily","Type2","Hereditary Nonpolyposis Colorectal Neoplasms",0.007661661048115231,0,1
+"TKL protein kinase STKR Type 2 subfamily","Type2","Hereditary non-polyposis colorectal cancer syndrome",0.007661661048115231,0,1
+"TKL protein kinase STKR Type 2 subfamily","Type2","Hernia, Inguinal",0.007661661048115231,0,1
+"TKL protein kinase STKR Type 2 subfamily","Type2","Inguinal Hernia, Direct",0.007661661048115231,0,1
+"TKL protein kinase STKR Type 2 subfamily","Type2","Inguinal Hernia, Indirect",0.007661661048115231,0,1
+"TKL protein kinase STKR Type 2 subfamily","Type2","Intellectual Disability",0.007661661048115231,0,19
+"TKL protein kinase STKR Type 2 subfamily","Type2","Lassitude",0.007661661048115231,0,1
+"TKL protein kinase STKR Type 2 subfamily","Type2","Liver Cirrhosis, Experimental",0.007661661048115231,0,11
+"TKL protein kinase STKR Type 2 subfamily","Type2","Loeys-Dietz Aortic Aneurysm Syndrome",0.007661661048115231,0,2
+"TKL protein kinase STKR Type 2 subfamily","Type2","Loeys-Dietz Syndrome",0.007661661048115231,0,2
+"TKL protein kinase STKR Type 2 subfamily","Type2","Lung Neoplasms",0.007661661048115231,0,8
+"TKL protein kinase STKR Type 2 subfamily","Type2","Malignant Bone Neoplasm",0.007661661048115231,0,1
+"TKL protein kinase STKR Type 2 subfamily","Type2","Malignant neoplasm of brain",0.007661661048115231,0,1
+"TKL protein kinase STKR Type 2 subfamily","Type2","Malignant neoplasm of esophagus",0.007661661048115231,0,3
+"TKL protein kinase STKR Type 2 subfamily","Type2","Malignant neoplasm of lung",0.007661661048115231,0,8
+"TKL protein kinase STKR Type 2 subfamily","Type2","Malignant neoplasm of prostate",0.007661661048115231,0,5
+"TKL protein kinase STKR Type 2 subfamily","Type2","Malignant tumor of colon",0.007661661048115231,0,2
+"TKL protein kinase STKR Type 2 subfamily","Type2","Mammary Neoplasms",0.007661661048115231,0,14
+"TKL protein kinase STKR Type 2 subfamily","Type2","Marfan Syndrome",0.007661661048115231,0,2
+"TKL protein kinase STKR Type 2 subfamily","Type2","Marfan Syndrome type 2",0.007661661048115231,0,1
+"TKL protein kinase STKR Type 2 subfamily","Type2","Microsatellite Instability",0.007661661048115231,0,1
+"TKL protein kinase STKR Type 2 subfamily","Type2","Migraine Disorders",0.007661661048115231,0,1
+"TKL protein kinase STKR Type 2 subfamily","Type2","Migraine Variant",0.007661661048115231,0,1
+"TKL protein kinase STKR Type 2 subfamily","Type2","Neoplasm Metastasis",0.007661661048115231,0,7
+"TKL protein kinase STKR Type 2 subfamily","Type2","Neoplasms, Intracranial",0.007661661048115231,0,1
+"TKL protein kinase STKR Type 2 subfamily","Type2","Nodular glomerulosclerosis",0.007661661048115231,0,3
+"TKL protein kinase STKR Type 2 subfamily","Type2","Primary malignant neoplasm of brain",0.007661661048115231,0,1
+"TKL protein kinase STKR Type 2 subfamily","Type2","Prostatic Neoplasms",0.007661661048115231,0,5
+"TKL protein kinase STKR Type 2 subfamily","Type2","Recurrent Brain Neoplasm",0.007661661048115231,0,1
+"TKL protein kinase STKR Type 2 subfamily","Type2","Replication Error Phenotype",0.007661661048115231,0,1
+"TKL protein kinase STKR Type 2 subfamily","Type2","Sick Headaches",0.007661661048115231,0,1
+"TKL protein kinase STKR Type 2 subfamily","Type2","Squamous cell carcinoma of esophagus",0.007661661048115231,0,1
+"TKL protein kinase STKR Type 2 subfamily","Type2","Status Migrainosus",0.007661661048115231,0,1
+"TKL protein kinase STKR Type 2 subfamily","Type2","Undifferentiated carcinoma",0.007661661048115231,0,2
+"Tyrosine protein kinase Abl family","Abl","Adenocarcinoma",0.03830830524057616,1,2
+"Tyrosine protein kinase Abl family","Abl","Adenocarcinoma, Basal Cell",0.03830830524057616,1,2
+"Tyrosine protein kinase Abl family","Abl","Adenocarcinoma, Oxyphilic",0.03830830524057616,1,2
+"Tyrosine protein kinase Abl family","Abl","Adenocarcinoma, Tubular",0.03830830524057616,1,2
+"Tyrosine protein kinase Abl family","Abl","Bone Diseases, Developmental",0.03830830524057616,1,3
+"Tyrosine protein kinase Abl family","Abl","Breast Carcinoma",0.03830830524057616,1,14
+"Tyrosine protein kinase Abl family","Abl","Burkitt Lymphoma",0.03830830524057616,1,2
+"Tyrosine protein kinase Abl family","Abl","CONGENITAL HEART DEFECTS AND SKELETAL MALFORMATIONS SYNDROME",0.03830830524057616,1,1
+"Tyrosine protein kinase Abl family","Abl","Carcinogenesis",0.03830830524057616,1,1
+"Tyrosine protein kinase Abl family","Abl","Carcinoma, Cribriform",0.03830830524057616,1,2
+"Tyrosine protein kinase Abl family","Abl","Carcinoma, Granular Cell",0.03830830524057616,1,2
+"Tyrosine protein kinase Abl family","Abl","Childhood Acute Lymphoblastic Leukemia",0.03830830524057616,1,4
+"Tyrosine protein kinase Abl family","Abl","Condition, Preneoplastic",0.03830830524057616,1,3
+"Tyrosine protein kinase Abl family","Abl","Congenital Heart Defects",0.03830830524057616,1,1
+"Tyrosine protein kinase Abl family","Abl","Congenital anemia",0.03830830524057616,1,4
+"Tyrosine protein kinase Abl family","Abl","Congenital musculoskeletal anomalies",0.03830830524057616,1,1
+"Tyrosine protein kinase Abl family","Abl","Cytopenia",0.03830830524057616,1,4
+"Tyrosine protein kinase Abl family","Abl","Esophageal Neoplasms",0.03830830524057616,1,3
+"Tyrosine protein kinase Abl family","Abl","Failure to Thrive",0.03830830524057616,1,1
+"Tyrosine protein kinase Abl family","Abl","Large cell carcinoma of lung",0.03830830524057616,1,2
+"Tyrosine protein kinase Abl family","Abl","Leukemia, Lymphocytic, Acute, L2",0.03830830524057616,1,4
+"Tyrosine protein kinase Abl family","Abl","Liver neoplasms",0.03830830524057616,1,6
+"Tyrosine protein kinase Abl family","Abl","Malignant neoplasm of breast",0.03830830524057616,1,17
+"Tyrosine protein kinase Abl family","Abl","Malignant neoplasm of esophagus",0.03830830524057616,1,3
+"Tyrosine protein kinase Abl family","Abl","Malignant neoplasm of liver",0.03830830524057616,1,6
+"Tyrosine protein kinase Abl family","Abl","Mammary Neoplasms",0.03830830524057616,1,14
+"Tyrosine protein kinase Abl family","Abl","Mammary Neoplasms, Human",0.03830830524057616,1,13
+"Tyrosine protein kinase Abl family","Abl","Myeloid Leukemia, Chronic",0.03830830524057616,1,3
+"Tyrosine protein kinase Abl family","Abl","Neoplasms, Experimental",0.03830830524057616,1,2
+"Tyrosine protein kinase Abl family","Abl","Precancerous Conditions",0.03830830524057616,1,3
+"Tyrosine protein kinase Abl family","Abl","Precursor B-cell lymphoblastic leukemia",0.03830830524057616,1,2
+"Tyrosine protein kinase Abl family","Abl","Precursor Cell Lymphoblastic Leukemia Lymphoma",0.03830830524057616,1,5
+"Tyrosine protein kinase Abl family","Abl","Precursor T-Cell Lymphoblastic Leukemia-Lymphoma",0.03830830524057616,1,3
+"Tyrosine protein kinase Abl family","Abl","melanoma",0.03830830524057616,1,9
+"Tyrosine protein kinase Ack family","Ack","Adenocarcinoma of lung (disorder)",0.007661661048115231,0,8
+"Tyrosine protein kinase Ack family","Ack","Condition, Preneoplastic",0.007661661048115231,0,3
+"Tyrosine protein kinase Ack family","Ack","Endometrioid carcinoma ovary",0.007661661048115231,0,2
+"Tyrosine protein kinase Ack family","Ack","Epileptic encephalopathy",0.007661661048115231,0,4
+"Tyrosine protein kinase Ack family","Ack","Gastric Adenocarcinoma",0.007661661048115231,0,6
+"Tyrosine protein kinase Ack family","Ack","Liver neoplasms",0.007661661048115231,0,6
+"Tyrosine protein kinase Ack family","Ack","Malignant neoplasm of liver",0.007661661048115231,0,6
+"Tyrosine protein kinase Ack family","Ack","Ovarian Mucinous Adenocarcinoma",0.007661661048115231,0,3
+"Tyrosine protein kinase Ack family","Ack","Precancerous Conditions",0.007661661048115231,0,3
+"Tyrosine protein kinase Csk family","Csk","Allodynia",0.015323322096230461,0,8
+"Tyrosine protein kinase Csk family","Csk","Hyperalgesia",0.015323322096230461,0,8
+"Tyrosine protein kinase Csk family","Csk","Hyperalgesia, Primary",0.015323322096230461,0,8
+"Tyrosine protein kinase Csk family","Csk","Hyperalgesia, Secondary",0.015323322096230461,0,8
+"Tyrosine protein kinase Csk family","Csk","Hyperalgesia, Thermal",0.015323322096230461,0,8
+"Tyrosine protein kinase Csk family","Csk","Libman-Sacks Disease",0.015323322096230461,0,2
+"Tyrosine protein kinase Csk family","Csk","Lupus Erythematosus, Systemic",0.015323322096230461,0,2
+"Tyrosine protein kinase Csk family","Csk","Mechanical Allodynia",0.015323322096230461,0,8
+"Tyrosine protein kinase Csk family","Csk","Tactile Allodynia",0.015323322096230461,0,8
+"Tyrosine protein kinase Eph family","Eph","Benign Neoplasm",0.03830830524057616,0,2
+"Tyrosine protein kinase Eph family","Eph","CATARACT, POSTERIOR POLAR, 1",0.03830830524057616,0,1
+"Tyrosine protein kinase Eph family","Eph","Cataract",0.03830830524057616,0,1
+"Tyrosine protein kinase Eph family","Eph","Congenital total cataract",0.03830830524057616,0,1
+"Tyrosine protein kinase Eph family","Eph","Disease Exacerbation",0.03830830524057616,0,2
+"Tyrosine protein kinase Eph family","Eph","Female Pseudo-Turner Syndrome",0.03830830524057616,0,3
+"Tyrosine protein kinase Eph family","Eph","Gastric Adenocarcinoma",0.03830830524057616,0,6
+"Tyrosine protein kinase Eph family","Eph","LEOPARD Syndrome",0.03830830524057616,0,2
+"Tyrosine protein kinase Eph family","Eph","Malignant Neoplasms",0.03830830524057616,0,6
+"Tyrosine protein kinase Eph family","Eph","Neoplasms",0.03830830524057616,0,2
+"Tyrosine protein kinase Eph family","Eph","Noonan Syndrome",0.03830830524057616,0,3
+"Tyrosine protein kinase Eph family","Eph","Nuclear cataract",0.03830830524057616,0,1
+"Tyrosine protein kinase Eph family","Eph","Nuclear non-senile cataract",0.03830830524057616,0,1
+"Tyrosine protein kinase Eph family","Eph","Posterior subcapsular cataract",0.03830830524057616,0,1
+"Tyrosine protein kinase Eph family","Eph","Squamous cell carcinoma of lung",0.03830830524057616,0,6
+"Tyrosine protein kinase Eph family","Eph","Turner Syndrome, Male",0.03830830524057616,0,3
+"Tyrosine protein kinase Eph family","Eph","Undifferentiated carcinoma of ovary",0.03830830524057616,0,1
+"Tyrosine protein kinase FGFR family","Fgfr","Acrocephalosyndactylia",0.012769435080192054,0,1
+"Tyrosine protein kinase FGFR family","Fgfr","Acrocephaly",0.012769435080192054,0,1
+"Tyrosine protein kinase FGFR family","Fgfr","Adenocarcinoma of lung (disorder)",0.012769435080192054,0,8
+"Tyrosine protein kinase FGFR family","Fgfr","Ankylosis",0.012769435080192054,0,1
+"Tyrosine protein kinase FGFR family","Fgfr","Antley-Bixler Syndrome Phenotype",0.012769435080192054,0,1
+"Tyrosine protein kinase FGFR family","Fgfr","Antley-Bixler Syndrome with Disordered Steroidogenesis",0.012769435080192054,0,1
+"Tyrosine protein kinase FGFR family","Fgfr","Antley-Bixler Syndrome, Autosomal Dominant",0.012769435080192054,0,1
+"Tyrosine protein kinase FGFR family","Fgfr","Apert syndrome",0.012769435080192054,0,1
+"Tyrosine protein kinase FGFR family","Fgfr","Apert-Crouzon Disease",0.012769435080192054,0,1
+"Tyrosine protein kinase FGFR family","Fgfr","Arthrogryposis",0.012769435080192054,0,3
+"Tyrosine protein kinase FGFR family","Fgfr","BENT BONE DYSPLASIA SYNDROME",0.012769435080192054,0,1
+"Tyrosine protein kinase FGFR family","Fgfr","Bannayan-Riley-Ruvalcaba Syndrome",0.012769435080192054,0,1
+"Tyrosine protein kinase FGFR family","Fgfr","Benign neoplasm of stomach",0.012769435080192054,0,1
+"Tyrosine protein kinase FGFR family","Fgfr","Bipolar Disorder",0.012769435080192054,0,9
+"Tyrosine protein kinase FGFR family","Fgfr","Brachycephaly",0.012769435080192054,0,1
+"Tyrosine protein kinase FGFR family","Fgfr","Breast Carcinoma",0.012769435080192054,0,14
+"Tyrosine protein kinase FGFR family","Fgfr","Carcinoma in situ of endometrium",0.012769435080192054,0,1
+"Tyrosine protein kinase FGFR family","Fgfr","Carcinoma in situ of stomach",0.012769435080192054,0,1
+"Tyrosine protein kinase FGFR family","Fgfr","Chemical Burns",0.012769435080192054,0,1
+"Tyrosine protein kinase FGFR family","Fgfr","Choanal Atresia",0.012769435080192054,0,1
+"Tyrosine protein kinase FGFR family","Fgfr","Cholangiocarcinoma",0.012769435080192054,0,1
+"Tyrosine protein kinase FGFR family","Fgfr","Cleft Palate",0.012769435080192054,0,2
+"Tyrosine protein kinase FGFR family","Fgfr","Cleft palate, isolated",0.012769435080192054,0,2
+"Tyrosine protein kinase FGFR family","Fgfr","Cleft upper lip",0.012769435080192054,0,1
+"Tyrosine protein kinase FGFR family","Fgfr","Craniofacial Abnormalities",0.012769435080192054,0,2
+"Tyrosine protein kinase FGFR family","Fgfr","Craniofacial Dysostosis",0.012769435080192054,0,1
+"Tyrosine protein kinase FGFR family","Fgfr","Craniofacial dysostosis type 1",0.012769435080192054,0,1
+"Tyrosine protein kinase FGFR family","Fgfr","Craniosynostosis",0.012769435080192054,0,3
+"Tyrosine protein kinase FGFR family","Fgfr","Cutis Gyrata Syndrome of Beare And Stevenson",0.012769435080192054,0,1
+"Tyrosine protein kinase FGFR family","Fgfr","Depressive disorder",0.012769435080192054,0,6
+"Tyrosine protein kinase FGFR family","Fgfr","Dermatologic disorders",0.012769435080192054,0,1
+"Tyrosine protein kinase FGFR family","Fgfr","Developmental Coordination Disorder",0.012769435080192054,0,1
+"Tyrosine protein kinase FGFR family","Fgfr","Endometrial Carcinoma",0.012769435080192054,0,2
+"Tyrosine protein kinase FGFR family","Fgfr","Endometrial Neoplasms",0.012769435080192054,0,2
+"Tyrosine protein kinase FGFR family","Fgfr","Endometrial adenocarcinoma",0.012769435080192054,0,2
+"Tyrosine protein kinase FGFR family","Fgfr","Extrahepatic Cholangiocarcinoma",0.012769435080192054,0,1
+"Tyrosine protein kinase FGFR family","Fgfr","Fibrosis, Liver",0.012769435080192054,0,4
+"Tyrosine protein kinase FGFR family","Fgfr","Hamartoma Syndrome, Multiple",0.012769435080192054,0,2
+"Tyrosine protein kinase FGFR family","Fgfr","Head and Neck Carcinoma",0.012769435080192054,0,1
+"Tyrosine protein kinase FGFR family","Fgfr","Head and Neck Neoplasms",0.012769435080192054,0,2
+"Tyrosine protein kinase FGFR family","Fgfr","Hereditary Diffuse Gastric Cancer",0.012769435080192054,0,4
+"Tyrosine protein kinase FGFR family","Fgfr","Hidradenitis suppurativa, familial",0.012769435080192054,0,1
+"Tyrosine protein kinase FGFR family","Fgfr","Hydrocephalus",0.012769435080192054,0,2
+"Tyrosine protein kinase FGFR family","Fgfr","Intellectual Disability",0.012769435080192054,0,19
+"Tyrosine protein kinase FGFR family","Fgfr","Intrahepatic Cholangiocarcinoma",0.012769435080192054,0,1
+"Tyrosine protein kinase FGFR family","Fgfr","JACKSON-WEISS SYNDROME",0.012769435080192054,0,1
+"Tyrosine protein kinase FGFR family","Fgfr","Lacrimoauriculodentodigital syndrome",0.012769435080192054,0,1
+"Tyrosine protein kinase FGFR family","Fgfr","Lhermitte-Duclos disease",0.012769435080192054,0,1
+"Tyrosine protein kinase FGFR family","Fgfr","Limb Deformities, Congenital",0.012769435080192054,0,2
+"Tyrosine protein kinase FGFR family","Fgfr","Liver Cirrhosis",0.012769435080192054,0,4
+"Tyrosine protein kinase FGFR family","Fgfr","Lung Neoplasms",0.012769435080192054,0,8
+"Tyrosine protein kinase FGFR family","Fgfr","Malignant Head and Neck Neoplasm",0.012769435080192054,0,2
+"Tyrosine protein kinase FGFR family","Fgfr","Malignant neoplasm of breast",0.012769435080192054,0,17
+"Tyrosine protein kinase FGFR family","Fgfr","Malignant neoplasm of endometrium",0.012769435080192054,0,1
+"Tyrosine protein kinase FGFR family","Fgfr","Malignant neoplasm of lung",0.012769435080192054,0,8
+"Tyrosine protein kinase FGFR family","Fgfr","Malignant neoplasm of stomach",0.012769435080192054,0,4
+"Tyrosine protein kinase FGFR family","Fgfr","Mammary Neoplasms",0.012769435080192054,0,14
+"Tyrosine protein kinase FGFR family","Fgfr","Mammary Neoplasms, Human",0.012769435080192054,0,13
+"Tyrosine protein kinase FGFR family","Fgfr","Mental Depression",0.012769435080192054,0,6
+"Tyrosine protein kinase FGFR family","Fgfr","Mental Retardation, Psychosocial",0.012769435080192054,0,1
+"Tyrosine protein kinase FGFR family","Fgfr","Mental deficiency",0.012769435080192054,0,1
+"Tyrosine protein kinase FGFR family","Fgfr","Metopic synostosis",0.012769435080192054,0,1
+"Tyrosine protein kinase FGFR family","Fgfr","Motor Skills Disorders",0.012769435080192054,0,1
+"Tyrosine protein kinase FGFR family","Fgfr","Multiple congenital anomalies",0.012769435080192054,0,2
+"Tyrosine protein kinase FGFR family","Fgfr","Neoplasm of uncertain or unknown behavior of stomach",0.012769435080192054,0,1
+"Tyrosine protein kinase FGFR family","Fgfr","Non-Small Cell Lung Carcinoma",0.012769435080192054,0,6
+"Tyrosine protein kinase FGFR family","Fgfr","Nonorganic psychosis",0.012769435080192054,0,2
+"Tyrosine protein kinase FGFR family","Fgfr","Odontome",0.012769435080192054,0,1
+"Tyrosine protein kinase FGFR family","Fgfr","Osteogenesis Imperfecta",0.012769435080192054,0,5
+"Tyrosine protein kinase FGFR family","Fgfr","Ovarian Serous Adenocarcinoma",0.012769435080192054,0,5
+"Tyrosine protein kinase FGFR family","Fgfr","PTEN Hamartoma Tumor Syndrome",0.012769435080192054,0,1
+"Tyrosine protein kinase FGFR family","Fgfr","Pfeiffer Syndrome",0.012769435080192054,0,1
+"Tyrosine protein kinase FGFR family","Fgfr","Pfeiffer type acrocephalosyndactyly",0.012769435080192054,0,1
+"Tyrosine protein kinase FGFR family","Fgfr","Plagiocephaly, Nonsynostotic",0.012769435080192054,0,1
+"Tyrosine protein kinase FGFR family","Fgfr","Polydactyly",0.012769435080192054,0,1
+"Tyrosine protein kinase FGFR family","Fgfr","Profound Mental Retardation",0.012769435080192054,0,1
+"Tyrosine protein kinase FGFR family","Fgfr","Psychotic Disorders",0.012769435080192054,0,3
+"Tyrosine protein kinase FGFR family","Fgfr","Rachischisis",0.012769435080192054,0,1
+"Tyrosine protein kinase FGFR family","Fgfr","Radial club hand",0.012769435080192054,0,1
+"Tyrosine protein kinase FGFR family","Fgfr","SCAPHOCEPHALY, MAXILLARY RETRUSION, AND MENTAL RETARDATION",0.012769435080192054,0,1
+"Tyrosine protein kinase FGFR family","Fgfr","Saethre-Chotzen Syndrome",0.012769435080192054,0,1
+"Tyrosine protein kinase FGFR family","Fgfr","Scaphycephaly",0.012769435080192054,0,1
+"Tyrosine protein kinase FGFR family","Fgfr","Schizophrenia",0.012769435080192054,0,12
+"Tyrosine protein kinase FGFR family","Fgfr","Skin Abnormalities",0.012769435080192054,0,2
+"Tyrosine protein kinase FGFR family","Fgfr","Spina Bifida",0.012769435080192054,0,1
+"Tyrosine protein kinase FGFR family","Fgfr","Squamous cell carcinoma of lung",0.012769435080192054,0,6
+"Tyrosine protein kinase FGFR family","Fgfr","Status Dysraphicus",0.012769435080192054,0,1
+"Tyrosine protein kinase FGFR family","Fgfr","Stomach Carcinoma",0.012769435080192054,0,1
+"Tyrosine protein kinase FGFR family","Fgfr","Stomach Neoplasms",0.012769435080192054,0,4
+"Tyrosine protein kinase FGFR family","Fgfr","Synostotic Anterior Plagiocephaly",0.012769435080192054,0,1
+"Tyrosine protein kinase FGFR family","Fgfr","Synostotic Posterior Plagiocephaly",0.012769435080192054,0,1
+"Tyrosine protein kinase FGFR family","Fgfr","Tooth Abnormalities",0.012769435080192054,0,1
+"Tyrosine protein kinase FGFR family","Fgfr","Trigonocephaly",0.012769435080192054,0,1
+"Tyrosine protein kinase FGFR family","Fgfr","Vogt Cephalodactyly",0.012769435080192054,0,1
+"Tyrosine protein kinase Fak family","Fak","Giant Cell Glioblastoma",0.010215548064153642,0,2
+"Tyrosine protein kinase Fak family","Fak","Glioblastoma",0.010215548064153642,0,2
+"Tyrosine protein kinase Fak family","Fak","Glioblastoma Multiforme",0.010215548064153642,0,4
+"Tyrosine protein kinase Fak family","Fak","Liver carcinoma",0.010215548064153642,0,4
+"Tyrosine protein kinase Fak family","Fak","Malignant neoplasm of mouth",0.010215548064153642,0,1
+"Tyrosine protein kinase Fak family","Fak","Mammary Neoplasms, Experimental",0.010215548064153642,0,3
+"Tyrosine protein kinase Fak family","Fak","Metastatic melanoma",0.010215548064153642,0,4
+"Tyrosine protein kinase Fak family","Fak","Mouth Neoplasms",0.010215548064153642,0,1
+"Tyrosine protein kinase Fak family","Fak","Neoplasm Invasiveness",0.010215548064153642,0,6
+"Tyrosine protein kinase Fak family","Fak","Neoplastic Cell Transformation",0.010215548064153642,0,3
+"Tyrosine protein kinase Fak family","Fak","Rheumatoid Arthritis",0.010215548064153642,0,7
+"Tyrosine protein kinase Fak family","Fak","Squamous cell carcinoma",0.010215548064153642,0,4
+"Tyrosine protein kinase Fer family","Fer","Endometrioid carcinoma ovary",0.007661661048115231,0,2
+"Tyrosine protein kinase Fer family","Fer","Small cell carcinoma of lung",0.007661661048115231,0,3
+"Tyrosine protein kinase InsR family","InsR","Acute Confusional Senile Dementia",0.012769435080192054,0,1
+"Tyrosine protein kinase InsR family","InsR","Adrenocortical carcinoma",0.012769435080192054,0,1
+"Tyrosine protein kinase InsR family","InsR","Alzheimer Disease, Early Onset",0.012769435080192054,0,1
+"Tyrosine protein kinase InsR family","InsR","Alzheimer Disease, Late Onset",0.012769435080192054,0,1
+"Tyrosine protein kinase InsR family","InsR","Alzheimer's Disease",0.012769435080192054,0,1
+"Tyrosine protein kinase InsR family","InsR","Alzheimer's Disease, Focal Onset",0.012769435080192054,0,1
+"Tyrosine protein kinase InsR family","InsR","Breast Carcinoma",0.012769435080192054,0,14
+"Tyrosine protein kinase InsR family","InsR","Congenital diaphragmatic hernia",0.012769435080192054,0,1
+"Tyrosine protein kinase InsR family","InsR","Congenital hernia of foramen of Bochdalek",0.012769435080192054,0,1
+"Tyrosine protein kinase InsR family","InsR","Congenital hernia of foramen of Morgagni",0.012769435080192054,0,1
+"Tyrosine protein kinase InsR family","InsR","Endometrial Carcinoma",0.012769435080192054,0,2
+"Tyrosine protein kinase InsR family","InsR","Endometrial Neoplasms",0.012769435080192054,0,2
+"Tyrosine protein kinase InsR family","InsR","Familial Alzheimer Disease (FAD)",0.012769435080192054,0,1
+"Tyrosine protein kinase InsR family","InsR","Fetal Growth Retardation",0.012769435080192054,0,1
+"Tyrosine protein kinase InsR family","InsR","Growth Disorders",0.012769435080192054,0,1
+"Tyrosine protein kinase InsR family","InsR","Insulin-Like Growth Factor I, Resistance to, due to Increased Binding Protein",0.012769435080192054,0,1
+"Tyrosine protein kinase InsR family","InsR","Intellectual Disability",0.012769435080192054,0,19
+"Tyrosine protein kinase InsR family","InsR","Juvenile arthritis",0.012769435080192054,0,3
+"Tyrosine protein kinase InsR family","InsR","Juvenile psoriatic arthritis",0.012769435080192054,0,3
+"Tyrosine protein kinase InsR family","InsR","Juvenile-Onset Still Disease",0.012769435080192054,0,3
+"Tyrosine protein kinase InsR family","InsR","Lewy Body Disease",0.012769435080192054,0,2
+"Tyrosine protein kinase InsR family","InsR","Liver carcinoma",0.012769435080192054,0,4
+"Tyrosine protein kinase InsR family","InsR","Lung diseases",0.012769435080192054,0,3
+"Tyrosine protein kinase InsR family","InsR","Malignant neoplasm of breast",0.012769435080192054,0,17
+"Tyrosine protein kinase InsR family","InsR","Malignant neoplasm of skin",0.012769435080192054,0,5
+"Tyrosine protein kinase InsR family","InsR","Mammary Neoplasms",0.012769435080192054,0,14
+"Tyrosine protein kinase InsR family","InsR","Mammary Neoplasms, Human",0.012769435080192054,0,13
+"Tyrosine protein kinase InsR family","InsR","Neoplastic Cell Transformation",0.012769435080192054,0,3
+"Tyrosine protein kinase InsR family","InsR","Osteogenesis Imperfecta",0.012769435080192054,0,5
+"Tyrosine protein kinase InsR family","InsR","Parkinson Disease",0.012769435080192054,0,3
+"Tyrosine protein kinase InsR family","InsR","Peripheral Neuropathy",0.012769435080192054,0,2
+"Tyrosine protein kinase InsR family","InsR","Presenile dementia",0.012769435080192054,0,1
+"Tyrosine protein kinase InsR family","InsR","Primary microcephaly",0.012769435080192054,0,2
+"Tyrosine protein kinase InsR family","InsR","Resistance to Insulin-Like Growth Factor I",0.012769435080192054,0,1
+"Tyrosine protein kinase InsR family","InsR","Respiratory Depression",0.012769435080192054,0,2
+"Tyrosine protein kinase InsR family","InsR","Respiratory Failure",0.012769435080192054,0,2
+"Tyrosine protein kinase InsR family","InsR","Respiratory Insufficiency",0.012769435080192054,0,2
+"Tyrosine protein kinase InsR family","InsR","Russell-Silver syndrome",0.012769435080192054,0,1
+"Tyrosine protein kinase InsR family","InsR","Skin Neoplasms",0.012769435080192054,0,5
+"Tyrosine protein kinase InsR family","InsR","Squamous cell carcinoma of lung",0.012769435080192054,0,6
+"Tyrosine protein kinase JakB family","Jakb","AMYOTROPHIC LATERAL SCLEROSIS 1",0.017877209112268873,0,1
+"Tyrosine protein kinase JakB family","Jakb","Abortion, Tubal",0.017877209112268873,0,2
+"Tyrosine protein kinase JakB family","Jakb","Acute Megakaryocytic Leukemias",0.017877209112268873,0,1
+"Tyrosine protein kinase JakB family","Jakb","Acute Myeloid Leukemia (AML-M2)",0.017877209112268873,0,4
+"Tyrosine protein kinase JakB family","Jakb","Acute Myeloid Leukemia, M1",0.017877209112268873,0,4
+"Tyrosine protein kinase JakB family","Jakb","Adenocarcinoma of large intestine",0.017877209112268873,0,11
+"Tyrosine protein kinase JakB family","Jakb","Adult Diffuse Large B-Cell Lymphoma",0.017877209112268873,0,1
+"Tyrosine protein kinase JakB family","Jakb","Amyotrophic Lateral Sclerosis, Sporadic",0.017877209112268873,0,1
+"Tyrosine protein kinase JakB family","Jakb","B-Cell Lymphomas",0.017877209112268873,0,1
+"Tyrosine protein kinase JakB family","Jakb","Bare Lymphocyte Syndrome",0.017877209112268873,0,2
+"Tyrosine protein kinase JakB family","Jakb","Biliary Cirrhosis, Secondary",0.017877209112268873,0,1
+"Tyrosine protein kinase JakB family","Jakb","Biliary cirrhosis",0.017877209112268873,0,1
+"Tyrosine protein kinase JakB family","Jakb","Budd-Chiari Syndrome",0.017877209112268873,0,1
+"Tyrosine protein kinase JakB family","Jakb","Calcinosis",0.017877209112268873,0,1
+"Tyrosine protein kinase JakB family","Jakb","Childhood Diffuse Large B-Cell Lymphoma",0.017877209112268873,0,1
+"Tyrosine protein kinase JakB family","Jakb","Chronic myeloproliferative disorder",0.017877209112268873,0,2
+"Tyrosine protein kinase JakB family","Jakb","Cocaine Abuse",0.017877209112268873,0,5
+"Tyrosine protein kinase JakB family","Jakb","Cocaine Dependence",0.017877209112268873,0,5
+"Tyrosine protein kinase JakB family","Jakb","Cocaine-Related Disorders",0.017877209112268873,0,5
+"Tyrosine protein kinase JakB family","Jakb","Congenital anemia",0.017877209112268873,0,4
+"Tyrosine protein kinase JakB family","Jakb","Crohn Disease",0.017877209112268873,0,1
+"Tyrosine protein kinase JakB family","Jakb","Crohn's disease of large bowel",0.017877209112268873,0,1
+"Tyrosine protein kinase JakB family","Jakb","Crohn's disease of the ileum",0.017877209112268873,0,1
+"Tyrosine protein kinase JakB family","Jakb","Cytopenia",0.017877209112268873,0,4
+"Tyrosine protein kinase JakB family","Jakb","Deep Vein Thrombosis",0.017877209112268873,0,2
+"Tyrosine protein kinase JakB family","Jakb","Depressed mood",0.017877209112268873,0,1
+"Tyrosine protein kinase JakB family","Jakb","Diffuse Large B-Cell Lymphoma",0.017877209112268873,0,2
+"Tyrosine protein kinase JakB family","Jakb","Erythrocytosis",0.017877209112268873,0,1
+"Tyrosine protein kinase JakB family","Jakb","Experimental Hepatoma",0.017877209112268873,0,4
+"Tyrosine protein kinase JakB family","Jakb","Familial erythrocytosis",0.017877209112268873,0,1
+"Tyrosine protein kinase JakB family","Jakb","Familial thrombocytosis",0.017877209112268873,0,1
+"Tyrosine protein kinase JakB family","Jakb","Gastric Adenocarcinoma",0.017877209112268873,0,6
+"Tyrosine protein kinase JakB family","Jakb","Heart valve disease",0.017877209112268873,0,1
+"Tyrosine protein kinase JakB family","Jakb","Hematologic Neoplasms",0.017877209112268873,0,2
+"Tyrosine protein kinase JakB family","Jakb","Hepatic Vein Thrombosis",0.017877209112268873,0,1
+"Tyrosine protein kinase JakB family","Jakb","Hepatoma, Morris",0.017877209112268873,0,4
+"Tyrosine protein kinase JakB family","Jakb","Hepatoma, Novikoff",0.017877209112268873,0,4
+"Tyrosine protein kinase JakB family","Jakb","IIeocolitis",0.017877209112268873,0,1
+"Tyrosine protein kinase JakB family","Jakb","Inflammation",0.017877209112268873,0,6
+"Tyrosine protein kinase JakB family","Jakb","Intellectual Disability",0.017877209112268873,0,19
+"Tyrosine protein kinase JakB family","Jakb","Juvenile Myelomonocytic Leukemia",0.017877209112268873,0,1
+"Tyrosine protein kinase JakB family","Jakb","LEUKEMIA, ACUTE MYELOID, SUSCEPTIBILITY TO",0.017877209112268873,0,1
+"Tyrosine protein kinase JakB family","Jakb","Leukemia, Myelocytic, Acute",0.017877209112268873,0,4
+"Tyrosine protein kinase JakB family","Jakb","Liver Cirrhosis, Experimental",0.017877209112268873,0,11
+"Tyrosine protein kinase JakB family","Jakb","Liver Neoplasms, Experimental",0.017877209112268873,0,4
+"Tyrosine protein kinase JakB family","Jakb","Lymphoma",0.017877209112268873,0,3
+"Tyrosine protein kinase JakB family","Jakb","Lymphoma, Extranodal NK-T-Cell",0.017877209112268873,0,1
+"Tyrosine protein kinase JakB family","Jakb","Lymphomatoid Papulosis",0.017877209112268873,0,1
+"Tyrosine protein kinase JakB family","Jakb","Major Depressive Disorder",0.017877209112268873,0,6
+"Tyrosine protein kinase JakB family","Jakb","Malignant neoplasm of prostate",0.017877209112268873,0,5
+"Tyrosine protein kinase JakB family","Jakb","Malignant tumor of mediastinum",0.017877209112268873,0,1
+"Tyrosine protein kinase JakB family","Jakb","Mediastinal Neoplasms",0.017877209112268873,0,1
+"Tyrosine protein kinase JakB family","Jakb","Mesenteric Vascular Occlusion",0.017877209112268873,0,1
+"Tyrosine protein kinase JakB family","Jakb","Microcalcification",0.017877209112268873,0,1
+"Tyrosine protein kinase JakB family","Jakb","Multiple Sclerosis",0.017877209112268873,0,1
+"Tyrosine protein kinase JakB family","Jakb","Multiple Sclerosis, Acute Fulminating",0.017877209112268873,0,1
+"Tyrosine protein kinase JakB family","Jakb","Myelofibrosis",0.017877209112268873,0,1
+"Tyrosine protein kinase JakB family","Jakb","Myeloid Leukemia, Chronic",0.017877209112268873,0,3
+"Tyrosine protein kinase JakB family","Jakb","Myeloproliferative disease",0.017877209112268873,0,1
+"Tyrosine protein kinase JakB family","Jakb","Myocardial Ischemia",0.017877209112268873,0,6
+"Tyrosine protein kinase JakB family","Jakb","Nasal Type Extranodal NK/T-Cell Lymphoma",0.017877209112268873,0,1
+"Tyrosine protein kinase JakB family","Jakb","Non-alcoholic Fatty Liver Disease",0.017877209112268873,0,2
+"Tyrosine protein kinase JakB family","Jakb","Nonalcoholic Steatohepatitis",0.017877209112268873,0,2
+"Tyrosine protein kinase JakB family","Jakb","Omenn Syndrome",0.017877209112268873,0,2
+"Tyrosine protein kinase JakB family","Jakb","Ovarian Serous Adenocarcinoma",0.017877209112268873,0,5
+"Tyrosine protein kinase JakB family","Jakb","Paranoia",0.017877209112268873,0,1
+"Tyrosine protein kinase JakB family","Jakb","Polycythemia",0.017877209112268873,0,1
+"Tyrosine protein kinase JakB family","Jakb","Polycythemia Vera",0.017877209112268873,0,1
+"Tyrosine protein kinase JakB family","Jakb","Precursor Cell Lymphoblastic Leukemia Lymphoma",0.017877209112268873,0,5
+"Tyrosine protein kinase JakB family","Jakb","Precursor T-Cell Lymphoblastic Leukemia-Lymphoma",0.017877209112268873,0,3
+"Tyrosine protein kinase JakB family","Jakb","Pregnancy Complications",0.017877209112268873,0,1
+"Tyrosine protein kinase JakB family","Jakb","Primary Cutaneous Anaplastic Large Cell Lymphoma",0.017877209112268873,0,1
+"Tyrosine protein kinase JakB family","Jakb","Primary Myelofibrosis",0.017877209112268873,0,1
+"Tyrosine protein kinase JakB family","Jakb","Primary biliary cirrhosis",0.017877209112268873,0,1
+"Tyrosine protein kinase JakB family","Jakb","Prostatic Neoplasms",0.017877209112268873,0,5
+"Tyrosine protein kinase JakB family","Jakb","Psoriasis",0.017877209112268873,0,1
+"Tyrosine protein kinase JakB family","Jakb","Pustulosis of Palms and Soles",0.017877209112268873,0,1
+"Tyrosine protein kinase JakB family","Jakb","Regional enteritis",0.017877209112268873,0,1
+"Tyrosine protein kinase JakB family","Jakb","Rheumatoid Arthritis",0.017877209112268873,0,7
+"Tyrosine protein kinase JakB family","Jakb","Severe Combined Immunodeficiency",0.017877209112268873,0,2
+"Tyrosine protein kinase JakB family","Jakb","Severe Combined Immunodeficiency, Autosomal Recessive, T Cell-Negative, B Cell-Positive, NK Cell-Negative",0.017877209112268873,0,1
+"Tyrosine protein kinase JakB family","Jakb","Spontaneous abortion",0.017877209112268873,0,2
+"Tyrosine protein kinase JakB family","Jakb","THROMBOCYTHEMIA 3",0.017877209112268873,0,1
+"Tyrosine protein kinase JakB family","Jakb","Thrombocythemia, Essential",0.017877209112268873,0,1
+"Tyrosine protein kinase JakB family","Jakb","Thrombocytosis",0.017877209112268873,0,1
+"Tyrosine protein kinase JakB family","Jakb","Thrombocytosis, Autosomal Dominant",0.017877209112268873,0,1
+"Tyrosine protein kinase JakB family","Jakb","Thromboembolism",0.017877209112268873,0,1
+"Tyrosine protein kinase JakB family","Jakb","Tumoral calcinosis",0.017877209112268873,0,1
+"Tyrosine protein kinase JakB family","Jakb","Tyrosine Kinase 2 Deficiency",0.017877209112268873,0,1
+"Tyrosine protein kinase JakB family","Jakb","Ulcerative Colitis",0.017877209112268873,0,3
+"Tyrosine protein kinase JakB family","Jakb","Unipolar Depression",0.017877209112268873,0,7
+"Tyrosine protein kinase JakB family","Jakb","Uterine Cervical Neoplasm",0.017877209112268873,0,1
+"Tyrosine protein kinase JakB family","Jakb","Venous Thrombosis",0.017877209112268873,0,2
+"Tyrosine protein kinase JakB family","Jakb","cervical cancer",0.017877209112268873,0,1
+"Tyrosine protein kinase JakB family","Jakb","leukemia",0.017877209112268873,0,1
+"Tyrosine protein kinase PDGFR family","Pdgfr","AML M4 Eo with inv(16) or t(16;16)",0.25794258861987945,5,1
+"Tyrosine protein kinase PDGFR family","Pdgfr","Acute Myeloid Leukemia (AML-M2)",0.25794258861987945,5,4
+"Tyrosine protein kinase PDGFR family","Pdgfr","Acute Myeloid Leukemia, M1",0.25794258861987945,5,4
+"Tyrosine protein kinase PDGFR family","Pdgfr","Acute Promyelocytic Leukemia",0.25794258861987945,5,2
+"Tyrosine protein kinase PDGFR family","Pdgfr","Acute biphenotypic leukemia",0.25794258861987945,5,1
+"Tyrosine protein kinase PDGFR family","Pdgfr","Acute myeloid leukemia, minimal differentiation",0.25794258861987945,5,1
+"Tyrosine protein kinase PDGFR family","Pdgfr","Acute myelomonocytic leukemia",0.25794258861987945,5,1
+"Tyrosine protein kinase PDGFR family","Pdgfr","Adenocarcinoma of large intestine",0.25794258861987945,5,11
+"Tyrosine protein kinase PDGFR family","Pdgfr","Aggressive Systemic Mastocytosis",0.25794258861987945,5,1
+"Tyrosine protein kinase PDGFR family","Pdgfr","Benign Neoplasm",0.25794258861987945,5,2
+"Tyrosine protein kinase PDGFR family","Pdgfr","Breast Carcinoma",0.25794258861987945,5,14
+"Tyrosine protein kinase PDGFR family","Pdgfr","Burkitt Lymphoma",0.25794258861987945,5,2
+"Tyrosine protein kinase PDGFR family","Pdgfr","Cakut",0.25794258861987945,5,1
+"Tyrosine protein kinase PDGFR family","Pdgfr","Childhood Acute Lymphoblastic Leukemia",0.25794258861987945,5,4
+"Tyrosine protein kinase PDGFR family","Pdgfr","Childhood Ataxia with Central Nervous System Hypomyelinization",0.25794258861987945,5,1
+"Tyrosine protein kinase PDGFR family","Pdgfr","Chronic myeloproliferative disorder",0.25794258861987945,5,2
+"Tyrosine protein kinase PDGFR family","Pdgfr","Congenital anemia",0.25794258861987945,5,4
+"Tyrosine protein kinase PDGFR family","Pdgfr","Cutaneous Melanoma",0.25794258861987945,5,5
+"Tyrosine protein kinase PDGFR family","Pdgfr","Cytopenia",0.25794258861987945,5,4
+"Tyrosine protein kinase PDGFR family","Pdgfr","Ewings sarcoma-primitive neuroectodermal tumor (PNET)",0.25794258861987945,5,1
+"Tyrosine protein kinase PDGFR family","Pdgfr","Gastrointestinal Stromal Sarcoma",0.25794258861987945,5,2
+"Tyrosine protein kinase PDGFR family","Pdgfr","Gastrointestinal Stromal Tumors",0.25794258861987945,5,2
+"Tyrosine protein kinase PDGFR family","Pdgfr","Hematologic Neoplasms",0.25794258861987945,5,2
+"Tyrosine protein kinase PDGFR family","Pdgfr","Hereditary Diffuse Leukoencephalopathy with Spheroids",0.25794258861987945,5,1
+"Tyrosine protein kinase PDGFR family","Pdgfr","Indolent Systemic Mastocytosis",0.25794258861987945,5,1
+"Tyrosine protein kinase PDGFR family","Pdgfr","Intellectual Disability",0.25794258861987945,5,19
+"Tyrosine protein kinase PDGFR family","Pdgfr","Isolated bone marrow mastocytosis",0.25794258861987945,5,1
+"Tyrosine protein kinase PDGFR family","Pdgfr","Leukemia, Lymphocytic, Acute, L2",0.25794258861987945,5,4
+"Tyrosine protein kinase PDGFR family","Pdgfr","Leukemia, Mast-Cell",0.25794258861987945,5,1
+"Tyrosine protein kinase PDGFR family","Pdgfr","Leukemia, Myelocytic, Acute",0.25794258861987945,5,4
+"Tyrosine protein kinase PDGFR family","Pdgfr","Leukocytosis",0.25794258861987945,5,1
+"Tyrosine protein kinase PDGFR family","Pdgfr","Leukodystrophy",0.25794258861987945,5,1
+"Tyrosine protein kinase PDGFR family","Pdgfr","Leukoencephalopathies",0.25794258861987945,5,1
+"Tyrosine protein kinase PDGFR family","Pdgfr","Liver Cirrhosis, Experimental",0.25794258861987945,5,11
+"Tyrosine protein kinase PDGFR family","Pdgfr","Lung diseases",0.25794258861987945,5,3
+"Tyrosine protein kinase PDGFR family","Pdgfr","MYELODYSPLASTIC SYNDROME",0.25794258861987945,5,1
+"Tyrosine protein kinase PDGFR family","Pdgfr","Male Germ Cell Tumor",0.25794258861987945,5,1
+"Tyrosine protein kinase PDGFR family","Pdgfr","Malignant Neoplasms",0.25794258861987945,5,6
+"Tyrosine protein kinase PDGFR family","Pdgfr","Malignant mesothelioma",0.25794258861987945,5,3
+"Tyrosine protein kinase PDGFR family","Pdgfr","Malignant neoplasm of breast",0.25794258861987945,5,17
+"Tyrosine protein kinase PDGFR family","Pdgfr","Malignant neoplasm of skin",0.25794258861987945,5,5
+"Tyrosine protein kinase PDGFR family","Pdgfr","Mammary Neoplasms",0.25794258861987945,5,14
+"Tyrosine protein kinase PDGFR family","Pdgfr","Mammary Neoplasms, Human",0.25794258861987945,5,13
+"Tyrosine protein kinase PDGFR family","Pdgfr","Mastocytosis",0.25794258861987945,5,1
+"Tyrosine protein kinase PDGFR family","Pdgfr","Mastocytosis, Systemic",0.25794258861987945,5,1
+"Tyrosine protein kinase PDGFR family","Pdgfr","Mucosal Melanoma",0.25794258861987945,5,1
+"Tyrosine protein kinase PDGFR family","Pdgfr","Neoplasm Metastasis",0.25794258861987945,5,7
+"Tyrosine protein kinase PDGFR family","Pdgfr","Neoplasm Recurrence, Local",0.25794258861987945,5,1
+"Tyrosine protein kinase PDGFR family","Pdgfr","Neoplasms",0.25794258861987945,5,2
+"Tyrosine protein kinase PDGFR family","Pdgfr","Non-Small Cell Lung Carcinoma",0.25794258861987945,5,6
+"Tyrosine protein kinase PDGFR family","Pdgfr","Parkinson Disease",0.25794258861987945,5,3
+"Tyrosine protein kinase PDGFR family","Pdgfr","Piebaldism",0.25794258861987945,5,1
+"Tyrosine protein kinase PDGFR family","Pdgfr","Pleocytosis",0.25794258861987945,5,1
+"Tyrosine protein kinase PDGFR family","Pdgfr","Precursor B-cell lymphoblastic leukemia",0.25794258861987945,5,2
+"Tyrosine protein kinase PDGFR family","Pdgfr","Precursor Cell Lymphoblastic Leukemia Lymphoma",0.25794258861987945,5,5
+"Tyrosine protein kinase PDGFR family","Pdgfr","Precursor T-Cell Lymphoblastic Leukemia-Lymphoma",0.25794258861987945,5,3
+"Tyrosine protein kinase PDGFR family","Pdgfr","Seminoma",0.25794258861987945,5,1
+"Tyrosine protein kinase PDGFR family","Pdgfr","Skin Mastocytoma",0.25794258861987945,5,1
+"Tyrosine protein kinase PDGFR family","Pdgfr","Skin Neoplasms",0.25794258861987945,5,5
+"Tyrosine protein kinase PDGFR family","Pdgfr","Small cell carcinoma of lung",0.25794258861987945,5,3
+"Tyrosine protein kinase PDGFR family","Pdgfr","Splenomegaly",0.25794258861987945,5,1
+"Tyrosine protein kinase PDGFR family","Pdgfr","Squamous cell carcinoma of lung",0.25794258861987945,5,6
+"Tyrosine protein kinase PDGFR family","Pdgfr","Systemic mastocytosis with associated clonal, hematologic non-mast-cell lineage disease",0.25794258861987945,5,1
+"Tyrosine protein kinase PDGFR family","Pdgfr","Telangiectasia macularis eruptiva perstans",0.25794258861987945,5,1
+"Tyrosine protein kinase PDGFR family","Pdgfr","Testicular Germ Cell Tumor",0.25794258861987945,5,1
+"Tyrosine protein kinase PDGFR family","Pdgfr","Testicular Neoplasms",0.25794258861987945,5,1
+"Tyrosine protein kinase PDGFR family","Pdgfr","Thrombosis",0.25794258861987945,5,2
+"Tyrosine protein kinase PDGFR family","Pdgfr","Thrombus",0.25794258861987945,5,2
+"Tyrosine protein kinase PDGFR family","Pdgfr","Thymic Carcinoma",0.25794258861987945,5,1
+"Tyrosine protein kinase PDGFR family","Pdgfr","Thymus Neoplasms",0.25794258861987945,5,1
+"Tyrosine protein kinase PDGFR family","Pdgfr","Urticaria Pigmentosa",0.25794258861987945,5,1
+"Tyrosine protein kinase PDGFR family","Pdgfr","melanoma",0.25794258861987945,5,9
+"Tyrosine protein kinase Src family","Src","Adult T-Cell Lymphoma/Leukemia",1.1339258351210544,2,3
+"Tyrosine protein kinase Src family","Src","Alcohol abuse",1.1339258351210544,2,3
+"Tyrosine protein kinase Src family","Src","Alcoholic Intoxication",1.1339258351210544,2,2
+"Tyrosine protein kinase Src family","Src","Alcoholic Intoxication, Chronic",1.1339258351210544,2,4
+"Tyrosine protein kinase Src family","Src","Autosomal Recessive Polycystic Kidney Disease",1.1339258351210544,2,1
+"Tyrosine protein kinase Src family","Src","Bipolar Disorder",1.1339258351210544,2,9
+"Tyrosine protein kinase Src family","Src","Bladder Neoplasm",1.1339258351210544,2,1
+"Tyrosine protein kinase Src family","Src","Breast Carcinoma",1.1339258351210544,2,14
+"Tyrosine protein kinase Src family","Src","Cardiac Hypertrophy",1.1339258351210544,2,3
+"Tyrosine protein kinase Src family","Src","Cardiomegaly",1.1339258351210544,2,3
+"Tyrosine protein kinase Src family","Src","Catalepsy",1.1339258351210544,2,1
+"Tyrosine protein kinase Src family","Src","Childhood Acute Lymphoblastic Leukemia",1.1339258351210544,2,4
+"Tyrosine protein kinase Src family","Src","Colitis",1.1339258351210544,2,1
+"Tyrosine protein kinase Src family","Src","Colon Carcinoma",1.1339258351210544,2,2
+"Tyrosine protein kinase Src family","Src","Colonic Neoplasms",1.1339258351210544,2,2
+"Tyrosine protein kinase Src family","Src","Colorectal Cancer",1.1339258351210544,2,8
+"Tyrosine protein kinase Src family","Src","Colorectal Carcinoma",1.1339258351210544,2,6
+"Tyrosine protein kinase Src family","Src","Colorectal Neoplasms",1.1339258351210544,2,6
+"Tyrosine protein kinase Src family","Src","Complex Partial Status Epilepticus",1.1339258351210544,2,2
+"Tyrosine protein kinase Src family","Src","Double Outlet Right Ventricle",1.1339258351210544,2,1
+"Tyrosine protein kinase Src family","Src","Double Outlet Right Ventricle, Noncommitted VSD",1.1339258351210544,2,1
+"Tyrosine protein kinase Src family","Src","Double Outlet Right Ventricle, Subaortic VSD",1.1339258351210544,2,1
+"Tyrosine protein kinase Src family","Src","Double Outlet Right Ventricle, Subpulmonary VSD",1.1339258351210544,2,1
+"Tyrosine protein kinase Src family","Src","Gastrointestinal Neoplasms",1.1339258351210544,2,1
+"Tyrosine protein kinase Src family","Src","Grand Mal Status Epilepticus",1.1339258351210544,2,2
+"Tyrosine protein kinase Src family","Src","HIV Coinfection",1.1339258351210544,2,2
+"Tyrosine protein kinase Src family","Src","HIV Infections",1.1339258351210544,2,2
+"Tyrosine protein kinase Src family","Src","Hereditary Diffuse Gastric Cancer",1.1339258351210544,2,4
+"Tyrosine protein kinase Src family","Src","IMMUNODEFICIENCY 22",1.1339258351210544,2,1
+"Tyrosine protein kinase Src family","Src","Impaired glucose tolerance",1.1339258351210544,2,1
+"Tyrosine protein kinase Src family","Src","Leukemia, Lymphocytic, Acute, L2",1.1339258351210544,2,4
+"Tyrosine protein kinase Src family","Src","Libman-Sacks Disease",1.1339258351210544,2,2
+"Tyrosine protein kinase Src family","Src","Liver Cirrhosis, Experimental",1.1339258351210544,2,11
+"Tyrosine protein kinase Src family","Src","Lupus Erythematosus, Systemic",1.1339258351210544,2,2
+"Tyrosine protein kinase Src family","Src","Malignant neoplasm of breast",1.1339258351210544,2,17
+"Tyrosine protein kinase Src family","Src","Malignant neoplasm of stomach",1.1339258351210544,2,4
+"Tyrosine protein kinase Src family","Src","Malignant neoplasm of urinary bladder",1.1339258351210544,2,1
+"Tyrosine protein kinase Src family","Src","Malignant tumor of colon",1.1339258351210544,2,2
+"Tyrosine protein kinase Src family","Src","Mammary Neoplasms",1.1339258351210544,2,14
+"Tyrosine protein kinase Src family","Src","Mammary Neoplasms, Human",1.1339258351210544,2,13
+"Tyrosine protein kinase Src family","Src","Maturity onset diabetes mellitus in young",1.1339258351210544,2,1
+"Tyrosine protein kinase Src family","Src","Maturity-onset diabetes of the young, type 11",1.1339258351210544,2,1
+"Tyrosine protein kinase Src family","Src","Metastatic melanoma",1.1339258351210544,2,4
+"Tyrosine protein kinase Src family","Src","Mucocutaneous Lymph Node Syndrome",1.1339258351210544,2,1
+"Tyrosine protein kinase Src family","Src","Neoplasm Invasiveness",1.1339258351210544,2,6
+"Tyrosine protein kinase Src family","Src","Non-Convulsive Status Epilepticus",1.1339258351210544,2,2
+"Tyrosine protein kinase Src family","Src","Ovarian Mucinous Adenocarcinoma",1.1339258351210544,2,3
+"Tyrosine protein kinase Src family","Src","Peripheral T-Cell Lymphoma",1.1339258351210544,2,1
+"Tyrosine protein kinase Src family","Src","Petit mal status",1.1339258351210544,2,2
+"Tyrosine protein kinase Src family","Src","Precursor Cell Lymphoblastic Leukemia Lymphoma",1.1339258351210544,2,5
+"Tyrosine protein kinase Src family","Src","Prenatal Injuries",1.1339258351210544,2,2
+"Tyrosine protein kinase Src family","Src","Rheumatoid Arthritis",1.1339258351210544,2,7
+"Tyrosine protein kinase Src family","Src","Schizophrenia",1.1339258351210544,2,12
+"Tyrosine protein kinase Src family","Src","Simple Partial Status Epilepticus",1.1339258351210544,2,2
+"Tyrosine protein kinase Src family","Src","Squamous cell carcinoma of lung",1.1339258351210544,2,6
+"Tyrosine protein kinase Src family","Src","Status Epilepticus",1.1339258351210544,2,2
+"Tyrosine protein kinase Src family","Src","Status Epilepticus, Subclinical",1.1339258351210544,2,2
+"Tyrosine protein kinase Src family","Src","Stomach Neoplasms",1.1339258351210544,2,4
+"Tyrosine protein kinase Src family","Src","THROMBOCYTOPENIA 6",1.1339258351210544,2,1
+"Tyrosine protein kinase Src family","Src","Taussig-Bing Anomaly",1.1339258351210544,2,1
+"Tyrosine protein kinase Src family","Src","Vascular anomaly",1.1339258351210544,2,1
+"Tyrosine protein kinase Src family","Src","Ventricular Septal Defects",1.1339258351210544,2,1
+"Tyrosine protein kinase Src family","Src","Waxy flexibility",1.1339258351210544,2,1
+"Tyrosine protein kinase Syk family","Syk","AUTOIMMUNE DISEASE, MULTISYSTEM, INFANTILE-ONSET, 2",0.051077740320768214,0,1
+"Tyrosine protein kinase Syk family","Syk","Antibody Deficiency Syndrome",0.051077740320768214,0,1
+"Tyrosine protein kinase Syk family","Syk","Bare Lymphocyte Syndrome",0.051077740320768214,0,2
+"Tyrosine protein kinase Syk family","Syk","Chronic Lymphocytic Leukemia",0.051077740320768214,0,2
+"Tyrosine protein kinase Syk family","Syk","Immunologic Deficiency Syndromes",0.051077740320768214,0,1
+"Tyrosine protein kinase Syk family","Syk","Malignant lymphoma, lymphocytic, intermediate differentiation, diffuse",0.051077740320768214,0,1
+"Tyrosine protein kinase Syk family","Syk","Mesothelioma",0.051077740320768214,0,1
+"Tyrosine protein kinase Syk family","Syk","Omenn Syndrome",0.051077740320768214,0,2
+"Tyrosine protein kinase Syk family","Syk","Severe Combined Immunodeficiency",0.051077740320768214,0,2
+"Tyrosine protein kinase Syk family","Syk","T cell immunodeficiency primary",0.051077740320768214,0,1
+"Tyrosine protein kinase Syk family","Syk","ZAP70 deficiency",0.051077740320768214,0,1
+"Tyrosine protein kinase Syk family","Syk","melanoma",0.051077740320768214,0,9
+"Tyrosine protein kinase Tec family","Tec","Agammaglobulinemia",0.012769435080192054,0,1
+"Tyrosine protein kinase Tec family","Tec","Breast Carcinoma",0.012769435080192054,0,14
+"Tyrosine protein kinase Tec family","Tec","Breast adenocarcinoma",0.012769435080192054,0,3
+"Tyrosine protein kinase Tec family","Tec","Chronic Lymphocytic Leukemia",0.012769435080192054,0,2
+"Tyrosine protein kinase Tec family","Tec","Hypogammaglobulinemia",0.012769435080192054,0,1
+"Tyrosine protein kinase Tec family","Tec","Intellectual Disability",0.012769435080192054,0,19
+"Tyrosine protein kinase Tec family","Tec","Large cell carcinoma of lung",0.012769435080192054,0,2
+"Tyrosine protein kinase Tec family","Tec","Malignant neoplasm of breast",0.012769435080192054,0,17
+"Tyrosine protein kinase Tec family","Tec","Neoplasm of uncertain or unknown behavior of breast",0.012769435080192054,0,3
+"Tyrosine protein kinase Tec family","Tec","Osteogenesis Imperfecta",0.012769435080192054,0,5
+"Tyrosine protein kinase Tec family","Tec","X-linked agammaglobulinemia",0.012769435080192054,0,1
+"Tyrosine protein kinase Tec family","Tec","X-linked agammaglobulinemia with growth hormone deficiency",0.012769435080192054,0,1
+"Tyrosine protein kinase Tec family","Tec","X-linked hypogammaglobulinemia",0.012769435080192054,0,1
+"Tyrosine protein kinase Tie family","Tie","Blue rubber bleb nevus syndrome",0.23240371845949537,1,1
+"Tyrosine protein kinase Tie family","Tie","Cerebrovascular Disorders",0.23240371845949537,1,3
+"Tyrosine protein kinase Tie family","Tie","Conventional (Clear Cell) Renal Cell Carcinoma",0.23240371845949537,1,3
+"Tyrosine protein kinase Tie family","Tie","Epilepsy, Benign Psychomotor, Childhood",0.23240371845949537,1,3
+"Tyrosine protein kinase Tie family","Tie","Epilepsy, Lateral Temporal",0.23240371845949537,1,3
+"Tyrosine protein kinase Tie family","Tie","Epilepsy, Temporal Lobe",0.23240371845949537,1,3
+"Tyrosine protein kinase Tie family","Tie","Experimental Hepatoma",0.23240371845949537,1,4
+"Tyrosine protein kinase Tie family","Tie","GLAUCOMA 3, PRIMARY CONGENITAL, E",0.23240371845949537,1,1
+"Tyrosine protein kinase Tie family","Tie","GLAUCOMA 3, PRIMARY INFANTILE, B",0.23240371845949537,1,1
+"Tyrosine protein kinase Tie family","Tie","Hemangiosarcoma",0.23240371845949537,1,2
+"Tyrosine protein kinase Tie family","Tie","Hepatoma, Morris",0.23240371845949537,1,4
+"Tyrosine protein kinase Tie family","Tie","Hepatoma, Novikoff",0.23240371845949537,1,4
+"Tyrosine protein kinase Tie family","Tie","Hereditary hemorrhagic telangiectasia",0.23240371845949537,1,1
+"Tyrosine protein kinase Tie family","Tie","Hydrophthalmos",0.23240371845949537,1,1
+"Tyrosine protein kinase Tie family","Tie","Intellectual Disability",0.23240371845949537,1,19
+"Tyrosine protein kinase Tie family","Tie","Liver Neoplasms, Experimental",0.23240371845949537,1,4
+"Tyrosine protein kinase Tie family","Tie","Malignant neoplasm of breast",0.23240371845949537,1,17
+"Tyrosine protein kinase Tie family","Tie","Ovarian Serous Adenocarcinoma",0.23240371845949537,1,5
+"Tyrosine protein kinase Tie family","Tie","Pathologic Neovascularization",0.23240371845949537,1,2
+"Tyrosine protein kinase Tie family","Tie","Uncinate Epilepsy",0.23240371845949537,1,3
+"Tyrosine protein kinase Tie family","Tie","VENOUS MALFORMATIONS, MULTIPLE CUTANEOUS AND MUCOSAL",0.23240371845949537,1,1
+"Tyrosine protein kinase Trk family","Trk","Adenocarcinoma of large intestine",0.04341607927265298,0,11
+"Tyrosine protein kinase Trk family","Trk","Bipolar Disorder",0.04341607927265298,0,9
+"Tyrosine protein kinase Trk family","Trk","Charcot-Marie-Tooth Disease",0.04341607927265298,0,3
+"Tyrosine protein kinase Trk family","Trk","Chronic Lung Injury",0.04341607927265298,0,1
+"Tyrosine protein kinase Trk family","Trk","Congenital Pain Insensitivity",0.04341607927265298,0,1
+"Tyrosine protein kinase Trk family","Trk","Depression, Bipolar",0.04341607927265298,0,1
+"Tyrosine protein kinase Trk family","Trk","Dysautonomia, Familial",0.04341607927265298,0,1
+"Tyrosine protein kinase Trk family","Trk","Familial medullary thyroid carcinoma",0.04341607927265298,0,1
+"Tyrosine protein kinase Trk family","Trk","Glioma",0.04341607927265298,0,3
+"Tyrosine protein kinase Trk family","Trk","HSAN Type IV",0.04341607927265298,0,1
+"Tyrosine protein kinase Trk family","Trk","Hereditary Sensory Autonomic Neuropathy, Type 1",0.04341607927265298,0,1
+"Tyrosine protein kinase Trk family","Trk","Hereditary Sensory Autonomic Neuropathy, Type 2",0.04341607927265298,0,1
+"Tyrosine protein kinase Trk family","Trk","Hereditary Sensory Autonomic Neuropathy, Type 5",0.04341607927265298,0,1
+"Tyrosine protein kinase Trk family","Trk","Hereditary Sensory Radicular Neuropathy",0.04341607927265298,0,1
+"Tyrosine protein kinase Trk family","Trk","Hereditary Sensory and Autonomic Neuropathies",0.04341607927265298,0,1
+"Tyrosine protein kinase Trk family","Trk","Intellectual Disability",0.04341607927265298,0,19
+"Tyrosine protein kinase Trk family","Trk","Lewy Body Disease",0.04341607927265298,0,2
+"Tyrosine protein kinase Trk family","Trk","Lung Injury",0.04341607927265298,0,1
+"Tyrosine protein kinase Trk family","Trk","Malignant Glioma",0.04341607927265298,0,3
+"Tyrosine protein kinase Trk family","Trk","Manic",0.04341607927265298,0,1
+"Tyrosine protein kinase Trk family","Trk","Manic Disorder",0.04341607927265298,0,1
+"Tyrosine protein kinase Trk family","Trk","Nerve Pain",0.04341607927265298,0,3
+"Tyrosine protein kinase Trk family","Trk","Neuralgia",0.04341607927265298,0,3
+"Tyrosine protein kinase Trk family","Trk","Neuralgia, Atypical",0.04341607927265298,0,3
+"Tyrosine protein kinase Trk family","Trk","Neuralgia, Iliohypogastric Nerve",0.04341607927265298,0,3
+"Tyrosine protein kinase Trk family","Trk","Neuralgia, Ilioinguinal",0.04341607927265298,0,3
+"Tyrosine protein kinase Trk family","Trk","Neuralgia, Perineal",0.04341607927265298,0,3
+"Tyrosine protein kinase Trk family","Trk","Neuralgia, Stump",0.04341607927265298,0,3
+"Tyrosine protein kinase Trk family","Trk","Neuralgia, Supraorbital",0.04341607927265298,0,3
+"Tyrosine protein kinase Trk family","Trk","Neuralgia, Vidian",0.04341607927265298,0,3
+"Tyrosine protein kinase Trk family","Trk","Neuroblastoma",0.04341607927265298,0,1
+"Tyrosine protein kinase Trk family","Trk","Ovarian Serous Adenocarcinoma",0.04341607927265298,0,5
+"Tyrosine protein kinase Trk family","Trk","Pain Disorder",0.04341607927265298,0,1
+"Tyrosine protein kinase Trk family","Trk","Papillary thyroid carcinoma",0.04341607927265298,0,1
+"Tyrosine protein kinase Trk family","Trk","Paroxysmal Nerve Pain",0.04341607927265298,0,3
+"Tyrosine protein kinase Trk family","Trk","Psychosis, Brief Reactive",0.04341607927265298,0,1
+"Tyrosine protein kinase Trk family","Trk","Psychotic Disorders",0.04341607927265298,0,3
+"Tyrosine protein kinase Trk family","Trk","Schizoaffective Disorder",0.04341607927265298,0,1
+"Tyrosine protein kinase Trk family","Trk","Schizophrenia",0.04341607927265298,0,12
+"Tyrosine protein kinase Trk family","Trk","Schizophreniform Disorders",0.04341607927265298,0,1
+"Tyrosine protein kinase Trk family","Trk","Sensory Neuropathy, Hereditary",0.04341607927265298,0,1
+"Tyrosine protein kinase Trk family","Trk","mixed gliomas",0.04341607927265298,0,3
+"Tyrosine protein kinase VEGFR family","Vegfr","Adenocarcinoma",1.338236796404127,0,2
+"Tyrosine protein kinase VEGFR family","Vegfr","Adenocarcinoma of lung (disorder)",1.338236796404127,0,8
+"Tyrosine protein kinase VEGFR family","Vegfr","Adenocarcinoma, Basal Cell",1.338236796404127,0,2
+"Tyrosine protein kinase VEGFR family","Vegfr","Adenocarcinoma, Oxyphilic",1.338236796404127,0,2
+"Tyrosine protein kinase VEGFR family","Vegfr","Adenocarcinoma, Tubular",1.338236796404127,0,2
+"Tyrosine protein kinase VEGFR family","Vegfr","Breast Carcinoma",1.338236796404127,0,14
+"Tyrosine protein kinase VEGFR family","Vegfr","Carcinoma, Cribriform",1.338236796404127,0,2
+"Tyrosine protein kinase VEGFR family","Vegfr","Carcinoma, Granular Cell",1.338236796404127,0,2
+"Tyrosine protein kinase VEGFR family","Vegfr","Cerebral Hemorrhage",1.338236796404127,0,1
+"Tyrosine protein kinase VEGFR family","Vegfr","Chemical and Drug Induced Liver Injury",1.338236796404127,0,6
+"Tyrosine protein kinase VEGFR family","Vegfr","Chemically-Induced Liver Toxicity",1.338236796404127,0,6
+"Tyrosine protein kinase VEGFR family","Vegfr","Chromophobe Renal Cell Carcinoma",1.338236796404127,0,2
+"Tyrosine protein kinase VEGFR family","Vegfr","Collecting Duct Carcinoma of the Kidney",1.338236796404127,0,2
+"Tyrosine protein kinase VEGFR family","Vegfr","Colorectal Cancer",1.338236796404127,0,8
+"Tyrosine protein kinase VEGFR family","Vegfr","Colorectal Carcinoma",1.338236796404127,0,6
+"Tyrosine protein kinase VEGFR family","Vegfr","Colorectal Neoplasms",1.338236796404127,0,6
+"Tyrosine protein kinase VEGFR family","Vegfr","Conventional (Clear Cell) Renal Cell Carcinoma",1.338236796404127,0,3
+"Tyrosine protein kinase VEGFR family","Vegfr","Deep Vein Thrombosis",1.338236796404127,0,2
+"Tyrosine protein kinase VEGFR family","Vegfr","Diabetic Nephropathy",1.338236796404127,0,3
+"Tyrosine protein kinase VEGFR family","Vegfr","Disease Exacerbation",1.338236796404127,0,2
+"Tyrosine protein kinase VEGFR family","Vegfr","Drug-Induced Acute Liver Injury",1.338236796404127,0,6
+"Tyrosine protein kinase VEGFR family","Vegfr","Drug-Induced Liver Disease",1.338236796404127,0,6
+"Tyrosine protein kinase VEGFR family","Vegfr","Dyschondroplasias",1.338236796404127,0,1
+"Tyrosine protein kinase VEGFR family","Vegfr","Epilepsy, Benign Psychomotor, Childhood",1.338236796404127,0,3
+"Tyrosine protein kinase VEGFR family","Vegfr","Epilepsy, Lateral Temporal",1.338236796404127,0,3
+"Tyrosine protein kinase VEGFR family","Vegfr","Epilepsy, Temporal Lobe",1.338236796404127,0,3
+"Tyrosine protein kinase VEGFR family","Vegfr","Esophageal Neoplasms",1.338236796404127,0,3
+"Tyrosine protein kinase VEGFR family","Vegfr","Experimental Hepatoma",1.338236796404127,0,4
+"Tyrosine protein kinase VEGFR family","Vegfr","Fibrosis, Liver",1.338236796404127,0,4
+"Tyrosine protein kinase VEGFR family","Vegfr","HEMANGIOMA, CAPILLARY INFANTILE",1.338236796404127,0,1
+"Tyrosine protein kinase VEGFR family","Vegfr","Hemangiosarcoma",1.338236796404127,0,2
+"Tyrosine protein kinase VEGFR family","Vegfr","Hepatitis, Drug-Induced",1.338236796404127,0,6
+"Tyrosine protein kinase VEGFR family","Vegfr","Hepatitis, Toxic",1.338236796404127,0,6
+"Tyrosine protein kinase VEGFR family","Vegfr","Hepatoma, Morris",1.338236796404127,0,4
+"Tyrosine protein kinase VEGFR family","Vegfr","Hepatoma, Novikoff",1.338236796404127,0,4
+"Tyrosine protein kinase VEGFR family","Vegfr","Liver Cirrhosis",1.338236796404127,0,4
+"Tyrosine protein kinase VEGFR family","Vegfr","Liver Neoplasms, Experimental",1.338236796404127,0,4
+"Tyrosine protein kinase VEGFR family","Vegfr","Major Depressive Disorder",1.338236796404127,0,6
+"Tyrosine protein kinase VEGFR family","Vegfr","Malignant Neoplasms",1.338236796404127,0,6
+"Tyrosine protein kinase VEGFR family","Vegfr","Malignant neoplasm of breast",1.338236796404127,0,17
+"Tyrosine protein kinase VEGFR family","Vegfr","Malignant neoplasm of esophagus",1.338236796404127,0,3
+"Tyrosine protein kinase VEGFR family","Vegfr","Malignant neoplasm of pancreas",1.338236796404127,0,2
+"Tyrosine protein kinase VEGFR family","Vegfr","Malignant neoplasm of skin",1.338236796404127,0,5
+"Tyrosine protein kinase VEGFR family","Vegfr","Mammary Neoplasms",1.338236796404127,0,14
+"Tyrosine protein kinase VEGFR family","Vegfr","Mammary Neoplasms, Human",1.338236796404127,0,13
+"Tyrosine protein kinase VEGFR family","Vegfr","Melnick-Needles Syndrome",1.338236796404127,0,1
+"Tyrosine protein kinase VEGFR family","Vegfr","Multiple Epiphyseal Dysplasia",1.338236796404127,0,1
+"Tyrosine protein kinase VEGFR family","Vegfr","Myocardial Ischemia",1.338236796404127,0,6
+"Tyrosine protein kinase VEGFR family","Vegfr","Neoplasm Metastasis",1.338236796404127,0,7
+"Tyrosine protein kinase VEGFR family","Vegfr","Nodular glomerulosclerosis",1.338236796404127,0,3
+"Tyrosine protein kinase VEGFR family","Vegfr","Non-Small Cell Lung Carcinoma",1.338236796404127,0,6
+"Tyrosine protein kinase VEGFR family","Vegfr","Osteochondrodysplasias",1.338236796404127,0,1
+"Tyrosine protein kinase VEGFR family","Vegfr","Pancreatic Neoplasm",1.338236796404127,0,2
+"Tyrosine protein kinase VEGFR family","Vegfr","Papillary Renal Cell Carcinoma",1.338236796404127,0,2
+"Tyrosine protein kinase VEGFR family","Vegfr","Pathologic Neovascularization",1.338236796404127,0,2
+"Tyrosine protein kinase VEGFR family","Vegfr","Pre-Eclampsia",1.338236796404127,0,1
+"Tyrosine protein kinase VEGFR family","Vegfr","Renal Cell Carcinoma",1.338236796404127,0,2
+"Tyrosine protein kinase VEGFR family","Vegfr","Reperfusion Injury",1.338236796404127,0,1
+"Tyrosine protein kinase VEGFR family","Vegfr","Sarcomatoid Renal Cell Carcinoma",1.338236796404127,0,2
+"Tyrosine protein kinase VEGFR family","Vegfr","Schizophrenia",1.338236796404127,0,12
+"Tyrosine protein kinase VEGFR family","Vegfr","Schwartz-Jampel Syndrome",1.338236796404127,0,1
+"Tyrosine protein kinase VEGFR family","Vegfr","Skin Neoplasms",1.338236796404127,0,5
+"Tyrosine protein kinase VEGFR family","Vegfr","Spondyloepiphyseal Dysplasia",1.338236796404127,0,1
+"Tyrosine protein kinase VEGFR family","Vegfr","Spondyloepiphyseal Dysplasia Tarda, X-Linked",1.338236796404127,0,1
+"Tyrosine protein kinase VEGFR family","Vegfr","Transitional cell carcinoma of bladder",1.338236796404127,0,1
+"Tyrosine protein kinase VEGFR family","Vegfr","Uncinate Epilepsy",1.338236796404127,0,3
+"Tyrosine protein kinase VEGFR family","Vegfr","Unipolar Depression",1.338236796404127,0,7
+"Tyrosine protein kinase VEGFR family","Vegfr","Uremia",1.338236796404127,0,2
+"Tyrosine protein kinase VEGFR family","Vegfr","Van Buchem disease",1.338236796404127,0,1
+"Tyrosine protein kinase VEGFR family","Vegfr","Venous Thrombosis",1.338236796404127,0,2
+"Tyrosine protein kinase VEGFR family","Vegfr","melanoma",1.338236796404127,0,9

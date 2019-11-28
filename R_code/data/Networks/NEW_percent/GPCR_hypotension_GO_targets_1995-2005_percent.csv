@@ -1,0 +1,120 @@
+"go_pref_name","target_pref_name","Percentage_Bioactivities","No_Drug_Efficacy_Target_Annotations","Target_Connectivity"
+"DNA metabolic process","Alpha-2a adrenergic receptor",0.06604126635700651,0,1
+"aging","Cannabinoid CB1 receptor",0.06698471301924946,2,1
+"biosynthetic process","Adenosine A2a receptor",0.14151699933644252,3,2
+"biosynthetic process","Alpha-2a adrenergic receptor",0.06604126635700651,0,2
+"catabolic process","Adenosine A1 receptor",0.16321627256803037,1,1
+"cell death","Adenosine A1 receptor",0.16321627256803037,1,2
+"cell death","Adenosine A2a receptor",0.14151699933644252,3,2
+"cell differentiation","Cannabinoid CB1 receptor",0.06698471301924946,2,3
+"cell differentiation","Dopamine D1 receptor",0.012579288829906003,0,3
+"cell differentiation","Dopamine D2 receptor",0.17107832808672163,2,3
+"cell morphogenesis","Dopamine D2 receptor",0.17107832808672163,2,1
+"cell motility","Dopamine D1 receptor",0.012579288829906003,0,3
+"cell motility","Dopamine D2 receptor",0.17107832808672163,2,3
+"cell motility","Histamine H1 receptor",0.0226427198938308,2,3
+"cell proliferation","Alpha-1b adrenergic receptor",0.045599922008409254,0,1
+"cell-cell signaling","Adenosine A1 receptor",0.16321627256803037,1,7
+"cell-cell signaling","Adenosine A2a receptor",0.14151699933644252,3,7
+"cell-cell signaling","Alpha-1b adrenergic receptor",0.045599922008409254,0,7
+"cell-cell signaling","Dopamine D1 receptor",0.012579288829906003,0,7
+"cell-cell signaling","Dopamine D2 receptor",0.17107832808672163,2,7
+"cell-cell signaling","Serotonin 1b (5-HT1b) receptor",0.07453228631719307,1,7
+"cell-cell signaling","Serotonin 1d (5-HT1d) receptor",0.06383989081177295,1,7
+"cellular component assembly","Dopamine D1 receptor",0.012579288829906003,0,2
+"cellular component assembly","Dopamine D2 receptor",0.17107832808672163,2,2
+"cellular nitrogen compound metabolic process","Adenosine A2a receptor",0.14151699933644252,3,1
+"cellular response to drug","Serotonin 1b (5-HT1b) receptor",0.07453228631719307,1,1
+"circulatory system process","Adenosine A1 receptor",0.16321627256803037,1,11
+"circulatory system process","Adenosine A2a receptor",0.14151699933644252,3,11
+"circulatory system process","Alpha-1b adrenergic receptor",0.045599922008409254,0,11
+"circulatory system process","Alpha-2a adrenergic receptor",0.06604126635700651,0,11
+"circulatory system process","Bradykinin B2 receptor",0.004402751090467101,0,11
+"circulatory system process","Cannabinoid CB1 receptor",0.06698471301924946,2,11
+"circulatory system process","Dopamine D1 receptor",0.012579288829906003,0,11
+"circulatory system process","Dopamine D2 receptor",0.17107832808672163,2,11
+"circulatory system process","Histamine H1 receptor",0.0226427198938308,2,11
+"circulatory system process","Serotonin 1b (5-HT1b) receptor",0.07453228631719307,1,11
+"circulatory system process","Serotonin 1d (5-HT1d) receptor",0.06383989081177295,1,11
+"cytoskeleton organization","Alpha-2a adrenergic receptor",0.06604126635700651,0,1
+"digestion","Alpha-2a adrenergic receptor",0.06604126635700651,0,1
+"female pregnancy","Alpha-2a adrenergic receptor",0.06604126635700651,0,2
+"female pregnancy","Cannabinoid CB1 receptor",0.06698471301924946,2,2
+"homeostatic process","Adenosine A1 receptor",0.16321627256803037,1,7
+"homeostatic process","Alpha-1b adrenergic receptor",0.045599922008409254,0,7
+"homeostatic process","Alpha-2a adrenergic receptor",0.06604126635700651,0,7
+"homeostatic process","Bradykinin B2 receptor",0.004402751090467101,0,7
+"homeostatic process","Cannabinoid CB1 receptor",0.06698471301924946,2,7
+"homeostatic process","Dopamine D1 receptor",0.012579288829906003,0,7
+"homeostatic process","Dopamine D2 receptor",0.17107832808672163,2,7
+"immune system process","Bradykinin B2 receptor",0.004402751090467101,0,2
+"immune system process","Histamine H1 receptor",0.0226427198938308,2,2
+"lipid metabolic process","Adenosine A1 receptor",0.16321627256803037,1,2
+"lipid metabolic process","Dopamine D2 receptor",0.17107832808672163,2,2
+"membrane organization","Adenosine A1 receptor",0.16321627256803037,1,1
+"metabolic process","Adenosine A2a receptor",0.14151699933644252,3,4
+"metabolic process","Dopamine D1 receptor",0.012579288829906003,0,4
+"metabolic process","Dopamine D2 receptor",0.17107832808672163,2,4
+"metabolic process","Serotonin 1b (5-HT1b) receptor",0.07453228631719307,1,4
+"multicellular organismal development","Adenosine A1 receptor",0.16321627256803037,1,6
+"multicellular organismal development","Adenosine A2a receptor",0.14151699933644252,3,6
+"multicellular organismal development","Alpha-1b adrenergic receptor",0.045599922008409254,0,6
+"multicellular organismal development","Cannabinoid CB1 receptor",0.06698471301924946,2,6
+"multicellular organismal development","Dopamine D1 receptor",0.012579288829906003,0,6
+"multicellular organismal development","Dopamine D2 receptor",0.17107832808672163,2,6
+"neurological system process","Adenosine A1 receptor",0.16321627256803037,1,7
+"neurological system process","Adenosine A2a receptor",0.14151699933644252,3,7
+"neurological system process","Alpha-2a adrenergic receptor",0.06604126635700651,0,7
+"neurological system process","Cannabinoid CB1 receptor",0.06698471301924946,2,7
+"neurological system process","Dopamine D1 receptor",0.012579288829906003,0,7
+"neurological system process","Dopamine D2 receptor",0.17107832808672163,2,7
+"neurological system process","Histamine H1 receptor",0.0226427198938308,2,7
+"nucleocytoplasmic transport","Dopamine D1 receptor",0.012579288829906003,0,1
+"pigmentation","Dopamine D2 receptor",0.17107832808672163,2,1
+"positive regulation of apoptotic process","Cannabinoid CB1 receptor",0.06698471301924946,2,1
+"positive regulation of catalytic activity","Adenosine A1 receptor",0.16321627256803037,1,5
+"positive regulation of catalytic activity","Adenosine A2a receptor",0.14151699933644252,3,5
+"positive regulation of catalytic activity","Alpha-2a adrenergic receptor",0.06604126635700651,0,5
+"positive regulation of catalytic activity","Dopamine D1 receptor",0.012579288829906003,0,5
+"positive regulation of catalytic activity","Dopamine D2 receptor",0.17107832808672163,2,5
+"protein targeting","Adenosine A1 receptor",0.16321627256803037,1,2
+"protein targeting","Dopamine D1 receptor",0.012579288829906003,0,2
+"regulation of catalytic activity","Alpha-2a adrenergic receptor",0.06604126635700651,0,4
+"regulation of catalytic activity","Cannabinoid CB1 receptor",0.06698471301924946,2,4
+"regulation of catalytic activity","Dopamine D1 receptor",0.012579288829906003,0,4
+"regulation of catalytic activity","Dopamine D2 receptor",0.17107832808672163,2,4
+"regulation of protein localization","Alpha-2a adrenergic receptor",0.06604126635700651,0,3
+"regulation of protein localization","Cannabinoid CB1 receptor",0.06698471301924946,2,3
+"regulation of protein localization","Dopamine D2 receptor",0.17107832808672163,2,3
+"reproduction","Cannabinoid CB1 receptor",0.06698471301924946,2,2
+"reproduction","Dopamine D1 receptor",0.012579288829906003,0,2
+"response to stress","Adenosine A1 receptor",0.16321627256803037,1,7
+"response to stress","Adenosine A2a receptor",0.14151699933644252,3,7
+"response to stress","Alpha-2a adrenergic receptor",0.06604126635700651,0,7
+"response to stress","Bradykinin B2 receptor",0.004402751090467101,0,7
+"response to stress","Dopamine D1 receptor",0.012579288829906003,0,7
+"response to stress","Dopamine D2 receptor",0.17107832808672163,2,7
+"response to stress","Histamine H1 receptor",0.0226427198938308,2,7
+"response to toxic substance","Dopamine D2 receptor",0.17107832808672163,2,2
+"response to toxic substance","Serotonin 1d (5-HT1d) receptor",0.06383989081177295,1,2
+"signal transduction","Adenosine A1 receptor",0.16321627256803037,1,11
+"signal transduction","Adenosine A2a receptor",0.14151699933644252,3,11
+"signal transduction","Alpha-1b adrenergic receptor",0.045599922008409254,0,11
+"signal transduction","Alpha-2a adrenergic receptor",0.06604126635700651,0,11
+"signal transduction","Bradykinin B2 receptor",0.004402751090467101,0,11
+"signal transduction","Cannabinoid CB1 receptor",0.06698471301924946,2,11
+"signal transduction","Dopamine D1 receptor",0.012579288829906003,0,11
+"signal transduction","Dopamine D2 receptor",0.17107832808672163,2,11
+"signal transduction","Histamine H1 receptor",0.0226427198938308,2,11
+"signal transduction","Serotonin 1b (5-HT1b) receptor",0.07453228631719307,1,11
+"signal transduction","Serotonin 1d (5-HT1d) receptor",0.06383989081177295,1,11
+"small molecule metabolic process","Adenosine A2a receptor",0.14151699933644252,3,1
+"transmembrane transport","Dopamine D2 receptor",0.17107832808672163,2,1
+"transport","Alpha-2a adrenergic receptor",0.06604126635700651,0,4
+"transport","Bradykinin B2 receptor",0.004402751090467101,0,4
+"transport","Dopamine D1 receptor",0.012579288829906003,0,4
+"transport","Dopamine D2 receptor",0.17107832808672163,2,4
+"vesicle-mediated transport","Adenosine A1 receptor",0.16321627256803037,1,4
+"vesicle-mediated transport","Adenosine A2a receptor",0.14151699933644252,3,4
+"vesicle-mediated transport","Dopamine D2 receptor",0.17107832808672163,2,4
+"vesicle-mediated transport","Serotonin 1b (5-HT1b) receptor",0.07453228631719307,1,4

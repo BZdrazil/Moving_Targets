@@ -1,0 +1,328 @@
+"protein_class_pref_name","protein_class_short_name","go_pref_name","Percentage_Bioactivities","No_Drug_Efficacy_Target_Annotations","Target_Connectivity"
+"AGC protein kinase AKT family","Akt","aging",0.01289377105065365,0,5
+"AGC protein kinase AKT family","Akt","anatomical structure development",0.01289377105065365,0,7
+"AGC protein kinase AKT family","Akt","biosynthetic process",0.01289377105065365,0,6
+"AGC protein kinase AKT family","Akt","carbohydrate metabolic process",0.01289377105065365,0,3
+"AGC protein kinase AKT family","Akt","catabolic process",0.01289377105065365,0,4
+"AGC protein kinase AKT family","Akt","cell death",0.01289377105065365,0,8
+"AGC protein kinase AKT family","Akt","cell differentiation",0.01289377105065365,0,16
+"AGC protein kinase AKT family","Akt","cell proliferation",0.01289377105065365,0,7
+"AGC protein kinase AKT family","Akt","cell-cell signaling",0.01289377105065365,0,6
+"AGC protein kinase AKT family","Akt","cellular nitrogen compound metabolic process",0.01289377105065365,0,6
+"AGC protein kinase AKT family","Akt","cellular protein modification process",0.01289377105065365,0,20
+"AGC protein kinase AKT family","Akt","circulatory system process",0.01289377105065365,0,2
+"AGC protein kinase AKT family","Akt","embryo development",0.01289377105065365,0,4
+"AGC protein kinase AKT family","Akt","female pregnancy",0.01289377105065365,0,1
+"AGC protein kinase AKT family","Akt","generation of precursor metabolites and energy",0.01289377105065365,0,2
+"AGC protein kinase AKT family","Akt","homeostatic process",0.01289377105065365,0,1
+"AGC protein kinase AKT family","Akt","immune system process",0.01289377105065365,0,8
+"AGC protein kinase AKT family","Akt","metabolic process",0.01289377105065365,0,1
+"AGC protein kinase AKT family","Akt","mitochondrion organization",0.01289377105065365,0,4
+"AGC protein kinase AKT family","Akt","multicellular organismal development",0.01289377105065365,0,17
+"AGC protein kinase AKT family","Akt","negative regulation of endopeptidase activity",0.01289377105065365,0,1
+"AGC protein kinase AKT family","Akt","nucleocytoplasmic transport",0.01289377105065365,0,4
+"AGC protein kinase AKT family","Akt","phosphorylation",0.01289377105065365,0,20
+"AGC protein kinase AKT family","Akt","plasma membrane organization",0.01289377105065365,0,2
+"AGC protein kinase AKT family","Akt","positive regulation of apoptotic process",0.01289377105065365,0,4
+"AGC protein kinase AKT family","Akt","positive regulation of catalytic activity",0.01289377105065365,0,14
+"AGC protein kinase AKT family","Akt","protein targeting",0.01289377105065365,0,2
+"AGC protein kinase AKT family","Akt","regulation of catalytic activity",0.01289377105065365,0,4
+"AGC protein kinase AKT family","Akt","regulation of protein localization",0.01289377105065365,0,9
+"AGC protein kinase AKT family","Akt","reproduction",0.01289377105065365,0,6
+"AGC protein kinase AKT family","Akt","response to stress",0.01289377105065365,0,14
+"AGC protein kinase AKT family","Akt","signal transduction",0.01289377105065365,0,18
+"AGC protein kinase AKT family","Akt","small molecule metabolic process",0.01289377105065365,0,3
+"AGC protein kinase AKT family","Akt","translation",0.01289377105065365,0,1
+"AGC protein kinase AKT family","Akt","transport",0.01289377105065365,0,6
+"AGC protein kinase PKC alpha subfamily","Alpha","anatomical structure formation involved in morphogenesis",0.056606799734577,0,8
+"AGC protein kinase PKC alpha subfamily","Alpha","cell adhesion",0.056606799734577,0,3
+"AGC protein kinase PKC alpha subfamily","Alpha","cell cycle",0.056606799734577,0,7
+"AGC protein kinase PKC alpha subfamily","Alpha","cell death",0.056606799734577,0,8
+"AGC protein kinase PKC alpha subfamily","Alpha","cell junction organization",0.056606799734577,0,1
+"AGC protein kinase PKC alpha subfamily","Alpha","cellular component assembly",0.056606799734577,0,4
+"AGC protein kinase PKC alpha subfamily","Alpha","cellular protein modification process",0.056606799734577,0,20
+"AGC protein kinase PKC alpha subfamily","Alpha","chromosome organization",0.056606799734577,0,2
+"AGC protein kinase PKC alpha subfamily","Alpha","membrane organization",0.056606799734577,0,4
+"AGC protein kinase PKC alpha subfamily","Alpha","multicellular organismal development",0.056606799734577,0,17
+"AGC protein kinase PKC alpha subfamily","Alpha","phosphorylation",0.056606799734577,0,20
+"AGC protein kinase PKC alpha subfamily","Alpha","positive regulation of catalytic activity",0.056606799734577,0,14
+"AGC protein kinase PKC alpha subfamily","Alpha","regulation of catalytic activity",0.056606799734577,0,4
+"AGC protein kinase PKC alpha subfamily","Alpha","regulation of protein localization",0.056606799734577,0,9
+"AGC protein kinase PKC alpha subfamily","Alpha","response to stress",0.056606799734577,0,14
+"AGC protein kinase PKC alpha subfamily","Alpha","signal transduction",0.056606799734577,0,18
+"CAMK protein kinase CAMK2 family","Camk2","cell differentiation",9.434466622429501E-4,0,16
+"CAMK protein kinase CAMK2 family","Camk2","cell morphogenesis",9.434466622429501E-4,0,9
+"CAMK protein kinase CAMK2 family","Camk2","cellular protein modification process",9.434466622429501E-4,0,20
+"CAMK protein kinase CAMK2 family","Camk2","immune system process",9.434466622429501E-4,0,8
+"CAMK protein kinase CAMK2 family","Camk2","multicellular organismal development",9.434466622429501E-4,0,17
+"CAMK protein kinase CAMK2 family","Camk2","phosphorylation",9.434466622429501E-4,0,20
+"CAMK protein kinase CAMK2 family","Camk2","positive regulation of catalytic activity",9.434466622429501E-4,0,14
+"CAMK protein kinase CAMK2 family","Camk2","response to stress",9.434466622429501E-4,0,14
+"CAMK protein kinase CAMK2 family","Camk2","signal transduction",9.434466622429501E-4,0,18
+"CAMK protein kinase CHK1 subfamily","Chk1","DNA metabolic process",0.0031448222074765006,0,2
+"CAMK protein kinase CHK1 subfamily","Chk1","aging",0.0031448222074765006,0,5
+"CAMK protein kinase CHK1 subfamily","Chk1","biosynthetic process",0.0031448222074765006,0,6
+"CAMK protein kinase CHK1 subfamily","Chk1","cell cycle",0.0031448222074765006,0,7
+"CAMK protein kinase CHK1 subfamily","Chk1","cellular protein modification process",0.0031448222074765006,0,20
+"CAMK protein kinase CHK1 subfamily","Chk1","chromosome organization",0.0031448222074765006,0,2
+"CAMK protein kinase CHK1 subfamily","Chk1","phosphorylation",0.0031448222074765006,0,20
+"CAMK protein kinase CHK1 subfamily","Chk1","response to stress",0.0031448222074765006,0,14
+"CAMK protein kinase MARK subfamily","Mark","autophagy",0.0012579288829906,0,2
+"CAMK protein kinase MARK subfamily","Mark","catabolic process",0.0012579288829906,0,4
+"CAMK protein kinase MARK subfamily","Mark","cell differentiation",0.0012579288829906,0,16
+"CAMK protein kinase MARK subfamily","Mark","cell motility",0.0012579288829906,0,7
+"CAMK protein kinase MARK subfamily","Mark","cellular protein modification process",0.0012579288829906,0,20
+"CAMK protein kinase MARK subfamily","Mark","mitochondrion organization",0.0012579288829906,0,4
+"CAMK protein kinase MARK subfamily","Mark","multicellular organismal development",0.0012579288829906,0,17
+"CAMK protein kinase MARK subfamily","Mark","phosphorylation",0.0012579288829906,0,20
+"CAMK protein kinase MARK subfamily","Mark","positive regulation of catalytic activity",0.0012579288829906,0,14
+"CAMK protein kinase MARK subfamily","Mark","signal transduction",0.0012579288829906,0,18
+"CK1 protein kinase CK1 family","Ck1","DNA metabolic process",0.0025158577659812,0,2
+"CK1 protein kinase CK1 family","Ck1","cell cycle",0.0025158577659812,0,7
+"CK1 protein kinase CK1 family","Ck1","cell differentiation",0.0025158577659812,0,16
+"CK1 protein kinase CK1 family","Ck1","cellular nitrogen compound metabolic process",0.0025158577659812,0,6
+"CK1 protein kinase CK1 family","Ck1","cellular protein modification process",0.0025158577659812,0,20
+"CK1 protein kinase CK1 family","Ck1","multicellular organismal development",0.0025158577659812,0,17
+"CK1 protein kinase CK1 family","Ck1","phosphorylation",0.0025158577659812,0,20
+"CK1 protein kinase CK1 family","Ck1","regulation of protein localization",0.0025158577659812,0,9
+"CK1 protein kinase CK1 family","Ck1","response to stress",0.0025158577659812,0,14
+"CK1 protein kinase CK1 family","Ck1","ribosome biogenesis",0.0025158577659812,0,1
+"CK1 protein kinase CK1 family","Ck1","signal transduction",0.0025158577659812,0,18
+"CK1 protein kinase CK1 family","Ck1","vesicle-mediated transport",0.0025158577659812,0,5
+"CMGC protein kinase CDK5 subfamily","Cdk5","anatomical structure formation involved in morphogenesis",0.0022013755452335504,1,8
+"CMGC protein kinase CDK5 subfamily","Cdk5","catabolic process",0.0022013755452335504,1,4
+"CMGC protein kinase CDK5 subfamily","Cdk5","cell adhesion",0.0022013755452335504,1,3
+"CMGC protein kinase CDK5 subfamily","Cdk5","cell cycle",0.0022013755452335504,1,7
+"CMGC protein kinase CDK5 subfamily","Cdk5","cell death",0.0022013755452335504,1,8
+"CMGC protein kinase CDK5 subfamily","Cdk5","cell differentiation",0.0022013755452335504,1,16
+"CMGC protein kinase CDK5 subfamily","Cdk5","cell division",0.0022013755452335504,1,2
+"CMGC protein kinase CDK5 subfamily","Cdk5","cell morphogenesis",0.0022013755452335504,1,9
+"CMGC protein kinase CDK5 subfamily","Cdk5","cell motility",0.0022013755452335504,1,7
+"CMGC protein kinase CDK5 subfamily","Cdk5","cell proliferation",0.0022013755452335504,1,7
+"CMGC protein kinase CDK5 subfamily","Cdk5","cell-cell signaling",0.0022013755452335504,1,6
+"CMGC protein kinase CDK5 subfamily","Cdk5","cellular component assembly",0.0022013755452335504,1,4
+"CMGC protein kinase CDK5 subfamily","Cdk5","cellular protein modification process",0.0022013755452335504,1,20
+"CMGC protein kinase CDK5 subfamily","Cdk5","cytoskeleton organization",0.0022013755452335504,1,3
+"CMGC protein kinase CDK5 subfamily","Cdk5","growth",0.0022013755452335504,1,3
+"CMGC protein kinase CDK5 subfamily","Cdk5","locomotion",0.0022013755452335504,1,7
+"CMGC protein kinase CDK5 subfamily","Cdk5","membrane organization",0.0022013755452335504,1,4
+"CMGC protein kinase CDK5 subfamily","Cdk5","multicellular organismal development",0.0022013755452335504,1,17
+"CMGC protein kinase CDK5 subfamily","Cdk5","neurological system process",0.0022013755452335504,1,5
+"CMGC protein kinase CDK5 subfamily","Cdk5","nucleocytoplasmic transport",0.0022013755452335504,1,4
+"CMGC protein kinase CDK5 subfamily","Cdk5","phosphorylation",0.0022013755452335504,1,20
+"CMGC protein kinase CDK5 subfamily","Cdk5","positive regulation of apoptotic process",0.0022013755452335504,1,4
+"CMGC protein kinase CDK5 subfamily","Cdk5","positive regulation of catalytic activity",0.0022013755452335504,1,14
+"CMGC protein kinase CDK5 subfamily","Cdk5","regulation of protein localization",0.0022013755452335504,1,9
+"CMGC protein kinase CDK5 subfamily","Cdk5","response to stress",0.0022013755452335504,1,14
+"CMGC protein kinase CDK5 subfamily","Cdk5","signal transduction",0.0022013755452335504,1,18
+"CMGC protein kinase CDK5 subfamily","Cdk5","transport",0.0022013755452335504,1,6
+"CMGC protein kinase CDK5 subfamily","Cdk5","vesicle-mediated transport",0.0022013755452335504,1,5
+"CMGC protein kinase ERK subfamily","Erk","anatomical structure development",0.004402751090467101,0,7
+"CMGC protein kinase ERK subfamily","Erk","anatomical structure formation involved in morphogenesis",0.004402751090467101,0,8
+"CMGC protein kinase ERK subfamily","Erk","biosynthetic process",0.004402751090467101,0,6
+"CMGC protein kinase ERK subfamily","Erk","cell cycle",0.004402751090467101,0,7
+"CMGC protein kinase ERK subfamily","Erk","cell death",0.004402751090467101,0,8
+"CMGC protein kinase ERK subfamily","Erk","cell differentiation",0.004402751090467101,0,16
+"CMGC protein kinase ERK subfamily","Erk","cell morphogenesis",0.004402751090467101,0,9
+"CMGC protein kinase ERK subfamily","Erk","cell proliferation",0.004402751090467101,0,7
+"CMGC protein kinase ERK subfamily","Erk","cell-cell signaling",0.004402751090467101,0,6
+"CMGC protein kinase ERK subfamily","Erk","cellular nitrogen compound metabolic process",0.004402751090467101,0,6
+"CMGC protein kinase ERK subfamily","Erk","cellular protein modification process",0.004402751090467101,0,20
+"CMGC protein kinase ERK subfamily","Erk","embryo development",0.004402751090467101,0,4
+"CMGC protein kinase ERK subfamily","Erk","immune system process",0.004402751090467101,0,8
+"CMGC protein kinase ERK subfamily","Erk","lipid metabolic process",0.004402751090467101,0,5
+"CMGC protein kinase ERK subfamily","Erk","locomotion",0.004402751090467101,0,7
+"CMGC protein kinase ERK subfamily","Erk","multicellular organismal development",0.004402751090467101,0,17
+"CMGC protein kinase ERK subfamily","Erk","neurological system process",0.004402751090467101,0,5
+"CMGC protein kinase ERK subfamily","Erk","nucleocytoplasmic transport",0.004402751090467101,0,4
+"CMGC protein kinase ERK subfamily","Erk","phosphorylation",0.004402751090467101,0,20
+"CMGC protein kinase ERK subfamily","Erk","positive regulation of catalytic activity",0.004402751090467101,0,14
+"CMGC protein kinase ERK subfamily","Erk","protein complex assembly",0.004402751090467101,0,2
+"CMGC protein kinase ERK subfamily","Erk","protein targeting",0.004402751090467101,0,2
+"CMGC protein kinase ERK subfamily","Erk","reproduction",0.004402751090467101,0,6
+"CMGC protein kinase ERK subfamily","Erk","response to stress",0.004402751090467101,0,14
+"CMGC protein kinase ERK subfamily","Erk","response to toxic substance",0.004402751090467101,0,2
+"CMGC protein kinase ERK subfamily","Erk","signal transduction",0.004402751090467101,0,18
+"CMGC protein kinase ERK subfamily","Erk","small molecule metabolic process",0.004402751090467101,0,3
+"CMGC protein kinase ERK subfamily","Erk","symbiosis, encompassing mutualism through parasitism",0.004402751090467101,0,3
+"CMGC protein kinase ERK subfamily","Erk","vesicle-mediated transport",0.004402751090467101,0,5
+"CMGC protein kinase GSK family","Gsk","aging",0.046228886449904555,1,5
+"CMGC protein kinase GSK family","Gsk","anatomical structure development",0.046228886449904555,1,7
+"CMGC protein kinase GSK family","Gsk","anatomical structure formation involved in morphogenesis",0.046228886449904555,1,8
+"CMGC protein kinase GSK family","Gsk","carbohydrate metabolic process",0.046228886449904555,1,3
+"CMGC protein kinase GSK family","Gsk","catabolic process",0.046228886449904555,1,4
+"CMGC protein kinase GSK family","Gsk","cell cycle",0.046228886449904555,1,7
+"CMGC protein kinase GSK family","Gsk","cell death",0.046228886449904555,1,8
+"CMGC protein kinase GSK family","Gsk","cell differentiation",0.046228886449904555,1,16
+"CMGC protein kinase GSK family","Gsk","cell morphogenesis",0.046228886449904555,1,9
+"CMGC protein kinase GSK family","Gsk","cell motility",0.046228886449904555,1,7
+"CMGC protein kinase GSK family","Gsk","cell-cell signaling",0.046228886449904555,1,6
+"CMGC protein kinase GSK family","Gsk","cellular nitrogen compound metabolic process",0.046228886449904555,1,6
+"CMGC protein kinase GSK family","Gsk","cellular protein modification process",0.046228886449904555,1,20
+"CMGC protein kinase GSK family","Gsk","circulatory system process",0.046228886449904555,1,2
+"CMGC protein kinase GSK family","Gsk","generation of precursor metabolites and energy",0.046228886449904555,1,2
+"CMGC protein kinase GSK family","Gsk","membrane organization",0.046228886449904555,1,4
+"CMGC protein kinase GSK family","Gsk","mitochondrion organization",0.046228886449904555,1,4
+"CMGC protein kinase GSK family","Gsk","multicellular organismal development",0.046228886449904555,1,17
+"CMGC protein kinase GSK family","Gsk","nucleocytoplasmic transport",0.046228886449904555,1,4
+"CMGC protein kinase GSK family","Gsk","phosphorylation",0.046228886449904555,1,20
+"CMGC protein kinase GSK family","Gsk","positive regulation of apoptotic process",0.046228886449904555,1,4
+"CMGC protein kinase GSK family","Gsk","positive regulation of catalytic activity",0.046228886449904555,1,14
+"CMGC protein kinase GSK family","Gsk","protein complex assembly",0.046228886449904555,1,2
+"CMGC protein kinase GSK family","Gsk","proteolysis",0.046228886449904555,1,1
+"CMGC protein kinase GSK family","Gsk","regulation of catalytic activity",0.046228886449904555,1,4
+"CMGC protein kinase GSK family","Gsk","regulation of protein localization",0.046228886449904555,1,9
+"CMGC protein kinase GSK family","Gsk","response to stress",0.046228886449904555,1,14
+"CMGC protein kinase GSK family","Gsk","signal transduction",0.046228886449904555,1,18
+"CMGC protein kinase GSK family","Gsk","transport",0.046228886449904555,1,6
+"CMGC protein kinase JNK subfamily","Jnk","cellular protein modification process",0.011950324388410701,0,20
+"CMGC protein kinase JNK subfamily","Jnk","membrane organization",0.011950324388410701,0,4
+"CMGC protein kinase JNK subfamily","Jnk","mitochondrion organization",0.011950324388410701,0,4
+"CMGC protein kinase JNK subfamily","Jnk","phosphorylation",0.011950324388410701,0,20
+"CMGC protein kinase JNK subfamily","Jnk","positive regulation of apoptotic process",0.011950324388410701,0,4
+"CMGC protein kinase JNK subfamily","Jnk","positive regulation of catalytic activity",0.011950324388410701,0,14
+"CMGC protein kinase JNK subfamily","Jnk","regulation of protein localization",0.011950324388410701,0,9
+"CMGC protein kinase JNK subfamily","Jnk","response to stress",0.011950324388410701,0,14
+"CMGC protein kinase JNK subfamily","Jnk","signal transduction",0.011950324388410701,0,18
+"CMGC protein kinase JNK subfamily","Jnk","transport",0.011950324388410701,0,6
+"CMGC protein kinase TAIRE subfamily","Taire","cell differentiation",0.0025158577659812,0,16
+"CMGC protein kinase TAIRE subfamily","Taire","cell-cell signaling",0.0025158577659812,0,6
+"CMGC protein kinase TAIRE subfamily","Taire","cellular protein modification process",0.0025158577659812,0,20
+"CMGC protein kinase TAIRE subfamily","Taire","multicellular organismal development",0.0025158577659812,0,17
+"CMGC protein kinase TAIRE subfamily","Taire","phosphorylation",0.0025158577659812,0,20
+"CMGC protein kinase TAIRE subfamily","Taire","regulation of protein localization",0.0025158577659812,0,9
+"CMGC protein kinase TAIRE subfamily","Taire","reproduction",0.0025158577659812,0,6
+"CMGC protein kinase TAIRE subfamily","Taire","transport",0.0025158577659812,0,6
+"CMGC protein kinase TAIRE subfamily","Taire","vesicle-mediated transport",0.0025158577659812,0,5
+"CMGC protein kinase p38 subfamily","p38","aging",0.07170194633046421,3,5
+"CMGC protein kinase p38 subfamily","p38","anatomical structure development",0.07170194633046421,3,7
+"CMGC protein kinase p38 subfamily","p38","anatomical structure formation involved in morphogenesis",0.07170194633046421,3,8
+"CMGC protein kinase p38 subfamily","p38","biosynthetic process",0.07170194633046421,3,6
+"CMGC protein kinase p38 subfamily","p38","carbohydrate metabolic process",0.07170194633046421,3,3
+"CMGC protein kinase p38 subfamily","p38","cell cycle",0.07170194633046421,3,7
+"CMGC protein kinase p38 subfamily","p38","cell death",0.07170194633046421,3,8
+"CMGC protein kinase p38 subfamily","p38","cell differentiation",0.07170194633046421,3,16
+"CMGC protein kinase p38 subfamily","p38","cell morphogenesis",0.07170194633046421,3,9
+"CMGC protein kinase p38 subfamily","p38","cellular nitrogen compound metabolic process",0.07170194633046421,3,6
+"CMGC protein kinase p38 subfamily","p38","cellular protein modification process",0.07170194633046421,3,20
+"CMGC protein kinase p38 subfamily","p38","growth",0.07170194633046421,3,3
+"CMGC protein kinase p38 subfamily","p38","immune system process",0.07170194633046421,3,8
+"CMGC protein kinase p38 subfamily","p38","lipid metabolic process",0.07170194633046421,3,5
+"CMGC protein kinase p38 subfamily","p38","locomotion",0.07170194633046421,3,7
+"CMGC protein kinase p38 subfamily","p38","multicellular organismal development",0.07170194633046421,3,17
+"CMGC protein kinase p38 subfamily","p38","phosphorylation",0.07170194633046421,3,20
+"CMGC protein kinase p38 subfamily","p38","positive regulation of catalytic activity",0.07170194633046421,3,14
+"CMGC protein kinase p38 subfamily","p38","regulation of protein localization",0.07170194633046421,3,9
+"CMGC protein kinase p38 subfamily","p38","reproduction",0.07170194633046421,3,6
+"CMGC protein kinase p38 subfamily","p38","response to stress",0.07170194633046421,3,14
+"CMGC protein kinase p38 subfamily","p38","signal transduction",0.07170194633046421,3,18
+"CMGC protein kinase p38 subfamily","p38","small molecule metabolic process",0.07170194633046421,3,3
+"Other protein kinase Meta subfamily","Meta","cellular protein modification process",0.0018868933244859001,0,20
+"Other protein kinase Meta subfamily","Meta","phosphorylation",0.0018868933244859001,0,20
+"Other protein kinase Meta subfamily","Meta","regulation of catalytic activity",0.0018868933244859001,0,4
+"Other protein kinase Meta subfamily","Meta","signal transduction",0.0018868933244859001,0,18
+"STE protein kinase MSN subfamily","Msn","autophagy",0.00283033998672885,0,2
+"STE protein kinase MSN subfamily","Msn","cell differentiation",0.00283033998672885,0,16
+"STE protein kinase MSN subfamily","Msn","cellular component assembly",0.00283033998672885,0,4
+"STE protein kinase MSN subfamily","Msn","cellular protein modification process",0.00283033998672885,0,20
+"STE protein kinase MSN subfamily","Msn","cytoskeleton organization",0.00283033998672885,0,3
+"STE protein kinase MSN subfamily","Msn","multicellular organismal development",0.00283033998672885,0,17
+"STE protein kinase MSN subfamily","Msn","phosphorylation",0.00283033998672885,0,20
+"STE protein kinase MSN subfamily","Msn","plasma membrane organization",0.00283033998672885,0,2
+"STE protein kinase MSN subfamily","Msn","positive regulation of catalytic activity",0.00283033998672885,0,14
+"STE protein kinase MSN subfamily","Msn","response to stress",0.00283033998672885,0,14
+"STE protein kinase MSN subfamily","Msn","signal transduction",0.00283033998672885,0,18
+"Tyrosine protein kinase FGFR family","Fgfr","anatomical structure development",0.029875810971026755,0,7
+"Tyrosine protein kinase FGFR family","Fgfr","anatomical structure formation involved in morphogenesis",0.029875810971026755,0,8
+"Tyrosine protein kinase FGFR family","Fgfr","biosynthetic process",0.029875810971026755,0,6
+"Tyrosine protein kinase FGFR family","Fgfr","cell death",0.029875810971026755,0,8
+"Tyrosine protein kinase FGFR family","Fgfr","cell differentiation",0.029875810971026755,0,16
+"Tyrosine protein kinase FGFR family","Fgfr","cell division",0.029875810971026755,0,2
+"Tyrosine protein kinase FGFR family","Fgfr","cell morphogenesis",0.029875810971026755,0,9
+"Tyrosine protein kinase FGFR family","Fgfr","cell motility",0.029875810971026755,0,7
+"Tyrosine protein kinase FGFR family","Fgfr","cell proliferation",0.029875810971026755,0,7
+"Tyrosine protein kinase FGFR family","Fgfr","cell-cell signaling",0.029875810971026755,0,6
+"Tyrosine protein kinase FGFR family","Fgfr","cellular nitrogen compound metabolic process",0.029875810971026755,0,6
+"Tyrosine protein kinase FGFR family","Fgfr","cellular protein modification process",0.029875810971026755,0,20
+"Tyrosine protein kinase FGFR family","Fgfr","developmental maturation",0.029875810971026755,0,1
+"Tyrosine protein kinase FGFR family","Fgfr","embryo development",0.029875810971026755,0,4
+"Tyrosine protein kinase FGFR family","Fgfr","growth",0.029875810971026755,0,3
+"Tyrosine protein kinase FGFR family","Fgfr","immune system process",0.029875810971026755,0,8
+"Tyrosine protein kinase FGFR family","Fgfr","lipid metabolic process",0.029875810971026755,0,5
+"Tyrosine protein kinase FGFR family","Fgfr","multicellular organismal development",0.029875810971026755,0,17
+"Tyrosine protein kinase FGFR family","Fgfr","neurological system process",0.029875810971026755,0,5
+"Tyrosine protein kinase FGFR family","Fgfr","phosphorylation",0.029875810971026755,0,20
+"Tyrosine protein kinase FGFR family","Fgfr","positive regulation of catalytic activity",0.029875810971026755,0,14
+"Tyrosine protein kinase FGFR family","Fgfr","reproduction",0.029875810971026755,0,6
+"Tyrosine protein kinase FGFR family","Fgfr","signal transduction",0.029875810971026755,0,18
+"Tyrosine protein kinase Met family","Met","cell differentiation",6.289644414953E-4,0,16
+"Tyrosine protein kinase Met family","Met","cell morphogenesis",6.289644414953E-4,0,9
+"Tyrosine protein kinase Met family","Met","cell proliferation",6.289644414953E-4,0,7
+"Tyrosine protein kinase Met family","Met","cellular protein modification process",6.289644414953E-4,0,20
+"Tyrosine protein kinase Met family","Met","locomotion",6.289644414953E-4,0,7
+"Tyrosine protein kinase Met family","Met","multicellular organismal development",6.289644414953E-4,0,17
+"Tyrosine protein kinase Met family","Met","phosphorylation",6.289644414953E-4,0,20
+"Tyrosine protein kinase Met family","Met","signal transduction",6.289644414953E-4,0,18
+"Tyrosine protein kinase PDGFR family","Pdgfr","anatomical structure formation involved in morphogenesis",0.039310277593456254,2,8
+"Tyrosine protein kinase PDGFR family","Pdgfr","biosynthetic process",0.039310277593456254,2,6
+"Tyrosine protein kinase PDGFR family","Pdgfr","cell differentiation",0.039310277593456254,2,16
+"Tyrosine protein kinase PDGFR family","Pdgfr","cell motility",0.039310277593456254,2,7
+"Tyrosine protein kinase PDGFR family","Pdgfr","cell proliferation",0.039310277593456254,2,7
+"Tyrosine protein kinase PDGFR family","Pdgfr","cellular component assembly",0.039310277593456254,2,4
+"Tyrosine protein kinase PDGFR family","Pdgfr","cellular protein modification process",0.039310277593456254,2,20
+"Tyrosine protein kinase PDGFR family","Pdgfr","cytoskeleton organization",0.039310277593456254,2,3
+"Tyrosine protein kinase PDGFR family","Pdgfr","lipid metabolic process",0.039310277593456254,2,5
+"Tyrosine protein kinase PDGFR family","Pdgfr","locomotion",0.039310277593456254,2,7
+"Tyrosine protein kinase PDGFR family","Pdgfr","multicellular organismal development",0.039310277593456254,2,17
+"Tyrosine protein kinase PDGFR family","Pdgfr","phosphorylation",0.039310277593456254,2,20
+"Tyrosine protein kinase PDGFR family","Pdgfr","positive regulation of catalytic activity",0.039310277593456254,2,14
+"Tyrosine protein kinase PDGFR family","Pdgfr","response to stress",0.039310277593456254,2,14
+"Tyrosine protein kinase PDGFR family","Pdgfr","response to toxic substance",0.039310277593456254,2,2
+"Tyrosine protein kinase PDGFR family","Pdgfr","signal transduction",0.039310277593456254,2,18
+"Tyrosine protein kinase Src family","Src","cell adhesion",0.00345930442822415,0,3
+"Tyrosine protein kinase Src family","Src","cell differentiation",0.00345930442822415,0,16
+"Tyrosine protein kinase Src family","Src","cell morphogenesis",0.00345930442822415,0,9
+"Tyrosine protein kinase Src family","Src","cell motility",0.00345930442822415,0,7
+"Tyrosine protein kinase Src family","Src","cell proliferation",0.00345930442822415,0,7
+"Tyrosine protein kinase Src family","Src","cellular protein modification process",0.00345930442822415,0,20
+"Tyrosine protein kinase Src family","Src","immune system process",0.00345930442822415,0,8
+"Tyrosine protein kinase Src family","Src","lipid metabolic process",0.00345930442822415,0,5
+"Tyrosine protein kinase Src family","Src","locomotion",0.00345930442822415,0,7
+"Tyrosine protein kinase Src family","Src","multicellular organismal development",0.00345930442822415,0,17
+"Tyrosine protein kinase Src family","Src","neurological system process",0.00345930442822415,0,5
+"Tyrosine protein kinase Src family","Src","phosphorylation",0.00345930442822415,0,20
+"Tyrosine protein kinase Src family","Src","positive regulation of catalytic activity",0.00345930442822415,0,14
+"Tyrosine protein kinase Src family","Src","regulation of protein localization",0.00345930442822415,0,9
+"Tyrosine protein kinase Src family","Src","response to stress",0.00345930442822415,0,14
+"Tyrosine protein kinase Src family","Src","signal transduction",0.00345930442822415,0,18
+"Tyrosine protein kinase Src family","Src","symbiosis, encompassing mutualism through parasitism",0.00345930442822415,0,3
+"Tyrosine protein kinase Src family","Src","transport",0.00345930442822415,0,6
+"Tyrosine protein kinase Src family","Src","vesicle-mediated transport",0.00345930442822415,0,5
+"Tyrosine protein kinase Trk family","Trk","aging",0.005346197752710051,0,5
+"Tyrosine protein kinase Trk family","Trk","anatomical structure development",0.005346197752710051,0,7
+"Tyrosine protein kinase Trk family","Trk","cell death",0.005346197752710051,0,8
+"Tyrosine protein kinase Trk family","Trk","cell differentiation",0.005346197752710051,0,16
+"Tyrosine protein kinase Trk family","Trk","cell morphogenesis",0.005346197752710051,0,9
+"Tyrosine protein kinase Trk family","Trk","cellular protein modification process",0.005346197752710051,0,20
+"Tyrosine protein kinase Trk family","Trk","immune system process",0.005346197752710051,0,8
+"Tyrosine protein kinase Trk family","Trk","locomotion",0.005346197752710051,0,7
+"Tyrosine protein kinase Trk family","Trk","microtubule-based process",0.005346197752710051,0,1
+"Tyrosine protein kinase Trk family","Trk","multicellular organismal development",0.005346197752710051,0,17
+"Tyrosine protein kinase Trk family","Trk","neurological system process",0.005346197752710051,0,5
+"Tyrosine protein kinase Trk family","Trk","phosphorylation",0.005346197752710051,0,20
+"Tyrosine protein kinase Trk family","Trk","positive regulation of catalytic activity",0.005346197752710051,0,14
+"Tyrosine protein kinase Trk family","Trk","reproduction",0.005346197752710051,0,6
+"Tyrosine protein kinase Trk family","Trk","response to stress",0.005346197752710051,0,14
+"Tyrosine protein kinase Trk family","Trk","signal transduction",0.005346197752710051,0,18
+"Tyrosine protein kinase VEGFR family","Vegfr","anatomical structure development",0.16321627256803037,0,7
+"Tyrosine protein kinase VEGFR family","Vegfr","anatomical structure formation involved in morphogenesis",0.16321627256803037,0,8
+"Tyrosine protein kinase VEGFR family","Vegfr","cell differentiation",0.16321627256803037,0,16
+"Tyrosine protein kinase VEGFR family","Vegfr","cell motility",0.16321627256803037,0,7
+"Tyrosine protein kinase VEGFR family","Vegfr","cellular protein modification process",0.16321627256803037,0,20
+"Tyrosine protein kinase VEGFR family","Vegfr","embryo development",0.16321627256803037,0,4
+"Tyrosine protein kinase VEGFR family","Vegfr","extracellular matrix organization",0.16321627256803037,0,1
+"Tyrosine protein kinase VEGFR family","Vegfr","immune system process",0.16321627256803037,0,8
+"Tyrosine protein kinase VEGFR family","Vegfr","multicellular organismal development",0.16321627256803037,0,17
+"Tyrosine protein kinase VEGFR family","Vegfr","phosphorylation",0.16321627256803037,0,20
+"Tyrosine protein kinase VEGFR family","Vegfr","signal transduction",0.16321627256803037,0,18
+"Tyrosine protein kinase VEGFR family","Vegfr","symbiosis, encompassing mutualism through parasitism",0.16321627256803037,0,3

@@ -1,0 +1,34 @@
+"Protein Class Name","Protein Class Short Name","Percentage of Measurements","Number of Measurements"
+"Serotonin receptor","Serotonin receptor",3.5064868730207372,1373
+"Adenosine receptor","Adenosine receptor",3.1846971089998974,1247
+"Adrenergic receptor","Adrenergic receptor",2.949739503524364,1155
+"Dopamine receptor","Dopamine receptor",2.6534886096639085,1039
+"Neurokinin receptor","Neurokinin receptor",0.8529982633568292,334
+"Vasopressin and oxytocin receptor","Vasopressin and oxytocin receptor",0.796812749003984,312
+"Tyrosine protein kinase Src family","Src",0.6359178669935641,249
+"Cannabinoid receptor","Cannabinoid receptor",0.5439779344161814,213
+"Melatonin receptor","Melatonin receptor",0.41883747063029936,164
+"Endothelin receptor","Endothelin receptor",0.3958524874859536,155
+"Opioid receptor","Opioid receptor",0.3856369394218,151
+"Histamine receptor","Histamine receptor",0.36520584329349265,143
+"Acetylcholine receptor","Acetylcholine receptor",0.342220860149147,134
+"Melanocortin receptor","Melanocortin receptor",0.32689753805291655,128
+"Prostanoid receptor","Prostanoid receptor",0.3166819899887629,124
+"Protease-activated receptor","Protease-activated receptor",0.2656042496679947,104
+"Tyrosine protein kinase Tie family","Tie",0.23240371845949537,91
+"Bradykinin receptor","Bradykinin receptor",0.1940954132189192,76
+"Neuropeptide Y receptor","Neuropeptide Y receptor",0.11237102870569006,44
+"AGC protein kinase AKT family","Akt",0.10470936765757484,41
+"Neuropeptide receptor","Neuropeptide receptor",0.07661661048115231,30
+"Purine receptor","Purine receptor",0.06895494943303708,27
+"PAF receptor","PAF",0.061293288384921846,24
+"Angiotensin receptor","Angiotensin receptor",0.0485238533047298,19
+"Leukotriene receptor","Leukotriene receptor",0.030646644192460923,12
+"CAMK protein kinase RSKb subfamily","Rskb",0.017877209112268873,7
+"CAMK protein kinase MLCK family","Mlck",0.010215548064153642,4
+"CMGC protein kinase GSK family","Gsk",0.010215548064153642,4
+"Atypical protein kinase BCR family","Bcr",0.007661661048115231,3
+"AGC protein kinase PKC delta subfamily","Delta",0.005107774032076821,2
+"CAMK protein kinase CAMK2 family","Camk2",0.005107774032076821,2
+"AGC protein kinase SGK family","Sgk",0.0025538870160384105,1
+"CXC chemokine receptor","CXC chemokine receptor",0.0025538870160384105,1

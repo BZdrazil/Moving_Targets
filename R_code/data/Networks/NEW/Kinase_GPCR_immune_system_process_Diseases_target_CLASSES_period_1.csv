@@ -1,0 +1,42 @@
+"protein_class_pref_name","protein_class_short_name","diseaseName","No_Bioactivities","No_Drug_Efficacy_Target_Annotations"
+"AGC protein kinase AKT family","Akt","Colorectal Cancer",2,0
+"AGC protein kinase PKC alpha subfamily","Alpha","Colorectal Cancer",76,1
+"AGC protein kinase PKC eta subfamily","Eta","Colorectal Cancer",60,0
+"Histamine receptor","Histamine receptor","Colorectal Cancer",9,0
+"Tyrosine protein kinase Src family","Src","Colorectal Cancer",37,0
+"Tyrosine protein kinase VEGFR family","Vegfr","Colorectal Cancer",11,0
+"AGC protein kinase AKT family","Akt","Colorectal Carcinoma",2,0
+"AGC protein kinase PKC alpha subfamily","Alpha","Colorectal Carcinoma",76,1
+"AGC protein kinase PKC eta subfamily","Eta","Colorectal Carcinoma",60,0
+"Tyrosine protein kinase Src family","Src","Colorectal Carcinoma",37,0
+"Tyrosine protein kinase VEGFR family","Vegfr","Colorectal Carcinoma",11,0
+"AGC protein kinase AKT family","Akt","Colorectal Neoplasms",2,0
+"AGC protein kinase PKC alpha subfamily","Alpha","Colorectal Neoplasms",76,1
+"AGC protein kinase PKC eta subfamily","Eta","Colorectal Neoplasms",60,0
+"Tyrosine protein kinase Src family","Src","Colorectal Neoplasms",37,0
+"Tyrosine protein kinase VEGFR family","Vegfr","Colorectal Neoplasms",11,0
+"AGC protein kinase PKC alpha subfamily","Alpha","Liver Cirrhosis, Experimental",76,1
+"AGC protein kinase PKC delta subfamily","Delta","Liver Cirrhosis, Experimental",77,0
+"Anaphylatoxin receptor","Anaphylatoxin","Liver Cirrhosis, Experimental",11,0
+"PAF receptor","PAF","Liver Cirrhosis, Experimental",15,0
+"Tyrosine protein kinase Src family","Src","Liver Cirrhosis, Experimental",3,0
+"AGC protein kinase PKC delta subfamily","Delta","Alloxan Diabetes",77,0
+"AGC protein kinase PKC eta subfamily","Eta","Alloxan Diabetes",60,0
+"AGC protein kinase PKC delta subfamily","Delta","Diabetes Mellitus, Experimental",77,0
+"AGC protein kinase PKC eta subfamily","Eta","Diabetes Mellitus, Experimental",60,0
+"AGC protein kinase PKC delta subfamily","Delta","Streptozotocin Diabetes",77,0
+"AGC protein kinase PKC eta subfamily","Eta","Streptozotocin Diabetes",60,0
+"AGC protein kinase AKT family","Akt","Malignant neoplasm of breast",2,0
+"CXC chemokine receptor","CXC chemokine receptor","Malignant neoplasm of breast",1,0
+"Endothelin receptor","Endothelin receptor","Malignant neoplasm of breast",42,0
+"TKL protein kinase RAF family","Raf","Malignant neoplasm of breast",5,0
+"Tyrosine protein kinase InsR family","InsR","Malignant neoplasm of breast",3,0
+"Tyrosine protein kinase PDGFR family","Pdgfr","Malignant neoplasm of breast",10,1
+"Tyrosine protein kinase Src family","Src","Malignant neoplasm of breast",37,0
+"Tyrosine protein kinase Tie family","Tie","Malignant neoplasm of breast",11,0
+"Tyrosine protein kinase VEGFR family","Vegfr","Malignant neoplasm of breast",11,0
+"AGC protein kinase PKC alpha subfamily","Alpha","Diabetes Mellitus, Non-Insulin-Dependent",76,1
+"Endothelin receptor","Endothelin receptor","Diabetes Mellitus, Non-Insulin-Dependent",42,0
+"AGC protein kinase AKT family","Akt","Cardiac Hypertrophy",2,0
+"AGC protein kinase PKC alpha subfamily","Alpha","Cardiac Hypertrophy",76,1
+"Tyrosine protein kinase Src family","Src","Cardiac Hypertrophy",37,0

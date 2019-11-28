@@ -1,0 +1,402 @@
+"go_pref_name","target_pref_name","Percentage_Bioactivities","No_Drug_Efficacy_Target_Annotations","Target_Connectivity"
+"DNA metabolic process","DNA-dependent protein kinase",0.08145089517364136,0,4
+"DNA metabolic process","Serine-protein kinase ATM",0.016353075478877804,0,4
+"DNA metabolic process","Serine-protein kinase ATR",0.032077186516260306,0,4
+"DNA metabolic process","Serine/threonine-protein kinase Chk2",0.028617882088036152,0,4
+"aging","Glycogen synthase kinase-3 beta",0.32454565181157485,2,6
+"aging","Serine-protein kinase ATM",0.016353075478877804,0,6
+"aging","Serine-protein kinase ATR",0.032077186516260306,0,6
+"aging","Serine/threonine-protein kinase AKT",0.5097756798319407,0,6
+"aging","Serine/threonine-protein kinase Chk2",0.028617882088036152,0,6
+"aging","TGF-beta receptor type II",0.022957202114578454,0,6
+"anatomical structure development","DNA-dependent protein kinase",0.08145089517364136,0,11
+"anatomical structure development","Ephrin type-B receptor 2",0.010692395505420102,0,11
+"anatomical structure development","Epidermal growth factor receptor erbB1",0.8535047471091222,9,11
+"anatomical structure development","Epithelial discoidin domain-containing receptor 1",0.03899579537270861,0,11
+"anatomical structure development","Glycogen synthase kinase-3 beta",0.32454565181157485,2,11
+"anatomical structure development","MAP kinase ERK1",0.0295613287502791,1,11
+"anatomical structure development","Serine-protein kinase ATM",0.016353075478877804,0,11
+"anatomical structure development","Serine/threonine-protein kinase AKT",0.5097756798319407,0,11
+"anatomical structure development","Serine/threonine-protein kinase B-raf",0.5082032687282025,3,11
+"anatomical structure development","TGF-beta receptor type II",0.022957202114578454,0,11
+"anatomical structure development","Tyrosine-protein kinase JAK2",0.7670221364035185,5,11
+"anatomical structure formation involved in morphogenesis","DNA-dependent protein kinase",0.08145089517364136,0,7
+"anatomical structure formation involved in morphogenesis","Ephrin type-B receptor 2",0.010692395505420102,0,7
+"anatomical structure formation involved in morphogenesis","Glycogen synthase kinase-3 beta",0.32454565181157485,2,7
+"anatomical structure formation involved in morphogenesis","MAP kinase ERK1",0.0295613287502791,1,7
+"anatomical structure formation involved in morphogenesis","Serine-protein kinase ATM",0.016353075478877804,0,7
+"anatomical structure formation involved in morphogenesis","TGF-beta receptor type II",0.022957202114578454,0,7
+"anatomical structure formation involved in morphogenesis","cAMP-dependent protein kinase beta-1 catalytic subunit",0.0047172333112147505,0,7
+"biosynthetic process","Bone morphogenetic protein receptor type-1B",0.011006877726167751,0,10
+"biosynthetic process","Fibroblast growth factor receptor 4",0.0132082532714013,0,10
+"biosynthetic process","Interferon-induced, double-stranded RNA-activated protein kinase",0.031448222074765005,0,10
+"biosynthetic process","MAP kinase ERK1",0.0295613287502791,1,10
+"biosynthetic process","Mitogen-activated protein kinase kinase kinase 7",0.03962475981420391,0,10
+"biosynthetic process","Receptor protein-tyrosine kinase erbB-2",0.2528437054811106,5,10
+"biosynthetic process","Serine-protein kinase ATM",0.016353075478877804,0,10
+"biosynthetic process","Serine-protein kinase ATR",0.032077186516260306,0,10
+"biosynthetic process","Serine/threonine-protein kinase AKT",0.5097756798319407,0,10
+"biosynthetic process","Serine/threonine-protein kinase Chk2",0.028617882088036152,0,10
+"carbohydrate metabolic process","Glycogen synthase kinase-3 beta",0.32454565181157485,2,2
+"carbohydrate metabolic process","Serine/threonine-protein kinase AKT",0.5097756798319407,0,2
+"catabolic process","Glycogen synthase kinase-3 beta",0.32454565181157485,2,5
+"catabolic process","Serine-protein kinase ATM",0.016353075478877804,0,5
+"catabolic process","Serine/threonine-protein kinase AKT",0.5097756798319407,0,5
+"catabolic process","Serine/threonine-protein kinase Aurora-A",0.44247648459194366,6,5
+"catabolic process","Serine/threonine-protein kinase Chk2",0.028617882088036152,0,5
+"cell adhesion","DNA-dependent protein kinase",0.08145089517364136,0,5
+"cell adhesion","Epidermal growth factor receptor erbB1",0.8535047471091222,9,5
+"cell adhesion","Epithelial discoidin domain-containing receptor 1",0.03899579537270861,0,5
+"cell adhesion","Serine/threonine-protein kinase B-raf",0.5082032687282025,3,5
+"cell adhesion","Serine/threonine-protein kinase PAK6",0.006289644414953001,0,5
+"cell cycle","DNA-dependent protein kinase",0.08145089517364136,0,7
+"cell cycle","Glycogen synthase kinase-3 beta",0.32454565181157485,2,7
+"cell cycle","MAP kinase ERK1",0.0295613287502791,1,7
+"cell cycle","Serine-protein kinase ATM",0.016353075478877804,0,7
+"cell cycle","Serine-protein kinase ATR",0.032077186516260306,0,7
+"cell cycle","Serine/threonine-protein kinase Aurora-A",0.44247648459194366,6,7
+"cell cycle","Serine/threonine-protein kinase Chk2",0.028617882088036152,0,7
+"cell death","DNA-dependent protein kinase",0.08145089517364136,0,12
+"cell death","Glycogen synthase kinase-3 beta",0.32454565181157485,2,12
+"cell death","MAP kinase ERK1",0.0295613287502791,1,12
+"cell death","Mitogen-activated protein kinase kinase kinase 1",0.0037737866489718002,0,12
+"cell death","Mitogen-activated protein kinase kinase kinase 7",0.03962475981420391,0,12
+"cell death","Receptor tyrosine-protein kinase erbB-3",0.0075475732979436005,1,12
+"cell death","Serine-protein kinase ATM",0.016353075478877804,0,12
+"cell death","Serine/threonine-protein kinase AKT",0.5097756798319407,0,12
+"cell death","Serine/threonine-protein kinase Chk2",0.028617882088036152,0,12
+"cell death","Serine/threonine-protein kinase PAK6",0.006289644414953001,0,12
+"cell death","TGF-beta receptor type II",0.022957202114578454,0,12
+"cell death","Tyrosine-protein kinase JAK2",0.7670221364035185,5,12
+"cell differentiation","Bone morphogenetic protein receptor type-1B",0.011006877726167751,0,16
+"cell differentiation","DNA-dependent protein kinase",0.08145089517364136,0,16
+"cell differentiation","Ephrin type-B receptor 2",0.010692395505420102,0,16
+"cell differentiation","Glycogen synthase kinase-3 beta",0.32454565181157485,2,16
+"cell differentiation","Hepatocyte growth factor receptor",0.7899793385180969,14,16
+"cell differentiation","MAP kinase ERK1",0.0295613287502791,1,16
+"cell differentiation","Protein kinase C zeta",0.03364959761999855,0,16
+"cell differentiation","Receptor protein-tyrosine kinase erbB-2",0.2528437054811106,5,16
+"cell differentiation","Receptor tyrosine-protein kinase erbB-3",0.0075475732979436005,1,16
+"cell differentiation","Serine-protein kinase ATM",0.016353075478877804,0,16
+"cell differentiation","Serine/threonine-protein kinase AKT",0.5097756798319407,0,16
+"cell differentiation","Serine/threonine-protein kinase Aurora-A",0.44247648459194366,6,16
+"cell differentiation","Serine/threonine-protein kinase B-raf",0.5082032687282025,3,16
+"cell differentiation","TGF-beta receptor type II",0.022957202114578454,0,16
+"cell differentiation","Tyrosine-protein kinase JAK1",0.5022281065339971,4,16
+"cell differentiation","Tyrosine-protein kinase JAK2",0.7670221364035185,5,16
+"cell division","Serine/threonine-protein kinase Aurora-A",0.44247648459194366,6,2
+"cell division","Serine/threonine-protein kinase Chk2",0.028617882088036152,0,2
+"cell morphogenesis","Bone morphogenetic protein receptor type-1B",0.011006877726167751,0,9
+"cell morphogenesis","Ephrin type-B receptor 2",0.010692395505420102,0,9
+"cell morphogenesis","Epidermal growth factor receptor erbB1",0.8535047471091222,9,9
+"cell morphogenesis","Glycogen synthase kinase-3 beta",0.32454565181157485,2,9
+"cell morphogenesis","Hepatocyte growth factor receptor",0.7899793385180969,14,9
+"cell morphogenesis","MAP kinase ERK1",0.0295613287502791,1,9
+"cell morphogenesis","Protein kinase C zeta",0.03364959761999855,0,9
+"cell morphogenesis","Receptor protein-tyrosine kinase erbB-2",0.2528437054811106,5,9
+"cell morphogenesis","Serine/threonine-protein kinase Aurora-A",0.44247648459194366,6,9
+"cell motility","Epidermal growth factor receptor erbB1",0.8535047471091222,9,8
+"cell motility","Epithelial discoidin domain-containing receptor 1",0.03899579537270861,0,8
+"cell motility","Fibroblast growth factor receptor 4",0.0132082532714013,0,8
+"cell motility","Glycogen synthase kinase-3 beta",0.32454565181157485,2,8
+"cell motility","Interleukin-1 receptor-associated kinase 4",0.08805502180934201,0,8
+"cell motility","Protein kinase C zeta",0.03364959761999855,0,8
+"cell motility","Tyrosine-protein kinase JAK1",0.5022281065339971,4,8
+"cell motility","Tyrosine-protein kinase JAK2",0.7670221364035185,5,8
+"cell proliferation","DNA-dependent protein kinase",0.08145089517364136,0,5
+"cell proliferation","Epidermal growth factor receptor erbB1",0.8535047471091222,9,5
+"cell proliferation","Hepatocyte growth factor receptor",0.7899793385180969,14,5
+"cell proliferation","Receptor protein-tyrosine kinase erbB-2",0.2528437054811106,5,5
+"cell proliferation","Serine/threonine-protein kinase AKT",0.5097756798319407,0,5
+"cell-cell signaling","Glycogen synthase kinase-3 beta",0.32454565181157485,2,3
+"cell-cell signaling","Mitogen-activated protein kinase kinase kinase 7",0.03962475981420391,0,3
+"cell-cell signaling","Serine/threonine-protein kinase AKT",0.5097756798319407,0,3
+"cellular nitrogen compound metabolic process","Glycogen synthase kinase-3 beta",0.32454565181157485,2,7
+"cellular nitrogen compound metabolic process","Interferon-induced, double-stranded RNA-activated protein kinase",0.031448222074765005,0,7
+"cellular nitrogen compound metabolic process","MAP kinase ERK1",0.0295613287502791,1,7
+"cellular nitrogen compound metabolic process","Mitogen-activated protein kinase kinase kinase 7",0.03962475981420391,0,7
+"cellular nitrogen compound metabolic process","Receptor protein-tyrosine kinase erbB-2",0.2528437054811106,5,7
+"cellular nitrogen compound metabolic process","Serine/threonine-protein kinase AKT",0.5097756798319407,0,7
+"cellular nitrogen compound metabolic process","Serine/threonine-protein kinase Chk2",0.028617882088036152,0,7
+"cellular protein modification process","Bone morphogenetic protein receptor type-1B",0.011006877726167751,0,28
+"cellular protein modification process","CaM-kinase kinase beta",0.010692395505420102,0,28
+"cellular protein modification process","DNA-dependent protein kinase",0.08145089517364136,0,28
+"cellular protein modification process","Ephrin type-B receptor 2",0.010692395505420102,0,28
+"cellular protein modification process","Epidermal growth factor receptor erbB1",0.8535047471091222,9,28
+"cellular protein modification process","Epithelial discoidin domain-containing receptor 1",0.03899579537270861,0,28
+"cellular protein modification process","Fibroblast growth factor receptor 4",0.0132082532714013,0,28
+"cellular protein modification process","Glycogen synthase kinase-3 beta",0.32454565181157485,2,28
+"cellular protein modification process","Hepatocyte growth factor receptor",0.7899793385180969,14,28
+"cellular protein modification process","Interferon-induced, double-stranded RNA-activated protein kinase",0.031448222074765005,0,28
+"cellular protein modification process","Interleukin-1 receptor-associated kinase 4",0.08805502180934201,0,28
+"cellular protein modification process","MAP kinase ERK1",0.0295613287502791,1,28
+"cellular protein modification process","Mitogen-activated protein kinase kinase kinase 1",0.0037737866489718002,0,28
+"cellular protein modification process","Mitogen-activated protein kinase kinase kinase 7",0.03962475981420391,0,28
+"cellular protein modification process","Protein kinase C zeta",0.03364959761999855,0,28
+"cellular protein modification process","Receptor protein-tyrosine kinase erbB-2",0.2528437054811106,5,28
+"cellular protein modification process","Receptor tyrosine-protein kinase erbB-3",0.0075475732979436005,1,28
+"cellular protein modification process","Serine-protein kinase ATM",0.016353075478877804,0,28
+"cellular protein modification process","Serine-protein kinase ATR",0.032077186516260306,0,28
+"cellular protein modification process","Serine/threonine-protein kinase AKT",0.5097756798319407,0,28
+"cellular protein modification process","Serine/threonine-protein kinase Aurora-A",0.44247648459194366,6,28
+"cellular protein modification process","Serine/threonine-protein kinase B-raf",0.5082032687282025,3,28
+"cellular protein modification process","Serine/threonine-protein kinase Chk2",0.028617882088036152,0,28
+"cellular protein modification process","Serine/threonine-protein kinase PAK6",0.006289644414953001,0,28
+"cellular protein modification process","TGF-beta receptor type II",0.022957202114578454,0,28
+"cellular protein modification process","Tyrosine-protein kinase JAK1",0.5022281065339971,4,28
+"cellular protein modification process","Tyrosine-protein kinase JAK2",0.7670221364035185,5,28
+"cellular protein modification process","cAMP-dependent protein kinase beta-1 catalytic subunit",0.0047172333112147505,0,28
+"cellular response to drug","Serine/threonine-protein kinase B-raf",0.5082032687282025,3,2
+"cellular response to drug","Serine/threonine-protein kinase Chk2",0.028617882088036152,0,2
+"chromosome organization","DNA-dependent protein kinase",0.08145089517364136,0,5
+"chromosome organization","Mitogen-activated protein kinase kinase kinase 7",0.03962475981420391,0,5
+"chromosome organization","Serine-protein kinase ATM",0.016353075478877804,0,5
+"chromosome organization","Serine/threonine-protein kinase Aurora-A",0.44247648459194366,6,5
+"chromosome organization","Tyrosine-protein kinase JAK2",0.7670221364035185,5,5
+"chromosome segregation","Serine-protein kinase ATM",0.016353075478877804,0,1
+"circulatory system process","Serine/threonine-protein kinase AKT",0.5097756798319407,0,1
+"cytoskeleton organization","Protein kinase C zeta",0.03364959761999855,0,5
+"cytoskeleton organization","Serine/threonine-protein kinase Aurora-A",0.44247648459194366,6,5
+"cytoskeleton organization","Serine/threonine-protein kinase Chk2",0.028617882088036152,0,5
+"cytoskeleton organization","Serine/threonine-protein kinase PAK6",0.006289644414953001,0,5
+"cytoskeleton organization","Tyrosine-protein kinase JAK2",0.7670221364035185,5,5
+"cytoskeleton-dependent intracellular transport","Protein kinase C zeta",0.03364959761999855,0,1
+"embryo development","DNA-dependent protein kinase",0.08145089517364136,0,8
+"embryo development","Ephrin type-B receptor 2",0.010692395505420102,0,8
+"embryo development","Epidermal growth factor receptor erbB1",0.8535047471091222,9,8
+"embryo development","MAP kinase ERK1",0.0295613287502791,1,8
+"embryo development","Serine-protein kinase ATM",0.016353075478877804,0,8
+"embryo development","Serine/threonine-protein kinase AKT",0.5097756798319407,0,8
+"embryo development","TGF-beta receptor type II",0.022957202114578454,0,8
+"embryo development","cAMP-dependent protein kinase beta-1 catalytic subunit",0.0047172333112147505,0,8
+"extracellular matrix organization","Epithelial discoidin domain-containing receptor 1",0.03899579537270861,0,1
+"female pregnancy","Epithelial discoidin domain-containing receptor 1",0.03899579537270861,0,3
+"female pregnancy","Serine/threonine-protein kinase AKT",0.5097756798319407,0,3
+"female pregnancy","TGF-beta receptor type II",0.022957202114578454,0,3
+"generation of precursor metabolites and energy","Glycogen synthase kinase-3 beta",0.32454565181157485,2,2
+"generation of precursor metabolites and energy","Serine/threonine-protein kinase AKT",0.5097756798319407,0,2
+"growth","Bone morphogenetic protein receptor type-1B",0.011006877726167751,0,4
+"growth","Protein kinase C zeta",0.03364959761999855,0,4
+"growth","Serine/threonine-protein kinase Aurora-A",0.44247648459194366,6,4
+"growth","TGF-beta receptor type II",0.022957202114578454,0,4
+"homeostatic process","DNA-dependent protein kinase",0.08145089517364136,0,6
+"homeostatic process","Fibroblast growth factor receptor 4",0.0132082532714013,0,6
+"homeostatic process","Serine-protein kinase ATM",0.016353075478877804,0,6
+"homeostatic process","Serine/threonine-protein kinase AKT",0.5097756798319407,0,6
+"homeostatic process","Tyrosine-protein kinase JAK2",0.7670221364035185,5,6
+"homeostatic process","cAMP-dependent protein kinase beta-1 catalytic subunit",0.0047172333112147505,0,6
+"immune system process","DNA-dependent protein kinase",0.08145089517364136,0,13
+"immune system process","Interferon-induced, double-stranded RNA-activated protein kinase",0.031448222074765005,0,13
+"immune system process","Interleukin-1 receptor-associated kinase 4",0.08805502180934201,0,13
+"immune system process","MAP kinase ERK1",0.0295613287502791,1,13
+"immune system process","Mitogen-activated protein kinase kinase kinase 1",0.0037737866489718002,0,13
+"immune system process","Mitogen-activated protein kinase kinase kinase 7",0.03962475981420391,0,13
+"immune system process","Serine-protein kinase ATM",0.016353075478877804,0,13
+"immune system process","Serine/threonine-protein kinase AKT",0.5097756798319407,0,13
+"immune system process","Serine/threonine-protein kinase B-raf",0.5082032687282025,3,13
+"immune system process","TGF-beta receptor type II",0.022957202114578454,0,13
+"immune system process","Tyrosine-protein kinase JAK1",0.5022281065339971,4,13
+"immune system process","Tyrosine-protein kinase JAK2",0.7670221364035185,5,13
+"immune system process","cAMP-dependent protein kinase beta-1 catalytic subunit",0.0047172333112147505,0,13
+"lipid metabolic process","Epidermal growth factor receptor erbB1",0.8535047471091222,9,6
+"lipid metabolic process","Fibroblast growth factor receptor 4",0.0132082532714013,0,6
+"lipid metabolic process","MAP kinase ERK1",0.0295613287502791,1,6
+"lipid metabolic process","Receptor protein-tyrosine kinase erbB-2",0.2528437054811106,5,6
+"lipid metabolic process","Receptor tyrosine-protein kinase erbB-3",0.0075475732979436005,1,6
+"lipid metabolic process","Serine-protein kinase ATM",0.016353075478877804,0,6
+"locomotion","Bone morphogenetic protein receptor type-1B",0.011006877726167751,0,5
+"locomotion","Ephrin type-B receptor 2",0.010692395505420102,0,5
+"locomotion","Hepatocyte growth factor receptor",0.7899793385180969,14,5
+"locomotion","MAP kinase ERK1",0.0295613287502791,1,5
+"locomotion","Receptor protein-tyrosine kinase erbB-2",0.2528437054811106,5,5
+"membrane organization","Epidermal growth factor receptor erbB1",0.8535047471091222,9,3
+"membrane organization","Glycogen synthase kinase-3 beta",0.32454565181157485,2,3
+"membrane organization","Serine/threonine-protein kinase B-raf",0.5082032687282025,3,3
+"metabolic process","Serine/threonine-protein kinase AKT",0.5097756798319407,0,2
+"metabolic process","cAMP-dependent protein kinase beta-1 catalytic subunit",0.0047172333112147505,0,2
+"microtubule-based process","Protein kinase C zeta",0.03364959761999855,0,3
+"microtubule-based process","Serine/threonine-protein kinase Aurora-A",0.44247648459194366,6,3
+"microtubule-based process","Serine/threonine-protein kinase Chk2",0.028617882088036152,0,3
+"mitochondrion organization","Glycogen synthase kinase-3 beta",0.32454565181157485,2,2
+"mitochondrion organization","Serine/threonine-protein kinase AKT",0.5097756798319407,0,2
+"mitotic nuclear division","Serine/threonine-protein kinase Aurora-A",0.44247648459194366,6,2
+"mitotic nuclear division","Serine/threonine-protein kinase Chk2",0.028617882088036152,0,2
+"multicellular organismal development","Bone morphogenetic protein receptor type-1B",0.011006877726167751,0,18
+"multicellular organismal development","DNA-dependent protein kinase",0.08145089517364136,0,18
+"multicellular organismal development","Ephrin type-B receptor 2",0.010692395505420102,0,18
+"multicellular organismal development","Epidermal growth factor receptor erbB1",0.8535047471091222,9,18
+"multicellular organismal development","Epithelial discoidin domain-containing receptor 1",0.03899579537270861,0,18
+"multicellular organismal development","Glycogen synthase kinase-3 beta",0.32454565181157485,2,18
+"multicellular organismal development","Hepatocyte growth factor receptor",0.7899793385180969,14,18
+"multicellular organismal development","MAP kinase ERK1",0.0295613287502791,1,18
+"multicellular organismal development","Protein kinase C zeta",0.03364959761999855,0,18
+"multicellular organismal development","Receptor protein-tyrosine kinase erbB-2",0.2528437054811106,5,18
+"multicellular organismal development","Receptor tyrosine-protein kinase erbB-3",0.0075475732979436005,1,18
+"multicellular organismal development","Serine-protein kinase ATM",0.016353075478877804,0,18
+"multicellular organismal development","Serine-protein kinase ATR",0.032077186516260306,0,18
+"multicellular organismal development","Serine/threonine-protein kinase AKT",0.5097756798319407,0,18
+"multicellular organismal development","Serine/threonine-protein kinase Aurora-A",0.44247648459194366,6,18
+"multicellular organismal development","Serine/threonine-protein kinase B-raf",0.5082032687282025,3,18
+"multicellular organismal development","TGF-beta receptor type II",0.022957202114578454,0,18
+"multicellular organismal development","Tyrosine-protein kinase JAK2",0.7670221364035185,5,18
+"negative regulation of endopeptidase activity","Serine/threonine-protein kinase AKT",0.5097756798319407,0,1
+"neurological system process","Ephrin type-B receptor 2",0.010692395505420102,0,5
+"neurological system process","Epidermal growth factor receptor erbB1",0.8535047471091222,9,5
+"neurological system process","MAP kinase ERK1",0.0295613287502791,1,5
+"neurological system process","Protein kinase C zeta",0.03364959761999855,0,5
+"neurological system process","Serine/threonine-protein kinase B-raf",0.5082032687282025,3,5
+"nucleobase-containing compound catabolic process","Serine-protein kinase ATM",0.016353075478877804,0,1
+"nucleocytoplasmic transport","Glycogen synthase kinase-3 beta",0.32454565181157485,2,4
+"nucleocytoplasmic transport","MAP kinase ERK1",0.0295613287502791,1,4
+"nucleocytoplasmic transport","Serine/threonine-protein kinase AKT",0.5097756798319407,0,4
+"nucleocytoplasmic transport","Tyrosine-protein kinase JAK2",0.7670221364035185,5,4
+"phosphorylation","Bone morphogenetic protein receptor type-1B",0.011006877726167751,0,28
+"phosphorylation","CaM-kinase kinase beta",0.010692395505420102,0,28
+"phosphorylation","DNA-dependent protein kinase",0.08145089517364136,0,28
+"phosphorylation","Ephrin type-B receptor 2",0.010692395505420102,0,28
+"phosphorylation","Epidermal growth factor receptor erbB1",0.8535047471091222,9,28
+"phosphorylation","Epithelial discoidin domain-containing receptor 1",0.03899579537270861,0,28
+"phosphorylation","Fibroblast growth factor receptor 4",0.0132082532714013,0,28
+"phosphorylation","Glycogen synthase kinase-3 beta",0.32454565181157485,2,28
+"phosphorylation","Hepatocyte growth factor receptor",0.7899793385180969,14,28
+"phosphorylation","Interferon-induced, double-stranded RNA-activated protein kinase",0.031448222074765005,0,28
+"phosphorylation","Interleukin-1 receptor-associated kinase 4",0.08805502180934201,0,28
+"phosphorylation","MAP kinase ERK1",0.0295613287502791,1,28
+"phosphorylation","Mitogen-activated protein kinase kinase kinase 1",0.0037737866489718002,0,28
+"phosphorylation","Mitogen-activated protein kinase kinase kinase 7",0.03962475981420391,0,28
+"phosphorylation","Protein kinase C zeta",0.03364959761999855,0,28
+"phosphorylation","Receptor protein-tyrosine kinase erbB-2",0.2528437054811106,5,28
+"phosphorylation","Receptor tyrosine-protein kinase erbB-3",0.0075475732979436005,1,28
+"phosphorylation","Serine-protein kinase ATM",0.016353075478877804,0,28
+"phosphorylation","Serine-protein kinase ATR",0.032077186516260306,0,28
+"phosphorylation","Serine/threonine-protein kinase AKT",0.5097756798319407,0,28
+"phosphorylation","Serine/threonine-protein kinase Aurora-A",0.44247648459194366,6,28
+"phosphorylation","Serine/threonine-protein kinase B-raf",0.5082032687282025,3,28
+"phosphorylation","Serine/threonine-protein kinase Chk2",0.028617882088036152,0,28
+"phosphorylation","Serine/threonine-protein kinase PAK6",0.006289644414953001,0,28
+"phosphorylation","TGF-beta receptor type II",0.022957202114578454,0,28
+"phosphorylation","Tyrosine-protein kinase JAK1",0.5022281065339971,4,28
+"phosphorylation","Tyrosine-protein kinase JAK2",0.7670221364035185,5,28
+"phosphorylation","cAMP-dependent protein kinase beta-1 catalytic subunit",0.0047172333112147505,0,28
+"plasma membrane organization","Protein kinase C zeta",0.03364959761999855,0,2
+"plasma membrane organization","Serine/threonine-protein kinase AKT",0.5097756798319407,0,2
+"positive regulation of apoptotic process","Bone morphogenetic protein receptor type-1B",0.011006877726167751,0,8
+"positive regulation of apoptotic process","DNA-dependent protein kinase",0.08145089517364136,0,8
+"positive regulation of apoptotic process","Glycogen synthase kinase-3 beta",0.32454565181157485,2,8
+"positive regulation of apoptotic process","Interferon-induced, double-stranded RNA-activated protein kinase",0.031448222074765005,0,8
+"positive regulation of apoptotic process","Serine-protein kinase ATM",0.016353075478877804,0,8
+"positive regulation of apoptotic process","Serine/threonine-protein kinase AKT",0.5097756798319407,0,8
+"positive regulation of apoptotic process","Serine/threonine-protein kinase Chk2",0.028617882088036152,0,8
+"positive regulation of apoptotic process","Tyrosine-protein kinase JAK2",0.7670221364035185,5,8
+"positive regulation of catalytic activity","Epidermal growth factor receptor erbB1",0.8535047471091222,9,16
+"positive regulation of catalytic activity","Fibroblast growth factor receptor 4",0.0132082532714013,0,16
+"positive regulation of catalytic activity","Glycogen synthase kinase-3 beta",0.32454565181157485,2,16
+"positive regulation of catalytic activity","Interferon-induced, double-stranded RNA-activated protein kinase",0.031448222074765005,0,16
+"positive regulation of catalytic activity","MAP kinase ERK1",0.0295613287502791,1,16
+"positive regulation of catalytic activity","Mitogen-activated protein kinase kinase kinase 1",0.0037737866489718002,0,16
+"positive regulation of catalytic activity","Mitogen-activated protein kinase kinase kinase 7",0.03962475981420391,0,16
+"positive regulation of catalytic activity","Protein kinase C zeta",0.03364959761999855,0,16
+"positive regulation of catalytic activity","Receptor protein-tyrosine kinase erbB-2",0.2528437054811106,5,16
+"positive regulation of catalytic activity","Receptor tyrosine-protein kinase erbB-3",0.0075475732979436005,1,16
+"positive regulation of catalytic activity","Serine/threonine-protein kinase AKT",0.5097756798319407,0,16
+"positive regulation of catalytic activity","Serine/threonine-protein kinase B-raf",0.5082032687282025,3,16
+"positive regulation of catalytic activity","TGF-beta receptor type II",0.022957202114578454,0,16
+"positive regulation of catalytic activity","Tyrosine-protein kinase JAK1",0.5022281065339971,4,16
+"positive regulation of catalytic activity","Tyrosine-protein kinase JAK2",0.7670221364035185,5,16
+"positive regulation of catalytic activity","cAMP-dependent protein kinase beta-1 catalytic subunit",0.0047172333112147505,0,16
+"protein complex assembly","Glycogen synthase kinase-3 beta",0.32454565181157485,2,7
+"protein complex assembly","MAP kinase ERK1",0.0295613287502791,1,7
+"protein complex assembly","Protein kinase C zeta",0.03364959761999855,0,7
+"protein complex assembly","Serine/threonine-protein kinase Aurora-A",0.44247648459194366,6,7
+"protein complex assembly","Serine/threonine-protein kinase B-raf",0.5082032687282025,3,7
+"protein complex assembly","Serine/threonine-protein kinase Chk2",0.028617882088036152,0,7
+"protein complex assembly","Tyrosine-protein kinase JAK2",0.7670221364035185,5,7
+"protein stabilization","Serine/threonine-protein kinase Chk2",0.028617882088036152,0,1
+"protein targeting","MAP kinase ERK1",0.0295613287502791,1,3
+"protein targeting","Serine/threonine-protein kinase AKT",0.5097756798319407,0,3
+"protein targeting","Tyrosine-protein kinase JAK2",0.7670221364035185,5,3
+"proteolysis","Glycogen synthase kinase-3 beta",0.32454565181157485,2,2
+"proteolysis","Serine/threonine-protein kinase Aurora-A",0.44247648459194366,6,2
+"regulation of catalytic activity","CaM-kinase kinase beta",0.010692395505420102,0,6
+"regulation of catalytic activity","Epidermal growth factor receptor erbB1",0.8535047471091222,9,6
+"regulation of catalytic activity","Glycogen synthase kinase-3 beta",0.32454565181157485,2,6
+"regulation of catalytic activity","Interferon-induced, double-stranded RNA-activated protein kinase",0.031448222074765005,0,6
+"regulation of catalytic activity","Protein kinase C zeta",0.03364959761999855,0,6
+"regulation of catalytic activity","Serine/threonine-protein kinase AKT",0.5097756798319407,0,6
+"regulation of protein localization","Epidermal growth factor receptor erbB1",0.8535047471091222,9,6
+"regulation of protein localization","Glycogen synthase kinase-3 beta",0.32454565181157485,2,6
+"regulation of protein localization","Protein kinase C zeta",0.03364959761999855,0,6
+"regulation of protein localization","Receptor protein-tyrosine kinase erbB-2",0.2528437054811106,5,6
+"regulation of protein localization","Serine/threonine-protein kinase AKT",0.5097756798319407,0,6
+"regulation of protein localization","Tyrosine-protein kinase JAK2",0.7670221364035185,5,6
+"reproduction","Bone morphogenetic protein receptor type-1B",0.011006877726167751,0,6
+"reproduction","DNA-dependent protein kinase",0.08145089517364136,0,6
+"reproduction","Epidermal growth factor receptor erbB1",0.8535047471091222,9,6
+"reproduction","Serine-protein kinase ATM",0.016353075478877804,0,6
+"reproduction","Serine/threonine-protein kinase AKT",0.5097756798319407,0,6
+"reproduction","Serine/threonine-protein kinase Aurora-A",0.44247648459194366,6,6
+"response to antibiotic","Tyrosine-protein kinase JAK1",0.5022281065339971,4,2
+"response to antibiotic","Tyrosine-protein kinase JAK2",0.7670221364035185,5,2
+"response to stress","Bone morphogenetic protein receptor type-1B",0.011006877726167751,0,21
+"response to stress","DNA-dependent protein kinase",0.08145089517364136,0,21
+"response to stress","Epidermal growth factor receptor erbB1",0.8535047471091222,9,21
+"response to stress","Epithelial discoidin domain-containing receptor 1",0.03899579537270861,0,21
+"response to stress","Glycogen synthase kinase-3 beta",0.32454565181157485,2,21
+"response to stress","Interferon-induced, double-stranded RNA-activated protein kinase",0.031448222074765005,0,21
+"response to stress","Interleukin-1 receptor-associated kinase 4",0.08805502180934201,0,21
+"response to stress","MAP kinase ERK1",0.0295613287502791,1,21
+"response to stress","Mitogen-activated protein kinase kinase kinase 7",0.03962475981420391,0,21
+"response to stress","Protein kinase C zeta",0.03364959761999855,0,21
+"response to stress","Receptor protein-tyrosine kinase erbB-2",0.2528437054811106,5,21
+"response to stress","Receptor tyrosine-protein kinase erbB-3",0.0075475732979436005,1,21
+"response to stress","Serine-protein kinase ATM",0.016353075478877804,0,21
+"response to stress","Serine-protein kinase ATR",0.032077186516260306,0,21
+"response to stress","Serine/threonine-protein kinase AKT",0.5097756798319407,0,21
+"response to stress","Serine/threonine-protein kinase Aurora-A",0.44247648459194366,6,21
+"response to stress","Serine/threonine-protein kinase Chk2",0.028617882088036152,0,21
+"response to stress","TGF-beta receptor type II",0.022957202114578454,0,21
+"response to stress","Tyrosine-protein kinase JAK1",0.5022281065339971,4,21
+"response to stress","Tyrosine-protein kinase JAK2",0.7670221364035185,5,21
+"response to stress","cAMP-dependent protein kinase beta-1 catalytic subunit",0.0047172333112147505,0,21
+"response to toxic substance","Interferon-induced, double-stranded RNA-activated protein kinase",0.031448222074765005,0,2
+"response to toxic substance","MAP kinase ERK1",0.0295613287502791,1,2
+"signal transduction","Bone morphogenetic protein receptor type-1B",0.011006877726167751,0,27
+"signal transduction","CaM-kinase kinase beta",0.010692395505420102,0,27
+"signal transduction","DNA-dependent protein kinase",0.08145089517364136,0,27
+"signal transduction","Ephrin type-B receptor 2",0.010692395505420102,0,27
+"signal transduction","Epidermal growth factor receptor erbB1",0.8535047471091222,9,27
+"signal transduction","Epithelial discoidin domain-containing receptor 1",0.03899579537270861,0,27
+"signal transduction","Fibroblast growth factor receptor 4",0.0132082532714013,0,27
+"signal transduction","Glycogen synthase kinase-3 beta",0.32454565181157485,2,27
+"signal transduction","Hepatocyte growth factor receptor",0.7899793385180969,14,27
+"signal transduction","Interferon-induced, double-stranded RNA-activated protein kinase",0.031448222074765005,0,27
+"signal transduction","Interleukin-1 receptor-associated kinase 4",0.08805502180934201,0,27
+"signal transduction","MAP kinase ERK1",0.0295613287502791,1,27
+"signal transduction","Mitogen-activated protein kinase kinase kinase 1",0.0037737866489718002,0,27
+"signal transduction","Mitogen-activated protein kinase kinase kinase 7",0.03962475981420391,0,27
+"signal transduction","Protein kinase C zeta",0.03364959761999855,0,27
+"signal transduction","Receptor protein-tyrosine kinase erbB-2",0.2528437054811106,5,27
+"signal transduction","Receptor tyrosine-protein kinase erbB-3",0.0075475732979436005,1,27
+"signal transduction","Serine-protein kinase ATM",0.016353075478877804,0,27
+"signal transduction","Serine/threonine-protein kinase AKT",0.5097756798319407,0,27
+"signal transduction","Serine/threonine-protein kinase Aurora-A",0.44247648459194366,6,27
+"signal transduction","Serine/threonine-protein kinase B-raf",0.5082032687282025,3,27
+"signal transduction","Serine/threonine-protein kinase Chk2",0.028617882088036152,0,27
+"signal transduction","Serine/threonine-protein kinase PAK6",0.006289644414953001,0,27
+"signal transduction","TGF-beta receptor type II",0.022957202114578454,0,27
+"signal transduction","Tyrosine-protein kinase JAK1",0.5022281065339971,4,27
+"signal transduction","Tyrosine-protein kinase JAK2",0.7670221364035185,5,27
+"signal transduction","cAMP-dependent protein kinase beta-1 catalytic subunit",0.0047172333112147505,0,27
+"small molecule metabolic process","MAP kinase ERK1",0.0295613287502791,1,2
+"small molecule metabolic process","Serine/threonine-protein kinase AKT",0.5097756798319407,0,2
+"symbiosis, encompassing mutualism through parasitism","Interferon-induced, double-stranded RNA-activated protein kinase",0.031448222074765005,0,2
+"symbiosis, encompassing mutualism through parasitism","MAP kinase ERK1",0.0295613287502791,1,2
+"translation","Interferon-induced, double-stranded RNA-activated protein kinase",0.031448222074765005,0,2
+"translation","Serine/threonine-protein kinase AKT",0.5097756798319407,0,2
+"transport","Epithelial discoidin domain-containing receptor 1",0.03899579537270861,0,4
+"transport","Glycogen synthase kinase-3 beta",0.32454565181157485,2,4
+"transport","Serine/threonine-protein kinase AKT",0.5097756798319407,0,4
+"transport","Serine/threonine-protein kinase B-raf",0.5082032687282025,3,4
+"vesicle-mediated transport","MAP kinase ERK1",0.0295613287502791,1,2
+"vesicle-mediated transport","TGF-beta receptor type II",0.022957202114578454,0,2
+"zymogen activation","Tyrosine-protein kinase JAK2",0.7670221364035185,5,1

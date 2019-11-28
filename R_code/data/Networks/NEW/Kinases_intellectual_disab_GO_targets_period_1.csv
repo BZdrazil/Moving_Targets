@@ -1,0 +1,189 @@
+"go_pref_name","target_pref_name","No_Bioactivities","No_Drug_Efficacy_Target_Annotations"
+"aging","Dual specificity mitogen-activated protein kinase kinase 1",11,0
+"anatomical structure development","Dual specificity mitogen-activated protein kinase kinase 1",11,0
+"anatomical structure formation involved in morphogenesis","Dual specificity mitogen-activated protein kinase kinase 1",11,0
+"autophagy","Dual specificity mitogen-activated protein kinase kinase 1",11,0
+"catabolic process","Dual specificity mitogen-activated protein kinase kinase 1",11,0
+"cell cycle","Dual specificity mitogen-activated protein kinase kinase 1",11,0
+"cell differentiation","Dual specificity mitogen-activated protein kinase kinase 1",11,0
+"cell motility","Dual specificity mitogen-activated protein kinase kinase 1",11,0
+"cell proliferation","Dual specificity mitogen-activated protein kinase kinase 1",11,0
+"cellular protein modification process","Dual specificity mitogen-activated protein kinase kinase 1",11,0
+"embryo development","Dual specificity mitogen-activated protein kinase kinase 1",11,0
+"immune system process","Dual specificity mitogen-activated protein kinase kinase 1",11,0
+"locomotion","Dual specificity mitogen-activated protein kinase kinase 1",11,0
+"mitochondrion organization","Dual specificity mitogen-activated protein kinase kinase 1",11,0
+"multicellular organismal development","Dual specificity mitogen-activated protein kinase kinase 1",11,0
+"phosphorylation","Dual specificity mitogen-activated protein kinase kinase 1",11,0
+"positive regulation of catalytic activity","Dual specificity mitogen-activated protein kinase kinase 1",11,0
+"proteolysis","Dual specificity mitogen-activated protein kinase kinase 1",11,0
+"reproduction","Dual specificity mitogen-activated protein kinase kinase 1",11,0
+"response to stress","Dual specificity mitogen-activated protein kinase kinase 1",11,0
+"signal transduction","Dual specificity mitogen-activated protein kinase kinase 1",11,0
+"anatomical structure development","Fibroblast growth factor receptor 1",15,0
+"anatomical structure formation involved in morphogenesis","Fibroblast growth factor receptor 1",15,0
+"biosynthetic process","Fibroblast growth factor receptor 1",15,0
+"cell differentiation","Fibroblast growth factor receptor 1",15,0
+"cell division","Fibroblast growth factor receptor 1",15,0
+"cell motility","Fibroblast growth factor receptor 1",15,0
+"cell proliferation","Fibroblast growth factor receptor 1",15,0
+"cell-cell signaling","Fibroblast growth factor receptor 1",15,0
+"cellular nitrogen compound metabolic process","Fibroblast growth factor receptor 1",15,0
+"cellular protein modification process","Fibroblast growth factor receptor 1",15,0
+"developmental maturation","Fibroblast growth factor receptor 1",15,0
+"embryo development","Fibroblast growth factor receptor 1",15,0
+"lipid metabolic process","Fibroblast growth factor receptor 1",15,0
+"multicellular organismal development","Fibroblast growth factor receptor 1",15,0
+"neurological system process","Fibroblast growth factor receptor 1",15,0
+"phosphorylation","Fibroblast growth factor receptor 1",15,0
+"positive regulation of catalytic activity","Fibroblast growth factor receptor 1",15,0
+"signal transduction","Fibroblast growth factor receptor 1",15,0
+"anatomical structure development","Insulin receptor",10,0
+"carbohydrate metabolic process","Insulin receptor",10,0
+"cell differentiation","Insulin receptor",10,0
+"cellular protein modification process","Insulin receptor",10,0
+"homeostatic process","Insulin receptor",10,0
+"multicellular organismal development","Insulin receptor",10,0
+"phosphorylation","Insulin receptor",10,0
+"positive regulation of catalytic activity","Insulin receptor",10,0
+"protein complex assembly","Insulin receptor",10,0
+"reproduction","Insulin receptor",10,0
+"signal transduction","Insulin receptor",10,0
+"symbiosis, encompassing mutualism through parasitism","Insulin receptor",10,0
+"cellular protein modification process","Insulin-like growth factor I receptor",3,0
+"immune system process","Insulin-like growth factor I receptor",3,0
+"phosphorylation","Insulin-like growth factor I receptor",3,0
+"protein complex assembly","Insulin-like growth factor I receptor",3,0
+"regulation of catalytic activity","Insulin-like growth factor I receptor",3,0
+"signal transduction","Insulin-like growth factor I receptor",3,0
+"aging","Nerve growth factor receptor Trk-A",3,0
+"anatomical structure development","Nerve growth factor receptor Trk-A",3,0
+"cell death","Nerve growth factor receptor Trk-A",3,0
+"cell differentiation","Nerve growth factor receptor Trk-A",3,0
+"cell morphogenesis","Nerve growth factor receptor Trk-A",3,0
+"cellular protein modification process","Nerve growth factor receptor Trk-A",3,0
+"immune system process","Nerve growth factor receptor Trk-A",3,0
+"locomotion","Nerve growth factor receptor Trk-A",3,0
+"microtubule-based process","Nerve growth factor receptor Trk-A",3,0
+"multicellular organismal development","Nerve growth factor receptor Trk-A",3,0
+"neurological system process","Nerve growth factor receptor Trk-A",3,0
+"phosphorylation","Nerve growth factor receptor Trk-A",3,0
+"positive regulation of catalytic activity","Nerve growth factor receptor Trk-A",3,0
+"reproduction","Nerve growth factor receptor Trk-A",3,0
+"response to stress","Nerve growth factor receptor Trk-A",3,0
+"signal transduction","Nerve growth factor receptor Trk-A",3,0
+"anatomical structure formation involved in morphogenesis","Platelet-derived growth factor receptor beta",12,0
+"biosynthetic process","Platelet-derived growth factor receptor beta",12,0
+"cell differentiation","Platelet-derived growth factor receptor beta",12,0
+"cell motility","Platelet-derived growth factor receptor beta",12,0
+"cell proliferation","Platelet-derived growth factor receptor beta",12,0
+"cellular component assembly","Platelet-derived growth factor receptor beta",12,0
+"cellular protein modification process","Platelet-derived growth factor receptor beta",12,0
+"cytoskeleton organization","Platelet-derived growth factor receptor beta",12,0
+"lipid metabolic process","Platelet-derived growth factor receptor beta",12,0
+"locomotion","Platelet-derived growth factor receptor beta",12,0
+"multicellular organismal development","Platelet-derived growth factor receptor beta",12,0
+"phosphorylation","Platelet-derived growth factor receptor beta",12,0
+"positive regulation of catalytic activity","Platelet-derived growth factor receptor beta",12,0
+"response to stress","Platelet-derived growth factor receptor beta",12,0
+"response to toxic substance","Platelet-derived growth factor receptor beta",12,0
+"signal transduction","Platelet-derived growth factor receptor beta",12,0
+"cell-cell signaling","Protein kinase C gamma",50,0
+"cellular protein modification process","Protein kinase C gamma",50,0
+"multicellular organismal development","Protein kinase C gamma",50,0
+"neurological system process","Protein kinase C gamma",50,0
+"phosphorylation","Protein kinase C gamma",50,0
+"response to stress","Protein kinase C gamma",50,0
+"signal transduction","Protein kinase C gamma",50,0
+"aging","Serine/threonine-protein kinase AKT",2,0
+"anatomical structure development","Serine/threonine-protein kinase AKT",2,0
+"biosynthetic process","Serine/threonine-protein kinase AKT",2,0
+"carbohydrate metabolic process","Serine/threonine-protein kinase AKT",2,0
+"catabolic process","Serine/threonine-protein kinase AKT",2,0
+"cell death","Serine/threonine-protein kinase AKT",2,0
+"cell differentiation","Serine/threonine-protein kinase AKT",2,0
+"cell proliferation","Serine/threonine-protein kinase AKT",2,0
+"cell-cell signaling","Serine/threonine-protein kinase AKT",2,0
+"cellular nitrogen compound metabolic process","Serine/threonine-protein kinase AKT",2,0
+"cellular protein modification process","Serine/threonine-protein kinase AKT",2,0
+"circulatory system process","Serine/threonine-protein kinase AKT",2,0
+"embryo development","Serine/threonine-protein kinase AKT",2,0
+"female pregnancy","Serine/threonine-protein kinase AKT",2,0
+"generation of precursor metabolites and energy","Serine/threonine-protein kinase AKT",2,0
+"homeostatic process","Serine/threonine-protein kinase AKT",2,0
+"immune system process","Serine/threonine-protein kinase AKT",2,0
+"metabolic process","Serine/threonine-protein kinase AKT",2,0
+"mitochondrion organization","Serine/threonine-protein kinase AKT",2,0
+"multicellular organismal development","Serine/threonine-protein kinase AKT",2,0
+"negative regulation of endopeptidase activity","Serine/threonine-protein kinase AKT",2,0
+"nucleocytoplasmic transport","Serine/threonine-protein kinase AKT",2,0
+"phosphorylation","Serine/threonine-protein kinase AKT",2,0
+"plasma membrane organization","Serine/threonine-protein kinase AKT",2,0
+"positive regulation of apoptotic process","Serine/threonine-protein kinase AKT",2,0
+"positive regulation of catalytic activity","Serine/threonine-protein kinase AKT",2,0
+"protein targeting","Serine/threonine-protein kinase AKT",2,0
+"regulation of catalytic activity","Serine/threonine-protein kinase AKT",2,0
+"regulation of protein localization","Serine/threonine-protein kinase AKT",2,0
+"reproduction","Serine/threonine-protein kinase AKT",2,0
+"response to stress","Serine/threonine-protein kinase AKT",2,0
+"signal transduction","Serine/threonine-protein kinase AKT",2,0
+"small molecule metabolic process","Serine/threonine-protein kinase AKT",2,0
+"translation","Serine/threonine-protein kinase AKT",2,0
+"transport","Serine/threonine-protein kinase AKT",2,0
+"anatomical structure development","Serine/threonine-protein kinase RAF",5,0
+"cell death","Serine/threonine-protein kinase RAF",5,0
+"cell differentiation","Serine/threonine-protein kinase RAF",5,0
+"cell proliferation","Serine/threonine-protein kinase RAF",5,0
+"cell-cell signaling","Serine/threonine-protein kinase RAF",5,0
+"cellular protein modification process","Serine/threonine-protein kinase RAF",5,0
+"cytoskeleton organization","Serine/threonine-protein kinase RAF",5,0
+"homeostatic process","Serine/threonine-protein kinase RAF",5,0
+"immune system process","Serine/threonine-protein kinase RAF",5,0
+"multicellular organismal development","Serine/threonine-protein kinase RAF",5,0
+"negative regulation of endopeptidase activity","Serine/threonine-protein kinase RAF",5,0
+"phosphorylation","Serine/threonine-protein kinase RAF",5,0
+"positive regulation of catalytic activity","Serine/threonine-protein kinase RAF",5,0
+"protein complex assembly","Serine/threonine-protein kinase RAF",5,0
+"response to stress","Serine/threonine-protein kinase RAF",5,0
+"signal transduction","Serine/threonine-protein kinase RAF",5,0
+"transmembrane transport","Serine/threonine-protein kinase RAF",5,0
+"transport","Serine/threonine-protein kinase RAF",5,0
+"anatomical structure development","Stem cell growth factor receptor",10,1
+"cell adhesion","Stem cell growth factor receptor",10,1
+"cell death","Stem cell growth factor receptor",10,1
+"cell differentiation","Stem cell growth factor receptor",10,1
+"cell division","Stem cell growth factor receptor",10,1
+"cell motility","Stem cell growth factor receptor",10,1
+"cell proliferation","Stem cell growth factor receptor",10,1
+"cellular component assembly","Stem cell growth factor receptor",10,1
+"cellular protein modification process","Stem cell growth factor receptor",10,1
+"cytoskeleton organization","Stem cell growth factor receptor",10,1
+"embryo development","Stem cell growth factor receptor",10,1
+"homeostatic process","Stem cell growth factor receptor",10,1
+"immune system process","Stem cell growth factor receptor",10,1
+"lipid metabolic process","Stem cell growth factor receptor",10,1
+"multicellular organismal development","Stem cell growth factor receptor",10,1
+"neurological system process","Stem cell growth factor receptor",10,1
+"phosphorylation","Stem cell growth factor receptor",10,1
+"pigmentation","Stem cell growth factor receptor",10,1
+"positive regulation of catalytic activity","Stem cell growth factor receptor",10,1
+"reproduction","Stem cell growth factor receptor",10,1
+"response to stress","Stem cell growth factor receptor",10,1
+"signal transduction","Stem cell growth factor receptor",10,1
+"vesicle-mediated transport","Stem cell growth factor receptor",10,1
+"anatomical structure formation involved in morphogenesis","Tyrosine-protein kinase TIE-2",11,0
+"cell adhesion","Tyrosine-protein kinase TIE-2",11,0
+"cell differentiation","Tyrosine-protein kinase TIE-2",11,0
+"cell morphogenesis","Tyrosine-protein kinase TIE-2",11,0
+"cell motility","Tyrosine-protein kinase TIE-2",11,0
+"cell proliferation","Tyrosine-protein kinase TIE-2",11,0
+"cell-cell signaling","Tyrosine-protein kinase TIE-2",11,0
+"cellular protein modification process","Tyrosine-protein kinase TIE-2",11,0
+"circulatory system process","Tyrosine-protein kinase TIE-2",11,0
+"immune system process","Tyrosine-protein kinase TIE-2",11,0
+"multicellular organismal development","Tyrosine-protein kinase TIE-2",11,0
+"phosphorylation","Tyrosine-protein kinase TIE-2",11,0
+"positive regulation of catalytic activity","Tyrosine-protein kinase TIE-2",11,0
+"protein complex assembly","Tyrosine-protein kinase TIE-2",11,0
+"response to stress","Tyrosine-protein kinase TIE-2",11,0
+"signal transduction","Tyrosine-protein kinase TIE-2",11,0

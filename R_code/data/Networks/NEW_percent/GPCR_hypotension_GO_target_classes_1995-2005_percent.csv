@@ -1,0 +1,91 @@
+"protein_class_pref_name","protein_class_short_name","go_pref_name","Percentage_Bioactivities","No_Drug_Efficacy_Target_Annotations","Target_Connectivity"
+"Adenosine receptor","Adenosine receptor","biosynthetic process",0.3047332719044729,4,2
+"Adenosine receptor","Adenosine receptor","catabolic process",0.3047332719044729,4,1
+"Adenosine receptor","Adenosine receptor","cell death",0.3047332719044729,4,1
+"Adenosine receptor","Adenosine receptor","cell-cell signaling",0.3047332719044729,4,4
+"Adenosine receptor","Adenosine receptor","cellular nitrogen compound metabolic process",0.3047332719044729,4,1
+"Adenosine receptor","Adenosine receptor","circulatory system process",0.3047332719044729,4,7
+"Adenosine receptor","Adenosine receptor","homeostatic process",0.3047332719044729,4,5
+"Adenosine receptor","Adenosine receptor","lipid metabolic process",0.3047332719044729,4,2
+"Adenosine receptor","Adenosine receptor","membrane organization",0.3047332719044729,4,1
+"Adenosine receptor","Adenosine receptor","metabolic process",0.3047332719044729,4,3
+"Adenosine receptor","Adenosine receptor","multicellular organismal development",0.3047332719044729,4,4
+"Adenosine receptor","Adenosine receptor","neurological system process",0.3047332719044729,4,5
+"Adenosine receptor","Adenosine receptor","positive regulation of catalytic activity",0.3047332719044729,4,3
+"Adenosine receptor","Adenosine receptor","protein targeting",0.3047332719044729,4,2
+"Adenosine receptor","Adenosine receptor","response to stress",0.3047332719044729,4,5
+"Adenosine receptor","Adenosine receptor","signal transduction",0.3047332719044729,4,7
+"Adenosine receptor","Adenosine receptor","small molecule metabolic process",0.3047332719044729,4,1
+"Adenosine receptor","Adenosine receptor","vesicle-mediated transport",0.3047332719044729,4,3
+"Adrenergic receptor","Adrenergic receptor","DNA metabolic process",0.11164118836541576,0,1
+"Adrenergic receptor","Adrenergic receptor","biosynthetic process",0.11164118836541576,0,2
+"Adrenergic receptor","Adrenergic receptor","cell proliferation",0.11164118836541576,0,1
+"Adrenergic receptor","Adrenergic receptor","cell-cell signaling",0.11164118836541576,0,4
+"Adrenergic receptor","Adrenergic receptor","circulatory system process",0.11164118836541576,0,7
+"Adrenergic receptor","Adrenergic receptor","cytoskeleton organization",0.11164118836541576,0,1
+"Adrenergic receptor","Adrenergic receptor","digestion",0.11164118836541576,0,1
+"Adrenergic receptor","Adrenergic receptor","female pregnancy",0.11164118836541576,0,2
+"Adrenergic receptor","Adrenergic receptor","homeostatic process",0.11164118836541576,0,5
+"Adrenergic receptor","Adrenergic receptor","multicellular organismal development",0.11164118836541576,0,4
+"Adrenergic receptor","Adrenergic receptor","neurological system process",0.11164118836541576,0,5
+"Adrenergic receptor","Adrenergic receptor","positive regulation of catalytic activity",0.11164118836541576,0,3
+"Adrenergic receptor","Adrenergic receptor","regulation of catalytic activity",0.11164118836541576,0,3
+"Adrenergic receptor","Adrenergic receptor","regulation of protein localization",0.11164118836541576,0,3
+"Adrenergic receptor","Adrenergic receptor","response to stress",0.11164118836541576,0,5
+"Adrenergic receptor","Adrenergic receptor","signal transduction",0.11164118836541576,0,7
+"Adrenergic receptor","Adrenergic receptor","transport",0.11164118836541576,0,3
+"Bradykinin receptor","Bradykinin receptor","circulatory system process",0.004402751090467101,0,7
+"Bradykinin receptor","Bradykinin receptor","homeostatic process",0.004402751090467101,0,5
+"Bradykinin receptor","Bradykinin receptor","immune system process",0.004402751090467101,0,2
+"Bradykinin receptor","Bradykinin receptor","response to stress",0.004402751090467101,0,5
+"Bradykinin receptor","Bradykinin receptor","signal transduction",0.004402751090467101,0,7
+"Bradykinin receptor","Bradykinin receptor","transport",0.004402751090467101,0,3
+"Cannabinoid receptor","Cannabinoid receptor","aging",0.06698471301924946,2,1
+"Cannabinoid receptor","Cannabinoid receptor","cell differentiation",0.06698471301924946,2,2
+"Cannabinoid receptor","Cannabinoid receptor","circulatory system process",0.06698471301924946,2,7
+"Cannabinoid receptor","Cannabinoid receptor","female pregnancy",0.06698471301924946,2,2
+"Cannabinoid receptor","Cannabinoid receptor","homeostatic process",0.06698471301924946,2,5
+"Cannabinoid receptor","Cannabinoid receptor","multicellular organismal development",0.06698471301924946,2,4
+"Cannabinoid receptor","Cannabinoid receptor","neurological system process",0.06698471301924946,2,5
+"Cannabinoid receptor","Cannabinoid receptor","positive regulation of apoptotic process",0.06698471301924946,2,1
+"Cannabinoid receptor","Cannabinoid receptor","regulation of catalytic activity",0.06698471301924946,2,3
+"Cannabinoid receptor","Cannabinoid receptor","regulation of protein localization",0.06698471301924946,2,3
+"Cannabinoid receptor","Cannabinoid receptor","reproduction",0.06698471301924946,2,2
+"Cannabinoid receptor","Cannabinoid receptor","signal transduction",0.06698471301924946,2,7
+"Dopamine receptor","Dopamine receptor","cell differentiation",0.18365761691662763,2,2
+"Dopamine receptor","Dopamine receptor","cell morphogenesis",0.18365761691662763,2,1
+"Dopamine receptor","Dopamine receptor","cell motility",0.18365761691662763,2,2
+"Dopamine receptor","Dopamine receptor","cell-cell signaling",0.18365761691662763,2,4
+"Dopamine receptor","Dopamine receptor","cellular component assembly",0.18365761691662763,2,1
+"Dopamine receptor","Dopamine receptor","circulatory system process",0.18365761691662763,2,7
+"Dopamine receptor","Dopamine receptor","homeostatic process",0.18365761691662763,2,5
+"Dopamine receptor","Dopamine receptor","lipid metabolic process",0.18365761691662763,2,2
+"Dopamine receptor","Dopamine receptor","metabolic process",0.18365761691662763,2,3
+"Dopamine receptor","Dopamine receptor","multicellular organismal development",0.18365761691662763,2,4
+"Dopamine receptor","Dopamine receptor","neurological system process",0.18365761691662763,2,5
+"Dopamine receptor","Dopamine receptor","nucleocytoplasmic transport",0.18365761691662763,2,1
+"Dopamine receptor","Dopamine receptor","pigmentation",0.18365761691662763,2,1
+"Dopamine receptor","Dopamine receptor","positive regulation of catalytic activity",0.18365761691662763,2,3
+"Dopamine receptor","Dopamine receptor","protein targeting",0.18365761691662763,2,2
+"Dopamine receptor","Dopamine receptor","regulation of catalytic activity",0.18365761691662763,2,3
+"Dopamine receptor","Dopamine receptor","regulation of protein localization",0.18365761691662763,2,3
+"Dopamine receptor","Dopamine receptor","reproduction",0.18365761691662763,2,2
+"Dopamine receptor","Dopamine receptor","response to stress",0.18365761691662763,2,5
+"Dopamine receptor","Dopamine receptor","response to toxic substance",0.18365761691662763,2,2
+"Dopamine receptor","Dopamine receptor","signal transduction",0.18365761691662763,2,7
+"Dopamine receptor","Dopamine receptor","transmembrane transport",0.18365761691662763,2,1
+"Dopamine receptor","Dopamine receptor","transport",0.18365761691662763,2,3
+"Dopamine receptor","Dopamine receptor","vesicle-mediated transport",0.18365761691662763,2,3
+"Histamine receptor","Histamine receptor","cell motility",0.0226427198938308,2,2
+"Histamine receptor","Histamine receptor","circulatory system process",0.0226427198938308,2,7
+"Histamine receptor","Histamine receptor","immune system process",0.0226427198938308,2,2
+"Histamine receptor","Histamine receptor","neurological system process",0.0226427198938308,2,5
+"Histamine receptor","Histamine receptor","response to stress",0.0226427198938308,2,5
+"Histamine receptor","Histamine receptor","signal transduction",0.0226427198938308,2,7
+"Serotonin receptor","Serotonin receptor","cell-cell signaling",0.13837217712896602,2,4
+"Serotonin receptor","Serotonin receptor","cellular response to drug",0.13837217712896602,2,1
+"Serotonin receptor","Serotonin receptor","circulatory system process",0.13837217712896602,2,7
+"Serotonin receptor","Serotonin receptor","metabolic process",0.13837217712896602,2,3
+"Serotonin receptor","Serotonin receptor","response to toxic substance",0.13837217712896602,2,2
+"Serotonin receptor","Serotonin receptor","signal transduction",0.13837217712896602,2,7
+"Serotonin receptor","Serotonin receptor","vesicle-mediated transport",0.13837217712896602,2,3

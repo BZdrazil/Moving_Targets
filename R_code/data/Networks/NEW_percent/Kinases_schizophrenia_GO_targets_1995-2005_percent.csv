@@ -1,0 +1,384 @@
+"go_pref_name","target_pref_name","Percentage_Bioactivities","No_Drug_Efficacy_Target_Annotations","Target_Connectivity"
+"DNA metabolic process","Casein kinase I epsilon",0.0025158577659812,0,2
+"DNA metabolic process","Serine/threonine-protein kinase Chk1",0.0031448222074765006,0,2
+"aging","Glycogen synthase kinase-3 beta",0.04497095756691395,1,5
+"aging","MAP kinase p38 alpha",0.07170194633046421,3,5
+"aging","Nerve growth factor receptor Trk-A",0.005346197752710051,0,5
+"aging","Serine/threonine-protein kinase AKT",0.01289377105065365,0,5
+"aging","Serine/threonine-protein kinase Chk1",0.0031448222074765006,0,5
+"anatomical structure development","Fibroblast growth factor receptor 1",0.0283033998672885,0,9
+"anatomical structure development","Fibroblast growth factor receptor 2",0.0015724111037382503,0,9
+"anatomical structure development","Glycogen synthase kinase-3 beta",0.04497095756691395,1,9
+"anatomical structure development","MAP kinase ERK1",0.0012579288829906,0,9
+"anatomical structure development","MAP kinase ERK2",0.0031448222074765006,0,9
+"anatomical structure development","MAP kinase p38 alpha",0.07170194633046421,3,9
+"anatomical structure development","Nerve growth factor receptor Trk-A",0.005346197752710051,0,9
+"anatomical structure development","Serine/threonine-protein kinase AKT",0.01289377105065365,0,9
+"anatomical structure development","Vascular endothelial growth factor receptor 2",0.16321627256803037,0,9
+"anatomical structure formation involved in morphogenesis","Cyclin-dependent kinase 5",0.0022013755452335504,1,10
+"anatomical structure formation involved in morphogenesis","Fibroblast growth factor receptor 1",0.0283033998672885,0,10
+"anatomical structure formation involved in morphogenesis","Fibroblast growth factor receptor 2",0.0015724111037382503,0,10
+"anatomical structure formation involved in morphogenesis","Glycogen synthase kinase-3 beta",0.04497095756691395,1,10
+"anatomical structure formation involved in morphogenesis","MAP kinase ERK1",0.0012579288829906,0,10
+"anatomical structure formation involved in morphogenesis","MAP kinase ERK2",0.0031448222074765006,0,10
+"anatomical structure formation involved in morphogenesis","MAP kinase p38 alpha",0.07170194633046421,3,10
+"anatomical structure formation involved in morphogenesis","Platelet-derived growth factor receptor beta",0.039310277593456254,2,10
+"anatomical structure formation involved in morphogenesis","Protein kinase C alpha",0.056606799734577,0,10
+"anatomical structure formation involved in morphogenesis","Vascular endothelial growth factor receptor 2",0.16321627256803037,0,10
+"autophagy","MAP/microtubule affinity-regulating kinase 2",0.0012579288829906,0,2
+"autophagy","TRAF2- and NCK-interacting kinase",0.00283033998672885,0,2
+"biosynthetic process","Fibroblast growth factor receptor 1",0.0283033998672885,0,8
+"biosynthetic process","Fibroblast growth factor receptor 2",0.0015724111037382503,0,8
+"biosynthetic process","MAP kinase ERK1",0.0012579288829906,0,8
+"biosynthetic process","MAP kinase ERK2",0.0031448222074765006,0,8
+"biosynthetic process","MAP kinase p38 alpha",0.07170194633046421,3,8
+"biosynthetic process","Platelet-derived growth factor receptor beta",0.039310277593456254,2,8
+"biosynthetic process","Serine/threonine-protein kinase AKT",0.01289377105065365,0,8
+"biosynthetic process","Serine/threonine-protein kinase Chk1",0.0031448222074765006,0,8
+"carbohydrate metabolic process","Glycogen synthase kinase-3 alpha",0.0012579288829906,0,4
+"carbohydrate metabolic process","Glycogen synthase kinase-3 beta",0.04497095756691395,1,4
+"carbohydrate metabolic process","MAP kinase p38 alpha",0.07170194633046421,3,4
+"carbohydrate metabolic process","Serine/threonine-protein kinase AKT",0.01289377105065365,0,4
+"catabolic process","Cyclin-dependent kinase 5",0.0022013755452335504,1,5
+"catabolic process","Glycogen synthase kinase-3 alpha",0.0012579288829906,0,5
+"catabolic process","Glycogen synthase kinase-3 beta",0.04497095756691395,1,5
+"catabolic process","MAP/microtubule affinity-regulating kinase 2",0.0012579288829906,0,5
+"catabolic process","Serine/threonine-protein kinase AKT",0.01289377105065365,0,5
+"cell adhesion","Cyclin-dependent kinase 5",0.0022013755452335504,1,3
+"cell adhesion","Protein kinase C alpha",0.056606799734577,0,3
+"cell adhesion","Tyrosine-protein kinase FYN",0.00345930442822415,0,3
+"cell cycle","Casein kinase I epsilon",0.0025158577659812,0,8
+"cell cycle","Cyclin-dependent kinase 5",0.0022013755452335504,1,8
+"cell cycle","Glycogen synthase kinase-3 beta",0.04497095756691395,1,8
+"cell cycle","MAP kinase ERK1",0.0012579288829906,0,8
+"cell cycle","MAP kinase ERK2",0.0031448222074765006,0,8
+"cell cycle","MAP kinase p38 alpha",0.07170194633046421,3,8
+"cell cycle","Protein kinase C alpha",0.056606799734577,0,8
+"cell cycle","Serine/threonine-protein kinase Chk1",0.0031448222074765006,0,8
+"cell death","Cyclin-dependent kinase 5",0.0022013755452335504,1,10
+"cell death","Fibroblast growth factor receptor 2",0.0015724111037382503,0,10
+"cell death","Glycogen synthase kinase-3 alpha",0.0012579288829906,0,10
+"cell death","Glycogen synthase kinase-3 beta",0.04497095756691395,1,10
+"cell death","MAP kinase ERK1",0.0012579288829906,0,10
+"cell death","MAP kinase ERK2",0.0031448222074765006,0,10
+"cell death","MAP kinase p38 alpha",0.07170194633046421,3,10
+"cell death","Nerve growth factor receptor Trk-A",0.005346197752710051,0,10
+"cell death","Protein kinase C alpha",0.056606799734577,0,10
+"cell death","Serine/threonine-protein kinase AKT",0.01289377105065365,0,10
+"cell differentiation","CaM kinase II beta",9.434466622429501E-4,0,18
+"cell differentiation","Casein kinase I epsilon",0.0025158577659812,0,18
+"cell differentiation","Cyclin-dependent kinase 5",0.0022013755452335504,1,18
+"cell differentiation","Fibroblast growth factor receptor 1",0.0283033998672885,0,18
+"cell differentiation","Fibroblast growth factor receptor 2",0.0015724111037382503,0,18
+"cell differentiation","Glycogen synthase kinase-3 beta",0.04497095756691395,1,18
+"cell differentiation","Hepatocyte growth factor receptor",6.289644414953E-4,0,18
+"cell differentiation","MAP kinase ERK1",0.0012579288829906,0,18
+"cell differentiation","MAP kinase ERK2",0.0031448222074765006,0,18
+"cell differentiation","MAP kinase p38 alpha",0.07170194633046421,3,18
+"cell differentiation","MAP/microtubule affinity-regulating kinase 2",0.0012579288829906,0,18
+"cell differentiation","Nerve growth factor receptor Trk-A",0.005346197752710051,0,18
+"cell differentiation","Platelet-derived growth factor receptor beta",0.039310277593456254,2,18
+"cell differentiation","Serine/threonine-protein kinase AKT",0.01289377105065365,0,18
+"cell differentiation","Serine/threonine-protein kinase PCTAIRE-1",0.0025158577659812,0,18
+"cell differentiation","TRAF2- and NCK-interacting kinase",0.00283033998672885,0,18
+"cell differentiation","Tyrosine-protein kinase FYN",0.00345930442822415,0,18
+"cell differentiation","Vascular endothelial growth factor receptor 2",0.16321627256803037,0,18
+"cell division","Cyclin-dependent kinase 5",0.0022013755452335504,1,3
+"cell division","Fibroblast growth factor receptor 1",0.0283033998672885,0,3
+"cell division","Fibroblast growth factor receptor 2",0.0015724111037382503,0,3
+"cell junction organization","Protein kinase C alpha",0.056606799734577,0,1
+"cell morphogenesis","CaM kinase II beta",9.434466622429501E-4,0,10
+"cell morphogenesis","Cyclin-dependent kinase 5",0.0022013755452335504,1,10
+"cell morphogenesis","Fibroblast growth factor receptor 2",0.0015724111037382503,0,10
+"cell morphogenesis","Glycogen synthase kinase-3 beta",0.04497095756691395,1,10
+"cell morphogenesis","Hepatocyte growth factor receptor",6.289644414953E-4,0,10
+"cell morphogenesis","MAP kinase ERK1",0.0012579288829906,0,10
+"cell morphogenesis","MAP kinase ERK2",0.0031448222074765006,0,10
+"cell morphogenesis","MAP kinase p38 alpha",0.07170194633046421,3,10
+"cell morphogenesis","Nerve growth factor receptor Trk-A",0.005346197752710051,0,10
+"cell morphogenesis","Tyrosine-protein kinase FYN",0.00345930442822415,0,10
+"cell motility","Cyclin-dependent kinase 5",0.0022013755452335504,1,7
+"cell motility","Fibroblast growth factor receptor 1",0.0283033998672885,0,7
+"cell motility","Glycogen synthase kinase-3 beta",0.04497095756691395,1,7
+"cell motility","MAP/microtubule affinity-regulating kinase 2",0.0012579288829906,0,7
+"cell motility","Platelet-derived growth factor receptor beta",0.039310277593456254,2,7
+"cell motility","Tyrosine-protein kinase FYN",0.00345930442822415,0,7
+"cell motility","Vascular endothelial growth factor receptor 2",0.16321627256803037,0,7
+"cell proliferation","Cyclin-dependent kinase 5",0.0022013755452335504,1,8
+"cell proliferation","Fibroblast growth factor receptor 1",0.0283033998672885,0,8
+"cell proliferation","Fibroblast growth factor receptor 2",0.0015724111037382503,0,8
+"cell proliferation","Hepatocyte growth factor receptor",6.289644414953E-4,0,8
+"cell proliferation","MAP kinase ERK2",0.0031448222074765006,0,8
+"cell proliferation","Platelet-derived growth factor receptor beta",0.039310277593456254,2,8
+"cell proliferation","Serine/threonine-protein kinase AKT",0.01289377105065365,0,8
+"cell proliferation","Tyrosine-protein kinase FYN",0.00345930442822415,0,8
+"cell-cell signaling","Cyclin-dependent kinase 5",0.0022013755452335504,1,8
+"cell-cell signaling","Fibroblast growth factor receptor 1",0.0283033998672885,0,8
+"cell-cell signaling","Fibroblast growth factor receptor 2",0.0015724111037382503,0,8
+"cell-cell signaling","Glycogen synthase kinase-3 alpha",0.0012579288829906,0,8
+"cell-cell signaling","Glycogen synthase kinase-3 beta",0.04497095756691395,1,8
+"cell-cell signaling","MAP kinase ERK2",0.0031448222074765006,0,8
+"cell-cell signaling","Serine/threonine-protein kinase AKT",0.01289377105065365,0,8
+"cell-cell signaling","Serine/threonine-protein kinase PCTAIRE-1",0.0025158577659812,0,8
+"cellular component assembly","Cyclin-dependent kinase 5",0.0022013755452335504,1,4
+"cellular component assembly","Platelet-derived growth factor receptor beta",0.039310277593456254,2,4
+"cellular component assembly","Protein kinase C alpha",0.056606799734577,0,4
+"cellular component assembly","TRAF2- and NCK-interacting kinase",0.00283033998672885,0,4
+"cellular nitrogen compound metabolic process","Casein kinase I epsilon",0.0025158577659812,0,7
+"cellular nitrogen compound metabolic process","Fibroblast growth factor receptor 1",0.0283033998672885,0,7
+"cellular nitrogen compound metabolic process","Glycogen synthase kinase-3 beta",0.04497095756691395,1,7
+"cellular nitrogen compound metabolic process","MAP kinase ERK1",0.0012579288829906,0,7
+"cellular nitrogen compound metabolic process","MAP kinase ERK2",0.0031448222074765006,0,7
+"cellular nitrogen compound metabolic process","MAP kinase p38 alpha",0.07170194633046421,3,7
+"cellular nitrogen compound metabolic process","Serine/threonine-protein kinase AKT",0.01289377105065365,0,7
+"cellular protein modification process","CaM kinase II beta",9.434466622429501E-4,0,23
+"cellular protein modification process","CaM-kinase kinase beta",0.0018868933244859001,0,23
+"cellular protein modification process","Casein kinase I epsilon",0.0025158577659812,0,23
+"cellular protein modification process","Cyclin-dependent kinase 5",0.0022013755452335504,1,23
+"cellular protein modification process","Fibroblast growth factor receptor 1",0.0283033998672885,0,23
+"cellular protein modification process","Fibroblast growth factor receptor 2",0.0015724111037382503,0,23
+"cellular protein modification process","Glycogen synthase kinase-3 alpha",0.0012579288829906,0,23
+"cellular protein modification process","Glycogen synthase kinase-3 beta",0.04497095756691395,1,23
+"cellular protein modification process","Hepatocyte growth factor receptor",6.289644414953E-4,0,23
+"cellular protein modification process","MAP kinase ERK1",0.0012579288829906,0,23
+"cellular protein modification process","MAP kinase ERK2",0.0031448222074765006,0,23
+"cellular protein modification process","MAP kinase p38 alpha",0.07170194633046421,3,23
+"cellular protein modification process","MAP/microtubule affinity-regulating kinase 2",0.0012579288829906,0,23
+"cellular protein modification process","Nerve growth factor receptor Trk-A",0.005346197752710051,0,23
+"cellular protein modification process","Platelet-derived growth factor receptor beta",0.039310277593456254,2,23
+"cellular protein modification process","Protein kinase C alpha",0.056606799734577,0,23
+"cellular protein modification process","Serine/threonine-protein kinase AKT",0.01289377105065365,0,23
+"cellular protein modification process","Serine/threonine-protein kinase Chk1",0.0031448222074765006,0,23
+"cellular protein modification process","Serine/threonine-protein kinase PCTAIRE-1",0.0025158577659812,0,23
+"cellular protein modification process","TRAF2- and NCK-interacting kinase",0.00283033998672885,0,23
+"cellular protein modification process","Tyrosine-protein kinase FYN",0.00345930442822415,0,23
+"cellular protein modification process","Vascular endothelial growth factor receptor 2",0.16321627256803037,0,23
+"cellular protein modification process","c-Jun N-terminal kinase 1",0.011950324388410701,0,23
+"chromosome organization","Protein kinase C alpha",0.056606799734577,0,2
+"chromosome organization","Serine/threonine-protein kinase Chk1",0.0031448222074765006,0,2
+"circulatory system process","Glycogen synthase kinase-3 alpha",0.0012579288829906,0,2
+"circulatory system process","Serine/threonine-protein kinase AKT",0.01289377105065365,0,2
+"cytoskeleton organization","Cyclin-dependent kinase 5",0.0022013755452335504,1,3
+"cytoskeleton organization","Platelet-derived growth factor receptor beta",0.039310277593456254,2,3
+"cytoskeleton organization","TRAF2- and NCK-interacting kinase",0.00283033998672885,0,3
+"developmental maturation","Fibroblast growth factor receptor 1",0.0283033998672885,0,1
+"embryo development","Fibroblast growth factor receptor 1",0.0283033998672885,0,6
+"embryo development","Fibroblast growth factor receptor 2",0.0015724111037382503,0,6
+"embryo development","MAP kinase ERK1",0.0012579288829906,0,6
+"embryo development","MAP kinase ERK2",0.0031448222074765006,0,6
+"embryo development","Serine/threonine-protein kinase AKT",0.01289377105065365,0,6
+"embryo development","Vascular endothelial growth factor receptor 2",0.16321627256803037,0,6
+"extracellular matrix organization","Vascular endothelial growth factor receptor 2",0.16321627256803037,0,1
+"female pregnancy","Serine/threonine-protein kinase AKT",0.01289377105065365,0,1
+"generation of precursor metabolites and energy","Glycogen synthase kinase-3 alpha",0.0012579288829906,0,3
+"generation of precursor metabolites and energy","Glycogen synthase kinase-3 beta",0.04497095756691395,1,3
+"generation of precursor metabolites and energy","Serine/threonine-protein kinase AKT",0.01289377105065365,0,3
+"growth","Cyclin-dependent kinase 5",0.0022013755452335504,1,3
+"growth","Fibroblast growth factor receptor 2",0.0015724111037382503,0,3
+"growth","MAP kinase p38 alpha",0.07170194633046421,3,3
+"homeostatic process","Serine/threonine-protein kinase AKT",0.01289377105065365,0,1
+"immune system process","CaM kinase II beta",9.434466622429501E-4,0,9
+"immune system process","Fibroblast growth factor receptor 2",0.0015724111037382503,0,9
+"immune system process","MAP kinase ERK1",0.0012579288829906,0,9
+"immune system process","MAP kinase ERK2",0.0031448222074765006,0,9
+"immune system process","MAP kinase p38 alpha",0.07170194633046421,3,9
+"immune system process","Nerve growth factor receptor Trk-A",0.005346197752710051,0,9
+"immune system process","Serine/threonine-protein kinase AKT",0.01289377105065365,0,9
+"immune system process","Tyrosine-protein kinase FYN",0.00345930442822415,0,9
+"immune system process","Vascular endothelial growth factor receptor 2",0.16321627256803037,0,9
+"lipid metabolic process","Fibroblast growth factor receptor 1",0.0283033998672885,0,6
+"lipid metabolic process","Fibroblast growth factor receptor 2",0.0015724111037382503,0,6
+"lipid metabolic process","MAP kinase ERK1",0.0012579288829906,0,6
+"lipid metabolic process","MAP kinase p38 alpha",0.07170194633046421,3,6
+"lipid metabolic process","Platelet-derived growth factor receptor beta",0.039310277593456254,2,6
+"lipid metabolic process","Tyrosine-protein kinase FYN",0.00345930442822415,0,6
+"locomotion","Cyclin-dependent kinase 5",0.0022013755452335504,1,8
+"locomotion","Hepatocyte growth factor receptor",6.289644414953E-4,0,8
+"locomotion","MAP kinase ERK1",0.0012579288829906,0,8
+"locomotion","MAP kinase ERK2",0.0031448222074765006,0,8
+"locomotion","MAP kinase p38 alpha",0.07170194633046421,3,8
+"locomotion","Nerve growth factor receptor Trk-A",0.005346197752710051,0,8
+"locomotion","Platelet-derived growth factor receptor beta",0.039310277593456254,2,8
+"locomotion","Tyrosine-protein kinase FYN",0.00345930442822415,0,8
+"membrane organization","Cyclin-dependent kinase 5",0.0022013755452335504,1,5
+"membrane organization","Glycogen synthase kinase-3 alpha",0.0012579288829906,0,5
+"membrane organization","Glycogen synthase kinase-3 beta",0.04497095756691395,1,5
+"membrane organization","Protein kinase C alpha",0.056606799734577,0,5
+"membrane organization","c-Jun N-terminal kinase 1",0.011950324388410701,0,5
+"metabolic process","Serine/threonine-protein kinase AKT",0.01289377105065365,0,1
+"microtubule-based process","Nerve growth factor receptor Trk-A",0.005346197752710051,0,1
+"mitochondrion organization","Glycogen synthase kinase-3 alpha",0.0012579288829906,0,5
+"mitochondrion organization","Glycogen synthase kinase-3 beta",0.04497095756691395,1,5
+"mitochondrion organization","MAP/microtubule affinity-regulating kinase 2",0.0012579288829906,0,5
+"mitochondrion organization","Serine/threonine-protein kinase AKT",0.01289377105065365,0,5
+"mitochondrion organization","c-Jun N-terminal kinase 1",0.011950324388410701,0,5
+"multicellular organismal development","CaM kinase II beta",9.434466622429501E-4,0,20
+"multicellular organismal development","Casein kinase I epsilon",0.0025158577659812,0,20
+"multicellular organismal development","Cyclin-dependent kinase 5",0.0022013755452335504,1,20
+"multicellular organismal development","Fibroblast growth factor receptor 1",0.0283033998672885,0,20
+"multicellular organismal development","Fibroblast growth factor receptor 2",0.0015724111037382503,0,20
+"multicellular organismal development","Glycogen synthase kinase-3 alpha",0.0012579288829906,0,20
+"multicellular organismal development","Glycogen synthase kinase-3 beta",0.04497095756691395,1,20
+"multicellular organismal development","Hepatocyte growth factor receptor",6.289644414953E-4,0,20
+"multicellular organismal development","MAP kinase ERK1",0.0012579288829906,0,20
+"multicellular organismal development","MAP kinase ERK2",0.0031448222074765006,0,20
+"multicellular organismal development","MAP kinase p38 alpha",0.07170194633046421,3,20
+"multicellular organismal development","MAP/microtubule affinity-regulating kinase 2",0.0012579288829906,0,20
+"multicellular organismal development","Nerve growth factor receptor Trk-A",0.005346197752710051,0,20
+"multicellular organismal development","Platelet-derived growth factor receptor beta",0.039310277593456254,2,20
+"multicellular organismal development","Protein kinase C alpha",0.056606799734577,0,20
+"multicellular organismal development","Serine/threonine-protein kinase AKT",0.01289377105065365,0,20
+"multicellular organismal development","Serine/threonine-protein kinase PCTAIRE-1",0.0025158577659812,0,20
+"multicellular organismal development","TRAF2- and NCK-interacting kinase",0.00283033998672885,0,20
+"multicellular organismal development","Tyrosine-protein kinase FYN",0.00345930442822415,0,20
+"multicellular organismal development","Vascular endothelial growth factor receptor 2",0.16321627256803037,0,20
+"negative regulation of endopeptidase activity","Serine/threonine-protein kinase AKT",0.01289377105065365,0,1
+"neurological system process","Cyclin-dependent kinase 5",0.0022013755452335504,1,6
+"neurological system process","Fibroblast growth factor receptor 1",0.0283033998672885,0,6
+"neurological system process","MAP kinase ERK1",0.0012579288829906,0,6
+"neurological system process","MAP kinase ERK2",0.0031448222074765006,0,6
+"neurological system process","Nerve growth factor receptor Trk-A",0.005346197752710051,0,6
+"neurological system process","Tyrosine-protein kinase FYN",0.00345930442822415,0,6
+"nucleocytoplasmic transport","Cyclin-dependent kinase 5",0.0022013755452335504,1,5
+"nucleocytoplasmic transport","Glycogen synthase kinase-3 beta",0.04497095756691395,1,5
+"nucleocytoplasmic transport","MAP kinase ERK1",0.0012579288829906,0,5
+"nucleocytoplasmic transport","MAP kinase ERK2",0.0031448222074765006,0,5
+"nucleocytoplasmic transport","Serine/threonine-protein kinase AKT",0.01289377105065365,0,5
+"phosphorylation","CaM kinase II beta",9.434466622429501E-4,0,23
+"phosphorylation","CaM-kinase kinase beta",0.0018868933244859001,0,23
+"phosphorylation","Casein kinase I epsilon",0.0025158577659812,0,23
+"phosphorylation","Cyclin-dependent kinase 5",0.0022013755452335504,1,23
+"phosphorylation","Fibroblast growth factor receptor 1",0.0283033998672885,0,23
+"phosphorylation","Fibroblast growth factor receptor 2",0.0015724111037382503,0,23
+"phosphorylation","Glycogen synthase kinase-3 alpha",0.0012579288829906,0,23
+"phosphorylation","Glycogen synthase kinase-3 beta",0.04497095756691395,1,23
+"phosphorylation","Hepatocyte growth factor receptor",6.289644414953E-4,0,23
+"phosphorylation","MAP kinase ERK1",0.0012579288829906,0,23
+"phosphorylation","MAP kinase ERK2",0.0031448222074765006,0,23
+"phosphorylation","MAP kinase p38 alpha",0.07170194633046421,3,23
+"phosphorylation","MAP/microtubule affinity-regulating kinase 2",0.0012579288829906,0,23
+"phosphorylation","Nerve growth factor receptor Trk-A",0.005346197752710051,0,23
+"phosphorylation","Platelet-derived growth factor receptor beta",0.039310277593456254,2,23
+"phosphorylation","Protein kinase C alpha",0.056606799734577,0,23
+"phosphorylation","Serine/threonine-protein kinase AKT",0.01289377105065365,0,23
+"phosphorylation","Serine/threonine-protein kinase Chk1",0.0031448222074765006,0,23
+"phosphorylation","Serine/threonine-protein kinase PCTAIRE-1",0.0025158577659812,0,23
+"phosphorylation","TRAF2- and NCK-interacting kinase",0.00283033998672885,0,23
+"phosphorylation","Tyrosine-protein kinase FYN",0.00345930442822415,0,23
+"phosphorylation","Vascular endothelial growth factor receptor 2",0.16321627256803037,0,23
+"phosphorylation","c-Jun N-terminal kinase 1",0.011950324388410701,0,23
+"plasma membrane organization","Serine/threonine-protein kinase AKT",0.01289377105065365,0,2
+"plasma membrane organization","TRAF2- and NCK-interacting kinase",0.00283033998672885,0,2
+"positive regulation of apoptotic process","Cyclin-dependent kinase 5",0.0022013755452335504,1,5
+"positive regulation of apoptotic process","Glycogen synthase kinase-3 alpha",0.0012579288829906,0,5
+"positive regulation of apoptotic process","Glycogen synthase kinase-3 beta",0.04497095756691395,1,5
+"positive regulation of apoptotic process","Serine/threonine-protein kinase AKT",0.01289377105065365,0,5
+"positive regulation of apoptotic process","c-Jun N-terminal kinase 1",0.011950324388410701,0,5
+"positive regulation of catalytic activity","CaM kinase II beta",9.434466622429501E-4,0,17
+"positive regulation of catalytic activity","Cyclin-dependent kinase 5",0.0022013755452335504,1,17
+"positive regulation of catalytic activity","Fibroblast growth factor receptor 1",0.0283033998672885,0,17
+"positive regulation of catalytic activity","Fibroblast growth factor receptor 2",0.0015724111037382503,0,17
+"positive regulation of catalytic activity","Glycogen synthase kinase-3 alpha",0.0012579288829906,0,17
+"positive regulation of catalytic activity","Glycogen synthase kinase-3 beta",0.04497095756691395,1,17
+"positive regulation of catalytic activity","MAP kinase ERK1",0.0012579288829906,0,17
+"positive regulation of catalytic activity","MAP kinase ERK2",0.0031448222074765006,0,17
+"positive regulation of catalytic activity","MAP kinase p38 alpha",0.07170194633046421,3,17
+"positive regulation of catalytic activity","MAP/microtubule affinity-regulating kinase 2",0.0012579288829906,0,17
+"positive regulation of catalytic activity","Nerve growth factor receptor Trk-A",0.005346197752710051,0,17
+"positive regulation of catalytic activity","Platelet-derived growth factor receptor beta",0.039310277593456254,2,17
+"positive regulation of catalytic activity","Protein kinase C alpha",0.056606799734577,0,17
+"positive regulation of catalytic activity","Serine/threonine-protein kinase AKT",0.01289377105065365,0,17
+"positive regulation of catalytic activity","TRAF2- and NCK-interacting kinase",0.00283033998672885,0,17
+"positive regulation of catalytic activity","Tyrosine-protein kinase FYN",0.00345930442822415,0,17
+"positive regulation of catalytic activity","c-Jun N-terminal kinase 1",0.011950324388410701,0,17
+"protein complex assembly","Glycogen synthase kinase-3 beta",0.04497095756691395,1,2
+"protein complex assembly","MAP kinase ERK1",0.0012579288829906,0,2
+"protein targeting","MAP kinase ERK1",0.0012579288829906,0,3
+"protein targeting","MAP kinase ERK2",0.0031448222074765006,0,3
+"protein targeting","Serine/threonine-protein kinase AKT",0.01289377105065365,0,3
+"proteolysis","Glycogen synthase kinase-3 alpha",0.0012579288829906,0,2
+"proteolysis","Glycogen synthase kinase-3 beta",0.04497095756691395,1,2
+"regulation of catalytic activity","CaM-kinase kinase beta",0.0018868933244859001,0,5
+"regulation of catalytic activity","Glycogen synthase kinase-3 alpha",0.0012579288829906,0,5
+"regulation of catalytic activity","Glycogen synthase kinase-3 beta",0.04497095756691395,1,5
+"regulation of catalytic activity","Protein kinase C alpha",0.056606799734577,0,5
+"regulation of catalytic activity","Serine/threonine-protein kinase AKT",0.01289377105065365,0,5
+"regulation of protein localization","Casein kinase I epsilon",0.0025158577659812,0,10
+"regulation of protein localization","Cyclin-dependent kinase 5",0.0022013755452335504,1,10
+"regulation of protein localization","Glycogen synthase kinase-3 alpha",0.0012579288829906,0,10
+"regulation of protein localization","Glycogen synthase kinase-3 beta",0.04497095756691395,1,10
+"regulation of protein localization","MAP kinase p38 alpha",0.07170194633046421,3,10
+"regulation of protein localization","Protein kinase C alpha",0.056606799734577,0,10
+"regulation of protein localization","Serine/threonine-protein kinase AKT",0.01289377105065365,0,10
+"regulation of protein localization","Serine/threonine-protein kinase PCTAIRE-1",0.0025158577659812,0,10
+"regulation of protein localization","Tyrosine-protein kinase FYN",0.00345930442822415,0,10
+"regulation of protein localization","c-Jun N-terminal kinase 1",0.011950324388410701,0,10
+"reproduction","Fibroblast growth factor receptor 2",0.0015724111037382503,0,6
+"reproduction","MAP kinase ERK2",0.0031448222074765006,0,6
+"reproduction","MAP kinase p38 alpha",0.07170194633046421,3,6
+"reproduction","Nerve growth factor receptor Trk-A",0.005346197752710051,0,6
+"reproduction","Serine/threonine-protein kinase AKT",0.01289377105065365,0,6
+"reproduction","Serine/threonine-protein kinase PCTAIRE-1",0.0025158577659812,0,6
+"response to stress","CaM kinase II beta",9.434466622429501E-4,0,16
+"response to stress","Casein kinase I epsilon",0.0025158577659812,0,16
+"response to stress","Cyclin-dependent kinase 5",0.0022013755452335504,1,16
+"response to stress","Glycogen synthase kinase-3 alpha",0.0012579288829906,0,16
+"response to stress","Glycogen synthase kinase-3 beta",0.04497095756691395,1,16
+"response to stress","MAP kinase ERK1",0.0012579288829906,0,16
+"response to stress","MAP kinase ERK2",0.0031448222074765006,0,16
+"response to stress","MAP kinase p38 alpha",0.07170194633046421,3,16
+"response to stress","Nerve growth factor receptor Trk-A",0.005346197752710051,0,16
+"response to stress","Platelet-derived growth factor receptor beta",0.039310277593456254,2,16
+"response to stress","Protein kinase C alpha",0.056606799734577,0,16
+"response to stress","Serine/threonine-protein kinase AKT",0.01289377105065365,0,16
+"response to stress","Serine/threonine-protein kinase Chk1",0.0031448222074765006,0,16
+"response to stress","TRAF2- and NCK-interacting kinase",0.00283033998672885,0,16
+"response to stress","Tyrosine-protein kinase FYN",0.00345930442822415,0,16
+"response to stress","c-Jun N-terminal kinase 1",0.011950324388410701,0,16
+"response to toxic substance","MAP kinase ERK1",0.0012579288829906,0,3
+"response to toxic substance","MAP kinase ERK2",0.0031448222074765006,0,3
+"response to toxic substance","Platelet-derived growth factor receptor beta",0.039310277593456254,2,3
+"ribosome biogenesis","Casein kinase I epsilon",0.0025158577659812,0,1
+"signal transduction","CaM kinase II beta",9.434466622429501E-4,0,21
+"signal transduction","CaM-kinase kinase beta",0.0018868933244859001,0,21
+"signal transduction","Casein kinase I epsilon",0.0025158577659812,0,21
+"signal transduction","Cyclin-dependent kinase 5",0.0022013755452335504,1,21
+"signal transduction","Fibroblast growth factor receptor 1",0.0283033998672885,0,21
+"signal transduction","Fibroblast growth factor receptor 2",0.0015724111037382503,0,21
+"signal transduction","Glycogen synthase kinase-3 alpha",0.0012579288829906,0,21
+"signal transduction","Glycogen synthase kinase-3 beta",0.04497095756691395,1,21
+"signal transduction","Hepatocyte growth factor receptor",6.289644414953E-4,0,21
+"signal transduction","MAP kinase ERK1",0.0012579288829906,0,21
+"signal transduction","MAP kinase ERK2",0.0031448222074765006,0,21
+"signal transduction","MAP kinase p38 alpha",0.07170194633046421,3,21
+"signal transduction","MAP/microtubule affinity-regulating kinase 2",0.0012579288829906,0,21
+"signal transduction","Nerve growth factor receptor Trk-A",0.005346197752710051,0,21
+"signal transduction","Platelet-derived growth factor receptor beta",0.039310277593456254,2,21
+"signal transduction","Protein kinase C alpha",0.056606799734577,0,21
+"signal transduction","Serine/threonine-protein kinase AKT",0.01289377105065365,0,21
+"signal transduction","TRAF2- and NCK-interacting kinase",0.00283033998672885,0,21
+"signal transduction","Tyrosine-protein kinase FYN",0.00345930442822415,0,21
+"signal transduction","Vascular endothelial growth factor receptor 2",0.16321627256803037,0,21
+"signal transduction","c-Jun N-terminal kinase 1",0.011950324388410701,0,21
+"small molecule metabolic process","MAP kinase ERK1",0.0012579288829906,0,4
+"small molecule metabolic process","MAP kinase ERK2",0.0031448222074765006,0,4
+"small molecule metabolic process","MAP kinase p38 alpha",0.07170194633046421,3,4
+"small molecule metabolic process","Serine/threonine-protein kinase AKT",0.01289377105065365,0,4
+"symbiosis, encompassing mutualism through parasitism","MAP kinase ERK1",0.0012579288829906,0,4
+"symbiosis, encompassing mutualism through parasitism","MAP kinase ERK2",0.0031448222074765006,0,4
+"symbiosis, encompassing mutualism through parasitism","Tyrosine-protein kinase FYN",0.00345930442822415,0,4
+"symbiosis, encompassing mutualism through parasitism","Vascular endothelial growth factor receptor 2",0.16321627256803037,0,4
+"translation","Serine/threonine-protein kinase AKT",0.01289377105065365,0,1
+"transport","Cyclin-dependent kinase 5",0.0022013755452335504,1,7
+"transport","Glycogen synthase kinase-3 alpha",0.0012579288829906,0,7
+"transport","Glycogen synthase kinase-3 beta",0.04497095756691395,1,7
+"transport","Serine/threonine-protein kinase AKT",0.01289377105065365,0,7
+"transport","Serine/threonine-protein kinase PCTAIRE-1",0.0025158577659812,0,7
+"transport","Tyrosine-protein kinase FYN",0.00345930442822415,0,7
+"transport","c-Jun N-terminal kinase 1",0.011950324388410701,0,7
+"vesicle-mediated transport","Casein kinase I epsilon",0.0025158577659812,0,6
+"vesicle-mediated transport","Cyclin-dependent kinase 5",0.0022013755452335504,1,6
+"vesicle-mediated transport","MAP kinase ERK1",0.0012579288829906,0,6
+"vesicle-mediated transport","MAP kinase ERK2",0.0031448222074765006,0,6
+"vesicle-mediated transport","Serine/threonine-protein kinase PCTAIRE-1",0.0025158577659812,0,6
+"vesicle-mediated transport","Tyrosine-protein kinase FYN",0.00345930442822415,0,6
