@@ -27,7 +27,7 @@ fluidPage(
   useShinyalert(), 
   
   # Application title
-  titlePanel("Moving Targets - Explore trends in targets and diseases (v0.1)"),
+  titlePanel("Moving Targets - Explore trends in targets and diseases (v0.2)"),
   
   fluidRow(
     column(3,

@@ -20,23 +20,26 @@ load("datasets.Rda")
 shinyServer(function(input, output) {
   
   data_gene <- reactive({
-    subset(by_target, gene %in% input$target_gene)
+    subset(by_target, gene %in% input$target_gene & 
+             year >= input$year[1] & year <= input$year[2])
   })
   
   data_disease <- reactive({
-    subset(by_disease, diseaseName %in% input$disease)
+    subset(by_disease, diseaseName %in% input$disease  & 
+             year >= input$year[1] & year <= input$year[2])
   })
   
   smooth_trends <- reactive({
     input$do_smooth
   })
   
+  year_range <- reactive({
+    input$year
+  })
+  
   vis <- reactive({
     d <- data_gene()
     dd <- data_disease()
-    
-    print(nrow(d))
-    print(nrow(dd))
     
     if ( (nrow(d) == 0 & nrow(dd) == 0) ||
          (nrow(d) > 0 & nrow(dd) > 0) ){
