@@ -61,6 +61,12 @@ shinyServer(function(input, output) {
       })) 
     }
     
+    output$trend_data = DT::renderDataTable({
+      rownames(d) <- NULL
+      return(DT::datatable(d, extensions='Buttons', options=list(buttons=c('copy', 'csv')),
+                    class = "display"))
+    })
+    
     d %>% 
       ggvis(~year, ~n_act) %>% 
       group_by(gene) %>% 

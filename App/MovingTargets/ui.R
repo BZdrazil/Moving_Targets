@@ -43,7 +43,7 @@ fluidPage(
     column(9, 
            tabsetPanel(type='tabs',
                        tabPanel("Plot", ggvisOutput('trend_plot')),
-                       tabPanel("Data", tableOutput('table')),
+                       tabPanel("Data", DT::dataTableOutput("trend_data")),
                        tabPanel("About", includeMarkdown("about.md"))
                        )
            )
