@@ -7,13 +7,7 @@
 #    http://shiny.rstudio.com/
 #
 
-library(data.table)
-library(dplyr)
-library(ggvis)
-
-library(shiny)
-library(shinyalert)
-
+source('funcs.R')
 load("datasets.Rda")
 
 # Define server logic required to draw a histogram
@@ -59,13 +53,6 @@ shinyServer(function(input, output) {
       idx <- which(names(d) == 'diseaseName')
       names(d)[idx] <- 'gene'
     }
-    
-    # if (nrow(d) == 0) {
-    #   return(data.frame(year=0, n_act=0, gene="") %>%
-    #     ggvis(~year, ~n_act) %>%
-    #     add_axis("x", title = "Publication Year", format="####") %>%
-    #     add_axis("y", title = "Number of Publications"))
-    # }
     
     if (smooth_trends() && !is.null(d) && nrow(d) > 0) {
       d <- do.call(rbind, by(d, d$gene, function(x) {

@@ -7,14 +7,9 @@
 #    http://shiny.rstudio.com/
 #
 
-library(shiny)
-library(shinyalert)
-library(data.table)
-library(dplyr)
-library(reshape2)
-library(ggvis)
-
+source('funcs.R')
 load("datasets.Rda")
+
 minYear <- min(c(by_disease$year, 
                  by_protein_family$year,
                  by_target$year))
@@ -27,7 +22,8 @@ fluidPage(
   useShinyalert(), 
   
   # Application title
-  titlePanel("Moving Targets - Explore trends in targets and diseases (v0.2)"),
+  titlePanel(sprintf("Moving Targets - Explore trends in targets and diseases (%s)",
+                     get_version())),
   
   fluidRow(
     column(3,
@@ -47,7 +43,9 @@ fluidPage(
     column(9, 
            tabsetPanel(type='tabs',
                        tabPanel("Plot", ggvisOutput('trend_plot')),
-                       tabPanel("Data", tableOutput('table')))
+                       tabPanel("Data", tableOutput('table')),
+                       tabPanel("About", includeMarkdown("about.md"))
+                       )
            )
   )
 )
