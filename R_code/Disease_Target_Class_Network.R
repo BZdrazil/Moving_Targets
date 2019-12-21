@@ -9,7 +9,7 @@ library(glue)
 
 top_n_target <- 5
 top_n_DISEASE <- 15
-filename <- "data/Networks/NEW_percent/Kinase_GPCR_circulatory_system_process_Diseases_target_classes_1995-2005_percent.csv.gz"
+filename <- "data/Networks/NEW_percent/Kinase_GPCR_circulatory_system_process_Diseases_target_classes_2006-2016_percent.csv.gz"
 plot_title <- "Circulatory System Process: 1995-2005"
 
 zz <- gzfile(filename, 'rt')
@@ -63,6 +63,13 @@ links <- raw_data %>%
 graph <- graph_from_data_frame(d = links, vertices = nodes, directed = FALSE) %>% 
   as_tbl_graph()
 
+# Does assortativity change when we randomize the connections
+# mean(sapply(1:1000, function(i) {
+#   links_rnd <- links
+#   links_rnd$from <- sample(links_rnd$from, size=length(links_rnd))
+#   rnd <- graph_from_data_frame(d = links_rnd, vertices = nodes, directed = FALSE)
+#   assortativity(rnd, types1=as.factor(V(graph)$type), directed=FALSE)
+# }))
 
 colvalues = c("lightblue", "blue", "navy","red")
 names(colvalues) <- c("0", "1-5", "6-10", ">10")
