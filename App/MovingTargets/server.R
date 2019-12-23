@@ -44,7 +44,7 @@ shinyServer(function(input, output) {
       return(data.frame(year=0, n_act=0) %>% 
                ggvis(~year, ~n_act) %>% 
                add_axis("x", title = "Publication Year", format="####") %>% 
-               add_axis("y", title = "Number of Publications") )
+               add_axis("y", title = "Number of Bioactivities") )
     }
     
     if (nrow(d) > 0 && nrow(dd) == 0) {

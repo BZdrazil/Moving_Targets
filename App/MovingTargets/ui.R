@@ -22,7 +22,7 @@ fluidPage(
   useShinyalert(), 
   
   # Application title
-  titlePanel(sprintf("Moving Targets - Explore trends in targets and diseases (%s)",
+  titlePanel(sprintf("Moving Targets (v%s) - Explore trends in targets and diseases",
                      get_version())),
   
   fluidRow(
