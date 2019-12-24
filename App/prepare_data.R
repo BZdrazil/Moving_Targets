@@ -70,4 +70,29 @@ if (FALSE) {
   # Get percentages by year
   d2 <- d1 %>% group_by(year) %>% summarize(s_act = sum(n_act))
   d1 <- d1 %>% left_join(d2) %>% mutate(p_act = round(100*n_act/s_act,1))
+  
+  t1 <- all_data %>% 
+    dplyr::filter(diseaseName == 'leukemia') %>% 
+    dplyr::select(year=publication_year, target_chembl_id, protein_familiy, 
+                  n_act=No_bioactivities_per_target_and_paper) %>% 
+    unique() %>% 
+    group_by(year, protein_familiy) %>% 
+    summarize(s_act = sum(n_act))
+  t2 <- t1 %>% group_by(year) %>% summarize(year_total = sum(s_act))
+  t1 <- t1 %>% left_join(t2) %>% mutate(p_act = s_act/year_total)
+  t1 %>% 
+    ggplot(aes(x=year, y=p_act, fill=protein_familiy))+
+    geom_bar(stat='identity')
+    
+  
+  t1 <- target_disease %>% 
+    dplyr::filter(disease == 'leukemia') %>% 
+    left_join(by_target, by='chembl_id') %>% 
+    dplyr::select(year, n_act, protein_family)
+  t2 <- t1 %>% group_by(year) %>% summarize(year_total = sum(n_act))
+  t1 <- t1 %>% left_join(t2) %>% mutate(p_act = n_act/year_total)
+  t1 %>% 
+    ggplot(aes(x=year, y=p_act, fill=protein_family))+
+    geom_bar(stat='identity')
+  
 }
