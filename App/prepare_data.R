@@ -2,7 +2,7 @@ library(data.table)
 library(dplyr)
 library(reshape2)
 
-all_data <- fread('mt_data.csv', header=TRUE)
+all_data <- fread('mt_data.csv.gz', header=TRUE)
 
 # Load in ChEMBL target annotations
 tmap <- fread("MovingTargets/targetmap.csv", header=TRUE)
@@ -54,3 +54,20 @@ by_disease <- all_data %>%
 save(by_disease, by_protein_family, by_target,
      target_disease, target_metadata, target_go, 
      file="MovingTargets/datasets.Rda")
+
+
+if (FALSE) {
+  
+  d1 <- subset(by_disease, diseaseName %in% 'leukemia'  & 
+                 year >= 1998 & year <= 2017)
+  d1 <- d1 %>% 
+    left_join(target_disease, by=c('diseaseName'='disease')) %>% 
+    left_join(by_target, by='chembl_id') %>% 
+    dplyr::select(year=year.x, n_act=n_act.y, protein_family) %>% 
+    group_by(protein_family, year) %>% 
+    summarize(n_act = sum(n_act)) %>% 
+    ungroup()
+  # Get percentages by year
+  d2 <- d1 %>% group_by(year) %>% summarize(s_act = sum(n_act))
+  d1 <- d1 %>% left_join(d2) %>% mutate(p_act = round(100*n_act/s_act,1))
+}
