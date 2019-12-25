@@ -8,5 +8,5 @@ library(ggvis)
 library(DT)
 
 get_version <- function() {
-  return("0.2.4")
+  return("0.2.5")
 }

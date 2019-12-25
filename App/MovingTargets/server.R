@@ -32,7 +32,7 @@ shinyServer(function(input, output) {
       dplyr::select(year, n_act, protein_family) %>% 
       dplyr::filter(year >= input$disease_year[1] & year <= input$disease_year[2] )
     t2 <- t1 %>% group_by(year) %>% summarize(year_total = sum(n_act))
-    t1 <- t1 %>% left_join(t2) %>% mutate(p_act = n_act/year_total)
+    t1 <- t1 %>% left_join(t2) %>% mutate(p_act = 100*n_act/year_total)
     return(t1)
   })
   
