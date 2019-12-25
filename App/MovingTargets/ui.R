@@ -55,6 +55,11 @@ fluidPage(
                    choices = sort(unique(by_disease$diseaseName)),
                    selected = NULL,multiple = TRUE,
                    options = list(placeholder = 'select disease')),
+                 selectInput("disease_aggregate", "Aggregate by",
+                                choices = c('Protein Family',
+                                            'Protein Class',
+                                            'GO Biological Process'),
+                                selected = 'Protein Family', multiple=FALSE),
                  checkboxInput("do_smooth", "Smooth trends", value = TRUE)
                )),
              column(9, ggvisOutput('disease_trend_plot'),

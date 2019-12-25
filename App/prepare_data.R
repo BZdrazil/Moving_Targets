@@ -42,6 +42,25 @@ by_protein_family <- all_data %>%
   summarize(n_act = sum(n_act)) %>% 
   ungroup()
 
+by_protein_class <- all_data %>% 
+  dplyr::select(protein_class = protein_class_pref_name,
+                year = publication_year, 
+                n_act = No_bioactivities_per_target_and_paper) %>% 
+  unique() %>% 
+  group_by(protein_class, year) %>% 
+  summarize(n_act = sum(n_act)) %>% 
+  ungroup()
+
+by_go_bp <- all_data %>% 
+  dplyr::select(go_bp = go_pref_name,
+                year = publication_year, 
+                n_act = No_bioactivities_per_target_and_paper) %>% 
+  unique() %>% 
+  group_by(go_bp, year) %>% 
+  summarize(n_act = sum(n_act)) %>% 
+  ungroup()
+
+
 by_disease <- all_data %>% 
   dplyr::select(diseaseName,
                 year = publication_year, 
@@ -51,7 +70,7 @@ by_disease <- all_data %>%
   summarize(n_act = sum(n_act)) %>% 
   ungroup()
 
-save(by_disease, by_protein_family, by_target,
+save(by_disease, by_protein_family, by_target, by_protein_class, by_go_bp,
      target_disease, target_metadata, target_go, 
      file="MovingTargets/datasets.Rda")
 

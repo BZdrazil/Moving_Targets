@@ -23,13 +23,40 @@ shinyServer(function(input, output) {
              year >= input$disease_year[1] & year <= input$disease_year[2])
   })
   
+  disease_aggregate <- reactive({
+    case_when(
+      input$disease_aggregate == 'Protein Family' ~ 'protein_family',
+      input$disease_aggregate == 'Protein Class' ~ 'protein_class',
+      input$disease_aggregate == 'GO Biological Process' ~ 'go_bp'
+      )
+  })
+  
   data_disease_targetclass <- reactive({
     if (is.null(input$disease) | length(input$disease) != 1) 
       return(data.frame())
+
     t1 <- target_disease %>% 
-      dplyr::filter(disease == input$disease) %>% 
-      left_join(by_target, by='chembl_id') %>% 
-      dplyr::select(year, n_act, protein_family) %>% 
+      dplyr::filter(disease == input$disease)
+    
+    agg <- disease_aggregate()
+    if (agg == 'protein_family') {
+      t1 <- t1 %>% 
+        left_join(by_target, by='chembl_id') %>% 
+        dplyr::select(year, n_act, group=protein_family)
+    } else if (agg == 'protein_class') {
+      t1 <- t1 %>% 
+        left_join(by_target, by='chembl_id') %>% 
+        dplyr::select(year, protein_class=protein_class_pref_name) %>% 
+        left_join(by_protein_class) %>% 
+        dplyr::select(year, n_act, group = protein_class)
+    } else if (agg == 'go_bp') {
+      t1 <- t1 %>% 
+        left_join(target_go) %>% 
+        left_join(by_go_bp, by=c('go_term'='go_bp')) %>% 
+        dplyr::select(year, n_act, group = go_term)
+    }
+    
+    t1 <- t1 %>% 
       dplyr::filter(year >= input$disease_year[1] & year <= input$disease_year[2] )
     t2 <- t1 %>% group_by(year) %>% summarize(year_total = sum(n_act))
     t1 <- t1 %>% left_join(t2) %>% mutate(p_act = 100*n_act/year_total)
@@ -101,8 +128,8 @@ shinyServer(function(input, output) {
     d <- data_disease_targetclass()
     if (nrow(d) == 0) return(get_null_plot())
     d %>% 
-      ggvis(~year, ~p_act, fill=~protein_family) %>%
-      group_by(protein_family) %>%
+      ggvis(~year, ~p_act, fill=~group) %>%
+      group_by(group) %>%
       layer_bars()  %>%
       add_axis("x", title = "Publication Year", format='####') %>%
       add_axis("y", title = "% Bioactivities")  %>%
