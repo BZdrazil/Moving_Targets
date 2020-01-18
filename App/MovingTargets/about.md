@@ -4,7 +4,7 @@ This application accompanies [Moving Targets: Monitoring Target Trends in Drug D
 
 ### Availability
 
-The application is based on ChEMBL 25 and the source code and datasets for the application is available at [https://github.com/BZdrazil/Moving_Targets](https://github.com/BZdrazil/Moving_Targets)
+The application is based on ChEMBL 25 and the source code and datasets for the application is available at [https://github.com/BZdrazil/Moving_Targets/App](https://github.com/BZdrazil/Moving_Targets/App)
 
 ### Contact
 

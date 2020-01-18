@@ -5,7 +5,7 @@ library(reshape2)
 all_data <- fread('mt_data.csv.gz', header=TRUE)
 
 # Load in ChEMBL target annotations
-tmap <- fread("MovingTargets/targetmap.csv", header=TRUE)
+tmap <- fread("targetmap.csv", header=TRUE)
 
 # Get unique target metadata from all_data
 target_metadata <- all_data %>% 

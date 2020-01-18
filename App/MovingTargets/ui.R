@@ -23,10 +23,10 @@ fluidPage(
   
   # Application title
   titlePanel(
-    sprintf(
-      "Moving Targets (v%s) - Explore trends in targets and diseases",
-      get_version()
-    )
+    sprintf("Moving Targets (v%s)",get_version())
+  ),
+  titlePanel(
+    div(style="color:grey;font-size:large;font-style:italic;", "Exploring target and disease trends")
   ),
   
   fluidRow(tabsetPanel(
@@ -41,9 +41,7 @@ fluidPage(
                    choices = sort(unique(by_target$gene)),
                    selected = NULL,multiple = TRUE, 
                    options = list(placeholder = 'select gene symbols')
-                 ),
-                 checkboxInput("do_smooth_target", "Smooth trends", value =
-                                 TRUE)
+                 )
                )),
              column(9, ggvisOutput('target_trend_plot'))),
     tabPanel("Disease View",
@@ -59,13 +57,30 @@ fluidPage(
                                 choices = c('Protein Family',
                                             'Protein Class',
                                             'GO Biological Process'),
-                                selected = 'Protein Family', multiple=FALSE),
-                 checkboxInput("do_smooth", "Smooth trends", value = TRUE)
+                                selected = 'Protein Family', multiple=FALSE)
                )),
              column(9, ggvisOutput('disease_trend_plot'),
                     ggvisOutput("disease_trend_barchart"))
              ),
-    tabPanel("About", includeMarkdown("about.md"))
+    
+    tabPanel("Gene Ontology View",
+             column(3, wellPanel(
+               sliderInput("gobp_year","Publication Date", 
+                           minYear,maxYear,step = 1,sep = '',
+                           value = c(minYear, maxYear)),
+               selectizeInput("gobp","GO Biological Process",
+                              choices = sort(unique(by_go_bp$go_bp)),
+                              selected = NULL,multiple = TRUE,
+                              options = list(placeholder = 'select GO BP term')),
+               selectInput("gobp_aggregate", "Aggregate by",
+                           choices = c('Protein Family',
+                                       'Protein Class'),
+                           selected = 'Protein Family', multiple=FALSE)
+             )),
+             column(9, ggvisOutput('gobp_trend_plot'))
+    ),
+    
+    tabPanel("About", div(style="margin:10px;",includeMarkdown("about.md")))
   ))
   
 )
