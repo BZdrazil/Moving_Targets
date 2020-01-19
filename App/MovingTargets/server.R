@@ -10,6 +10,8 @@
 source('funcs.R')
 load("datasets.Rda")
 
+RELATIVE_GROUP_THRESHOLD <- 20
+
 # Define server logic required to draw a histogram
 shinyServer(function(input, output) {
   
@@ -88,14 +90,17 @@ shinyServer(function(input, output) {
     t2 <- t1 %>% group_by(year) %>% summarize(year_total = sum(n_act))
     t1 <- t1 %>% left_join(t2) %>% mutate(p_act = 100*n_act/year_total)
     
-    print(t1)
+    t1 <- t1 %>% group_by(year, group) %>% 
+      summarize(p_act = sum(p_act))
+    
     # per year, aggregate all terms that have < 10% into 'Other'
     t1 <- t1 %>% 
       group_by(year) %>% 
-      mutate(group = ifelse(p_act < 10, 'Other', group)) %>% 
+      mutate(group = ifelse(p_act < RELATIVE_GROUP_THRESHOLD/100 * max(p_act), 'Other', group)) %>% 
       ungroup() %>% 
       group_by(year, group) %>% 
       summarize(p_act = sum(p_act))
+    
     
     return(t1)
   })
@@ -130,10 +135,15 @@ shinyServer(function(input, output) {
     t2 <- t1 %>% group_by(year) %>% summarize(year_total = sum(n_act))
     t1 <- t1 %>% left_join(t2) %>% mutate(p_act = 100*n_act/year_total)
     
+    t1 <- t1 %>% group_by(year, group) %>% 
+      summarize(p_act = sum(p_act))
+    
+    # print(t1 %>% arrange(year) %>% as.data.frame())
+    
     # per year, aggregate all terms that have < 10% into 'Other'
     t1 <- t1 %>% 
       group_by(year) %>% 
-      mutate(group = ifelse(p_act < 0.1, 'Other', group)) %>% 
+      mutate(group = ifelse(p_act < RELATIVE_GROUP_THRESHOLD/100 * max(p_act), 'Other', group)) %>% 
       ungroup() %>% 
       group_by(year, group) %>% 
       summarize(p_act = sum(p_act))
