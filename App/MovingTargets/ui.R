@@ -22,16 +22,15 @@ fluidPage(
   useShinyalert(),
   
   # Application title
-  titlePanel(
-    sprintf("Moving Targets (v%s)",get_version())
-  ),
-  titlePanel(
-    div(style="color:grey;font-size:large;font-style:italic;", "Exploring target and disease trends")
-  ),
+  titlePanel(sprintf("Moving Targets (v%s)",get_version())),
+  titlePanel(div(style="color:grey;font-size:large;font-style:italic;", 
+        "Exploring target and disease trends")),
   
-  fluidRow(tabsetPanel(
+  fluidRow(
+    tabsetPanel(
     type = 'tabs',
     tabPanel("Target View",
+            div(style="padding-top:1em;"),
              column(3, wellPanel(
                  sliderInput("target_year","Publication Date",
                    minYear, maxYear, step = 1, sep = '',
@@ -43,8 +42,10 @@ fluidPage(
                    options = list(placeholder = 'select gene symbols')
                  )
                )),
-             column(9, ggvisOutput('target_trend_plot'))),
+             column(9, ggvisOutput('target_trend_plot'), ggvisOutput('target_pmid_trend_plot'))),
+    
     tabPanel("Disease View",
+             div(style="padding-top:1em;"),
              column(3, wellPanel(
                  sliderInput("disease_year","Publication Date", 
                              minYear,maxYear,step = 1,sep = '',
@@ -64,6 +65,7 @@ fluidPage(
              ),
     
     tabPanel("Gene Ontology View",
+             div(style="padding-top:1em;"),
              column(3, wellPanel(
                sliderInput("gobp_year","Publication Date", 
                            minYear,maxYear,step = 1,sep = '',
@@ -71,11 +73,7 @@ fluidPage(
                selectizeInput("gobp","GO Biological Process",
                               choices = sort(unique(by_go_bp$go_bp)),
                               selected = NULL,multiple = TRUE,
-                              options = list(placeholder = 'select GO BP term')),
-               selectInput("gobp_aggregate", "Aggregate by",
-                           choices = c('Protein Family',
-                                       'Protein Class'),
-                           selected = 'Protein Family', multiple=FALSE)
+                              options = list(placeholder = 'select GO BP term'))
              )),
              column(9, ggvisOutput('gobp_trend_plot'))
     ),

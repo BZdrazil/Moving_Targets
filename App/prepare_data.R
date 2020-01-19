@@ -26,10 +26,10 @@ target_disease <- all_data %>%
 by_target <- all_data %>% 
   dplyr::select(chembl_id = target_chembl_id, 
                 year = publication_year, 
-                n_act = No_bioactivities_per_target_and_paper) %>% 
+                n_act = No_bioactivities_per_target_and_paper, doc_id) %>% 
   unique() %>% 
   group_by(chembl_id, year) %>% 
-  summarize(n_act = sum(n_act)) %>% 
+  summarize(n_act = sum(n_act), n_doc = length(unique(doc_id))) %>% 
   ungroup() %>% 
   left_join(target_metadata)
 

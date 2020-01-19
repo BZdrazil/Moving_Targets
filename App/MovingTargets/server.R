@@ -65,11 +65,29 @@ shinyServer(function(input, output) {
       dplyr::filter(year >= input$disease_year[1] & year <= input$disease_year[2] )
     t2 <- t1 %>% group_by(year) %>% summarize(year_total = sum(n_act))
     t1 <- t1 %>% left_join(t2) %>% mutate(p_act = 100*n_act/year_total)
+    
+    # per year, aggregate all terms that have < 10% into 'Other'
+    t1 <- t1 %>% 
+      group_by(year) %>% 
+      mutate(group = ifelse(p_act < 0.1, 'Other', group)) %>% 
+      ungroup() %>% 
+      group_by(year, group) %>% 
+      summarize(p_act = sum(p_act))
+    
     return(t1)
   })
   
   smooth_trends <- reactive({
-    input$do_smooth_target
+    if ('do_smooth_gobp' %in% names(input)) gobp <- input$do_smooth_gobp
+    else gobp <- FALSE
+    if ('do_smooth_target' %in% names(input)) target <- input$do_smooth_target
+    else target <- FALSE
+    if ('do_smooth_disease' %in% names(input)) disease <- input$do_smooth_disease
+    else disease <- FALSE
+    
+    list(gobp=gobp,
+         target=target,
+         disease=disease)
   })
   
   target_year_range <- reactive({
@@ -90,40 +108,57 @@ shinyServer(function(input, output) {
     d <- data_gene()
     if (nrow(d) == 0) return(get_null_plot())
     
-    # if (smooth_trends() && !is.null(d) && nrow(d) > 0) {
-    #   d <- do.call(rbind, by(d, d$gene, function(x) {
-    #     x$n_act <- smooth(x$n_act, kind="3")
-    #     return(x)
-    #   }))
-    # }
-    
-    d %>% 
+    figure <- d %>% 
       ggvis(~year, ~n_act) %>% 
-      group_by(gene) %>% 
-      layer_lines(stroke = ~factor(gene) ) %>% 
-      # layer_model_predictions(model = "MASS:rlm", formula=n_act~year, se = TRUE) %>%
+      group_by(gene)
+    
+    if (smooth_trends()$target) {
+      figure <- figure %>% layer_smooths(stroke = ~factor(gene) )
+    } else {
+      figure <- figure %>% layer_lines(stroke = ~factor(gene) )
+    }
+    figure %>% 
       add_axis("x", title = "Publication Year", format='####') %>% 
       add_axis("y", title = "Number of Activity Measurements")  %>% 
       add_legend(scales="stroke", title="")
   })
-  
+
+  vis_target_pmid <- reactive({
+    d <- data_gene()
+    if (nrow(d) == 0) return(get_null_plot())
+    
+    figure <- d %>% 
+      ggvis(~year, ~n_doc) %>% 
+      group_by(gene)
+    
+    if (smooth_trends()$target) {
+      figure <- figure %>% layer_smooths(stroke = ~factor(gene) )
+    } else {
+      figure <- figure %>% layer_lines(stroke = ~factor(gene) )
+    }
+    figure %>% 
+      add_axis("x", title = "Year", format='####') %>% 
+      add_axis("y", title = "Number of Publications")  %>% 
+      add_legend(scales="stroke", title="")
+  })
+
+    
   vis_disease <- reactive({
     d <- data_disease()
     if (nrow(d) == 0) return(get_null_plot())
     
-    # if (smooth_trends() && !is.null(d) && nrow(d) > 0) {
-    #   d <- do.call(rbind, by(d, d$diseaseName, function(x) {
-    #     x$n_act <- smooth(x$n_act, kind="3")
-    #     return(x)
-    #   }))
-    # }
-    
-    d %>% 
+    figure <- d %>% 
       ggvis(~year, ~n_act) %>% 
-      group_by(diseaseName) %>% 
-      layer_lines(stroke = ~factor(diseaseName) ) %>% 
-      # layer_model_predictions(model = "MASS:rlm", formula=n_act~year, se = TRUE) %>%
-      add_axis("x", title = "Publication Year", format='####') %>% 
+      group_by(diseaseName)
+    
+    if (smooth_trends()$disease) {
+      figure <- figure %>% layer_smooths(stroke = ~factor(diseaseName) )
+    } else {
+      figure <- figure %>% layer_lines(stroke = ~factor(diseaseName) )
+    }
+  
+    figure %>% 
+      add_axis("x", title = "Year", format='####') %>% 
       add_axis("y", title = "Number of Bioactivities")  %>% 
       add_legend(scales="stroke", title="")
     
@@ -136,7 +171,7 @@ shinyServer(function(input, output) {
       ggvis(~year, ~p_act, fill=~group) %>%
       group_by(group) %>%
       layer_bars()  %>%
-      add_axis("x", title = "Publication Year", format='####') %>%
+      add_axis("x", title = "Year", format='####') %>%
       add_axis("y", title = "% Bioactivities")  %>%
       add_legend(scales="fill", title="")
     
@@ -146,33 +181,25 @@ shinyServer(function(input, output) {
     d <- data_gobp()
     if (nrow(d) == 0) return(get_null_plot())
     
-    d %>% 
+    figure <- d %>% 
       ggvis(~year, ~n_act) %>% 
-      group_by(go_bp) %>% 
-      layer_lines(stroke = ~factor(go_bp) ) %>% 
-      add_axis("x", title = "Publication Year", format='####') %>% 
+      group_by(go_bp)
+    
+    if (smooth_trends()$gobp) {
+      figure <- figure %>% layer_smooths(stroke = ~factor(go_bp))
+    } else {
+      figure <- figure %>% layer_lines(stroke = ~factor(go_bp) )
+    }
+    figure %>% 
+      add_axis("x", title = "Year", format='####') %>% 
       add_axis("y", title = "Number of Bioactivities")  %>% 
       add_legend(scales="stroke", title="")
-    
   })
   
   vis_target %>% bind_shiny("target_trend_plot")
+  vis_target_pmid %>% bind_shiny("target_pmid_trend_plot")
   vis_disease %>% bind_shiny("disease_trend_plot")
   vis_disease_target %>% bind_shiny("disease_trend_barchart")
   vis_gobp %>% bind_shiny("gobp_trend_plot")
   
-  # subplot <- reactive({
-  # if (nrow(data_disease_targetclass()) > 0) {
-  #   data_disease_targetclass() %>% 
-  #     ggvis(~year, ~n_act, fill=~protein_family) %>% 
-  #     group_by(protein_family) %>% 
-  #     layer_bars()  %>% 
-  #     add_axis("x", title = "Publication Year", format='####') %>% 
-  #     add_axis("y", title = "% Bioactivities")  %>% 
-  #     add_legend(scales="stroke", title="")
-  # } else (return(get_null_plot()))
-  # })
-  # 
-  # subplot %>% bind_shiny("target_trend_plot")
-  #   
 })
