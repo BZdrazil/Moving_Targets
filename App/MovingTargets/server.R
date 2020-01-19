@@ -158,7 +158,8 @@ shinyServer(function(input, output) {
     figure %>% 
       add_axis("x", title = "Publication Year", format='####') %>% 
       add_axis("y", title = "Number of Activity Measurements")  %>% 
-      add_legend(scales="stroke", title="")
+      add_legend(scales="stroke", title="") %>% 
+      set_options(width=800)
   })
 
   vis_target_pmid <- reactive({
@@ -177,7 +178,8 @@ shinyServer(function(input, output) {
     figure %>% 
       add_axis("x", title = "Year", format='####') %>% 
       add_axis("y", title = "Number of Publications")  %>% 
-      add_legend(scales="stroke", title="")
+      add_legend(scales="stroke", title="") %>% 
+      set_options(width=800)
   })
 
     
@@ -198,7 +200,9 @@ shinyServer(function(input, output) {
     figure %>% 
       add_axis("x", title = "Year", format='####') %>% 
       add_axis("y", title = "Number of Bioactivities")  %>% 
-      add_legend(scales="stroke", title="")
+      add_legend(scales="stroke", title="") %>% 
+      set_options(width=800)
+    
     
   })
   
@@ -244,7 +248,8 @@ shinyServer(function(input, output) {
     figure %>% 
       add_axis("x", title = "Year", format='####') %>% 
       add_axis("y", title = "Number of Bioactivities")  %>% 
-      add_legend(scales="stroke", title="")
+      add_legend(scales="stroke", title="") %>% 
+      set_options(width=800)
   })
   
   vis_target %>% bind_shiny("target_trend_plot")
