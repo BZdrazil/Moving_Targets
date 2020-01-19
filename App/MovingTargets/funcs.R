@@ -8,7 +8,7 @@ library(ggvis)
 library(DT)
 
 get_version <- function() {
-  return("0.2.9")
+  return("0.3.0")
 }
 
 
@@ -17,7 +17,7 @@ get_null_plot <- function() {
   data.frame(year=0, n_act=0) %>% 
     ggvis(~year, ~n_act) %>% 
     add_axis("x", title = "Publication Year", format="####") %>% 
-    add_axis("y", title = "Number of Bioactivities") 
+    add_axis("y", title = "% Bioactivities") 
 }
 
 

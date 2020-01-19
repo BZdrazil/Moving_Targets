@@ -52,18 +52,34 @@ shinyServer(function(input, output) {
   })
   
   data_gene <- reactive({
-    subset(by_target, gene %in% input$target_gene & 
+    ret <- subset(by_target, gene %in% input$target_gene & 
              year >= input$target_year[1] & year <= input$target_year[2])
+    totals <- subset(by_target, year >= input$target_year[1] & 
+                       year <= input$target_year[2])
+    t2 <- totals %>% group_by(year) %>% 
+      summarize(total_act = sum(n_act),
+                total_doc = sum(n_doc)) %>% ungroup()
+    ret %>% left_join(t2)
   })
   
   data_gobp <- reactive({
-    subset(by_go_bp, go_bp %in% input$gobp & 
-             year >= input$gobp_year[1] & year <= input$gobp_year[2])  
+    ret <- subset(by_go_bp, go_bp %in% input$gobp & 
+             year >= input$gobp_year[1] & year <= input$gobp_year[2])
+    totals <- subset(by_go_bp, year >= input$gobp_year[1] & 
+                       year <= input$gobp_year[2])  
+    t2 <- totals %>% group_by(year) %>% 
+      summarize(total_act = sum(n_act)) %>% ungroup()
+    ret %>% left_join(t2)
   })
   
   data_disease <- reactive({
-    subset(by_disease, diseaseName %in% input$disease  & 
+    ret <- subset(by_disease, diseaseName %in% input$disease  & 
              year >= input$disease_year[1] & year <= input$disease_year[2])
+    totals <- subset(by_disease, year >= input$disease_year[1] & 
+                       year <= input$disease_year[2])
+    t2 <- totals %>% group_by(year) %>% 
+      summarize(total_act = sum(n_act)) %>% ungroup()
+    ret %>% left_join(t2)
   })
   
   data_gobp_targetclass <- reactive({
@@ -156,8 +172,10 @@ shinyServer(function(input, output) {
     d <- data_gene()
     if (nrow(d) == 0) return(get_null_plot())
     
+    d$p_act <- 100*d$n_act/d$total_act
+    
     figure <- d %>% 
-      ggvis(~year, ~n_act) %>% 
+      ggvis(~year, ~p_act) %>% 
       group_by(gene)
     
     if (smooth_trends()$target) {
@@ -167,7 +185,7 @@ shinyServer(function(input, output) {
     }
     figure %>% 
       add_axis("x", title = "Publication Year", format='####') %>% 
-      add_axis("y", title = "Number of Activity Measurements")  %>% 
+      add_axis("y", title = "% Bioactivities")  %>% 
       add_legend(scales="stroke", title="") %>% 
       set_options(width=800)
   })
@@ -176,8 +194,9 @@ shinyServer(function(input, output) {
     d <- data_gene()
     if (nrow(d) == 0) return(get_null_plot())
     
+    d$p_doc <- 100*d$n_doc/d$total_doc
     figure <- d %>% 
-      ggvis(~year, ~n_doc) %>% 
+      ggvis(~year, ~p_doc) %>% 
       group_by(gene)
     
     if (smooth_trends()$target) {
@@ -187,7 +206,7 @@ shinyServer(function(input, output) {
     }
     figure %>% 
       add_axis("x", title = "Year", format='####') %>% 
-      add_axis("y", title = "Number of Publications")  %>% 
+      add_axis("y", title = "% Publications")  %>% 
       add_legend(scales="stroke", title="") %>% 
       set_options(width=800)
   })
@@ -196,9 +215,9 @@ shinyServer(function(input, output) {
   vis_disease <- reactive({
     d <- data_disease()
     if (nrow(d) == 0) return(get_null_plot())
-    
+    d$p_act <- d$n_act / d$total_act
     figure <- d %>% 
-      ggvis(~year, ~n_act) %>% 
+      ggvis(~year, ~p_act) %>% 
       group_by(diseaseName)
     
     if (smooth_trends()$disease) {
@@ -209,11 +228,9 @@ shinyServer(function(input, output) {
   
     figure %>% 
       add_axis("x", title = "Year", format='####') %>% 
-      add_axis("y", title = "Number of Bioactivities")  %>% 
+      add_axis("y", title = "% Bioactivities")  %>% 
       add_legend(scales="stroke", title="") %>% 
       set_options(width=800)
-    
-    
   })
   
   vis_disease_target <- reactive({
@@ -237,7 +254,7 @@ shinyServer(function(input, output) {
       group_by(group) %>%
       layer_bars()  %>%
       add_axis("x", title = "Year", format='####') %>%
-      add_axis("y", title = "% Bioactivities")  %>%
+      add_axis("y", title = "% GO BP Bioactivities")  %>%
       add_legend(scales="fill", title="") %>% 
       set_options(width=800)
   })
@@ -246,8 +263,9 @@ shinyServer(function(input, output) {
     d <- data_gobp()
     if (nrow(d) == 0) return(get_null_plot())
     
+    d$p_act <- d$n_act / d$total_act
     figure <- d %>% 
-      ggvis(~year, ~n_act) %>% 
+      ggvis(~year, ~p_act) %>% 
       group_by(go_bp)
     
     if (smooth_trends()$gobp) {
@@ -257,7 +275,7 @@ shinyServer(function(input, output) {
     }
     figure %>% 
       add_axis("x", title = "Year", format='####') %>% 
-      add_axis("y", title = "Number of Bioactivities")  %>% 
+      add_axis("y", title = "% Bioactivities")  %>% 
       add_legend(scales="stroke", title="") %>% 
       set_options(width=800)
   })
