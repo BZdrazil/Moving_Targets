@@ -73,9 +73,16 @@ fluidPage(
                selectizeInput("gobp","GO Biological Process",
                               choices = sort(unique(by_go_bp$go_bp)),
                               selected = NULL,multiple = TRUE,
-                              options = list(placeholder = 'select GO BP term'))
+                              options = list(placeholder = 'select GO BP term')),
+               selectInput("gobp_aggregate", "Aggregate by",
+                           choices = c('Protein Family',
+                                       'Protein Class'),
+                           selected = 'Protein Family', multiple=FALSE)
+               
              )),
-             column(9, ggvisOutput('gobp_trend_plot'))
+             column(9, 
+                    ggvisOutput('gobp_trend_plot'),
+                    ggvisOutput("gobp_trend_barchart"))
     ),
     
     tabPanel("About", div(style="margin:10px;",includeMarkdown("about.md")))
