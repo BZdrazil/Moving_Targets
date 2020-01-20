@@ -215,7 +215,7 @@ shinyServer(function(input, output) {
   vis_disease <- reactive({
     d <- data_disease()
     if (nrow(d) == 0) return(get_null_plot())
-    d$p_act <- d$n_act / d$total_act
+    d$p_act <- 100*d$n_act / d$total_act
     figure <- d %>% 
       ggvis(~year, ~p_act) %>% 
       group_by(diseaseName)
@@ -241,7 +241,7 @@ shinyServer(function(input, output) {
       group_by(group) %>%
       layer_bars()  %>%
       add_axis("x", title = "Year", format='####') %>%
-      add_axis("y", title = "% Bioactivities")  %>%
+      add_axis("y", title = "% Disease Bioactivities")  %>%
       add_legend(scales="fill", title="") %>% 
       set_options(width=800)
   })

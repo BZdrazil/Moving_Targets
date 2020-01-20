@@ -77,8 +77,22 @@ save(by_disease, by_protein_family, by_target, by_protein_class, by_go_bp,
 
 if (FALSE) {
   
-  d1 <- subset(by_disease, diseaseName %in% 'leukemia'  & 
+  d0 <- subset(by_disease, year >= 1998 & year <= 2017)
+  totals <- d0 %>% group_by(year) %>% summarize(total_act = sum(n_act))
+  d1 <- subset(by_disease, diseaseName %in% 'Intellectual Disability'  & 
                  year >= 1998 & year <= 2017)
+  
+  
+  foo <- all_data %>% 
+    dplyr::select(
+                  diseaseName,
+                  year = publication_year, 
+                  n_act = No_bioactivities_per_target_and_paper) %>% 
+    unique() %>% 
+    group_by(diseaseName, year) %>% 
+    summarize(n_act = sum(n_act)) %>% 
+    ungroup()
+  
   d1 <- d1 %>% 
     left_join(target_disease, by=c('diseaseName'='disease')) %>% 
     left_join(by_target, by='chembl_id') %>% 

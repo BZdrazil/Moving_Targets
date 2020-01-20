@@ -38,7 +38,7 @@ fluidPage(
                  ),
                  selectizeInput("target_gene","Gene",
                    choices = sort(unique(by_target$gene)),
-                   selected = NULL,multiple = TRUE, 
+                   selected = 'PLK1', multiple = TRUE, 
                    options = list(placeholder = 'select gene symbols')
                  )
                )),
@@ -52,7 +52,7 @@ fluidPage(
                              value = c(minYear, maxYear)),
                  selectizeInput("disease","Disease",
                    choices = sort(unique(by_disease$diseaseName)),
-                   selected = NULL,multiple = TRUE,
+                   selected = 'Intellectual Disability', multiple = TRUE,
                    options = list(placeholder = 'select disease')),
                  selectInput("disease_aggregate", "Aggregate by",
                                 choices = c('Protein Family',
@@ -72,7 +72,7 @@ fluidPage(
                            value = c(minYear, maxYear)),
                selectizeInput("gobp","GO Biological Process",
                               choices = sort(unique(by_go_bp$go_bp)),
-                              selected = NULL,multiple = TRUE,
+                              selected = 'immune system process',multiple = TRUE,
                               options = list(placeholder = 'select GO BP term')),
                selectInput("gobp_aggregate", "Aggregate by",
                            choices = c('Protein Family',
