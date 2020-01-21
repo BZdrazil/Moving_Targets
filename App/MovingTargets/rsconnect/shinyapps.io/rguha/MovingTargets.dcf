@@ -5,8 +5,8 @@ account: rguha
 server: shinyapps.io
 hostUrl: https://api.shinyapps.io/v1
 appId: 1614690
-bundleId: 2741229
+bundleId: 2743444
 url: https://rguha.shinyapps.io/MovingTargets/
-when: 1579528818.20383
+when: 1579609675.62051
 asMultiple: FALSE
 asStatic: FALSE

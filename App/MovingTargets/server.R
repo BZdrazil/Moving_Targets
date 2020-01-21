@@ -110,13 +110,15 @@ shinyServer(function(input, output) {
       summarize(p_act = sum(p_act))
     
     # per year, aggregate all terms that have < 10% into 'Other'
-    t1 <- t1 %>% 
-      group_by(year) %>% 
-      mutate(group = ifelse(p_act < RELATIVE_GROUP_THRESHOLD/100 * max(p_act), 'Other', group)) %>% 
-      ungroup() %>% 
-      group_by(year, group) %>% 
-      summarize(p_act = sum(p_act))
-    
+    # but not for target family
+    if (agg != 'protein_family') {
+      t1 <- t1 %>% 
+        group_by(year) %>% 
+        mutate(group = ifelse(p_act < RELATIVE_GROUP_THRESHOLD/100 * max(p_act), 'Other', group)) %>% 
+        ungroup() %>% 
+        group_by(year, group) %>% 
+        summarize(p_act = sum(p_act))
+    }
     
     return(t1)
   })
@@ -157,13 +159,15 @@ shinyServer(function(input, output) {
     # print(t1 %>% arrange(year) %>% as.data.frame())
     
     # per year, aggregate all terms that have < 10% into 'Other'
-    t1 <- t1 %>% 
-      group_by(year) %>% 
-      mutate(group = ifelse(p_act < RELATIVE_GROUP_THRESHOLD/100 * max(p_act), 'Other', group)) %>% 
-      ungroup() %>% 
-      group_by(year, group) %>% 
-      summarize(p_act = sum(p_act))
-    
+    # but not for protein family
+    if (agg != 'protein_family') {
+      t1 <- t1 %>% 
+        group_by(year) %>% 
+        mutate(group = ifelse(p_act < RELATIVE_GROUP_THRESHOLD/100 * max(p_act), 'Other', group)) %>% 
+        ungroup() %>% 
+        group_by(year, group) %>% 
+        summarize(p_act = sum(p_act))
+    }
     return(t1)
   })
   
