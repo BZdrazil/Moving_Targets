@@ -34,7 +34,8 @@ by_target <- all_data %>%
   left_join(target_metadata)
 
 by_protein_family <- all_data %>% 
-  dplyr::select(target_chembl_id,
+  dplyr::select(doc_id, 
+                target_chembl_id,
                 protein_family = protein_familiy, 
                 year = publication_year, 
                 n_act = No_bioactivities_per_target_and_paper) %>% 
@@ -44,7 +45,8 @@ by_protein_family <- all_data %>%
   ungroup()
 
 by_protein_class <- all_data %>% 
-  dplyr::select(target_chembl_id,
+  dplyr::select(doc_id, 
+                target_chembl_id,
                 protein_class = protein_class_pref_name,
                 year = publication_year, 
                 n_act = No_bioactivities_per_target_and_paper) %>% 
@@ -54,7 +56,8 @@ by_protein_class <- all_data %>%
   ungroup()
 
 by_go_bp <- all_data %>% 
-  dplyr::select(target_chembl_id,
+  dplyr::select(doc_id,
+                target_chembl_id,
                 go_bp = go_pref_name,
                 year = publication_year, 
                 n_act = No_bioactivities_per_target_and_paper) %>% 
@@ -65,7 +68,8 @@ by_go_bp <- all_data %>%
 
 
 by_disease <- all_data %>% 
-  dplyr::select(target_chembl_id, 
+  dplyr::select(doc_id,
+                target_chembl_id, 
                 diseaseName,
                 year = publication_year, 
                 n_act = No_bioactivities_per_target_and_paper) %>% 
@@ -89,6 +93,7 @@ if (FALSE) {
   
   foo <- all_data %>% 
     dplyr::select(
+                  doc_id,
                   target_chembl_id,
                   diseaseName,
                   year = publication_year, 
