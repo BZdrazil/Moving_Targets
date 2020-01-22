@@ -102,10 +102,31 @@ if (FALSE) {
     group_by(diseaseName, year) %>% 
     summarize(n_act = sum(n_act)) %>% 
     ungroup()
+
   
-  subset(foo, year == 1998 & diseaseName == 'Intellectual Disability')
+  target_totals <- all_data %>% 
+    dplyr::select(
+      doc_id,
+      chembl_id=target_chembl_id,
+      year = publication_year, 
+      n_act = No_bioactivities_per_target_and_paper) %>% 
+    unique() %>% 
+    group_by(chembl_id, year) %>% summarize(n_act = sum(n_act))
+  foo <- target_totals %>% 
+    left_join(target_disease)
+
+    
+  subset(foo, year == 1998 & disease == 'Intellectual Disability')
   
-  totals <- foo %>% group_by(year) %>% summarize(total_act = sum(n_act))
+  totals <- foo %>% group_by(year, disease) %>% 
+    summarize(per_disease = sum(n_act)) %>% 
+    dplyr::filter(year==1998) %>% 
+    arrange(-per_disease) %>% 
+    top_n(10)
+  
+  totals <- foo %>% group_by(year) %>% summarize(n_disease = length(unique(diseaseName)),
+                                                 avg_act = mean(n_act),
+                                                 total_act = sum(n_act))
   subset(totals, year == 1998)
   
   d1 <- d1 %>% 
