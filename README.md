@@ -1,5 +1,6 @@
 # Moving_Targets
-Repository for storing code related to the paper by Zdrazil B., Richter L., Brown N., and Guha R. "Moving Targets: Monitoring Target Trends in Drug Discovery by Mapping Targets, GO Terms, and Diseases"
+Repository for storing code related to the paper by Zdrazil B., Richter L., Brown N., and Guha R. "Moving Targets in Drug Discovery" published in Sci. Rep. 10, Article number: 20213 (2020)
+https://www.nature.com/articles/s41598-020-77033-x
 
 ## Generating figures
 
